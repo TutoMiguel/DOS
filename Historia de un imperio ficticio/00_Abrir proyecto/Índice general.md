@@ -8,8 +8,10 @@ Este índice reúne el acceso al canon vigente, la cronología, el Word, las exp
 - [Cronología maestra](file:///C:/Users/migue/OneDrive/DOS/Valinari/01_Cronologia/Cronolog%C3%ADa%20Territorial%20V16.md)
 - [Word oficial](file:///C:/Users/migue/OneDrive/DOS/Valinari/10_Archivo/Documentos%20editoriales/Oficial/Canon%20V16%20Maestro.docx)
 - [Word para exportar](file:///C:/Users/migue/OneDrive/DOS/Historia%20de%20un%20imperio%20ficticio/Canon%20V16%20Maestro%20-%20Exportacion.docx)
-- [PDF vigente de 251 páginas](file:///C:/Users/migue/OneDrive/DOS/Historia%20de%20un%20imperio%20ficticio/Canon%20V16%20Maestro.pdf)
+- [PDF vigente de 253 páginas](file:///C:/Users/migue/OneDrive/DOS/Historia%20de%20un%20imperio%20ficticio/Canon%20V16%20Maestro.pdf)
 - [Vault de Obsidian](file:///C:/Users/migue/OneDrive/DOS/Valinari)
+
+- [Índice de canon, Word, cronología y acumulativas](file:///C:/Users/migue/OneDrive/DOS/Historia%20de%20un%20imperio%20ficticio/00_Abrir%20proyecto/Índice%20de%20canon%2C%20Word%2C%20cronolog%C3%ADa%20y%20acumulativas.md)
 
 ## Gestión y consulta
 
