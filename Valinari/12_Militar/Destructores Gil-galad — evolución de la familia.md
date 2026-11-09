@@ -1,7 +1,7 @@
 ---
 tipo: ficha de familia naval
 canon: V16 / AM1
-estado: propuesta integrada
+estado: vigente
 fecha_referencia: 1973-2026
 ---
 
@@ -15,7 +15,7 @@ La regla de diseño combina una serie suficiente para dotar varios grupos navale
 
 ## Convención de generaciones
 
-| Generación | Diseño y construcción | Botadura aproximada | Entrada en servicio | Retiro previsto | Rasgo distintivo |
+| Generación | Diseño y construcción | Primeras botaduras | Entrada en servicio | Retiro previsto | Rasgo distintivo |
 |---|---|---|---|---|---|
 | **I** | Diseño de guerra, construcción 1938–1944 | 1940–1945 | 1940–1945 | 1958–1968 | Vapor, artillería, torpedos y ASW de convoy |
 | **II** | Diseño de posguerra, construcción 1952–1960 | 1953–1962 | 1955–1965 | 1978–1988 | Vapor modernizado; radar y dirección de tiro mejores; misiles solo por refit limitado |
@@ -96,4 +96,4 @@ La tabla de 1980 debe conservar **12 destructores Gil-galad agregados**, compart
 - [[12_Militar/Clases navales 1980/Destructores Gil-galad - Beleg - Ossë — 1980]]
 - [[12_Militar/Clases navales 2026/Destructores Gil-galad de defensa aérea — 2026]]
 - Naval History and Heritage Command, USS *Spruance*: https://www.history.navy.mil/research/histories/ship-histories/danfs/s/spruance.html
-- NAVSEA, historia de destructores y propulsión de turbina de gas: https://www.navsea.navy.mil/Media/News/Article-View/Article/1635780/weaponry-technology-and-sensors-improve-destroyers-over-time/
+- NAVSEA, historia de destructores y propulsión de turbina de gas: https://www.navsea.navy.mil/Media/News/Article-View/Article/1635780/weaponry-technology-threats-improve-destroyers-over-time/

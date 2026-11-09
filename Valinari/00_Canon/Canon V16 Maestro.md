@@ -4643,3 +4643,5 @@ Se fija una convención única para la familia: **Gil-galad I** designa la gener
 La reconstrucción de 1973 contabiliza **12 Gil-galad II** de posguerra. La generación III comienza a entrar en servicio desde 1978. La cifra AM1 de 1980 para la familia es agregada durante el reemplazo II–III; no autoriza a sumar dos veces los cascos ni a asignar doce buques a cada generación. Para 2026 se registran 24 destructores de generaciones IV y V; la VI no se cuenta como operativa antes de su fecha prevista de entrada en servicio.
 
 La ficha técnica con misiones, prestaciones, armamento, sensores, propulsión y ciclos de casco se encuentra en [[12_Militar/Destructores Gil-galad — evolución de la familia]]. Esta secuencia prevalece sobre numeraciones anteriores que asignaban el mismo ordinal a generaciones distintas.
+
+La secuencia generacional Gil-galad se normaliza en la ficha [[12_Militar/Destructores Gil-galad — evolución de la familia]]; sus fechas de familia no equivalen a la vida de un casco individual.
