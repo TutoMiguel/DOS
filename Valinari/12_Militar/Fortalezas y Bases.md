@@ -21,7 +21,13 @@ estado_canon: V16 vigente
 
 Una escala de agua, una factoría y una base militar tienen capacidades diferentes. La ampliación a arsenal requiere personal, presupuesto, reparación y suministros. La presencia en un puerto asociado depende de acuerdos y no implica soberanía automática.
 
+## Bases industriales y apoyo naval moderno
+
+La red moderna debe sostener ciclos de construcción por generaciones, diques de mantenimiento, almacenes de repuestos, energía, formación técnica y reparación. El reparto industrial naval y los periodos de expansión 1750–2026 están desarrollados en [[12_Militar/AM1 Armada 1875-2026|AM1 Armada 1875–2026]]. Los puertos asociados y protectorados no se convierten por ello en bases soberanas; Harnen conserva su estatus de protectorado y el apoyo depende de tratados.
+
 ## Referencias relacionadas
+
+- [[12_Militar/AM1 Armada 1875-2026|AM1 Armada 1875–2026]]
 
 - [[00_Canon/Canon V16 Maestro|Canon V16 Maestro]]
 - [[01_Cronologia/Cronología Territorial V16|Cronología Territorial V16]]

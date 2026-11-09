@@ -31,18 +31,20 @@ Sonar 2087 es la referencia británica; Palantír-2087V CIP es la adaptación fi
 
 ## Composición de la Armada en 2026
 
-El inventario canónico comprende aproximadamente **615 buques**:
+El inventario canónico de referencia comprende **615 plataformas navales**: 595 buques tripulados y 20 vehículos navales no tripulados. El total se desglosa así:
 
-- **11 portaaviones:** 4 nucleares, 3 convencionales o de flota y 4 ligeros STOVL.
-- **54 submarinos:** 10 estratégicos, 18 de ataque nuclear, 18 convencionales oceánicos AIP y 8 de operaciones especiales, inteligencia y rescate.
-- **190 escoltas:** 24 destructores, 64 fragatas, 72 corbetas oceánicas y 30 escoltas antisubmarinos o de defensa aérea.
-- **50 anfibios y de desembarco:** 6 de asalto anfibio, 8 buques-dique, 14 transportes anfibios y 22 de desembarco y apoyo litoral.
-- **220 patrulleros y vigilancia:** 80 patrulleros oceánicos, 70 rápidos, 30 cazaminas y dragaminas, 20 buques hidrográficos y 20 plataformas no tripuladas.
-- **90 logísticos y auxiliares:** 20 petroleros, 18 reabastecedores, 12 transportes, 10 hospitales, 12 reparadores, 10 oceanográficos y 8 de salvamento.
+- **11 portaaviones:** 4 nucleares, 3 convencionales y 4 ligeros STOVL.
+- **54 submarinos:** 10 estratégicos, 18 de ataque nuclear, 18 convencionales/AIP y 8 especiales, inteligencia o rescate.
+- **190 combatientes de superficie:** 24 destructores, 64 fragatas, 72 corbetas oceánicas y 30 escoltas especializados.
+- **34 anfibios:** 14 buques de asalto y 20 LPD/LSD.
+- **220 patrulla, vigilancia y servicio:** 80 OPV, 70 patrulleros rápidos, 30 MCM, 20 hidrográficos y 20 vehículos no tripulados.
+- **106 auxiliares:** 20 petroleros, 18 reabastecedores, 12 transportes, 10 hospitales, 12 talleres/reparadores, 10 oceanográficos, 8 de salvamento y 16 de mando/apoyo especializado.
 
-La disponibilidad operativa aproximada es de **449 unidades**: 7 portaaviones, 38 submarinos, 130 escoltas, 34 anfibios, 170 patrulleros y 70 buques logísticos y de apoyo. Las unidades restantes se encuentran en mantenimiento, entrenamiento, modernización o reserva estratégica.
+La hipótesis de planificación de disponibilidad ordinaria es **449 plataformas**: 7 portaaviones, 38 submarinos, 130 combatientes de superficie, 34 anfibios, 170 patrulla/servicio y 70 auxiliares. No es una estadística de disponibilidad medida. Las categorías no se suman entre sí dos veces; las cifras describen un inventario distribuido en varios teatros y generaciones. La Armada distribuye sus medios entre Atlántico Norte, Ártico, Atlántico central, Caribe, Pacífico, Índico, Malaca, Mediterráneo y apoyo austral.
 
-La cifra total es un inventario por categorías, no una fuerza reunida en un único teatro. La Armada distribuye sus medios entre Atlántico Norte, Ártico, Atlántico central, Caribe, Pacífico, Índico, Malaca, Mediterráneo y apoyo austral.
+## Integración AM1
+
+La doctrina de masa sostenible más punta tecnológica, la composición de 1980, el inventario estructural de 2026, las generaciones de clases, la política de refit y el desarrollo industrial completo están en [[12_Militar/AM1 Armada 1875-2026|AM1 Armada 1875–2026]]. Las cifras de 1945 y 1960 son reconstrucciones, no inventarios medidos.
 
 ## Armada de 1875
 
@@ -57,6 +59,9 @@ La transición de triple expansión a turbinas de vapor y las clases de 1882–1
 La defensa antigua integra Casas, guarniciones, milicias y fuerzas navales. La profesionalización posterior conduce a presupuestos, mando y arsenales estatales. En 1875 las clases representan una flota industrial a vapor; en 2026 las capacidades nucleares, aeronavales y de sensores pertenecen a una etapa distinta. La serie moderna Círdan se inicia en 1955 y su relevo Voronwë comienza en 2022.
 
 ## Referencias relacionadas
+
+- [[12_Militar/AM1 Armada 1875-2026|AM1 Armada 1875–2026]]
+- [[12_Militar/Reconstrucciones navales 1945 y 1960]]
 
 
 - [[12_Militar/Tripulaciones abastecimiento y disponibilidad histórica]]

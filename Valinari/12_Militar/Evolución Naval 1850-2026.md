@@ -22,8 +22,19 @@ estado_canon: V16 vigente
 - 1945–1965: portaaviones, submarinos de largo alcance, logística y radares.
 - 1965–1985: Gil-galad, Círdan inicial y Ulmo.
 - 1985–2005: Círdan II–III, Pelargir, Andúnië y drones.
-- 2005–2026: Círdan IV y familias Eärendil, Telperion, Palantír, Menel, Esgaroth y Abyssal.
-- 2030–2037: Voronwë, planificada.
+- 2005–2026: Círdan IV y familias Telperion, Anárion, Varda, Arnor, Eärendil, Tolfalas, Gil-galad, Voronwë, Calenport y sistemas Palantír, Menel, Esgaroth y Abyssal.
+- Desde 2022: construcción de Voronwë; primeras entradas en servicio desde 2026 y relevo por lotes hasta 2033.
+
+## Inventarios de referencia AM1
+
+| Año | Clasificación | Total |
+|---|---|---:|
+| 1945 | Reconstrucción explicativa, no inventario medido | 368 |
+| 1960 | Reconstrucción explicativa, no inventario medido | 408 |
+| 1980 | Composición canónica de referencia | 427 |
+| 2026 | Inventario estructural: 595 buques tripulados + 20 no tripulados | 615 plataformas |
+
+El detalle por familias, generación, dimensiones, dotación, velocidad, alcance, propulsión, armamento, sensores, astilleros y vida útil está en [[12_Militar/AM1 Armada 1875-2026|AM1 Armada 1875–2026]]. La disponibilidad estimada de 449 plataformas no es un dato observado.
 
 Sistema de radar canónico: radar AESA tridimensional con procesamiento 4D.
 
@@ -38,6 +49,9 @@ La introducción temprana de triple expansión y turbinas de vapor se organiza p
 La función de esta ficha depende de su periodo. Las contribuciones antiguas de Casas y milicias evolucionan hacia fuerzas profesionales bajo mando público. La etapa industrial se sostiene mediante presupuesto, crédito autorizado, educación técnica, energía, transporte y mantenimiento. La coordinación con COFOVAL corresponde a su formación en 1850–1875 y a sus reorganizaciones posteriores.
 
 ## Referencias relacionadas
+
+- [[12_Militar/AM1 Armada 1875-2026|AM1 Armada 1875–2026]]
+- [[12_Militar/Reconstrucciones navales 1945 y 1960]]
 
 - [[00_Canon/Canon V16 Maestro|Canon V16 Maestro]]
 - [[01_Cronologia/Cronología Territorial V16|Cronología Territorial V16]]

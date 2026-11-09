@@ -196,7 +196,7 @@ Entre 1900 y 1914 predominan el vapor, el carbón, los cruceros, torpederos, ca�
 
 ### Composición naval vigente
 
-En 2026 la Armada mantiene aproximadamente 11 portaaviones y portaaviones ligeros, 54 submarinos, 190 destructores, fragatas, corbetas y escoltas, 50 buques anfibios y de desembarco, 220 patrulleros, dragaminas y buques de vigilancia, y 90 buques logísticos, oceanográficos, hospitalarios y de reparación. Las unidades se distribuyen entre servicio activo, mantenimiento, entrenamiento y reserva estratégica.
+En 2026 el inventario canónico de referencia comprende **615 plataformas navales**: 595 buques tripulados y 20 vehículos navales no tripulados. Se distribuye en 11 portaaviones, 54 submarinos, 190 escoltas y combatientes de superficie, 34 anfibios, 220 plataformas de patrulla/vigilancia/servicio y 106 auxiliares. La estimación de 449 unidades disponibles en un ciclo ordinario es una hipótesis de planificación, no una tasa observada. El desglose funcional y técnico se encuentra en [[12_Militar/AM1 Armada 1875-2026|AM1 Armada 1875–2026]].
 
 La aviación naval comprende cazas embarcados, aviones de ataque, patrulla marítima, guerra antisubmarina, alerta temprana, reconocimiento electrónico, transporte, rescate y helicópteros anfibios. Islandia concentra guerra antisubmarina y meteorología; Groenlandia concentra alerta temprana, vigilancia espacial, patrulla polar y protección de cables.
 
@@ -2055,7 +2055,7 @@ La Círdan IV puede igualar o superar moderadamente a la Type 26 en integración
 | Círdan IV | Type 26 avanzada contemporánea |
 | Voronwë | Generación posterior a la Type 26 |
 
-La Voronwë se reserva para una entrada en servicio aproximada entre 2030 y 2037, con mayor automatización, sensores distribuidos, energía eléctrica disponible, drones y mantenimiento predictivo.
+La clase Voronwë inicia construcción en 2022 y sus primeras unidades entran en servicio desde 2026; releva por lotes a Círdan IV hasta 2033. Incorpora mayor automatización, sensores distribuidos, margen eléctrico, drones y mantenimiento predictivo.
 
 ## 26. Clases principales de la Armada Valinoreana
 
@@ -2063,28 +2063,24 @@ Estado: [CANON VIGENTE] — incorporación del 30 de octubre de 2026.
 
 La Armada organiza sus buques en clases estandarizadas, con nombres del universo de Tolkien y producción distribuida entre el Reino, la Federación y Gran Valinor.
 
-| Clase | Tipo | Función principal |
+| Clase/familia | Tipo vigente | Función principal |
 |---|---|---|
-| Eärendil | Portaaviones pesado | Proyección aérea, mando oceánico y disuasión |
-| Telperion | Portaeronaves/asalto | Helicópteros, drones, transporte y ayuda humanitaria |
-| Anárion | Portaaviones ligero | Defensa insular y presencia regional |
-| Gil-galad | Destructor | Defensa aérea, escolta y mando de flota |
-| Círdan | Fragata | Guerra antisubmarina, escolta y vigilancia oceánica |
-| Eglarest | Corbeta | Patrulla litoral y defensa regional |
-| Forlond | Patrullero oceánico | Seguridad marítima, aduanas y protección de cables |
-| Ulmo | Submarino estratégico | Disuasión y patrulla oceánica |
-| Gondolin | Submarino de ataque | Inteligencia, escolta y guerra antisubmarina |
-| Númenor | Submarino convencional | Defensa litoral y vigilancia de estrechos |
-| Pelargir | Buque de asalto | Desembarco, evacuación y ayuda humanitaria |
-| Rómenna | Transporte militar | Tropas, vehículos, combustible y suministros |
-| Andúnië | Buque logístico | Reabastecimiento y reparación en alta mar |
-| Estë | Buque hospital | Atención médica y respuesta a desastres |
-| Nimrodel | Cazaminas | Limpieza de puertos y rutas marítimas |
-| Vingilot | Rescate y remolque | Salvamento, remolque y control de daños |
-| Palantír | Inteligencia | Vigilancia electrónica y oceanografía |
-| Menel | Drones aéreos | Reconocimiento y vigilancia marítima |
-| Esgaroth | Drones de superficie | Protección de puertos, cables y plataformas |
-| Abyssal | Drones submarinos | Cartografía, vigilancia y guerra antisubmarina |
+| Telperion | Portaaviones nuclear | Proyección aérea oceánica, mando y disuasión |
+| Anárion, Elwing, Aldarion | Portaaviones convencionales de flota | Cobertura aérea oceánica y operaciones de ala embarcada |
+| Varda | Portaaviones ligero STOVL/ASW | Defensa insular, guerra antisubmarina y presencia regional |
+| Arnor | Submarino estratégico | Disuasión y patrulla estratégica |
+| Eärendil | Submarino nuclear de ataque | Guerra antisubmarina, inteligencia y escolta |
+| Tolfalas | Submarino convencional/AIP | Vigilancia oceánica, defensa litoral y estrechos |
+| Aeglos / Falathar | Submarino especial / rescate | Operaciones especiales, inteligencia oceanográfica y rescate |
+| Gil-galad | Destructor | Defensa aérea, escolta y mando de grupo |
+| Círdan / Voronwë | Fragata multipropósito | Guerra antisubmarina, escolta y vigilancia oceánica |
+| Calenport | Corbeta oceánica | Escolta ligera, patrulla y defensa regional |
+| Eglarest | Corbeta de generaciones anteriores | Patrulla litoral y defensa regional histórica |
+| Pelargir / Aranath / Forlond / Andúnië | Buques anfibios y de desembarco | Proyección limitada, evacuación, apoyo y desembarco |
+| Sírënandë / Nosselië | Patrulleros oceánicos y rápidos | Seguridad marítima, vigilancia y protección de rutas |
+| Amon Sûl / Menel | Guerra de minas e inspección | Limpieza de rutas y contramedidas de minas |
+| Aulë / Andúnië / Rómenna / Estë / Galdor / Palantír / Alcarondas | Auxiliares por misión | Reabastecimiento, transporte, hospital, reparación, rescate, ciencia y mando |
+| Menel / Esgaroth / Abyssal | Sistemas no tripulados aéreos, de superficie y submarinos | Reconocimiento, cartografía, vigilancia y apoyo a contramedidas |
 
 ### Distribución industrial
 
@@ -2098,6 +2094,37 @@ La Armada organiza sus buques en clases estandarizadas, con nombres del universo
 - Eryndor: financiación, seguros y servicios navales.
 
 La doctrina de producción queda resumida así: Valinor diseña; Arnor integra; Calenardhon construye; Malaca produce en serie; Harnen mantiene; Hawái vigila; la Federación coordina.
+
+## Integración canónica AM1 — Armada 1875–2026
+
+La decisión AM1 adopta una flota de dos escalones: una **masa crítica sostenible** de fragatas multipropósito, corbetas oceánicas, submarinos convencionales, patrulleros, medios anfibios y auxiliares producidos en series mantenibles; y una **punta de lanza tecnológica** de portaaviones, submarinos nucleares, destructores de defensa aérea, sensores y mando avanzado. La punta de lanza no desplaza los fondos necesarios para dotaciones, municiones, mantenimiento, bases y logística.
+
+### Composiciones de referencia
+
+| Año | Estado de la cifra | Composición resumida | Total |
+|---|---|---|---:|
+| 1945 | Reconstrucción AM1, no inventario medido | 8 portaaviones, 18 cruceros, 54 destructores, 42 fragatas, 42 corbetas, 18 patrulleros, 38 submarinos, 28 anfibios, 20 MCM y 100 auxiliares | 368 |
+| 1960 | Reconstrucción AM1, no inventario medido | 9 portaaviones, 16 cruceros, 48 destructores, 52 fragatas, 50 corbetas, 20 lanchas misilísticas, 50 patrulleros, 46 submarinos, 32 anfibios, 20 MCM y 65 auxiliares | 408 |
+| 1980 | Composición canónica de referencia | 7 portaaviones, 14 cruceros, 36 destructores, 56 fragatas/escoltas, 50 corbetas, 24 lanchas misilísticas, 60 patrulleros, 42 submarinos, 34 anfibios, 26 MCM y 78 auxiliares | 427 |
+| 2026 | Inventario estructural canónico; no equivale a disponibilidad observada | 11 portaaviones, 54 submarinos, 190 combatientes de superficie, 34 anfibios, 220 unidades de patrulla/vigilancia/servicio y 106 auxiliares | 615 plataformas |
+
+Las categorías de 1980 se cuentan por separado: corbetas, lanchas misilísticas, patrulleros y auxiliares no se solapan. En 2026 las 220 plataformas comprenden 80 OPV, 70 patrulleros rápidos, 30 unidades MCM, 20 hidrográficos y 20 vehículos navales no tripulados. Los 106 auxiliares comprenden 20 petroleros, 18 reabastecedores, 12 transportes, 10 hospitales, 12 reparadores, 10 oceanográficos, 8 de salvamento y 16 de mando/apoyo especializado. Los 34 anfibios comprenden 14 buques de asalto y 20 LPD/LSD. Así, el total se compone de **595 buques tripulados y 20 plataformas no tripuladas**.
+
+La estimación de **449 disponibles** (7 portaaviones, 38 submarinos, 130 combatientes de superficie, 34 anfibios, 170 unidades de patrulla/servicio y 70 auxiliares) se conserva como hipótesis de planificación. No es una tasa de disponibilidad medida ni implica que las unidades estén concentradas en un teatro.
+
+### Ciclo de vida y modernización
+
+Desde 1945 cada casco se diseña con margen de crecimiento y recibe **una modernización integral principal de media vida**. Reparaciones, sustitución de componentes y actualizaciones menores posteriores no se contabilizan como un segundo refit integral. La vida típica de los combatientes mayores es de 30–40 años; patrulleros, lanchas y vehículos no tripulados tienen ciclos más cortos. La continuidad de un nombre de clase representa generaciones sucesivas y no un único diseño o casco de 85 años.
+
+La transición Círdan–Voronwë queda normalizada así: construcción de Círdan IV desde 1995 y servicio desde 2000; construcción de Voronwë desde 2022, primeras entradas en servicio desde 2026 y relevo por lotes hasta 2033. El agregado de 64 fragatas de 2026 incluye generaciones Círdan IV y Voronwë; el reparto exacto por casco no está fijado.
+
+### Industria, tecnología y sostenimiento
+
+La industria naval evoluciona desde los arsenales de vapor y siderurgia de 1750–1880 hacia turbinas, motores, submarinos y aviación entre 1880–1945; después desarrolla portaaviones, propulsión nuclear, electrónica, radar y sonar, y desde 1969 integra logística y mando mediante OceanNet. Entre 1980 y 2026 amplía construcción modular, propulsión eléctrica, sensores AESA, guerra electrónica, vehículos no tripulados, mantenimiento predictivo y fabricación nacional selectiva de componentes críticos. Las tecnologías extranjeras se adoptan, adaptan o coproducen cuando hay una etapa demostrable y una base industrial compatible; no se atribuye fabricación local automática a toda tecnología utilizada.
+
+La planificación presupuestaria adopta como regla comparativa la misma proporción del PIB estadounidense dedicada al Department of the Navy, contando Navy y Marine Corps de forma homogénea. Para 2026 la referencia de AM1 es aproximadamente **0,9 % del PIB**, equivalente a unos **589,5 mil millones PPA** sobre el PIB federal canónico de 65,50 billones PPA. Es una equivalencia de planificación: PPA no es presupuesto nominal y la serie histórica, especialmente 1980, requiere armonizar apropiaciones, gasto ejecutado y perímetro institucional antes de fijar montos canónicos comparables.
+
+La infantería de Marina mantiene una fuerza expedicionaria para evacuación, respuesta rápida, defensa de puertos y apoyo a territorios; el rango de 150.000–190.000 activos y 80.000–120.000 reservistas se trata como objetivo de planificación, no como censo de personal verificado. Las fichas de clase y los perfiles técnicos completos se encuentran en [[12_Militar/AM1 Armada 1875-2026|AM1 Armada 1875–2026]], [[12_Militar/Clases navales 1980|Clases navales de referencia 1980]] y [[12_Militar/Clases navales 2026|Clases navales de referencia 2026]].
 
 ## 27. Sistemas de radar naval — Palantír-4D y Palantír Aeglos
 

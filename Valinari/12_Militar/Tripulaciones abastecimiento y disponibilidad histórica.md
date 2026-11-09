@@ -28,7 +28,7 @@ La industrialización añade dependencia de carbón, lubricantes, munición, cal
 
 ## Continuidad hasta 2026
 
-La aviación embarcada, la propulsión moderna y OceanNet aumentan la coordinación y también las exigencias de mantenimiento. Los destacamentos rotatorios se descuentan del inventario nacional al asignarlos, en vez de sumarlos como otra flota. La plantilla de 272 buques de v050 y su serie histórica no sustituyen la Armada contemporánea de V16. Las cifras de personal, aeronaves y drones requieren categorías excluyentes para evitar dobles cómputos.
+La aviación embarcada, la propulsión moderna y OceanNet aumentan la coordinación y también las exigencias de mantenimiento. Los destacamentos rotatorios se descuentan del inventario nacional al asignarlos, en vez de sumarlos como otra flota. La plantilla histórica de v050 no sustituye la Armada contemporánea de V16. AM1 fija para 2026 un inventario estructural de 615 plataformas (595 tripuladas y 20 no tripuladas) y una disponibilidad estimada de 449 como hipótesis, no como medición. Las cifras de personal, aeronaves y drones requieren categorías excluyentes para evitar dobles cómputos.
 
 ## Relaciones
 
@@ -40,6 +40,8 @@ La aviación embarcada, la propulsión moderna y OceanNet aumentan la coordinaci
 [[08_Historia/Índice narrativo V16]]
 
 ## Referencias relacionadas
+
+- [[12_Militar/AM1 Armada 1875-2026|AM1 Armada 1875–2026]]
 
 [[00_Canon/Integraciones V16/Revisión editorial V16.1]]
 [[00_Canon/Integraciones V16/Propuestas pendientes tras revisión V16.1]]

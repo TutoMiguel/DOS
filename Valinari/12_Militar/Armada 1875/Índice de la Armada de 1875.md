@@ -274,3 +274,9 @@ Los auxiliares desplazan aproximadamente 150–8.000 t, con 25–220 tripulantes
 - [[12_Militar/Armada 1875/Distribución territorial (1875)]]
 - [[12_Militar/Armada 1875/Cañoneras (1875)]]
 - [[12_Militar/Armada 1875/Comparación con la Royal Navy (1875)]]
+
+
+## Continuidad de las clases
+
+- [[12_Militar/AM1 Armada 1875-2026|AM1 — Armada 1875–2026]]
+- [[12_Militar/Evolución Naval 1850-2026|Evolución Naval 1850–2026]]

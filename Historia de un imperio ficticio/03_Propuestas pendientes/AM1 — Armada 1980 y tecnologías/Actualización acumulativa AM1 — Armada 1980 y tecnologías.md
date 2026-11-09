@@ -1,5 +1,7 @@
 # AM1 — Armada valinari, 1875–2026
 
+**Estado:** integración aprobada en Canon V16. Inventarios y políticas adoptados; reconstrucciones, disponibilidad y presupuestos llevan su calificación propia. Véase [[00_Canon/Canon V16 Maestro|Canon V16 Maestro]] y [[01_Cronologia/Cronología Territorial V16|Cronología Territorial V16]].
+
 **Estado:** propuesta acumulativa reformulada; no incorporada al canon maestro.
 **Alcance:** presupuesto naval comparado con EE. UU.; composición y evolución de la Armada; tecnologías, construcción, modernización de media vida e Infantería de Marina.
 **Límite de edición:** esta actualización modifica únicamente AM1. No actualiza Canon V16, cronologías, Word ni Obsidian.
@@ -176,9 +178,9 @@ Desglose de trabajo para explicar el total orientativo de **408**. Las cifras se
 
 Comienzan a operar enlaces de datos más robustos y radares de barrido electrónico en unidades seleccionadas. AESA se despliega gradualmente, no como dotación universal en 2000. Las modernizaciones Círdan IV de 2005–15 pertenecen a su único refit integral de media vida.
 
-### 2026 — inventario propuesto de 615 activos navales
+### 2026 — inventario canónico de referencia de 615 plataformas navales
 
-La cifra de **615** incluye 20 vehículos navales no tripulados; por tanto, no significa 615 buques tripulados. Aproximadamente **449** unidades/plataformas estarían disponibles en un momento ordinario, con el resto en mantenimiento, entrenamiento, reserva o reacondicionamiento. Disponibilidad es una hipótesis de planificación, no una estadística medida.
+La cifra canónica de **615 plataformas** incluye 20 vehículos navales no tripulados: equivale a 595 buques tripulados y 20 plataformas autónomas o remotamente supervisadas. La cifra de **449** disponibles es una hipótesis de planificación para un ciclo ordinario, no una medición de disponibilidad observada; las demás plataformas se distribuyen entre mantenimiento, entrenamiento, reserva, modernización y reacondicionamiento.
 
 | Clase / familia | Cantidad | Dimensiones, dotación, velocidad y alcance | Propulsión, armas, sensores y construcción |
 |---|---:|---|---|
@@ -209,7 +211,7 @@ La cifra de **615** incluye 20 vehículos navales no tripulados; por tanto, no s
 | Salvamento y rescate | 8 | 2.000–8.000 t; 70–130 m; 60–160 personas | Diésel; sonar de trabajo, vehículos de rescate, buceo y remolque; Númenor. |
 | Mando, comunicaciones y apoyo especializado | 16 | 2.000–12.000 t; 80–180 m; 80–300 personas | Diésel; 8 buques de mando/comunicaciones, 4 de rescate polar y 4 de mantenimiento avanzado; Nueva Tirion/Pelargir/Númenor. |
 
-El desglose detallado suma **615** plataformas: 11 portaaviones +54 submarinos +190 escoltas/superficie de combate +34 anfibios +220 patrulla/vigilancia/servicios +106 auxiliares. Los 220 se desglosan en 80 OPV +70 patrulleros rápidos +30 MCM +20 hidrográficos +20 no tripulados. Los 106 auxiliares incluyen 90 unidades de las familias logísticas principales y 16 plataformas de mando/apoyo especializado. “Plataforma” incluye los 20 vehículos navales no tripulados; no son buques tripulados.
+El desglose canónico suma **615** plataformas: 11 portaaviones +54 submarinos +190 escoltas/superficie de combate +34 anfibios +220 patrulla/vigilancia/servicios +106 auxiliares. Los 220 se desglosan en 80 OPV +70 patrulleros rápidos +30 MCM +20 hidrográficos +20 no tripulados. Los 106 auxiliares incluyen 90 unidades de las familias logísticas principales y 16 plataformas de mando/apoyo especializado. “Plataforma” incluye los 20 vehículos navales no tripulados; no son buques tripulados.
 
 ### Ventanas de construcción y servicio en la flota de 2026
 
@@ -402,7 +404,7 @@ El aprendizaje se realiza por licencias, intercambio científico, adquisiciones,
 
 En 1980, la propuesta de 427 buques es menor que la fuerza activa estadounidense de referencia y superior a la británica en varias categorías, aunque los criterios de conteo no son idénticos. La US Navy contabilizaba 530 buques activos en su tabla histórica de fuerza; la fuerza británica se publica en categorías parlamentarias y excluye algunos auxiliares de forma distinta. [NHHC, niveles de fuerza](https://www.history.navy.mil/research/histories/ship-histories/us-ship-force-levels.html), [Hansard, barcos de la Royal Navy, 1980](https://api.parliament.uk/historic-hansard/written-answers/1981/may/18/royal-navy-ships).
 
-En 2026, el inventario de 615 activos de AM1 es deliberadamente superior a la proyección estadounidense de 287 buques de batalla, pero no es comparación de “buques de batalla” equivalentes: AM1 agrega patrulleros, auxiliares, hidrografía y vehículos no tripulados. Para una comparación limpia se presentarán dos cifras: **buques de batalla comparables** y **activos navales totales**.
+En 2026, el inventario canónico de referencia de 615 plataformas no se compara directamente con los 287 buques de batalla de la proyección estadounidense: incluye patrulleros, auxiliares, hidrografía y vehículos no tripulados. Toda comparación presenta por separado **buques de combate comparables** y **plataformas navales totales**.
 
 La sostenibilidad depende de cuatro pruebas anuales:
 
@@ -420,7 +422,7 @@ Si una clase falla dos ciclos de revisión consecutivos, se reduce su número, s
 - Las cantidades intermedias de 1900, 1914, 1945, 1960 y 2000 son escenarios de AM1, no datos confirmados.
 - Los nombres de clase repetidos (Círdan, Eärendil, Aulë, Gil-galad) deben distinguirse siempre por tipo y generación.
 - Los astilleros asignados son polos propuestos y requieren capacidad anual, diques, personal, suministro de acero y localización de mantenimiento.
-- El inventario 2026 se ha cuadrado a 615 incorporando 16 plataformas de mando/apoyo a las 90 auxiliares anteriores. Ese cierre aritmético no equivale a una lista de cascos verificada: requiere validación casco por casco antes de canonizarse.
+- La distribución de 615 plataformas se adopta como estructura canónica de referencia; no constituye una lista nominal casco por casco ni demuestra disponibilidad efectiva. La disponibilidad de 449 sigue siendo una hipótesis que requiere una serie operacional para validarse.
 - La Infantería de Marina de 150.000–190.000 activos y 80.000–120.000 reservas es una propuesta de escala; falta conciliarla con población, fuerzas terrestres, presupuesto de personal y transporte estratégico.
 
 ## Fuentes de referencia
@@ -437,7 +439,7 @@ Si una clase falla dos ciclos de revisión consecutivos, se reduce su número, s
 
 ## 10. Desarrollo acumulativo de la industria militar, 1750–2026
 
-**Estatus:** propuesta integrada a AM1. Las líneas anuales describen la maduración de programas; no implican que cada año haya surgido una invención o institución nueva. Se preservan los anclajes ya fijados: COFOVAL en 1839, inventario naval de referencia de 1875, OceanNet operativa desde 1959 y consolidada institucionalmente en 1969, y una modernización mayor de media vida para buques construidos desde 1945. Las fechas intermedias son una cronología propuesta, pendiente de cotejo con la cronología maestra antes de canonizarse.
+**Estatus:** canon V16 integrado. Las fechas anuales expresan fases de maduración industrial y no presuponen una invención nueva cada año. Se conservan los hitos canónicos de COFOVAL (1839), la flota de 1875, OceanNet (servicio institucional limitado desde 1959; consolidación institucional desde 1969) y un refit integral principal de media vida por casco construido desde 1945. Las capacidades por plataforma y los lotes concretos se desarrollan en sus fichas y no se extrapolan a toda la flota.
 
 ### 10.1 Desarrollo anual
 
@@ -823,7 +825,7 @@ La concentración de construcción compleja en polos principales se equilibra co
 
 ### 10.5 Estatus editorial
 
-El detalle anual 1750–2026, la matriz de familias y el sostenimiento clase por clase son una **propuesta añadida a AM1**. Los hitos anclados al canon se conservan; los microhitos intermedios no deben tratarse como sucesos históricos confirmados hasta cotejarlos con la cronología maestra.
+El desarrollo 1750–2026 se integra como cronología industrial de referencia del canon. Los intervalos describen maduración, producción seriada y expansión de capacidades; no afirman un avance aislado por año. Las cifras de unidades construidas, disponibilidad o inversión permanecen diferenciadas entre inventario canónico, hipótesis de planificación y datos aún no medidos.
 
 ### 10.6 Generaciones, nombres y ciclos de reemplazo de las clases
 
@@ -945,7 +947,7 @@ Los nombres **Alcarondas**, **Forochel**, **Telchar** y **Galdor** se asignan aq
 
 #### Lectura de inventarios y renovaciones
 
-El inventario de 2026 expresa plataformas disponibles de varias generaciones, no una flota compuesta enteramente por los diseños más nuevos. La sustitución se planifica por lotes y por capacidad industrial: una generación puede entrar en servicio mientras otra se retira. La cifra de cada clase debe vincularse a un desglose por casco y lote antes de presentarla como inventario anual auditado. La familia Voronwë, por tanto, no significa que las 64 fragatas de la tabla 2026 sean Voronwë; el total incluye Círdan IV en retirada y Voronwë I en incorporación, hasta que una tabla de cascos indique cantidades exactas.
+El inventario de 2026 expresa plataformas de varias generaciones, no una flota compuesta enteramente por los diseños más nuevos. La sustitución se planifica por lotes y por capacidad industrial: una generación puede entrar en servicio mientras otra se retira. La cifra de cada clase debe vincularse a un desglose por casco y lote antes de presentarla como inventario anual auditado. La familia Voronwë, por tanto, no significa que las 64 fragatas de la tabla 2026 sean Voronwë; el total incluye Círdan IV en retirada y Voronwë I en incorporación, hasta que una tabla de cascos indique cantidades exactas.
 
 La vida de servicio de una familia que atraviesa varias generaciones puede superar 80 años. Eso describe la continuidad del **programa y del nombre**, no buques individuales ni un diseño congelado durante 85 años. Cada generación reemplaza a la anterior con tecnología, casco y calendario propios.
 

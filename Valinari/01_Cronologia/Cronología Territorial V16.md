@@ -133,7 +133,7 @@ La expansión se evalúa mediante series territoriales de cobertura y calidad, p
 * **1985–2005:** clases Círdan II–III, Pelargir, Andúnië y primeros drones navales; producción modular, radar 4d aesa.
 * **2005–2026:** Círdan IV, Eärendil, Telperion, Palantír, Menel, Esgaroth y Abyssal; misiles hipersonicos y vigilancia distribuida.
 * **2026:** la Armada opera una familia completa de portaaviones, escoltas, submarinos, buques logísticos, drones y unidades de rescate.
-* **2030–2037 (planificado):** Voronwë sustituye gradualmente a Círdan IV como fragata oceánica de nueva generación.
+* **2022:** comienza la construcción de Voronwë. **2026–2033:** entrada en servicio y relevo progresivo de Círdan IV por lotes; los 64 escoltas tipo fragata de 2026 incluyen ambas generaciones.
 
 ## Evolución de radares navales
 
@@ -256,7 +256,9 @@ El registro completo de nacimiento, coronación, abdicación y muerte de los 44 
 * **1969:** OceanNet conecta progresivamente flotas, arsenales, aeródromos, universidades, hospitales y centros de datos.
 * **1970–2000:** se incorporan submarinos de propulsión nuclear, misiles antibuque, defensa aérea naval, helicópteros antisubmarinos, satélites y guerra electrónica.
 * **2000–2026:** se despliegan inteligencia artificial, drones, radares Palantír-4D y Palantír Aeglos, submarinos no tripulados y sistemas de defensa antimisiles.
-* **2026:** la Armada mantiene aproximadamente 11 portaaviones y portaaviones ligeros, 54 submarinos, 190 escoltas, 50 buques anfibios, 220 patrulleros y dragaminas, y 90 buques logísticos, científicos, hospitalarios y de reparación.
+* **1945 y 1960:** AM1 conserva reconstrucciones de 368 y 408 unidades respectivamente; sirven para explicar la transición y no son inventarios medidos.
+* **1980:** la composición canónica de referencia suma 427 unidades en categorías separadas: 7 portaaviones, 14 cruceros, 36 destructores, 56 fragatas/escoltas, 50 corbetas, 24 lanchas misilísticas, 60 patrulleros, 42 submarinos, 34 anfibios, 26 MCM y 78 auxiliares.
+* **2026:** el inventario canónico suma 615 plataformas: 595 buques tripulados y 20 vehículos navales no tripulados; distribución: 11 portaaviones, 54 submarinos, 190 combatientes de superficie, 34 anfibios, 220 plataformas de patrulla/vigilancia/servicio y 106 auxiliares. La disponibilidad estimada de 449 es una hipótesis de planificación. Véase [[12_Militar/AM1 Armada 1875-2026|AM1 Armada 1875–2026]].
 
 La economía naval se integra con acero, motores, turbinas, electrónica, radares, astilleros, aeronáutica, combustibles, seguros y logística. Islandia aporta energía geotérmica, pesca, aluminio y reparación naval; Groenlandia aporta minerales estratégicos, hidroelectricidad, investigación polar, comunicaciones y defensa.
 
@@ -876,3 +878,19 @@ Forostar (Helsingborg) mantiene la capitalidad política y la Casa Telcontar con
 ## Integración acumulativa transversal
 
 **2026:** educación, finanzas, logística naval, ganadería, recursos naturales, hogar, parentesco y cultura naval quedan coordinados como un sistema histórico de capacidades. La primacía valinari depende de esa integración y no de una superioridad uniforme en cada sector. Se mantienen las correcciones territoriales vigentes: Númenor corresponde a Terranova, Tol Eressëa es una entidad distinta, Barad Nimras/Gibraltar es una base arrendada desde 1815 y Ceuta y Melilla no son distritos federales automáticos.
+
+
+## Integración AM1 — cronología naval e industrial
+
+- **1750–1880:** arsenales, talleres metalúrgicos, máquinas de vapor y siderurgia naval preparan la construcción industrial.
+- **1875:** inventario de referencia de 332 unidades: 178 de combate/apoyo armado y 154 auxiliares.
+- **1882–1914:** adopción gradual de turbinas, acero naval, blindaje, torpedos, radio y control central de tiro, con pruebas, lotes y servicio distinguidos.
+- **1914–1945:** expansión de submarinos, aviación embarcada, radar, convoyes y construcción en serie.
+- **1945–1960:** reconstrucciones de fuerza AM1 de 368 y 408 unidades, no inventarios medidos; se desarrollan portaaviones, submarinos oceánicos, radares y logística moderna.
+- **Desde 1945:** un refit integral principal de media vida por casco, con reparaciones y actualizaciones menores diferenciadas.
+- **1960–1980:** producción de escoltas y buques especializados; la composición canónica de referencia en 1980 suma 427 unidades.
+- **1980–2005:** construcción modular, mejora de sensores, propulsión y sistemas digitales, con reemplazo de cascos por generaciones.
+- **2005–2026:** integración de propulsión eléctrica, radares AESA, OceanNet, vehículos no tripulados y mantenimiento predictivo.
+- **2026:** inventario estructural de 615 plataformas; la disponibilidad de 449 es hipótesis, no dato medido.
+
+Ficha técnica: [[12_Militar/AM1 Armada 1875-2026|AM1 Armada 1875–2026]].

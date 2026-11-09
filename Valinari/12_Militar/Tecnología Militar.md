@@ -21,7 +21,13 @@ estado_canon: V16 vigente
 
 La función de esta ficha depende de su periodo. Las contribuciones antiguas de Casas y milicias evolucionan hacia fuerzas profesionales bajo mando público. La etapa industrial se sostiene mediante presupuesto, crédito autorizado, educación técnica, energía, transporte y mantenimiento. La coordinación con COFOVAL corresponde a su formación en 1850–1875 y a sus reorganizaciones posteriores.
 
+## Desarrollo naval e industrial 1750–2026
+
+La evolución de siderurgia, turbinas, motores, propulsión eléctrica, sensores, radares, CMS, comunicaciones, construcción modular y mantenimiento queda integrada en [[12_Militar/AM1 Armada 1875-2026|AM1 Armada 1875–2026]]. La adquisición exterior se adapta como tecnología valinari cuando existe demostración técnica, cadena de suministro, personal formado y capacidad local de integración; el origen externo no equivale automáticamente a fabricación nacional.
+
 ## Referencias relacionadas
+
+- [[12_Militar/AM1 Armada 1875-2026|AM1 Armada 1875–2026]]
 
 - [[00_Canon/Canon V16 Maestro|Canon V16 Maestro]]
 - [[01_Cronologia/Cronología Territorial V16|Cronología Territorial V16]]
