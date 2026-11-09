@@ -33,7 +33,7 @@ La fecha anticipada describe una trayectoria ficticia compatible con la inversi�
 |---|---:|---|
 | Portaaviones | 7 | 3 Anárion I; 2 Aulë II; 2 Varda I |
 | Cruceros | 15 | 4 Turgon; 6 Eärendil; 5 Noldor |
-| Destructores | 42 | 12 Gil-galad; 18 Beleg; 12 Ossë |
+| Destructores | 42 | 12 Gil-galad II; 18 Beleg; 12 Ossë |
 | Fragatas/escoltas | 54 | 18 Círdan I; 26 Círdan II; 7 Mithlond II; 3 Nimrodel II |
 | Corbetas | 50 | 30 Calenport II; 20 Eglarest I |
 | Lanchas misilísticas | 22 | 22 Nosselië I |
@@ -58,7 +58,7 @@ Las ventanas de botadura y baja son rangos de planificación de la generación. 
 | **Turgon**, crucero AAW (4) | Botaduras 1961–1967; servicio 1963–1969; bajas 1992–2002 | COGOG; turbinas de crucero y de potencia; 2 ejes; 30–32 kn; 5.000–6.500 mn; 550–700 tripulantes | Cañón 127 mm, misiles antiaéreos Míriel en lanzador de riel, 2–4 montajes dobles; 2–4 Nénar antibuque en lotes modernizados; radar 2D/3D y control de tiro |
 | **Eärendil**, crucero multimisión (6) | Botaduras 1957–1964; servicio 1960–1967; bajas 1988–1998 | Vapor; 4 ejes; 30–32 kn; 5.500–7.000 mn; 600–800 tripulantes | Cañones 127–152 mm, antiaéreos, torpedos, cohetes ASW; radar de búsqueda y sonar de casco; algunos modernizados con misil antibuque |
 | **Noldor**, crucero de mando/sensores (5) | Botaduras 1966–1972; servicio 1968–1974; bajas 1998–2008 | COGOG o CODAG según casco; 2 ejes; 29–31 kn; 5.000–6.000 mn; 500–700 tripulantes | Cañón 127 mm, misiles Míriel de zona, Nénar en parte de los cascos; radar 3D, centro de información de combate digital temprano y enlace de datos de flota |
-| **Gil-galad**, destructor (12) | Botaduras 1952–1960; servicio 1955–1964; bajas 1985–1998 | Vapor; 2 ejes; 32–35 kn; 4.000–5.000 mn; 280–360 tripulantes | Cañones 114–127 mm, torpedos, cohetes y cargas ASW; radar analógico, sonar de casco; actualización de algunos buques con SAM de punto |
+| **Gil-galad II**, destructor de posguerra (12) | Botaduras 1952–1960; servicio 1955–1965; retiros 1978–1988 | Vapor; 2 ejes; 32–35 kn; 4.000–5.000 mn; 280–360 tripulantes | Cañones 114–127 mm, torpedos, cohetes y cargas ASW; radar analógico, sonar de casco; actualización de algunos buques con SAM de punto |
 | **Beleg**, destructor (18) | Botaduras 1962–1969; servicio 1965–1972; bajas 1995–2005 | COGOG/CODOG; 2 ejes; 30–32 kn; 4.000–5.500 mn; 260–340 tripulantes | Cañón 114–127 mm, SAM Míriel de punto/medio alcance, lanzatorpedos y cohetes ASW; radar de búsqueda 2D/3D y sonar de casco |
 | **Ossë**, destructor antisubmarino (12) | Botaduras 1966–1973; servicio 1969–1976; bajas 2000–2010 | CODOG; 2 ejes; 29–31 kn; 4.500–6.000 mn; 250–330 tripulantes | Cañón 76–127 mm, torpedos guiados, cohetes ASW y helicóptero en parte de la serie; sonar de casco/remolcado y radar de superficie |
 | **Círdan I**, fragata (18) | Botaduras 1957–1964; servicio 1960–1968; bajas 1988–1998 | Vapor en la mayoría; primeros ensayos de turbina en lotes tardíos; 2 ejes; 27–29 kn; 4.000–5.000 mn; 190–240 tripulantes | Cañón 76–114 mm, torpedos y cohetes ASW; radar 2D, sonar de casco |

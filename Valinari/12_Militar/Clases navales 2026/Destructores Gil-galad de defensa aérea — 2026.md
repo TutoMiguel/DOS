@@ -21,3 +21,7 @@ Fuente técnica integrada: [[12_Militar/AM1 Armada 1875-2026|AM1 Armada 1875–2
 - [[00_Canon/Canon V16 Maestro|Canon V16 Maestro]]
 - [[01_Cronologia/Cronología Territorial V16|Cronología maestra]]
 - [[12_Militar/AM1 Armada 1875-2026|AM1 Armada 1875–2026]]
+
+## Generaciones contabilizadas
+
+Los 24 destructores de 2026 se atribuyen a generaciones IV y V. Gil-galad VI no se cuenta como operativo antes de su entrada en servicio prevista desde 2027. Véase [[12_Militar/Destructores Gil-galad — evolución de la familia]].

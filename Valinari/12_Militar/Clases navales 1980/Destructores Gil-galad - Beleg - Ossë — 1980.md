@@ -23,3 +23,7 @@ Fuente técnica integrada: [[12_Militar/AM1 Armada 1875-2026|AM1 Armada 1875–2
 - [[00_Canon/Canon V16 Maestro|Canon V16 Maestro]]
 - [[01_Cronologia/Cronología Territorial V16|Cronología maestra]]
 - [[12_Militar/AM1 Armada 1875-2026|AM1 Armada 1875–2026]]
+
+## Secuencia generacional Gil-galad
+
+La cantidad de 12 representa el total familiar de 1980 durante el reemplazo de Gil-galad II a Gil-galad III, no doce cascos de cada generación. Véase [[12_Militar/Destructores Gil-galad — evolución de la familia]].

@@ -144,3 +144,7 @@ actualizado: 2026-11-07
 ## Reconstrucción naval AM1
 
 - [[12_Militar/AM1 Armada 1973 — reconstrucción y turbinas]] — composición, clases, armamento, propulsión, botaduras y bajas de 1973.
+
+## Familias navales
+
+- [[12_Militar/Destructores Gil-galad — evolución de la familia]] — ficha generacional y técnica.

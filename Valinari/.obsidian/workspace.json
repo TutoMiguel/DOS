@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "d868b358b7d722a6",
+        "id": "17a0198a5ffa281d",
         "type": "tabs",
         "children": [
           {
-            "id": "3013a109d50b2f73",
+            "id": "1fe6c96126aef474",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "12_Militar/AM1 Armada 1875-2026.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nueva pestaña"
+              "title": "AM1 Armada 1875-2026"
             }
           }
         ]
@@ -186,10 +190,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "3013a109d50b2f73",
+  "active": "1fe6c96126aef474",
   "lastOpenFiles": [
-    "12_Militar/AM1 Armada 1973 — reconstrucción y turbinas.md",
+    "12_Militar/Destructores Gil-galad — evolución de la familia.md",
     "12_Militar/Clases navales 1980/Anfibios Aranath - Pelargir - Forlond - Andúnië — 1980.md",
+    "12_Militar/AM1 Armada 1875-2026.md",
+    "12_Militar/Guardia Real.md",
+    "12_Militar/AM1 Armada 1973 — reconstrucción y turbinas.md",
     "12_Militar/Clases navales 1980/Destructores Gil-galad - Beleg - Ossë — 1980.md",
     "12_Militar/Clases navales 1980/Contramedidas de minas Amon Sûl - Menel — 1980.md",
     "12_Militar/Clases navales 1980/Auxiliares Aulë - Ecthelion - Harlond - Númenor - Estel - Eärendil - Palantír - Alcarondas — 1980.md",
@@ -211,9 +218,6 @@
     "12_Militar/Clases navales 1980/Tolfalas SSK - 18 — 1980.md",
     "12_Militar/Clases navales 1980/Tolfalas II–IV, submarino convencional-AIP — 1980.md",
     "12_Militar/Clases navales 1980/Tipo y generación — 1980.md",
-    "12_Militar/Clases navales 1980/Tipo y clase — 1980.md",
-    "12_Militar/Clases navales 1980/Telperion nuclear — 1980.md",
-    "12_Militar/Clases navales 1980/Telperion I, portaaviones nuclear — 1980.md",
     "12_Militar/Clases navales 1980",
     "12_Militar/Clases navales 2026",
     "10_Archivo/Documentos editoriales/Oficial/Canon V16 Maestro.before_A090_2026-11-08.docx",

@@ -902,3 +902,14 @@ Ficha técnica: [[12_Militar/AM1 Armada 1875-2026|AM1 Armada 1875–2026]].
 - **1965–1970:** se masifica la turbina en destructores, fragatas, corbetas y lanchas; aparecen combinaciones diésel-gas para equilibrar velocidad y autonomía.
 - **1970–1979:** se perfeccionan COGOG, CODOG y CODAG, el control de planta y los intervalos de mantenimiento. El vapor permanece en portaaviones convencionales y en el ciclo secundario de los nucleares; diésel sigue en submarinos convencionales, anfibios, patrulleros de permanencia y auxiliares.
 - **1973:** reconstrucción AM1 de 421 plataformas, entre las referencias de 1960 y 1980. No representa un recuento histórico medido. Véase [[12_Militar/AM1 Armada 1973 — reconstrucción y turbinas]].
+
+## Evolución de la familia de destructores Gil-galad
+
+- **1940–1945:** Gil-galad I, destructores de guerra a vapor.
+- **1952–1960:** construcción de Gil-galad II, generación de posguerra que permanece en servicio durante los años sesenta y parte de los setenta.
+- **1972–1980:** construcción de Gil-galad III, primera generación de serie con turbinas de gas; entra en servicio desde 1978 y reemplaza a la generación II por lotes.
+- **1990–1998:** construcción de Gil-galad IV, diseño digital de defensa aérea.
+- **2005–2013:** construcción de Gil-galad V, con integración de red y radar AESA inicial.
+- **2020–2030:** construcción prevista de Gil-galad VI; entrada en servicio escalonada desde 2027–2035.
+
+La reconstrucción AM1 de 1973 atribuye 12 unidades a Gil-galad II. El inventario de 1980 contabiliza la familia de manera agregada durante la transición II–III. En 2026, los 24 destructores corresponden a generaciones IV y V; la VI aún no se cuenta como operativa. Véase [[12_Militar/Destructores Gil-galad — evolución de la familia]].
