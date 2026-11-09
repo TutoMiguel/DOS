@@ -4628,3 +4628,10 @@ El Senado de 74 miembros, la Cámara Popular y los gobiernos territoriales perte
 
 Estas instituciones no se confunden con el Consejo de las Casas, las Casas Mayores, las Casas Menores, las Casas Vasallas ni la Casa Real.
 
+## Resolución AM1 — Armada de 1973 y transición a turbinas de gas
+
+Se incorpora como **reconstrucción AM1** una fuerza naval de referencia de 1973 de **421 plataformas**. Es una estimación intermedia entre las referencias de 1960 (408) y 1980 (427), no un inventario observado. La fuerza comprende 7 portaaviones, 15 cruceros, 42 destructores, 54 fragatas/escoltas, 50 corbetas, 22 lanchas misilísticas, 56 patrulleros, 44 submarinos, 33 buques anfibios, 24 unidades de contramedidas de minas y 74 auxiliares.
+
+Se fija la trayectoria de turbinas de gas: ensayos valinari en **1952–1958**; primeras series en lanchas y escoltas ligeros en **1958–1965**; adopción masiva en destructores, fragatas, corbetas y buques rápidos en **1965–1970**; perfeccionamiento de plantas combinadas, protección salina, control automático y mantenimiento modular en **1970–1979**. En 1973 predomina gas en destructores modernos, buena parte de fragatas/escoltas y la mayoría de corbetas y lanchas rápidas. Portaaviones convencionales conservan vapor; los nucleares producen vapor desde reactores; submarinos nucleares usan ciclo de vapor; patrulleros de permanencia, anfibios y auxiliares favorecen diésel por autonomía y consumo.
+
+Las fechas de botadura, entrada en servicio y retiro por generación, así como velocidades, dotaciones, armas, sensores y variantes, constan en [[12_Militar/AM1 Armada 1973 — reconstrucción y turbinas]]. Los nombres Nénar y Míriel para misiles de la propuesta de 1973 quedan identificados como denominaciones de trabajo de esta reconstrucción.

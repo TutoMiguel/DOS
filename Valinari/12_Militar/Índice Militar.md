@@ -140,3 +140,7 @@ actualizado: 2026-11-07
 ## Historia naval
 
 [[12_Militar/Armada 1500-1600|Armada valinari, 1500–1600]]
+
+## Reconstrucción naval AM1
+
+- [[12_Militar/AM1 Armada 1973 — reconstrucción y turbinas]] — composición, clases, armamento, propulsión, botaduras y bajas de 1973.

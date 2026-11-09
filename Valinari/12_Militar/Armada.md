@@ -75,3 +75,8 @@ La defensa antigua integra Casas, guarniciones, milicias y fuerzas navales. La p
 - [[12_Militar/Armada antigua 500 aC-500 dC]]
 - [[12_Militar/Serie Círdan y transición a Voronwë]]
 - [[11_Ciencia y Tecnologia/Radar y Sensores|Radar y Sensores]]
+
+## Referencia AM1: 1973 y turbinas de gas
+
+- [[12_Militar/AM1 Armada 1973 — reconstrucción y turbinas]] — fuerza de referencia, clases, capacidades, armamento y ciclos de casco.
+- Turbinas navales: pruebas desde 1952–1958; series desde 1958–1965; masificación entre 1965–1970; perfeccionamiento en los años setenta.

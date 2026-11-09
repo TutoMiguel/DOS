@@ -894,3 +894,11 @@ Forostar (Helsingborg) mantiene la capitalidad política y la Casa Telcontar con
 - **2026:** inventario estructural de 615 plataformas; la disponibilidad de 449 es hipótesis, no dato medido.
 
 Ficha técnica: [[12_Militar/AM1 Armada 1875-2026|AM1 Armada 1875–2026]].
+
+## 1952–1979 — Turbinas navales y composición de la Armada en 1973
+
+- **1952–1958:** Valinor ensaya turbinas aeronáuticas adaptadas a propulsión naval, reductores, filtros de admisión y protección contra corrosión salina.
+- **1958–1965:** primeras series en lanchas, patrulleros y escoltas ligeros; nacen equipos y rutinas de cambio modular.
+- **1965–1970:** se masifica la turbina en destructores, fragatas, corbetas y lanchas; aparecen combinaciones diésel-gas para equilibrar velocidad y autonomía.
+- **1970–1979:** se perfeccionan COGOG, CODOG y CODAG, el control de planta y los intervalos de mantenimiento. El vapor permanece en portaaviones convencionales y en el ciclo secundario de los nucleares; diésel sigue en submarinos convencionales, anfibios, patrulleros de permanencia y auxiliares.
+- **1973:** reconstrucción AM1 de 421 plataformas, entre las referencias de 1960 y 1980. No representa un recuento histórico medido. Véase [[12_Militar/AM1 Armada 1973 — reconstrucción y turbinas]].
