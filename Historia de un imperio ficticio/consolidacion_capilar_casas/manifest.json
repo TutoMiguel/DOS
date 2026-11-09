@@ -1,0 +1,428 @@
+[
+  {
+    "target": "C:\\IA\\ValinARI\\Valinari\\Valinari\\09_Politica\\Casas Menores\\Casa Aerandir.md",
+    "stage": "C:\\Users\\migue\\Documents\\ChatGPT\\Historia de un imperio ficticio\\consolidacion_capilar_casas\\00.md",
+    "before": "2a3119d6e9afcbbdf76dd398e73e71e5e610f43a0bc714647e4e2fbd4a325883",
+    "after": "ff640fb4d5b764f08b2bc8dd99d6bace0a520b9a5c90dac452b5ff55f8a02711"
+  },
+  {
+    "target": "C:\\IA\\ValinARI\\Valinari\\Valinari\\09_Politica\\Casas Menores\\Casa Aglaran.md",
+    "stage": "C:\\Users\\migue\\Documents\\ChatGPT\\Historia de un imperio ficticio\\consolidacion_capilar_casas\\01.md",
+    "before": "a5ccaa8c08cc7f556fbec0f4ba00267ff4ae4695cf03f1e291fa99961a926848",
+    "after": "437209490238daded1500d1cc793f9413063215681abfbbad17a936ef188985b"
+  },
+  {
+    "target": "C:\\IA\\ValinARI\\Valinari\\Valinari\\09_Politica\\Casas Menores\\Casa Angren.md",
+    "stage": "C:\\Users\\migue\\Documents\\ChatGPT\\Historia de un imperio ficticio\\consolidacion_capilar_casas\\02.md",
+    "before": "5f1ee98465964351421db5a73841b93ea365c4c9c0e7b1edd9846088b3774879",
+    "after": "78c0c448355adee8f4afabbfebefe1fa5b7c0ec57b2c83bf482b0a448557d24d"
+  },
+  {
+    "target": "C:\\IA\\ValinARI\\Valinari\\Valinari\\09_Politica\\Casas Menores\\Casa Baranor.md",
+    "stage": "C:\\Users\\migue\\Documents\\ChatGPT\\Historia de un imperio ficticio\\consolidacion_capilar_casas\\03.md",
+    "before": "8ac87eafca423c501dc416bc2ff1ea68f7435a0e1c2ddfe183b9aeaf8cab610e",
+    "after": "96b4f2325e035cd1f513d5c4ca3a3e820b0ac12df57219bf790d473cec49e777"
+  },
+  {
+    "target": "C:\\IA\\ValinARI\\Valinari\\Valinari\\09_Politica\\Casas Menores\\Casa Belegor.md",
+    "stage": "C:\\Users\\migue\\Documents\\ChatGPT\\Historia de un imperio ficticio\\consolidacion_capilar_casas\\04.md",
+    "before": "8c90f676668f098f5804e70c613b32f36e92b1dc984bec9916d103576887f299",
+    "after": "8c8e659baa65bdf2e17d523ba410aef62b6d0a05a9edde5d9234e679f11da326"
+  },
+  {
+    "target": "C:\\IA\\ValinARI\\Valinari\\Valinari\\09_Politica\\Casas Menores\\Casa Celepharn.md",
+    "stage": "C:\\Users\\migue\\Documents\\ChatGPT\\Historia de un imperio ficticio\\consolidacion_capilar_casas\\05.md",
+    "before": "69249cb313015f4ca6ca4d2db5986cccadf5d61445fc71536b7ff3c4ef7da76c",
+    "after": "9f518fecc38e3745e10786f7788ca451620b6284e1d05bedfebe9c33fae928a6"
+  },
+  {
+    "target": "C:\\IA\\ValinARI\\Valinari\\Valinari\\09_Politica\\Casas Menores\\Casa Círdanir.md",
+    "stage": "C:\\Users\\migue\\Documents\\ChatGPT\\Historia de un imperio ficticio\\consolidacion_capilar_casas\\06.md",
+    "before": "0758c5f845137e4006cb41aed643a7f04334847fe2ea98583ae332940c244d2c",
+    "after": "e1dc385e35d531243710e8f5835a7b3c09ef64cb6c7386bfeab770f990bfafee"
+  },
+  {
+    "target": "C:\\IA\\ValinARI\\Valinari\\Valinari\\09_Politica\\Casas Menores\\Casa Duilin.md",
+    "stage": "C:\\Users\\migue\\Documents\\ChatGPT\\Historia de un imperio ficticio\\consolidacion_capilar_casas\\07.md",
+    "before": "ee478272fe22656cb6c4bd1b41267b44c4a84226e19db4b3d0ebeb61821b03da",
+    "after": "c15cdab64b15ac07cb178464ef3efc3864cb84a27fa9250d308e47aa1507e8f2"
+  },
+  {
+    "target": "C:\\IA\\ValinARI\\Valinari\\Valinari\\09_Politica\\Casas Menores\\Casa Elentir.md",
+    "stage": "C:\\Users\\migue\\Documents\\ChatGPT\\Historia de un imperio ficticio\\consolidacion_capilar_casas\\08.md",
+    "before": "0a4194db32342f0f8453fa769ca8d16f0f264686a6d9352df6427565ba9b2605",
+    "after": "ff76dc816f2ec3b66fd2bd5e7c79822b521b555993d6b0217823004ef1365f0e"
+  },
+  {
+    "target": "C:\\IA\\ValinARI\\Valinari\\Valinari\\09_Politica\\Casas Menores\\Casa Erestor.md",
+    "stage": "C:\\Users\\migue\\Documents\\ChatGPT\\Historia de un imperio ficticio\\consolidacion_capilar_casas\\09.md",
+    "before": "9dd133a832c4f59d4b8957b3b63af4ff99026a9f26debd91084235022a56ec6d",
+    "after": "a72c80a1b4fda68aa1699cde60a7b2cd6cffad0f41f8adaea89b2c15bfd0d8f2"
+  },
+  {
+    "target": "C:\\IA\\ValinARI\\Valinari\\Valinari\\09_Politica\\Casas Menores\\Casa Eärond.md",
+    "stage": "C:\\Users\\migue\\Documents\\ChatGPT\\Historia de un imperio ficticio\\consolidacion_capilar_casas\\10.md",
+    "before": "da02142923a74b73fde77d29a43bc0feaa7cc6cce360339910ac6e3e94b81e43",
+    "after": "a1142ba14fd060befa964e4bd7aee077a97010747a6a7f33bf1afdf7cd87972f"
+  },
+  {
+    "target": "C:\\IA\\ValinARI\\Valinari\\Valinari\\09_Politica\\Casas Menores\\Casa Falastur.md",
+    "stage": "C:\\Users\\migue\\Documents\\ChatGPT\\Historia de un imperio ficticio\\consolidacion_capilar_casas\\11.md",
+    "before": "eb44737a40b3fab11a939416e5d92680bf217ec98b8a836f0295a0d29dd0b2b0",
+    "after": "12dc080c1e02564b777fa13ad486a184d5f6df1d6bdbb1500d2fd3bcc73ca300"
+  },
+  {
+    "target": "C:\\IA\\ValinARI\\Valinari\\Valinari\\09_Politica\\Casas Menores\\Casa Falathar.md",
+    "stage": "C:\\Users\\migue\\Documents\\ChatGPT\\Historia de un imperio ficticio\\consolidacion_capilar_casas\\12.md",
+    "before": "ba8441f731243d0677f664734752a0166a31e85d5385d95a8cb857c9eb6f5511",
+    "after": "dee3167237c88a10483c9e44dd7c08beb33a2750f2ec9188464dfc0723030c31"
+  },
+  {
+    "target": "C:\\IA\\ValinARI\\Valinari\\Valinari\\09_Politica\\Casas Menores\\Casa Gwindor.md",
+    "stage": "C:\\Users\\migue\\Documents\\ChatGPT\\Historia de un imperio ficticio\\consolidacion_capilar_casas\\13.md",
+    "before": "bb9fa43a11d0b34264b3e7f978863a24d00b566f1330be873403434cd1067d03",
+    "after": "74458e491f1a9b019bdc18742d7b79b9d742d89755e3027768ac1d7946b516c5"
+  },
+  {
+    "target": "C:\\IA\\ValinARI\\Valinari\\Valinari\\09_Politica\\Casas Menores\\Casa Hallas.md",
+    "stage": "C:\\Users\\migue\\Documents\\ChatGPT\\Historia de un imperio ficticio\\consolidacion_capilar_casas\\14.md",
+    "before": "4df6fddc0a0128144386078043edcda2837610f00fff68600547350d6d430fd0",
+    "after": "cbb6d82ee67719756e58bb0a9e4b622da09284d603952f8757c8c5edca72a77c"
+  },
+  {
+    "target": "C:\\IA\\ValinARI\\Valinari\\Valinari\\09_Politica\\Casas Menores\\Casa Lindor.md",
+    "stage": "C:\\Users\\migue\\Documents\\ChatGPT\\Historia de un imperio ficticio\\consolidacion_capilar_casas\\15.md",
+    "before": "3d2f80ee0883096f0c519c799a2ad88e69dfb374f37ad65f61aa7ce0ca37f07f",
+    "after": "535c1c2a924103c21b659b470e7d2dcc7caedd5028a9bd7c179d59274bbd3eab"
+  },
+  {
+    "target": "C:\\IA\\ValinARI\\Valinari\\Valinari\\09_Politica\\Casas Menores\\Casa Maethor.md",
+    "stage": "C:\\Users\\migue\\Documents\\ChatGPT\\Historia de un imperio ficticio\\consolidacion_capilar_casas\\16.md",
+    "before": "d16ee6e643cc0c400616a9e2b7eb092cbd1e770d3428060241a5edf900996a74",
+    "after": "b4491a43ac56f526f3801872d252318a59bb946daecba29632809f3134984701"
+  },
+  {
+    "target": "C:\\IA\\ValinARI\\Valinari\\Valinari\\09_Politica\\Casas Menores\\Casa Meneldir.md",
+    "stage": "C:\\Users\\migue\\Documents\\ChatGPT\\Historia de un imperio ficticio\\consolidacion_capilar_casas\\17.md",
+    "before": "1ec7c1a49e18b59384e7283c073d925f3ae53f70100430ace1c9dc5d536d28de",
+    "after": "b387de501c9b94f89112490873600dc5597bc422d0446547131144475d726677"
+  },
+  {
+    "target": "C:\\IA\\ValinARI\\Valinari\\Valinari\\09_Politica\\Casas Menores\\Casa Nimrodel.md",
+    "stage": "C:\\Users\\migue\\Documents\\ChatGPT\\Historia de un imperio ficticio\\consolidacion_capilar_casas\\18.md",
+    "before": "3db6766ea467d5eabb050f4b9a8bb7d211146329d43dac866d4d21dcbe92717e",
+    "after": "a15c51fa4dfea79c7de4aa007207906d3c0659f14ba5723469f7b2e61a3e0c70"
+  },
+  {
+    "target": "C:\\IA\\ValinARI\\Valinari\\Valinari\\09_Politica\\Casas Menores\\Casa Ostor.md",
+    "stage": "C:\\Users\\migue\\Documents\\ChatGPT\\Historia de un imperio ficticio\\consolidacion_capilar_casas\\19.md",
+    "before": "1b302ad373cc06578990b614d8d51af065799960d3b5d98a3c9a3424cbeb626d",
+    "after": "ec6b2c0fe2fe7706acbf1b5ba7e92d0cfad32972200800f55fc79c78a12333f9"
+  },
+  {
+    "target": "C:\\IA\\ValinARI\\Valinari\\Valinari\\09_Politica\\Casas Menores\\Casa Tarond.md",
+    "stage": "C:\\Users\\migue\\Documents\\ChatGPT\\Historia de un imperio ficticio\\consolidacion_capilar_casas\\20.md",
+    "before": "6653ec61e0ac16fb94f3d5d4bc001fb2a784875e843e1dc52a6c7b23cc414364",
+    "after": "b3b02a80110ea5e811959a9ee48cda5ff6b26a658b18bd09e71c874ff89d801e"
+  },
+  {
+    "target": "C:\\IA\\ValinARI\\Valinari\\Valinari\\09_Politica\\Casas Menores\\Casa Thoron.md",
+    "stage": "C:\\Users\\migue\\Documents\\ChatGPT\\Historia de un imperio ficticio\\consolidacion_capilar_casas\\21.md",
+    "before": "22da79d8cd396899c062d5b08b96ad24dc11e118518dafb0346c2188a7d45f26",
+    "after": "b4bd860bcfeb4c1b0d40cf143f2a489abbfdcf45ee57847efc7feb860443718b"
+  },
+  {
+    "target": "C:\\IA\\ValinARI\\Valinari\\Valinari\\09_Politica\\Casas Menores\\Casa Tumladen.md",
+    "stage": "C:\\Users\\migue\\Documents\\ChatGPT\\Historia de un imperio ficticio\\consolidacion_capilar_casas\\22.md",
+    "before": "991b19300ff3f2ae25400a09800c44d0c6fef80631805638399fce8d3b4f733e",
+    "after": "3fae81d620e9c3938b220cbe6c17d27c4d53c88e79e86c11779a270bcb3bb3b8"
+  },
+  {
+    "target": "C:\\IA\\ValinARI\\Valinari\\Valinari\\09_Politica\\Casas Menores\\Casa Voronwë.md",
+    "stage": "C:\\Users\\migue\\Documents\\ChatGPT\\Historia de un imperio ficticio\\consolidacion_capilar_casas\\23.md",
+    "before": "57bf73f13aae79e9cbfda1bc5992e25c1826c795f58ed78024925fc1ab996e83",
+    "after": "47da14cf523e2a3794b5e7d5186cebc4605d55bb390aa58277f4838a278cc1b2"
+  },
+  {
+    "target": "C:\\IA\\ValinARI\\Valinari\\Valinari\\09_Politica\\Casas Vasallas\\Casa Aegnor.md",
+    "stage": "C:\\Users\\migue\\Documents\\ChatGPT\\Historia de un imperio ficticio\\consolidacion_capilar_casas\\24.md",
+    "before": "2481e8aa7ac4efa2feb613a646456b66fb1b8aca4c162e777c832d3051888b4b",
+    "after": "1107011b092a366a26f4a84111d7bc2976eec516c8a9af1ba839c372be639a3a"
+  },
+  {
+    "target": "C:\\IA\\ValinARI\\Valinari\\Valinari\\09_Politica\\Casas Vasallas\\Casa Amdir.md",
+    "stage": "C:\\Users\\migue\\Documents\\ChatGPT\\Historia de un imperio ficticio\\consolidacion_capilar_casas\\25.md",
+    "before": "25bdb87c1b68e5cfdfffed04b6b76fc457aec88e729c099f65bff24d50a981e4",
+    "after": "d618b2e34c4f1b0cd6b2e503ce0737b5eaf45207ec19fbfcbac7e4ba28b4ba0b"
+  },
+  {
+    "target": "C:\\IA\\ValinARI\\Valinari\\Valinari\\09_Politica\\Casas Vasallas\\Casa Amrod.md",
+    "stage": "C:\\Users\\migue\\Documents\\ChatGPT\\Historia de un imperio ficticio\\consolidacion_capilar_casas\\26.md",
+    "before": "dcbfc54c9d9ab71d75bb6e9c1b86a0a7a737a165bf13ffc4d32633571d129622",
+    "after": "fd9798677c2d1cb8d8f5421d08ba59bff400a53295d5dda754c534fce5dcaac2"
+  },
+  {
+    "target": "C:\\IA\\ValinARI\\Valinari\\Valinari\\09_Politica\\Casas Vasallas\\Casa Anardil.md",
+    "stage": "C:\\Users\\migue\\Documents\\ChatGPT\\Historia de un imperio ficticio\\consolidacion_capilar_casas\\27.md",
+    "before": "2833c14abfc4328b8a24bb6ce6bdc0d228f745d9f68702b62d0644bf0c736772",
+    "after": "8890fbbeddb462fdf4a237e03ad889a10c010a598d3db9f9c7e99c681916eea2"
+  },
+  {
+    "target": "C:\\IA\\ValinARI\\Valinari\\Valinari\\09_Politica\\Casas Vasallas\\Casa Araphor.md",
+    "stage": "C:\\Users\\migue\\Documents\\ChatGPT\\Historia de un imperio ficticio\\consolidacion_capilar_casas\\28.md",
+    "before": "1658e8769d44114c4cce9807d45295cdf68bc26ed4744a4cbfc47357a6883aaf",
+    "after": "7d91d260ef58ebfdd5d7b7ef00b567a5b4933a35adbdf5ffe79dfacbd15c30f8"
+  },
+  {
+    "target": "C:\\IA\\ValinARI\\Valinari\\Valinari\\09_Politica\\Casas Vasallas\\Casa Ardamir.md",
+    "stage": "C:\\Users\\migue\\Documents\\ChatGPT\\Historia de un imperio ficticio\\consolidacion_capilar_casas\\29.md",
+    "before": "196ef0321f83640825dde5e9190ac7cf1806055160df5ff02f9d463c2a2dfa22",
+    "after": "d537c0b47748a5ae994fdbd1de7a62032e436b396cb6c12d42db8709448cd89d"
+  },
+  {
+    "target": "C:\\IA\\ValinARI\\Valinari\\Valinari\\09_Politica\\Casas Vasallas\\Casa Barahir.md",
+    "stage": "C:\\Users\\migue\\Documents\\ChatGPT\\Historia de un imperio ficticio\\consolidacion_capilar_casas\\30.md",
+    "before": "3231e549870964ad4a43df4b85b66b7597279b70a7659bac646ddcbd29c85ca2",
+    "after": "9845b3aefe59252a9ceaecab6d51731f1df1a280aeab83766024d874190a66f3"
+  },
+  {
+    "target": "C:\\IA\\ValinARI\\Valinari\\Valinari\\09_Politica\\Casas Vasallas\\Casa Belegund.md",
+    "stage": "C:\\Users\\migue\\Documents\\ChatGPT\\Historia de un imperio ficticio\\consolidacion_capilar_casas\\31.md",
+    "before": "ecdf42fd4147cfffe5785588376503def9f612d9f149a3edcda3f22354473d55",
+    "after": "196969549bd4c187e55f587c8ed30ab145b78807367cbad2f72b939e047cd54f"
+  },
+  {
+    "target": "C:\\IA\\ValinARI\\Valinari\\Valinari\\09_Politica\\Casas Vasallas\\Casa Brandir.md",
+    "stage": "C:\\Users\\migue\\Documents\\ChatGPT\\Historia de un imperio ficticio\\consolidacion_capilar_casas\\32.md",
+    "before": "7847f16a07870e40e93bd83097ed4da3f3889da741ab57c82e6b19c3288caeb6",
+    "after": "476c35be9bcc2051e4ac4ec5cd054041fd37266bd8a9e7b6243949159f120fa9"
+  },
+  {
+    "target": "C:\\IA\\ValinARI\\Valinari\\Valinari\\09_Politica\\Casas Vasallas\\Casa Calenard.md",
+    "stage": "C:\\Users\\migue\\Documents\\ChatGPT\\Historia de un imperio ficticio\\consolidacion_capilar_casas\\33.md",
+    "before": "9b916860cb5df298642e59d62552d61be1636f6013041ca8151032be8db1339c",
+    "after": "c7403f99e0c4b05bbbc8d7f9ad48c135e676990478d7ab1dbaaaccb3a5888152"
+  },
+  {
+    "target": "C:\\IA\\ValinARI\\Valinari\\Valinari\\09_Politica\\Casas Vasallas\\Casa Dírhael.md",
+    "stage": "C:\\Users\\migue\\Documents\\ChatGPT\\Historia de un imperio ficticio\\consolidacion_capilar_casas\\34.md",
+    "before": "2a733240684a4d6a6fb52d99e69a7e4fbebe8cbee94cafbcd21b7e24d608359e",
+    "after": "91a6ac80273375170a726d537ee8a982f002f8089a39dda394b2e4d91f07e0d6"
+  },
+  {
+    "target": "C:\\IA\\ValinARI\\Valinari\\Valinari\\09_Politica\\Casas Vasallas\\Casa Ecthelion.md",
+    "stage": "C:\\Users\\migue\\Documents\\ChatGPT\\Historia de un imperio ficticio\\consolidacion_capilar_casas\\35.md",
+    "before": "03ef687912df9e99209a103056f996b3b0033903d5ae1ad91462a684f874f26d",
+    "after": "1f0027218baec130b75aed9bb8c0e3c9100aa9e29ba32892b5ccb374764e0f2f"
+  },
+  {
+    "target": "C:\\IA\\ValinARI\\Valinari\\Valinari\\09_Politica\\Casas Vasallas\\Casa Erchirion.md",
+    "stage": "C:\\Users\\migue\\Documents\\ChatGPT\\Historia de un imperio ficticio\\consolidacion_capilar_casas\\36.md",
+    "before": "19cd1037a8643eabe876c2461c03a2a964c1847fca561971745759e1145e788b",
+    "after": "5332e6a8bdcf86e637b53a58ff8fc63184b8035c2dff7f5d449d55457bb7a21e"
+  },
+  {
+    "target": "C:\\IA\\ValinARI\\Valinari\\Valinari\\09_Politica\\Casas Vasallas\\Casa Erellont.md",
+    "stage": "C:\\Users\\migue\\Documents\\ChatGPT\\Historia de un imperio ficticio\\consolidacion_capilar_casas\\37.md",
+    "before": "6bac6bf438a292bacaaf56497c814076462203df8093a230b6892b865a7c70a5",
+    "after": "708059907d6a51530e4a15047cb7596304bb35296ef71de4fe59f1e8fb1e8366"
+  },
+  {
+    "target": "C:\\IA\\ValinARI\\Valinari\\Valinari\\09_Politica\\Casas Vasallas\\Casa Estelmo.md",
+    "stage": "C:\\Users\\migue\\Documents\\ChatGPT\\Historia de un imperio ficticio\\consolidacion_capilar_casas\\38.md",
+    "before": "430d0d36e69f2af735ecd2ef41243312f7a0f6175e1eddca20f1abc45f9f48ac",
+    "after": "61461bc61fb003509a2da2d9f3041b069df71ea80ce1a1e97c4c92e7f607263f"
+  },
+  {
+    "target": "C:\\IA\\ValinARI\\Valinari\\Valinari\\09_Politica\\Casas Vasallas\\Casa Findegil.md",
+    "stage": "C:\\Users\\migue\\Documents\\ChatGPT\\Historia de un imperio ficticio\\consolidacion_capilar_casas\\39.md",
+    "before": "36ff9b32a9012685e666f1c5f32c92c19b2828dfae9effaee99468d3f9eb80dd",
+    "after": "afb02fb0f8196167d8670a175d10c8b6f25769fc4a1e3f5d90b59eb4e6a7b2ff"
+  },
+  {
+    "target": "C:\\IA\\ValinARI\\Valinari\\Valinari\\09_Politica\\Casas Vasallas\\Casa Folcred.md",
+    "stage": "C:\\Users\\migue\\Documents\\ChatGPT\\Historia de un imperio ficticio\\consolidacion_capilar_casas\\40.md",
+    "before": "d039a208bb119571ebad053ccb3d91304806738f87cfb6e080632f2e933fa891",
+    "after": "5458e06201891fa9d807fa185a85e8969aee7fcf054adc5a298911e458a52e6c"
+  },
+  {
+    "target": "C:\\IA\\ValinARI\\Valinari\\Valinari\\09_Politica\\Casas Vasallas\\Casa Forlong.md",
+    "stage": "C:\\Users\\migue\\Documents\\ChatGPT\\Historia de un imperio ficticio\\consolidacion_capilar_casas\\41.md",
+    "before": "a353f8eb71e3a7ab0baa5125b5efd51cb20f3d41d47ade29e90dfc527ebe1ed5",
+    "after": "d5f1e5253bc2db763de77e6fec6438f9cc2b5169c595768544d70b516b76e95d"
+  },
+  {
+    "target": "C:\\IA\\ValinARI\\Valinari\\Valinari\\09_Politica\\Casas Vasallas\\Casa Galdor.md",
+    "stage": "C:\\Users\\migue\\Documents\\ChatGPT\\Historia de un imperio ficticio\\consolidacion_capilar_casas\\42.md",
+    "before": "20730ed26635ba30f85ee4192d7e6771bea042aa7e0904476f48b66a85085edb",
+    "after": "322f0f3f71393be30df5069f5db65bfd3010baef732b53892eaf4b68daecf7fb"
+  },
+  {
+    "target": "C:\\IA\\ValinARI\\Valinari\\Valinari\\09_Politica\\Casas Vasallas\\Casa Hador.md",
+    "stage": "C:\\Users\\migue\\Documents\\ChatGPT\\Historia de un imperio ficticio\\consolidacion_capilar_casas\\43.md",
+    "before": "c70f25bed9b54c4fc67d2ea486d1b38f717dd71eb795c41266b7af4b403d25df",
+    "after": "bd70c5ffcbaa416dc9ff18fbc005412eef9b8cce8d037288882a136170e2200f"
+  },
+  {
+    "target": "C:\\IA\\ValinARI\\Valinari\\Valinari\\09_Politica\\Casas Vasallas\\Casa Hareth.md",
+    "stage": "C:\\Users\\migue\\Documents\\ChatGPT\\Historia de un imperio ficticio\\consolidacion_capilar_casas\\44.md",
+    "before": "1c50e70da2cb88acc9321424a9ec24afba97be2b55334bb4f349605704ff0946",
+    "after": "9305764411e1040af66e61076c12ace79e921f86c47f9e22468ea223e50d6274"
+  },
+  {
+    "target": "C:\\IA\\ValinARI\\Valinari\\Valinari\\09_Politica\\Casas Vasallas\\Casa Harlind.md",
+    "stage": "C:\\Users\\migue\\Documents\\ChatGPT\\Historia de un imperio ficticio\\consolidacion_capilar_casas\\45.md",
+    "before": "98f895df95b99c1a36fdb94e7f4ccba02905f5948aef9e890cc00ba22b0ef8b0",
+    "after": "c17add055a047d8c35f860f9489bcc248d45b492e47114f2122e2e4226b63ec4"
+  },
+  {
+    "target": "C:\\IA\\ValinARI\\Valinari\\Valinari\\09_Politica\\Casas Vasallas\\Casa Imrahil.md",
+    "stage": "C:\\Users\\migue\\Documents\\ChatGPT\\Historia de un imperio ficticio\\consolidacion_capilar_casas\\46.md",
+    "before": "27cdb5866a4d6cf6a5361087b99a7f3d154549baabce18b775db07d6540b8819",
+    "after": "6364a6a0b1e58feecebdbb64e99a2c85f7435f4be881fae980bf775c7b292071"
+  },
+  {
+    "target": "C:\\IA\\ValinARI\\Valinari\\Valinari\\09_Politica\\Casas Vasallas\\Casa Iorlas.md",
+    "stage": "C:\\Users\\migue\\Documents\\ChatGPT\\Historia de un imperio ficticio\\consolidacion_capilar_casas\\47.md",
+    "before": "dbd5d60313a64a3d407dfe21521ecb5250cfb71941df0a6aaa49d60e3783c0b1",
+    "after": "d0a4db84e0cabc6a75b2fd30589f843d0290b5111af97932a118dacfba34aa3e"
+  },
+  {
+    "target": "C:\\IA\\ValinARI\\Valinari\\Valinari\\09_Politica\\Casas Vasallas\\Casa Malbeth.md",
+    "stage": "C:\\Users\\migue\\Documents\\ChatGPT\\Historia de un imperio ficticio\\consolidacion_capilar_casas\\48.md",
+    "before": "a48244a76c6853a47060ac900f5b1460c0c49f6af9e4a0cddd742f1f21218961",
+    "after": "10ef89b512862f848c8adb10d02387f301e3e5c6a51f53cf4455a22af413a9f7"
+  },
+  {
+    "target": "C:\\IA\\ValinARI\\Valinari\\Valinari\\09_Politica\\Casas Vasallas\\Casa Ohtar.md",
+    "stage": "C:\\Users\\migue\\Documents\\ChatGPT\\Historia de un imperio ficticio\\consolidacion_capilar_casas\\49.md",
+    "before": "9316d48e6a9bc02f78931eb7b280126a4044b563aa82689e08964f79e9ac3ca4",
+    "after": "fa3a7fbfc2bf3fe5f3200e08a69db18de142a4299849c43d02cdda13372e4438"
+  },
+  {
+    "target": "C:\\IA\\ValinARI\\Valinari\\Valinari\\09_Politica\\Casas Vasallas\\Casa Oropher.md",
+    "stage": "C:\\Users\\migue\\Documents\\ChatGPT\\Historia de un imperio ficticio\\consolidacion_capilar_casas\\50.md",
+    "before": "5cf3cb4355fd45f74f1b59d941b5d56d59f18a27a0cf8aefbde147396b4ff1a5",
+    "after": "8ef546c7d74ed8805510c268f1df845644b40fd20675a107918b5ac6b5289048"
+  },
+  {
+    "target": "C:\\IA\\ValinARI\\Valinari\\Valinari\\09_Politica\\Casas Vasallas\\Casa Rúmilion.md",
+    "stage": "C:\\Users\\migue\\Documents\\ChatGPT\\Historia de un imperio ficticio\\consolidacion_capilar_casas\\51.md",
+    "before": "60f3226aededb2cc4807653e763b72e9e903da7bbaf44cf3abf831c46cb00d6f",
+    "after": "f9ece015d44f488a0cd9d4d87dbd0302723dd134b2e25aac844e534f5bd285ed"
+  },
+  {
+    "target": "C:\\IA\\ValinARI\\Valinari\\Valinari\\09_Politica\\Casas Vasallas\\Casa Saeros.md",
+    "stage": "C:\\Users\\migue\\Documents\\ChatGPT\\Historia de un imperio ficticio\\consolidacion_capilar_casas\\52.md",
+    "before": "36b4305b77ea2451acc077b97ae3166224b549d8c99c249129d8470e432ab884",
+    "after": "2c6bfb209860e1586f69590d2810715dfe4fc08646590096219ac262e016c782"
+  },
+  {
+    "target": "C:\\IA\\ValinARI\\Valinari\\Valinari\\09_Politica\\Casas Vasallas\\Casa Targon.md",
+    "stage": "C:\\Users\\migue\\Documents\\ChatGPT\\Historia de un imperio ficticio\\consolidacion_capilar_casas\\53.md",
+    "before": "990f5e3e73152346f23d80ac7ab338c83bb5629ed3c2fadcb9978ddd0b2ce688",
+    "after": "a9aefc5abfdb5fc6a8599d1ca3a053e4e54c3babc0af7e1a425ac16a353732e6"
+  },
+  {
+    "target": "C:\\IA\\ValinARI\\Valinari\\Valinari\\09_Politica\\Casas Vasallas\\Casa Tuor.md",
+    "stage": "C:\\Users\\migue\\Documents\\ChatGPT\\Historia de un imperio ficticio\\consolidacion_capilar_casas\\54.md",
+    "before": "1474797473bbde0ac92056f187664927ea0746bdadbf984d3b222d1f1a6db5c7",
+    "after": "68843dc9369e127c444bc874aba3aa9bde0d5b7bdd51b32b5acc413cf1721869"
+  },
+  {
+    "target": "C:\\IA\\ValinARI\\Valinari\\Valinari\\09_Politica\\Casas Vasallas\\Casa Vorondil.md",
+    "stage": "C:\\Users\\migue\\Documents\\ChatGPT\\Historia de un imperio ficticio\\consolidacion_capilar_casas\\55.md",
+    "before": "1b3fa86e0a239a2f850824dcbdf28932b23bf9c9ad65628341c39b64d47ca0cd",
+    "after": "35fa1ca2a76c41c03caad6fa613f62f822222ba711b31473bfa8c82c92ef34e2"
+  },
+  {
+    "target": "C:\\IA\\ValinARI\\Valinari\\Valinari\\09_Politica\\Casas Vasallas\\Casa Wídfara.md",
+    "stage": "C:\\Users\\migue\\Documents\\ChatGPT\\Historia de un imperio ficticio\\consolidacion_capilar_casas\\56.md",
+    "before": "436f6404a3421e2946ce5be13fa915c50f9fd5db717c8a6e1d6988c2b2e9952b",
+    "after": "70cc8d1a41ca7c781585094db0094db62d879b6255cbe88af2a5ef496d609600"
+  },
+  {
+    "target": "C:\\IA\\ValinARI\\Valinari\\Valinari\\09_Politica\\Casas Vasallas\\Casa Yavannor.md",
+    "stage": "C:\\Users\\migue\\Documents\\ChatGPT\\Historia de un imperio ficticio\\consolidacion_capilar_casas\\57.md",
+    "before": "e1f7de3dece7660a844448ba6dde36a494bfc49f01921817ce9667eb3a4b977c",
+    "after": "cd614de64adebbea3b0dc1ace95958808bd6c5806f5a167ff311479cc882a304"
+  },
+  {
+    "target": "C:\\IA\\ValinARI\\Valinari\\Valinari\\09_Politica\\Casas Vasallas\\Casa Zirin.md",
+    "stage": "C:\\Users\\migue\\Documents\\ChatGPT\\Historia de un imperio ficticio\\consolidacion_capilar_casas\\58.md",
+    "before": "ebd933bfdc8c53caa5c91567df8596dd94b40b64bbf607c0ad34bf75487504e9",
+    "after": "d814ab73e7a3b08f1e21dcc067da0e7c1feb9f415ed2e3d604de60633ffc26b4"
+  },
+  {
+    "target": "C:\\IA\\ValinARI\\Valinari\\Valinari\\09_Politica\\Registro de representantes de las Casas.md",
+    "stage": "C:\\Users\\migue\\Documents\\ChatGPT\\Historia de un imperio ficticio\\consolidacion_capilar_casas\\59.md",
+    "before": null,
+    "after": "6e781c5d9d8a830279ff5d70d85faea322c9ea95e5c3bf85c49e023c28d7388c"
+  },
+  {
+    "target": "C:\\IA\\ValinARI\\Valinari\\Valinari\\09_Politica\\Perfil Fenotípico\\Casas Mayores.md",
+    "stage": "C:\\Users\\migue\\Documents\\ChatGPT\\Historia de un imperio ficticio\\consolidacion_capilar_casas\\60.md",
+    "before": "27bbcf3247d2e4a195bf8262a16e0ae97dbc4b3036f338bf97d7867f6417d14f",
+    "after": "a133f95ceba323762fc42854acea24384709b86b7c3dc47e2760747dd1a2597c"
+  },
+  {
+    "target": "C:\\IA\\ValinARI\\Valinari\\Valinari\\09_Politica\\Perfil Fenotípico\\Casas Menores.md",
+    "stage": "C:\\Users\\migue\\Documents\\ChatGPT\\Historia de un imperio ficticio\\consolidacion_capilar_casas\\61.md",
+    "before": "0a1070f539274906df7d96e5ee6a4760bb260c41a6c5d8af451d4b5b47bffe40",
+    "after": "52cf38ac3ef5ffeef1f813f1c46163ef5b7652d9c4160d820f8f61c67eeb58da"
+  },
+  {
+    "target": "C:\\IA\\ValinARI\\Valinari\\Valinari\\09_Politica\\Perfil Fenotípico\\Casas Vasallas.md",
+    "stage": "C:\\Users\\migue\\Documents\\ChatGPT\\Historia de un imperio ficticio\\consolidacion_capilar_casas\\62.md",
+    "before": "260857c35e972b20abc27ab11819b7a9422bdd2a98d87cad42da9282b22da063",
+    "after": "245f8a68d4f2086c0009f29eb51c17f662d7164dabc414a39896acf8925e9ed2"
+  },
+  {
+    "target": "C:\\IA\\ValinARI\\Valinari\\Valinari\\09_Politica\\Perfil Fenotípico\\Perfil Fenotípico del reino.md",
+    "stage": "C:\\Users\\migue\\Documents\\ChatGPT\\Historia de un imperio ficticio\\consolidacion_capilar_casas\\63.md",
+    "before": "b07935b9814c072a2cee1e095f46ffc773eb00f38dd49dc90c3cd6e02e2693fe",
+    "after": "593204e902a8812e46b3a9b8d40c0b8faf67ee57750917eef3fa9b6f62b04eea"
+  },
+  {
+    "target": "C:\\Users\\migue\\Documents\\ChatGPT\\Historia de un imperio ficticio\\Canon V16 Maestro.md",
+    "stage": "C:\\Users\\migue\\Documents\\ChatGPT\\Historia de un imperio ficticio\\consolidacion_capilar_casas\\64.md",
+    "before": "ede2b5f91273e11cfc2950a173cd90ab2fd3eee8d17790d04676ebe9461bc782",
+    "after": "bf7d0f81464e9c0e7493ed331eeba3ad9995ab65e80c4e3530297734cf855a12"
+  },
+  {
+    "target": "C:\\IA\\ValinARI\\Valinari\\Valinari\\00_Canon\\Canon V16 Maestro.md",
+    "stage": "C:\\Users\\migue\\Documents\\ChatGPT\\Historia de un imperio ficticio\\consolidacion_capilar_casas\\65.md",
+    "before": "78bb37270f72eb9551411eb3e7ffc478d0b4c66bd9cbd738a2418f455586d064",
+    "after": "5d666751b93d743da5ee3b90f5a840d01793e21e104b98b3c60a8b9508cd14c9"
+  },
+  {
+    "target": "C:\\IA\\ValinARI\\Valinari\\Valinari\\09_Politica\\Distribución capilar de las nueve Casas Mayores pendientes.md",
+    "stage": "C:\\Users\\migue\\Documents\\ChatGPT\\Historia de un imperio ficticio\\consolidacion_capilar_casas\\66.md",
+    "before": "e37d95c2d64d90590f50e6e39d983d67b24d23aa67024eb2587d67d25172aa3c",
+    "after": "90848a4125cb930b3782468c36c7b4295884d1611d1af9d0fcf6d9e48c11ee04"
+  },
+  {
+    "target": "C:\\IA\\ValinARI\\Valinari\\Valinari\\01_Cronologia\\Cronología Territorial V16.md",
+    "stage": "C:\\Users\\migue\\Documents\\ChatGPT\\Historia de un imperio ficticio\\consolidacion_capilar_casas\\67.md",
+    "before": "48466b74fa23511bd559a9e210077b26b0041e04ee4b939688a065a936fd1845",
+    "after": "e9c448d057c452edff31ca2aa092360f9ef3792b80c7541a89c4f31909940772"
+  },
+  {
+    "target": "C:\\IA\\ValinARI\\Valinari\\Valinari\\00_Canon\\Registro de Cambios.md",
+    "stage": "C:\\Users\\migue\\Documents\\ChatGPT\\Historia de un imperio ficticio\\consolidacion_capilar_casas\\68.md",
+    "before": "50be798c999f497220486aa699f9411d1dc40161049acb19d116c74c7c1c8701",
+    "after": "19195b40acc5e3517b970c9ca147080ae562ab55144462ac83946fa880837649"
+  },
+  {
+    "target": "C:\\IA\\ValinARI\\Valinari\\Valinari\\09_Politica\\Auditoría de Prompts Visuales de las Casas.md",
+    "stage": "C:\\Users\\migue\\Documents\\ChatGPT\\Historia de un imperio ficticio\\consolidacion_capilar_casas\\69.md",
+    "before": "042027194f8eb05b4d239b46f4fc41d1be749a58066250734046c6f0449a2f4d",
+    "after": "5b14fb72f75d6832a1f9ab7d5b4df8444aacf8f1c8f4ca756c83a07040b0e75e"
+  },
+  {
+    "target": "C:\\IA\\ValinARI\\Valinari\\Valinari\\09_Politica\\Índice de Casas Nobles.md",
+    "stage": "C:\\Users\\migue\\Documents\\ChatGPT\\Historia de un imperio ficticio\\consolidacion_capilar_casas\\70.md",
+    "before": "c2e49b8393413506c6421e6383f07f221194b4c266a6ad5733881254f4c8f8cd",
+    "after": "e23857981ab80ae6607cc65a9932498cc830c78cad5c7a55535218a8d96d5339"
+  }
+]

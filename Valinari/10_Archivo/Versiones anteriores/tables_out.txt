@@ -1,0 +1,61 @@
+TABLE 1
+Estado federado | Población vigente
+Valinor (isla ficticia del Atlántico central) | 13 750 000
+Tol Eressëa (isla ficticia del Atlántico central) | 5 100 000
+Systreyjar (Azores y Madeira) | 4 100 000
+Nosselië Toliva (Islas Canarias) | 7 900 000
+Númenor (Terranova/Newfoundland) | 5 644 000
+Venezuela Federal | 57 126 000
+Provincia del Orinoco | 27 190 000
+Sírënandë (Guyana y Surinam) | 16 150 000
+Panamá | 14 047 000
+Colombia Costera | 24 071 000
+Trinidad | 3 500 000
+Tobago | 800 000
+Bermudas | 600 000
+Bahamas | 1 306 000
+Barbados | 1 600 000
+Malaca (Melaka, Malasia) | 28 000 000
+Hawaiʻi (Hawái) | 5 211 000
+Fiyi | 3 007 000
+Polinesia | 4 300 000
+Micronesia | 2 300 000
+Total estatal | 225 702 000
+TABLE 2
+Unidad no estatal | Población censal vigente
+Distrito ABC (Aruba, Bonaire y Curaçao) | 334 000
+Distrito Oriental (Antillas Menores no asignadas a otros estados o distritos) | 1 670 000
+Distrito Granadino (Grenada) | 134 000
+Región Autónoma Insular Occidental (Cuba, Jamaica, Caimán y Turcas y Caicos) | 15 952 000
+Protectorado Asociado de Tonga | 115 000
+Andúnië Austral (ciudad federal en el Estrecho de Magallanes) | 1 100 000
+Gibraltar (dependencia científico-estratégica) | 43 000
+Subtotal no estatal | 19 348 000
+Población federal total | 245 050 000
+TABLE 34
+Unidad no estatal | Población canónica revisada
+Distrito ABC | 700 000
+Distrito Oriental | 4 000 000
+Distrito Granadino | 300 000
+Región Autónoma Insular Occidental | 12 900 000
+Protectorado Asociado de Tonga | 300 000
+Ciudad Federal de Andúnië Austral | 1 100 000
+Dependencias científico-estratégicas adicionales | 0 con asignación censal independiente; nodos existentes, población por determinar
+Total no estatal adicional | 19 300 000
+TABLE 40
+Componente del censo 2026 | Población revisada
+Estados Federados, incluidos los ajustes de población en tránsito ya distribuidos | 225 702 000
+Unidades no estatales, incluida Andúnië Austral | 19 348 000
+Población federal total | 245 050 000
+TABLE 47
+Componente fuera del Núcleo Histórico | Población 2026
+Residentes de Venezuela Federal fuera de las zonas del núcleo | 45 452 000
+Residentes de Provincia del Orinoco fuera de las zonas del núcleo | 21 633 000
+Residentes de Sírënandë fuera de las zonas del núcleo | 12 850 000
+Residentes de Panamá fuera de las zonas del núcleo | 11 176 000
+Residentes de Colombia Costera fuera de las zonas del núcleo | 19 152 000
+Númenor (Terranova/Newfoundland) | 5 644 000
+Malaca (Melaka, Malasia) | 28 000 000
+Andúnië Austral (distrito arrendado en el Estrecho de Magallanes) | 1 100 000
+Gibraltar (territorio dependiente) | 43 000
+Total | 145 050 000

@@ -1,0 +1,423 @@
+{
+  "seed": "14884384663814255472",
+  "algorithm": "Permutaciones independientes por sexo de paletas con recuentos fijados; sin resorteo.",
+  "replaced_male_brown_source": [
+    "Angren",
+    "Thoron"
+  ],
+  "white_split": {
+    "female": 2,
+    "male": 1
+  },
+  "major_seed": "4751585228256366677",
+  "allocation": [
+    {
+      "name": "Harlond",
+      "male": "pelirrojo",
+      "female": "rubio muy claro",
+      "category": "Casa Mayor"
+    },
+    {
+      "name": "Harnost",
+      "male": "rubio dorado",
+      "female": "rubio claro",
+      "category": "Casa Mayor"
+    },
+    {
+      "name": "Minas Anor",
+      "male": "rubio ceniza",
+      "female": "rubio ceniza",
+      "category": "Casa Mayor"
+    },
+    {
+      "name": "Mithlond",
+      "male": "rubio oscuro",
+      "female": "rubio dorado",
+      "category": "Casa Mayor"
+    },
+    {
+      "name": "Pelargir",
+      "male": "rubio ceniza",
+      "female": "pelirrojo",
+      "category": "Casa Mayor"
+    },
+    {
+      "name": "Rhunost",
+      "male": "pelirrojo",
+      "female": "rubio ceniza",
+      "category": "Casa Mayor"
+    },
+    {
+      "name": "Taur-en-Mor",
+      "male": "rubio claro",
+      "female": "pelirrojo",
+      "category": "Casa Mayor"
+    },
+    {
+      "name": "Teleri",
+      "male": "rubio platino",
+      "female": "rubio oscuro",
+      "category": "Casa Mayor"
+    },
+    {
+      "name": "Vanyar",
+      "male": "rubio muy claro",
+      "female": "rubio platino",
+      "category": "Casa Mayor"
+    },
+    {
+      "name": "Aerandir",
+      "category": "Casa Menor",
+      "male": "rubio claro",
+      "female": "castaño claro"
+    },
+    {
+      "name": "Aglaran",
+      "category": "Casa Menor",
+      "male": "rubio ceniza",
+      "female": "rubio ceniza"
+    },
+    {
+      "name": "Angren",
+      "category": "Casa Menor",
+      "male": "rubio dorado",
+      "female": "rubio ceniza"
+    },
+    {
+      "name": "Baranor",
+      "category": "Casa Menor",
+      "male": "rubio platino",
+      "female": "rubio claro"
+    },
+    {
+      "name": "Belegor",
+      "category": "Casa Menor",
+      "male": "rubio dorado",
+      "female": "pelirrojo"
+    },
+    {
+      "name": "Celepharn",
+      "category": "Casa Menor",
+      "male": "rubio dorado",
+      "female": "rubio platino"
+    },
+    {
+      "name": "Círdanir",
+      "category": "Casa Menor",
+      "male": "rubio muy claro",
+      "female": "castaño claro"
+    },
+    {
+      "name": "Duilin",
+      "category": "Casa Menor",
+      "male": "pelirrojo",
+      "female": "rubio dorado"
+    },
+    {
+      "name": "Elentir",
+      "category": "Casa Menor",
+      "male": "rubio ceniza",
+      "female": "rubio muy claro"
+    },
+    {
+      "name": "Erestor",
+      "category": "Casa Menor",
+      "male": "rubio ceniza",
+      "female": "rubio ceniza"
+    },
+    {
+      "name": "Eärond",
+      "category": "Casa Menor",
+      "male": "rubio oscuro",
+      "female": "rubio claro"
+    },
+    {
+      "name": "Falastur",
+      "category": "Casa Menor",
+      "male": "rubio oscuro",
+      "female": "rubio platino"
+    },
+    {
+      "name": "Falathar",
+      "category": "Casa Menor",
+      "male": "pelirrojo",
+      "female": "rubio oscuro"
+    },
+    {
+      "name": "Gwindor",
+      "category": "Casa Menor",
+      "male": "rubio claro",
+      "female": "rubio dorado"
+    },
+    {
+      "name": "Hallas",
+      "category": "Casa Menor",
+      "male": "rubio claro",
+      "female": "pelirrojo"
+    },
+    {
+      "name": "Lindor",
+      "category": "Casa Menor",
+      "male": "rubio muy claro",
+      "female": "rubio claro"
+    },
+    {
+      "name": "Maethor",
+      "category": "Casa Menor",
+      "male": "rubio ceniza",
+      "female": "pelirrojo"
+    },
+    {
+      "name": "Meneldir",
+      "category": "Casa Menor",
+      "male": "castaño claro",
+      "female": "castaño claro"
+    },
+    {
+      "name": "Nimrodel",
+      "category": "Casa Menor",
+      "male": "rubio claro",
+      "female": "rubio claro"
+    },
+    {
+      "name": "Ostor",
+      "category": "Casa Menor",
+      "male": "rubio dorado",
+      "female": "rubio claro"
+    },
+    {
+      "name": "Tarond",
+      "category": "Casa Menor",
+      "male": "rubio platino",
+      "female": "rubio claro"
+    },
+    {
+      "name": "Thoron",
+      "category": "Casa Menor",
+      "male": "rubio claro",
+      "female": "rubio oscuro"
+    },
+    {
+      "name": "Tumladen",
+      "category": "Casa Menor",
+      "male": "rubio claro",
+      "female": "rubio dorado"
+    },
+    {
+      "name": "Voronwë",
+      "category": "Casa Menor",
+      "male": "rubio ceniza",
+      "female": "rubio muy claro"
+    },
+    {
+      "name": "Aegnor",
+      "category": "Casa Vasalla",
+      "male": "rubio dorado",
+      "female": "rubio oscuro"
+    },
+    {
+      "name": "Amdir",
+      "category": "Casa Vasalla",
+      "male": "rubio ceniza",
+      "female": "rubio ceniza"
+    },
+    {
+      "name": "Amrod",
+      "category": "Casa Vasalla",
+      "male": "rubio ceniza",
+      "female": "rubio dorado"
+    },
+    {
+      "name": "Anardil",
+      "category": "Casa Vasalla",
+      "male": "rubio dorado",
+      "female": "castaño claro"
+    },
+    {
+      "name": "Araphor",
+      "category": "Casa Vasalla",
+      "male": "rubio muy claro",
+      "female": "rubio claro"
+    },
+    {
+      "name": "Ardamir",
+      "category": "Casa Vasalla",
+      "male": "rubio oscuro",
+      "female": "pelirrojo"
+    },
+    {
+      "name": "Barahir",
+      "category": "Casa Vasalla",
+      "male": "rubio ceniza",
+      "female": "rubio muy claro"
+    },
+    {
+      "name": "Belegund",
+      "category": "Casa Vasalla",
+      "male": "rubio muy claro",
+      "female": "rubio muy claro"
+    },
+    {
+      "name": "Brandir",
+      "category": "Casa Vasalla",
+      "male": "rubio dorado",
+      "female": "rubio claro"
+    },
+    {
+      "name": "Calenard",
+      "category": "Casa Vasalla",
+      "male": "pelirrojo",
+      "female": "rubio ceniza"
+    },
+    {
+      "name": "Dírhael",
+      "category": "Casa Vasalla",
+      "male": "rubio platinado blanco",
+      "female": "rubio claro"
+    },
+    {
+      "name": "Ecthelion",
+      "category": "Casa Vasalla",
+      "male": "rubio oscuro",
+      "female": "rubio claro"
+    },
+    {
+      "name": "Erchirion",
+      "category": "Casa Vasalla",
+      "male": "rubio dorado",
+      "female": "rubio dorado"
+    },
+    {
+      "name": "Erellont",
+      "category": "Casa Vasalla",
+      "male": "rubio oscuro",
+      "female": "rubio muy claro"
+    },
+    {
+      "name": "Estelmo",
+      "category": "Casa Vasalla",
+      "male": "rubio claro",
+      "female": "castaño claro"
+    },
+    {
+      "name": "Findegil",
+      "category": "Casa Vasalla",
+      "male": "rubio claro",
+      "female": "rubio oscuro"
+    },
+    {
+      "name": "Folcred",
+      "category": "Casa Vasalla",
+      "male": "rubio claro",
+      "female": "rubio oscuro"
+    },
+    {
+      "name": "Forlong",
+      "category": "Casa Vasalla",
+      "male": "rubio ceniza",
+      "female": "rubio muy claro"
+    },
+    {
+      "name": "Galdor",
+      "category": "Casa Vasalla",
+      "male": "rubio oscuro",
+      "female": "rubio claro"
+    },
+    {
+      "name": "Hador",
+      "category": "Casa Vasalla",
+      "male": "rubio ceniza",
+      "female": "rubio oscuro"
+    },
+    {
+      "name": "Hareth",
+      "category": "Casa Vasalla",
+      "male": "rubio claro",
+      "female": "rubio ceniza"
+    },
+    {
+      "name": "Harlind",
+      "category": "Casa Vasalla",
+      "male": "pelirrojo",
+      "female": "rubio oscuro"
+    },
+    {
+      "name": "Imrahil",
+      "category": "Casa Vasalla",
+      "male": "rubio claro",
+      "female": "rubio claro"
+    },
+    {
+      "name": "Iorlas",
+      "category": "Casa Vasalla",
+      "male": "rubio muy claro",
+      "female": "castaño claro"
+    },
+    {
+      "name": "Malbeth",
+      "category": "Casa Vasalla",
+      "male": "rubio dorado",
+      "female": "pelirrojo"
+    },
+    {
+      "name": "Ohtar",
+      "category": "Casa Vasalla",
+      "male": "castaño oscuro",
+      "female": "rubio platinado blanco"
+    },
+    {
+      "name": "Oropher",
+      "category": "Casa Vasalla",
+      "male": "rubio ceniza",
+      "female": "rubio ceniza"
+    },
+    {
+      "name": "Rúmilion",
+      "category": "Casa Vasalla",
+      "male": "rubio muy claro",
+      "female": "rubio dorado"
+    },
+    {
+      "name": "Saeros",
+      "category": "Casa Vasalla",
+      "male": "rubio claro",
+      "female": "rubio muy claro"
+    },
+    {
+      "name": "Targon",
+      "category": "Casa Vasalla",
+      "male": "rubio claro",
+      "female": "pelirrojo"
+    },
+    {
+      "name": "Tuor",
+      "category": "Casa Vasalla",
+      "male": "rubio muy claro",
+      "female": "pelirrojo"
+    },
+    {
+      "name": "Vorondil",
+      "category": "Casa Vasalla",
+      "male": "rubio muy claro",
+      "female": "rubio platinado blanco"
+    },
+    {
+      "name": "Wídfara",
+      "category": "Casa Vasalla",
+      "male": "rubio dorado",
+      "female": "rubio dorado"
+    },
+    {
+      "name": "Yavannor",
+      "category": "Casa Vasalla",
+      "male": "rubio oscuro",
+      "female": "rubio ceniza"
+    },
+    {
+      "name": "Zirin",
+      "category": "Casa Vasalla",
+      "male": "rubio oscuro",
+      "female": "rubio dorado"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+from pathlib import Path
+
+ROOT=Path('capital_notes')
+items=[
+('Tirith Gwaith','Gwaith Valinor','Nueva Tirion','sede federal operativa'),('Barad Valinor','Aranath Valinor','Nueva Tirion','sede política del Reino'),('Nueva Tirion','Valinor','Nueva Tirion','capital territorial'),('Avallónë','Tol Eressëa','Avallónë','capital y puerto principal'),('Taur-en-Mor','Systreyjar','Tórshavn','capital administrativa propuesta'),
+('Annúminas','Arnor','Toronto','capital provincial'),('Pelargir Austral','Calenardhon Austral','Porto Alegre','capital administrativa propuesta'),('Sirion','Sírënandë','Georgetown','capital administrativa propuesta'),('Vinyamar','Colombia Costera','Barranquilla','capital administrativa'),('Tirion del Istmo','Panamá Federal','Ciudad de Panamá','capital administrativa propuesta'),('Tirith Anor','Venezuela Federal','Caracas','capital administrativa propuesta'),('Barad Oron','Provincia del Orinoco','Puerto Ordaz','capital administrativa propuesta'),('Eressëa Menel','Nosselië Toliva','Las Palmas','capital administrativa propuesta'),
+('Harlond Sur','Trinidad','Puerto España','capital administrativa propuesta'),('Dol Amroth Menel','Tobago','Scarborough','capital administrativa propuesta'),('Eryn Lasgalen','Bahamas','Nassau','capital administrativa propuesta'),('Tol Galen','Bermudas','Hamilton','capital administrativa propuesta'),('Lond Daer','Barbados','Bridgetown','capital administrativa propuesta'),
+('Osgiliath del Este','Malaca','Kuala Lumpur','capital administrativa propuesta'),('Alqualondë del Pacífico','Hawái','Honolulu','capital administrativa propuesta'),('Eglarest Austral','Fiyi','Suva','capital administrativa propuesta'),('Eressëa del Sur','Polinesia','Papeete','capital operativa propuesta'),('Rhunost del Mar','Micronesia','Hagåtña','capital operativa propuesta'),('Manama','Eryndor','Manama','capital canónica'),
+('Harnost','Harnen','Mascate','capital administrativa propuesta'),('Khazad-dûm Oriental','Kheled-zâram','Ciudad de Kuwait','capital administrativa propuesta'),('Círdanost','Círdan','Hadibu','capital administrativa propuesta'),('Harlond Oriental','Harlond','Adén','capital administrativa propuesta'),('Amon Rûdh','Amon Rûdh','Yibuti','capital administrativa propuesta'),('Eryn Galen','Alqualondë','Nicosia','capital administrativa propuesta'),('Eglarest','Eglarest','La Valeta','capital administrativa propuesta'),('Pelargir del Norte','Pelargir','Alejandría','capital administrativa propuesta')]
+
+lines=['---','tipo: indice de capitales','canon: V16','---','','# Capitales del Canon V16','','Todas las capitales están incluidas dentro de la población y la cuenta ECON-03 de su entidad superior.','']
+for name,entity,real,role in items:
+    safe=name+'.md'
+    body=f'''---\ntipo: capital\ncanon: V16\nestatus: {"vigente" if "canónica" in role or name in ["Nueva Tirion","Avallónë","Annúminas"] else "provisional"}\nentidad: {entity}\n---\n\n# {name}\n\n**{name} ({real})** es la {role} de **{entity}**.\n\n- Equivalencia real: {real}.\n- Entidad territorial: [[../../02_Geografia/Índice Geográfico|Índice Geográfico]].\n- Entidad política: [[../../04_Mapa Politico/Índice Político|Índice Político]].\n- Cuenta económica: [[../../08_Economia/ECON-03 Resumen|ECON-03]].\n- Canon: [[../../00_Canon/Canon V16 Maestro|Canon V16 Maestro]].\n'''
+    p=ROOT/(safe); p.parent.mkdir(parents=True,exist_ok=True); p.write_text(body,encoding='utf-8')
+    lines.append(f'- [[{name}|{name} ({real})]] — {entity}')
+(ROOT/'Capitales del Canon V16.md').write_text('\n'.join(lines)+'\n',encoding='utf-8')

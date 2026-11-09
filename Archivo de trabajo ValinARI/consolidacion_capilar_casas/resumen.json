@@ -1,0 +1,72 @@
+{
+  "Casa Mayor": {
+    "houses": 9,
+    "male": {
+      "pelirrojo": 2,
+      "rubio dorado": 1,
+      "rubio ceniza": 2,
+      "rubio oscuro": 1,
+      "rubio claro": 1,
+      "rubio platino": 1,
+      "rubio muy claro": 1
+    },
+    "female": {
+      "rubio muy claro": 1,
+      "rubio claro": 1,
+      "rubio ceniza": 2,
+      "rubio dorado": 1,
+      "pelirrojo": 2,
+      "rubio oscuro": 1,
+      "rubio platino": 1
+    },
+    "mixed_couples": 8
+  },
+  "Casa Menor": {
+    "houses": 24,
+    "male": {
+      "rubio claro": 6,
+      "rubio ceniza": 5,
+      "rubio dorado": 4,
+      "rubio platino": 2,
+      "rubio muy claro": 2,
+      "pelirrojo": 2,
+      "rubio oscuro": 2,
+      "castaño claro": 1
+    },
+    "female": {
+      "castaño claro": 3,
+      "rubio ceniza": 3,
+      "rubio claro": 6,
+      "pelirrojo": 3,
+      "rubio platino": 2,
+      "rubio dorado": 3,
+      "rubio muy claro": 2,
+      "rubio oscuro": 2
+    },
+    "mixed_couples": 20
+  },
+  "Casa Vasalla": {
+    "houses": 35,
+    "male": {
+      "rubio dorado": 6,
+      "rubio ceniza": 6,
+      "rubio muy claro": 6,
+      "rubio oscuro": 6,
+      "pelirrojo": 2,
+      "rubio platinado blanco": 1,
+      "rubio claro": 7,
+      "castaño oscuro": 1
+    },
+    "female": {
+      "rubio oscuro": 5,
+      "rubio ceniza": 5,
+      "rubio dorado": 5,
+      "castaño claro": 3,
+      "rubio claro": 6,
+      "pelirrojo": 4,
+      "rubio muy claro": 5,
+      "rubio platinado blanco": 2
+    },
+    "mixed_couples": 29
+  }
+}

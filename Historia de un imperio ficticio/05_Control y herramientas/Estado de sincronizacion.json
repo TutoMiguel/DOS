@@ -1,0 +1,54 @@
+{
+  "fecha": "2026-11-07T11:12:46",
+  "comprobaciones": {
+    "canon_coincide_con_revision_exportada": true,
+    "word_oficial_coincide_con_revision_exportada": true,
+    "word_exportado_identico_al_oficial": true,
+    "pdf_coincide_con_render_verificado": true,
+    "cronologia_coincide_con_registro": true
+  },
+  "actualizado": true,
+  "documentos": [
+    {
+      "documento": "canon",
+      "ruta": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\00_Canon\\Canon V16 Maestro.md",
+      "existe": true,
+      "sha256": "2d5ed0f96388f6a3920d3dde3bea801084c8a8e37ce94ba7dc4eadc61ba81dbd",
+      "funcion": "original normativo vigente"
+    },
+    {
+      "documento": "chronology",
+      "ruta": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\01_Cronologia\\Cronología Territorial V16.md",
+      "existe": true,
+      "sha256": "d98eb4f47b87eb649a8092b7b3b87ba65fd2e8b3f138efce9d1bee66f4e0930d",
+      "funcion": "cronología maestra vigente"
+    },
+    {
+      "documento": "word",
+      "ruta": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\10_Archivo\\Documentos editoriales\\Oficial\\Canon V16 Maestro.docx",
+      "existe": true,
+      "sha256": "138808af63d15cf518753e2c6a6375181cb9008321de5c2f72b23c786453cda3",
+      "funcion": "Word oficial generado desde el canon Markdown"
+    },
+    {
+      "documento": "word_export",
+      "ruta": "C:\\Users\\migue\\OneDrive\\DOS\\Historia de un imperio ficticio\\Canon V16 Maestro - Exportacion.docx",
+      "existe": true,
+      "sha256": "138808af63d15cf518753e2c6a6375181cb9008321de5c2f72b23c786453cda3",
+      "funcion": "exportación idéntica al Word oficial"
+    },
+    {
+      "documento": "pdf_export",
+      "ruta": "C:\\Users\\migue\\OneDrive\\DOS\\Historia de un imperio ficticio\\Canon V16 Maestro.pdf",
+      "existe": true,
+      "sha256": "3745cc3acb3fd6e0c289a6a5fb2157083eab6c8dd9dbe12ebfeb94c4705af5f6",
+      "funcion": "PDF del mismo Word oficial"
+    }
+  ],
+  "nota": "Esta comprobación verifica rutas y procedencia. No sustituye la auditoría de coherencia histórica ni la revisión visual.",
+  "inventario": {
+    "archivo": "C:\\Users\\migue\\OneDrive\\DOS\\Historia de un imperio ficticio\\05_Control y herramientas\\Inventario del proyecto.csv",
+    "archivos": 9239,
+    "errores": []
+  }
+}

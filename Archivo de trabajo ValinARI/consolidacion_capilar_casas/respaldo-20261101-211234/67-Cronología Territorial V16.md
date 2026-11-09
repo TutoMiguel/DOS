@@ -1,0 +1,255 @@
+---
+tipo: cronologia territorial
+canon: V16
+estado: vigente
+---
+
+# Cronología Territorial V16
+
+Esta cronología conecta descubrimiento, contacto, asentamiento, incorporación política, integración administrativa e integración económica.
+
+## Secuencia general
+
+- 150 a. C.: primer contacto documentado con el Caribe.
+- 340–350 d. C.: descubrimiento de Tol Eressëa.
+- 400–500: expediciones desde Tol Eressëa alcanzan Terranova.
+- 650–750: descubrimiento de Valinor.
+- 750–850: primeros asentamientos permanentes en Valinor y fundación inicial de Nueva Tirion.
+- 920–980: asentamiento permanente de Númenor en Terranova.
+- 1536: Baréin se incorpora como Eryndor.
+- 1611: Musandam se incorpora como Rhunost dentro de Harnen.
+- 1954–1958: Programa OceanNet y consolidación de redes precursoras.
+- 2026: cierre territorial y económico de ECON-03.
+
+## Antecedentes constitucionales
+
+- 990 a. C.: Concilio de Forostar y Consejo de las 24 Casas.
+- 980 a. C.: Pacto de la Corona Occidental y creación del Alto Rey.
+- 975 a. C.: Primera Marcha bajo Harald I Eärond.
+- 950 a. C.: Pacto de Forlond y limitación constitucional de la Corona.
+
+## Índices relacionados
+
+- [[Incorporación al Reino]]
+- [[Incorporación a la Federación]]
+- [[Red de Protectorados]]
+- [[../09_Politica/Historia Constitucional/Historia Constitucional de las Casas y la Corona|Historia Constitucional de las Casas y la Corona]]
+- [[../00_Canon/Canon V16 Maestro|Canon V16 Maestro]]
+
+## Industrialización y tecnología
+
+- **1850–1880:** expansión de máquinas de vapor ferroviarias y navales, arsenales y talleres metalúrgicos.
+- **1880–1910:** motores de combustión, generadores y primeros motores aeronáuticos.
+- **1910–1940:** motores diésel para blindados, submarinos, buques y transporte pesado.
+- **1940–1960:** turbinas de gas para aviación y generación eléctrica.
+- **1954–1958:** transistores, circuitos integrados y electrónica asociada a OceanNet.
+- **1969–1980:** microprocesadores, radares y sistemas de control.
+- **1980–2000:** motores modulares, combustibles sintéticos, electrónica resistente y propulsión híbrida.
+- **1990–2026:** programas orbitales, comunicaciones satelitales, observación oceánica y meteorológica y navegación autónoma.
+- **1995–2010:** fabricación avanzada de procesadores para satélites, radares y aeronaves.
+- **2010–2026:** inteligencia artificial, procesadores neuromórficos, turbinas avanzadas y propulsión naval integrada.
+- **2026:** la cadena industrial estratégica queda integrada desde minería y refinación hasta circuitos, motores, turbinas y sistemas militares. ECON-03 conserva sus objetivos económicos sin crear una categoría industrial adicional.
+
+## Evolución naval y militar
+
+- **1850–1900:** arsenales de vapor, buques blindados, torpederos y patrulleros.
+- **1900–1945:** destructores, submarinos convencionales, cruceros y aviación naval.
+- **1945–1965:** portaaviones, submarinos de largo alcance, buques logísticos y radares navales.
+- **1965–1985:** clases Gil-galad, Círdan inicial y Ulmo; integración de misiles, sonar y OceanNet temprano.
+- **1985–2005:** clases Círdan II–III, Pelargir, Andúnië y primeros drones navales; radares AESA.
+- **2005–2026:** Círdan IV, Eärendil, Telperion, Palantír, Menel, Esgaroth y Abyssal; vigilancia distribuida y misiles hipersónicos.
+- **2026:** la Armada opera portaaviones, escoltas, submarinos, buques logísticos, drones y unidades de rescate.
+- **2030–2037, planificado:** incorporación progresiva de la clase Voronwë como sustituta de Círdan IV.
+
+## Diplomacia austral y Andúnië Austral
+
+- **1848:** Tratado de Valparaíso entre Chile y la Unión Valinoriana.
+- **1876:** Pacto del Pacífico Austral para cooperación naval, seguros, formación de oficiales y logística.
+- **1879–1886:** Guerra del Pacífico ampliada, consolidada como retcon histórico del escenario.
+- **1886:** Tratado de Nueva Tirion; se fijan las cesiones territoriales a Chile y termina la guerra ampliada.
+- **1890:** fundación de Andúnië Austral como ciudad científica arrendada bajo soberanía chilena.
+- **1938:** creación del Instituto Austral de Oceanografía.
+- **1945:** integración con los programas antárticos valinorianos.
+- **1958:** conexión de Andúnië Austral con OceanNet.
+- **1970–2010:** instalación de radares meteorológicos, sísmicos y oceanográficos; ampliación del puerto, laboratorios y aeropuerto científico.
+- **2026:** Andúnië Austral se consolida como enclave científico, antártico y logístico asociado a Gwaith Aear. Mantiene soberanía chilena y no forma parte del territorio directo de la Federación.
+
+## Antecedentes y nacimiento de OceanNet
+
+- **1850:** Red Telegráfica del Gran Mar conecta Nueva Tirion —denominada Ciudad Federal en documentos secretos antiguos—, Brithombar (Cartagena) —denominada Cartagena Federal en documentos secretos antiguos—, Armenelos, Sirion, Erellond Sur, Calasir, Panamá Federal, Ponta Delgada y Funchal.
+- **1870–1900:** cables submarinos y telefonía; se institucionaliza la Red de los Heraldos del Mar.
+- **1895–1930:** Servicio Radiomarítimo Federal, radio costera, radiofaros y meteorología.
+- **1930–1945:** radar costero, control aéreo, criptografía y centros de cálculo.
+- **1946–1953:** etapa Pre-OceanNet de computadores centrales y redes de control naval.
+- **1954–1958:** Programa OceanNet, pruebas de arquitectura y consolidación de redes precursoras.\n- **1959:** OceanNet alcanza funcionamiento operativo inicial.\n- **1960–1962:** incorporación de conmutación de paquetes, radio digital y satélites.\n- **1968:** Estatuto federal e integración política y tecnológica de Polinesia y Micronesia.
+- **1970–1980:** expansión institucional y creación de redundancia.
+- **1983:** protocolo federal común.
+- **1990–2000:** apertura civil y comercial.
+- **2000–2026:** red digital general de la Unión.
+
+[[OceanNet]] se desarrolla como continuidad tecnológica de las redes marítimas, telegráficas, radiocosteras y computacionales. Ciudad Federal queda normalizada como Nueva Tirion; Cartagena Federal, como Brithombar (Cartagena). Ponta Delgada y Funchal permanecen como puertos atlánticos asociados con adscripción territorial pendiente.
+
+
+
+
+- **2026:** se normaliza la capitalidad de Calenardhon Austral: Pelargir Austral (Porto Alegre) es la capital provincial; Calenport (Florianópolis) es capital administrativa regional y base naval de Santa Catarina.
+
+- **2026:** se consolida la regla primordial de nomenclatura urbana: las nuevas entidades usan nombre ficticio primero y nombre real entre paréntesis; se conservan los calificadores históricos ya adoptados y se prohíben duplicaciones completas nuevas.
+
+## Red oriental de enclaves y protectorados
+
+- **1000–450 a. C.:** exploración mediterránea, cartografía y acuerdos portuarios.
+- **450–150 a. C.:** acceso al mar Rojo, Adén, Socotra y Arabia meridional.
+- **150 a. C.–500:** alianzas de navegación y consolidación de rutas hacia Omán y Ormuz.
+- **500–1300:** integración comercial con el océano Índico y Malaca.
+- **1300–1700:** formalización progresiva de protectorados y enclaves.
+- **1536:** Eryndor (Baréin) se incorpora como territorio federal directo.
+- **1611:** Rhunost (Musandam) queda como provincia autónoma interna de Harnen, con régimen naval especial.
+- **1700–1950:** navegación industrial, depósitos, diques, astilleros y estaciones de carbón.
+- **1954–1958:** integración progresiva de la red oriental en las redes precursoras de OceanNet.
+- **1959:** funcionamiento operativo inicial de OceanNet.
+- **1960–2026:** expansión de radar, aviación, satélites, logística energética y coordinación de protectorados y aliados.
+
+La clasificación vigente es: Eryndor federal directo; Harnen, Kheled-zâram, Círdan, Harlond y Amon Rûdh como protectorados; Alqualondë, Eglarest y Pelargir como puertos o Estados asociados de Gwaith Aear.
+
+## Nosselië Toliva
+
+- **900–750 a. C.:** reconocimiento de las rutas atlánticas orientales.
+- **720 a. C.:** primer registro valinario del archipiélago.
+- **680 a. C.:** primer desembarco estacional.
+- **620 a. C.:** estación de agua y reparación.
+- **540 a. C.:** primera factoría permanente.
+- **430 a. C.:** integración en la navegación atlántica.
+- **250 a. C.:** conexión con las rutas meridionales del Atlántico africano.
+- **150 a. C.:** conexión documentada con las rutas del Caribe.
+- **500–900:** consolidación de la administración valinoriana y del Reino histórico del Oeste, precursor de Aranath Valinor.
+- **1954–1958:** integración en redes precursoras de OceanNet.
+- **1959:** funcionamiento operativo inicial de OceanNet.
+- **1960–2026:** expansión institucional y civil.
+
+Nosselië Toliva pertenece al Reino y no es miembro federal directo. Sus nombres urbanos definitivos siguen pendientes.
+
+## Nota ontológica sobre el origen Valinari
+
+La cronología de los Valinari describe una civilización ficticia propia del escenario. No presenta elfos ni pueblos fantásticos como habitantes reales de Canarias, Europa, África, Asia o América. Las equivalencias geográficas son referencias del mundo real utilizadas para ubicar territorios de una historia alternativa.
+
+Los Valinari se originan dentro de su propio universo como comunidades ancestrales de navegantes, linajes costeros, Casas y poblaciones integradas de Valinor y Tol Eressëa. Sus lenguas, tradiciones y genealogías son internas al canon ficticio.
+
+## Principio histórico de Valinor y los Valinari
+
+La cronología pertenece al mundo real y describe una historia alternativa. Valinor es una entidad territorial e histórica humana. Valinari es el gentilicio de sus ciudadanos y de las poblaciones vinculadas a su civilización. Los nombres inspirados en Tolkien se emplean únicamente como nomenclatura de personas, lugares, Casas, instituciones y tradiciones.
+
+## Origen geográfico de los primeros Valinari
+
+- **Antes de 1000 a. C.:** comunidades humanas de las 14 subzonas de Escania y las 15 provincias noruegas desarrollan navegación, agricultura, comercio costero y redes de parentesco.
+- **1000–990 a. C.:** estas comunidades comienzan a reconocerse como una esfera cultural y marítima común.
+- **990 a. C.:** el Concilio de Forostar articula políticamente a sus linajes y funda el Consejo de las 24 Casas.
+- **980 a. C.:** el Pacto de la Corona Occidental crea la dignidad electiva del Alto Rey.
+- **950 a. C.:** el Pacto de Forlond limita constitucionalmente a la Corona.
+- **Posteriormente:** la identidad política de estas comunidades se consolida alrededor de Valinor y da origen al conjunto histórico Valinari.
+
+La Casa Telcontar no pertenece al orden fundacional de 950 a. C.; su origen posterior se vincula a Helsingborg y a la Escania noroccidental.
+
+- **950 a. C.:** las 24 Casas quedan asociadas a 15 provincias noruegas y 9 subzonas de Escania; sus diferencias físicas se describen como tendencias poligénicas, no como rasgos exclusivos.
+
+## Origen migratorio y secuencia atlántica revisada
+
+- **1000–990 a. C.:** comunidades humanas de Escania y Noruega articulan los primeros linajes políticos; Dinamarca funciona como zona de migración y contacto, no como origen de una Casa fundacional.
+- **990 a. C.:** Concilio de Forostar y Consejo de las 24 Casas.
+- **950 a. C.:** Pacto de Forlond.
+- **900–750 a. C.:** reconocimiento atlántico de Nosselië Toliva.
+- **720 a. C.:** primer registro valinario de Canarias.
+- **680 a. C.:** primer desembarco estacional.
+- **620 a. C.:** estación de agua y reparación.
+- **540 a. C.:** primera factoría permanente.
+- **430 a. C.:** integración en la navegación atlántica.
+- **250 a. C.:** rutas meridionales del Atlántico africano.
+- **150 a. C.:** primer contacto documentado con el Caribe.
+- **340–350 d. C.:** descubrimiento de Tol Eressëa.
+- **400–500:** expediciones desde Tol Eressëa alcanzan Terranova.
+- **650–750:** descubrimiento de Valinor.
+- **1954–1958:** redes precursoras de OceanNet.
+- **1959:** funcionamiento operativo inicial de OceanNet.
+- **1960–2026:** expansión institucional, civil y estratégica.
+
+La Casa Telcontar aparece posteriormente y procede de Helsingborg; no forma parte de las 24 Casas fundacionales.
+
+## Fragmentación y recuperación institucional
+
+- **1000 a. C.–1000 d. C.:** la inmigración exterior procede principalmente de Dinamarca, Escania y Noruega. Las llegadas son escalonadas y limitadas por transporte, supervivencia, recepción y capacidad de asentamiento.
+- **Periodo no fijado:** epidemias, interrupciones de abastecimiento, rivalidades y pérdida documental desarticulan ligas y rutas. La Fragmentación provoca retrocesos locales sin borrar toda la memoria compartida.
+- **Periodo de recuperación, fecha individual pendiente:** Sigrid Andersdotter impulsa una reconstrucción documental basada en inventarios, testimonios, copias y memoria comunitaria.
+- **Periodo de recuperación, fecha individual pendiente:** los Consejos de Recuperación vinculados a Björn Arnesen coordinan abastecimiento, reparación de rutas y financiación negociada.
+- **1135:** aparecen los Consejos Atlánticos permanentes, diferenciados de los Consejos de Recuperación.
+- **Etapa posterior:** se desarrolla la Administración Real de Oficinas mediante su propia evolución institucional.
+
+## Relato fundacional y Marcha hacia Occidente
+
+- **Antes de 1000 a. C.:** comunidades humanas de Dinamarca, Escania y Noruega desarrollan navegación, agricultura, comercio báltico y linajes costeros.
+- **Periodo preconstitucional:** malas cosechas, tensiones comerciales, conflictos dinásticos y guerras entre Casas provocan una crisis de cohesión.
+- **Antes de 990 a. C.:** Míriel Elerwen, nacida en Escania, es recordada como la Doncella de las Estrellas; sus sueños originan la tradición de la Visión de Elerwen.
+- **990 a. C.:** Concilio de Forostar y Consejo de las 24 Casas.
+- **980 a. C.:** Pacto de la Corona Occidental y creación del Alto Rey electivo.
+- **975 a. C.:** Primera Marcha de Harald I Eärond.
+- **950 a. C.:** Pacto de Forlond y limitación constitucional de la Corona.
+- **Siglos posteriores:** expansión por factorías, puertos, alianzas y asentamientos atlánticos.
+- **430 a. C.:** integración de Nosselië Toliva en la navegación atlántica.
+- **250 a. C.:** rutas meridionales del Atlántico africano.
+- **150 a. C.:** primer contacto documentado con el Caribe.
+- **340–350 d. C.:** descubrimiento de Tol Eressëa.
+- **400–500:** expediciones desde Tol Eressëa alcanzan Terranova.
+- **500 a. C.–500 d. C.:** consolidación de la talasocracia y del Reino histórico del Oeste.
+
+La Visión y el Juramento pertenecen a la tradición religiosa y política; las fechas y rutas se sostienen mediante registros históricos separados.
+
+- **Desde el periodo fundacional:** Casas Menores de Dinamarca, Götaland, Öland, Gotland, costas bálticas y cinco subzonas escanianas no asignadas a las Casas mayores participan en exploración, comercio y fundación de puertos. No poseen asiento en el Consejo.
+
+
+- **833 d. C.:** la Casa Real Telcontar se caracteriza por una frecuencia elevada de cabello plateado o rubio platino, piel muy clara y ojos celestes; las Casas Menores mantienen sus perfiles regionales y su distribución originaria.
+
+## Casas Vasallas y autodenominación histórica
+
+- **Durante la expansión atlántica temprana:** aparecen linajes especializados dependientes de Casas Mayores, sin voto independiente en el Consejo.
+- **Periodo posterior a la unión de las Casas:** Calenard queda vinculada a Calenhad; Rúmilion a Meneldir; Harlind a Harlond; Erellont a Eärond.
+- **833 d. C.:** las 35 Casas Vasallas están reconocidas como categoría nobiliaria dependiente, separada de las 24 Casas Mayores, las 24 Casas Menores y la Casa Real Telcontar.
+- **Tradición histórica:** los descendientes de la primera migración utilizan también la autodenominación **Edain Sindarin**; Valinari es el nombre ciudadano y político posterior.
+
+## Regulación de la guerra entre Casas
+
+- **990 a. C.:** el Concilio de Forostar comienza a limitar las guerras privadas entre Casas.
+- **Siglos X–VIII a. C.:** se generalizan compensaciones, arbitrajes, rehenes nobles, matrimonios de reconciliación y devolución de prisioneros.
+- **Periodo de consolidación:** se prohíbe la ejecución deliberada de prisioneros y se protege la vida de quienes se rinden.
+- **Siglos posteriores:** se prohíben los ataques contra santuarios, el saqueo de graneros y mercados, y la violación de la neutralidad portuaria.
+- **Hasta 500 a. C.:** los pactos del Consejo y la autoridad del Alto Rey convierten gradualmente la guerra entre Casas en una actividad regulada; la cooperación y la unidad pasan a ser principios de la talasocracia.
+
+
+## Estado nobiliario consolidado en 833 d. C.
+
+El sistema reconoce 84 casas: 24 Casas Mayores, 24 Casas Menores, 35 Casas Vasallas y la Casa Real Telcontar. Las Casas Vasallas no poseen voto independiente y permanecen vinculadas a Casas Mayores tutelares.
+
+
+## Normalización de las fichas nobiliarias
+
+- **833 d. C.:** se establece una plantilla común para las fichas de las 24 Casas Mayores, 24 Casas Menores, 35 Casas Vasallas y la Casa Real Telcontar. La normalización unifica estatus, origen, función, régimen político, heráldica, lema, perfil fenotípico, referencias genéticas y enlaces de gestión sin eliminar las diferencias históricas entre categorías.
+
+## Directriz visual de las Casas
+
+- **833 d. C.:** la normalización heráldica y visual establece una estética cortesana común para las Casas, con variación de alturas, cabello, barba, armas y objetos funcionales según la categoría y función histórica. Los estandartes incorporan el nombre de la Casa y su lema en alto tengwar.
+
+## Crisis sucesoria y aparición de Telcontar
+
+- **650–600 a. C.:** la rotación de Altos Reyes produce disputas electorales, interrupciones diplomáticas y rivalidades entre puertos y flotas.
+- **575 a. C.:** la Casa Telcontar, originaria de Helsingborg, aparece como candidata de compromiso para estabilizar la sucesión.
+- **560 a. C.:** el primer monarca Telcontar es reconocido por el Consejo de las 24 Casas.
+- **550 a. C.:** el Pacto de la Corona Telcontar establece una sucesión preferente, limitada por los fueros, el Consejo y los pactos de protección de santuarios, graneros, mercados y puertos neutrales.
+- **500 a. C.:** Telcontar gobierna el Reino histórico del Oeste como Casa Real número 25, sin voto adicional en el Consejo.
+
+## Mito fundacional, exilio y retorno de Telcontar
+
+- **980 a. C.:** Harald I Eärond es elegido primer Alto Rey documentado.
+- **Siglos posteriores:** Eärendur Haraldsson, hijo mayor de Harald, queda en el centro de la genealogía telcontariana. Las crónicas religiosas convierten su unión con una mujer considerada Maiar en mito de origen.
+- **Antes del siglo VI a. C.:** una rama bastarda de sus descendientes es excluida de la sucesión y se establece en las tierras bálticas equivalentes a la actual Finlandia.
+- **575 a. C.:** Telcontar regresa durante la crisis sucesoria y aparece como candidata de compromiso.
+- **560 a. C.:** el primer monarca Telcontar es reconocido por el Consejo.
+- **550 a. C.:** el Pacto de la Corona Telcontar establece la sucesión preferente y mantiene los límites del Consejo.
+- **500 a. C.:** Telcontar gobierna el Reino histórico del Oeste como Casa Real número 25.

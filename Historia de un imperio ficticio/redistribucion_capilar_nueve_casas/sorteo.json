@@ -1,0 +1,101 @@
+{
+  "seed": "4751585228256366677",
+  "algorithm": "Dos permutaciones independientes de la misma paleta, una por sexo; sin resorteo.",
+  "scope": "Nueve Casas Mayores pendientes, dieciocho representantes adultos anónimos.",
+  "illustrated_protected": {
+    "Alqualondë": [
+      "Casa Alqualondë.jpg"
+    ],
+    "Annúminas": [
+      "Casa Annúminas.png"
+    ],
+    "Armenelos": [
+      "Casa Armenelos.jpg"
+    ],
+    "Barad Calen": [
+      "Casa Barad Calen.jpg"
+    ],
+    "Calenhad": [
+      "Casa Calenhad.jpg"
+    ],
+    "Calenor": [
+      "Casa Calenor.jpg"
+    ],
+    "Círdan": [
+      "Casa Círdan.jpg"
+    ],
+    "Dol Amroth": [
+      "Casa Dol Amroth.jpg"
+    ],
+    "Eldalondë": [
+      "Casa Eldalondë.jpg"
+    ],
+    "Elwing": [
+      "Casa Elwing.jpg",
+      "Casa Elwing2.jpg"
+    ],
+    "Eressëa Menel": [
+      "Casa Eressëa Menel.jpg"
+    ],
+    "Eryn Lasgalen": [
+      "Casa Eryn Lasgale.jpg"
+    ],
+    "Esgal": [
+      "Casa Esgal.jpg"
+    ],
+    "Fornost": [
+      "Casa Fornost.jpg"
+    ],
+    "Noldor": [
+      "Casa Noldor.png",
+      "Casa Noldor 2.jpg"
+    ]
+  },
+  "allocation": [
+    {
+      "name": "Harlond",
+      "male": "pelirrojo",
+      "female": "rubio muy claro"
+    },
+    {
+      "name": "Harnost",
+      "male": "rubio dorado",
+      "female": "rubio claro"
+    },
+    {
+      "name": "Minas Anor",
+      "male": "rubio ceniza",
+      "female": "rubio ceniza"
+    },
+    {
+      "name": "Mithlond",
+      "male": "rubio oscuro",
+      "female": "rubio dorado"
+    },
+    {
+      "name": "Pelargir",
+      "male": "rubio ceniza",
+      "female": "pelirrojo"
+    },
+    {
+      "name": "Rhunost",
+      "male": "pelirrojo",
+      "female": "rubio ceniza"
+    },
+    {
+      "name": "Taur-en-Mor",
+      "male": "rubio claro",
+      "female": "pelirrojo"
+    },
+    {
+      "name": "Teleri",
+      "male": "rubio platino",
+      "female": "rubio oscuro"
+    },
+    {
+      "name": "Vanyar",
+      "male": "rubio muy claro",
+      "female": "rubio platino"
+    }
+  ]
+}

@@ -1,0 +1,240 @@
+{
+  "main": {
+    "id": "e90eb58db932225d",
+    "type": "split",
+    "children": [
+      {
+        "id": "cde14dd3052987e4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d427b5eac8e90b50",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "12_Militar/Armada.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Armada"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2ee241158f84f029",
+    "type": "split",
+    "children": [
+      {
+        "id": "7b071a9dc8566689",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "90749020ec549aad",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de archivos"
+            }
+          },
+          {
+            "id": "89134c070f378ce8",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Buscar"
+            }
+          },
+          {
+            "id": "826436fd22a1294f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "96b45241f4b1ff16",
+    "type": "split",
+    "children": [
+      {
+        "id": "f244608111f897cb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0492e93cd81d35b9",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "09_Politica/Casa Real/Casa Telcontar.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Enlaces entrantes"
+            }
+          },
+          {
+            "id": "6e2a7488b1d464fb",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "09_Politica/Casa Real/Casa Telcontar.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Enlaces salientes"
+            }
+          },
+          {
+            "id": "5a77a60666ea2709",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
+            }
+          },
+          {
+            "id": "4467826aebe78fa5",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Todas las propiedades"
+            }
+          },
+          {
+            "id": "c48909f2be9b8708",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "09_Politica/Casa Real/Casa Telcontar.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Esquema"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "bases:Crear nueva base": false
+    }
+  },
+  "active": "d427b5eac8e90b50",
+  "lastOpenFiles": [
+    "12_Militar/Conflictos y Campañas.md",
+    "12_Militar/Doctrina Militar.md",
+    "12_Militar/Inteligencia y Seguridad.md",
+    "12_Militar/Serie Círdan y transición a Voronwë.md",
+    "12_Militar/Tecnología Militar.md",
+    "00_Canon/Registro de Nombres y Alias.md",
+    "00_Canon/Regla Primordial de Nomenclatura Urbana.md",
+    "00_Canon/Ruta de Lectura Económica.md",
+    "00_Canon/Auditoría editorial 2026-11-07.md",
+    "00_Canon/Integraciones V16/Auditoría de Coherencia V16.md",
+    "00_Canon/Integraciones V16/Actualización acumulativa A088 — Redes sectoriales sobre OceanNet.md",
+    "00_Canon/Integraciones V16/Actualización acumulativa 111v — Radar y sensores.md",
+    "00_Canon/Integraciones V16/Actualización acumulativa — Siderurgia naval y blindaje (1875–1882).md",
+    "08_Economia/Agricultura valinari 1000-500 aC.md",
+    "file:C:/Users/migue/Documents/ChatGPT/Historia de un imperio ficticio/A089_Cadena_material_valinari_semiconductores.md",
+    "11_Ciencia y Tecnologia/Tercera Revolución Industrial 1950-2026.md",
+    "11_Ciencia y Tecnologia/Estrategia digital y tecnológica 2026.md",
+    "00_Canon/Integraciones V16/A091_Estrategia_digital_y_decisiones_3_14.md",
+    "11_Ciencia y Tecnologia/Infraestructura troncal de telecomunicaciones.md",
+    "00_Canon/Integraciones V16/A090_Infraestructura_troncal_telecomunicaciones.md",
+    "10_Archivo/Documentos editoriales/Oficial/Canon V16 Maestro.before_A090_2026-11-08.docx",
+    "11_Ciencia y Tecnologia/Polos Industriales A089/Sirenande_aluminio_y_transformacion.md",
+    "11_Ciencia y Tecnologia/Polos Industriales A089/Nodos_atlanticos_cable_reparacion.md",
+    "11_Ciencia y Tecnologia/Polos Industriales A089/Islandia_Groenlandia_investigacion.md",
+    "11_Ciencia y Tecnologia/Polos Industriales A089/Grandes_Lagos_proveedores.md",
+    "11_Ciencia y Tecnologia/Polos Industriales A089/Calenardhon_Austral_electrico_naval.md",
+    "11_Ciencia y Tecnologia/Polos Industriales A089/Arnor_diseno_y_fabricacion.md",
+    "11_Ciencia y Tecnologia/Polos Industriales A089",
+    "07_Imagenes/Pasted image 20261031203543.png",
+    "10_Archivo/Backups/Integracion religion 2026-11-07/Canon V16 Maestro.docx",
+    "10_Archivo/Backups/Integracion religion 2026-11-07",
+    "10_Archivo/Backups/Integracion demografia 2026-11-07/Canon V16 Maestro.docx",
+    "10_Archivo/Backups/Integracion demografia 2026-11-07",
+    "10_Archivo/Backups",
+    "12_Militar/Armada 1875",
+    "09_Politica/Historia Política",
+    "01_Cronologia/Cronología Territorial V16.md.regencia-backup",
+    "07_Imagenes/Casa Telcontar.png",
+    "07_Imagenes/Casa Eryn Lasgalen.jpg",
+    "07_Imagenes/Casa Malbeth.jpg",
+    "07_Imagenes/Casa Imrahil.jpg",
+    "07_Imagenes/Casa Iorlas.jpg",
+    "07_Imagenes/Casa Harlind,.jpg",
+    "07_Imagenes/Casa Hareth.jpg",
+    "07_Imagenes/Casa Hador.jpg",
+    "07_Imagenes/Casa Galdor.jpg"
+  ]
+}

@@ -1,0 +1,166 @@
+{
+  "random_seed": 9576318432291185622,
+  "old_order_source": "C:\\Users\\migue\\Documents\\ChatGPT\\Historia de un imperio ficticio\\respaldos_prompts\\Prompts Visuales de las 84 Casas - anterior 20261101-194420.md",
+  "protected": [
+    {
+      "name": "Alqualondë",
+      "category": "Casas Mayores",
+      "path": "C:\\IA\\ValinARI\\Valinari\\Valinari\\09_Politica\\Casas Mayores\\Casa Alqualondë.md",
+      "images": [
+        "C:\\IA\\ValinARI\\Valinari\\Valinari\\07_Imagenes\\Casa Alqualondë.jpg"
+      ],
+      "embeds": [
+        "Casa Alqualondë.jpg"
+      ]
+    },
+    {
+      "name": "Annúminas",
+      "category": "Casas Mayores",
+      "path": "C:\\IA\\ValinARI\\Valinari\\Valinari\\09_Politica\\Casas Mayores\\Casa Annúminas.md",
+      "images": [
+        "C:\\IA\\ValinARI\\Valinari\\Valinari\\07_Imagenes\\Casa Annúminas.png"
+      ],
+      "embeds": [
+        "Casa Annúminas.png"
+      ]
+    },
+    {
+      "name": "Armenelos",
+      "category": "Casas Mayores",
+      "path": "C:\\IA\\ValinARI\\Valinari\\Valinari\\09_Politica\\Casas Mayores\\Casa Armenelos.md",
+      "images": [
+        "C:\\IA\\ValinARI\\Valinari\\Valinari\\07_Imagenes\\Casa Armenelos.jpg"
+      ],
+      "embeds": [
+        "Casa Armenelos.jpg"
+      ]
+    },
+    {
+      "name": "Barad Calen",
+      "category": "Casas Mayores",
+      "path": "C:\\IA\\ValinARI\\Valinari\\Valinari\\09_Politica\\Casas Mayores\\Casa Barad Calen.md",
+      "images": [
+        "C:\\IA\\ValinARI\\Valinari\\Valinari\\07_Imagenes\\Casa Barad Calen.jpg"
+      ],
+      "embeds": [
+        "Casa Barad Calen.jpg"
+      ]
+    },
+    {
+      "name": "Calenhad",
+      "category": "Casas Mayores",
+      "path": "C:\\IA\\ValinARI\\Valinari\\Valinari\\09_Politica\\Casas Mayores\\Casa Calenhad.md",
+      "images": [
+        "C:\\IA\\ValinARI\\Valinari\\Valinari\\07_Imagenes\\Casa Calenhad.jpg"
+      ],
+      "embeds": [
+        "Casa Calenhad.jpg"
+      ]
+    },
+    {
+      "name": "Calenor",
+      "category": "Casas Mayores",
+      "path": "C:\\IA\\ValinARI\\Valinari\\Valinari\\09_Politica\\Casas Mayores\\Casa Calenor.md",
+      "images": [
+        "C:\\IA\\ValinARI\\Valinari\\Valinari\\07_Imagenes\\Casa Calenor.jpg"
+      ],
+      "embeds": [
+        "Casa Calenor.jpg"
+      ]
+    },
+    {
+      "name": "Círdan",
+      "category": "Casas Mayores",
+      "path": "C:\\IA\\ValinARI\\Valinari\\Valinari\\09_Politica\\Casas Mayores\\Casa Círdan.md",
+      "images": [
+        "C:\\IA\\ValinARI\\Valinari\\Valinari\\07_Imagenes\\Casa Círdan.jpg"
+      ],
+      "embeds": [
+        "Casa Círdan.jpg"
+      ]
+    },
+    {
+      "name": "Dol Amroth",
+      "category": "Casas Mayores",
+      "path": "C:\\IA\\ValinARI\\Valinari\\Valinari\\09_Politica\\Casas Mayores\\Casa Dol Amroth.md",
+      "images": [
+        "C:\\IA\\ValinARI\\Valinari\\Valinari\\07_Imagenes\\Casa Dol Amroth.jpg"
+      ],
+      "embeds": [
+        "Casa Dol Amroth.jpg"
+      ]
+    },
+    {
+      "name": "Eldalondë",
+      "category": "Casas Mayores",
+      "path": "C:\\IA\\ValinARI\\Valinari\\Valinari\\09_Politica\\Casas Mayores\\Casa Eldalondë.md",
+      "images": [
+        "C:\\IA\\ValinARI\\Valinari\\Valinari\\07_Imagenes\\Casa Eldalondë.jpg"
+      ],
+      "embeds": []
+    },
+    {
+      "name": "Noldor",
+      "category": "Casas Mayores",
+      "path": "C:\\IA\\ValinARI\\Valinari\\Valinari\\09_Politica\\Casas Mayores\\Casa Noldor.md",
+      "images": [
+        "C:\\IA\\ValinARI\\Valinari\\Valinari\\07_Imagenes\\Casa Noldor 2.jpg",
+        "C:\\IA\\ValinARI\\Valinari\\Valinari\\07_Imagenes\\Casa Noldor.png"
+      ],
+      "embeds": [
+        "Casa Noldor.png",
+        "Casa Noldor 2.jpg"
+      ]
+    }
+  ],
+  "selected": [
+    {
+      "name": "Hallas",
+      "category": "Casas Menores",
+      "path": "C:\\IA\\ValinARI\\Valinari\\Valinari\\09_Politica\\Casas Menores\\Casa Hallas.md",
+      "hair": "castaño claro",
+      "eyes": "verdes",
+      "original_sha256": "bcbd1d2d8e7257e6035f75d95a78f6fa2f1663c5726bda3506de305cb7fd7ee4"
+    },
+    {
+      "name": "Thoron",
+      "category": "Casas Menores",
+      "path": "C:\\IA\\ValinARI\\Valinari\\Valinari\\09_Politica\\Casas Menores\\Casa Thoron.md",
+      "hair": "castaño claro",
+      "eyes": "verdes",
+      "original_sha256": "aa6e1bcb2141d8b387e10577a6e0c7e94ccdf6e7045b2d1ee37eb0dca6e4cde6"
+    },
+    {
+      "name": "Angren",
+      "category": "Casas Menores",
+      "path": "C:\\IA\\ValinARI\\Valinari\\Valinari\\09_Politica\\Casas Menores\\Casa Angren.md",
+      "hair": "castaño claro",
+      "eyes": "verdes",
+      "original_sha256": "fb4a581be09a724d89b6c817156575e3ff2f532af41c1148d563f38e99748482"
+    },
+    {
+      "name": "Fornost",
+      "category": "Casas Mayores",
+      "path": "C:\\IA\\ValinARI\\Valinari\\Valinari\\09_Politica\\Casas Mayores\\Casa Fornost.md",
+      "hair": "pelirrojo",
+      "eyes": "celestes",
+      "original_sha256": "e1e4622e00769a90177f4359d152d136a67a4b613a4f562e4ed9b2adbc63556c"
+    },
+    {
+      "name": "Harnost",
+      "category": "Casas Mayores",
+      "path": "C:\\IA\\ValinARI\\Valinari\\Valinari\\09_Politica\\Casas Mayores\\Casa Harnost.md",
+      "hair": "pelirrojo",
+      "eyes": "celestes",
+      "original_sha256": "b966031d806c9378250c92752d8f8181cef2eaad0e582c26f12e33047965d4ca"
+    },
+    {
+      "name": "Mithlond",
+      "category": "Casas Mayores",
+      "path": "C:\\IA\\ValinARI\\Valinari\\Valinari\\09_Politica\\Casas Mayores\\Casa Mithlond.md",
+      "hair": "pelirrojo",
+      "eyes": "celestes",
+      "original_sha256": "b7e91eb08ef03e40e79e93e0fdaa6904b06b3103db0988ef01428ef47e309d1e"
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "schema": 1,
+  "created": "2026-11-07T11:06:54",
+  "canon": "V16",
+  "editorial_revision": "V16.1",
+  "hub": "C:\\Users\\migue\\OneDrive\\DOS\\Historia de un imperio ficticio",
+  "vault": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari",
+  "policy": "Los originales conservan sus rutas. El Markdown vigente gobierna las exportaciones; los archivos históricos no se ejecutan como herramientas activas.",
+  "documents": {
+    "canon": {
+      "path": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\00_Canon\\Canon V16 Maestro.md",
+      "role": "original normativo vigente"
+    },
+    "chronology": {
+      "path": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\01_Cronologia\\Cronología Territorial V16.md",
+      "role": "cronología maestra vigente"
+    },
+    "word": {
+      "path": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\10_Archivo\\Documentos editoriales\\Oficial\\Canon V16 Maestro.docx",
+      "role": "Word oficial generado desde el canon Markdown"
+    },
+    "word_export": {
+      "path": "C:\\Users\\migue\\OneDrive\\DOS\\Historia de un imperio ficticio\\Canon V16 Maestro - Exportacion.docx",
+      "role": "exportación idéntica al Word oficial"
+    },
+    "pdf_export": {
+      "path": "C:\\Users\\migue\\OneDrive\\DOS\\Historia de un imperio ficticio\\Canon V16 Maestro.pdf",
+      "role": "PDF del mismo Word oficial"
+    }
+  },
+  "inventory_roots": {
+    "vault": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari",
+    "centro": "C:\\Users\\migue\\OneDrive\\DOS\\Historia de un imperio ficticio",
+    "archivo": "C:\\Users\\migue\\OneDrive\\DOS\\Archivo de trabajo ValinARI",
+    "herramientas": "C:\\Users\\migue\\OneDrive\\DOS\\Herramientas ValinARI",
+    "trabajo_local": "C:\\Users\\migue\\Documents\\ChatGPT\\Historia de un imperio ficticio",
+    "fuentes_v050": "C:\\Users\\migue\\Documents\\Codex\\2026-10-26\\canon-valinoriano-v050-copilot-zip-chatgpt\\work\\copilot"
+  },
+  "python_runtime": "C:\\Users\\migue\\.cache\\codex-runtimes\\codex-primary-runtime\\dependencies\\python\\python.exe",
+  "provenance": {
+    "source_sha256": "2d5ed0f96388f6a3920d3dde3bea801084c8a8e37ce94ba7dc4eadc61ba81dbd",
+    "word_sha256": "138808af63d15cf518753e2c6a6375181cb9008321de5c2f72b23c786453cda3",
+    "pdf_sha256": "3745cc3acb3fd6e0c289a6a5fb2157083eab6c8dd9dbe12ebfeb94c4705af5f6",
+    "chronology_sha256": "d98eb4f47b87eb649a8092b7b3b87ba65fd2e8b3f138efce9d1bee66f4e0930d",
+    "pdf_pages": 242,
+    "verified_render": "C:\\Users\\migue\\Documents\\ChatGPT\\Historia de un imperio ficticio\\.revision_v16_1_20261107_102002\\render_final\\Canon V16 Maestro.pdf",
+    "qa_report": "C:\\Users\\migue\\Documents\\ChatGPT\\Historia de un imperio ficticio\\.revision_v16_1_20261107_102002\\qa_informe.json"
+  }
+}

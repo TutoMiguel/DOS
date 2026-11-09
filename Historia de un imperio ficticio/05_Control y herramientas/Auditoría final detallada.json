@@ -1,0 +1,1773 @@
+{
+  "date": "2026-11-07T11:12:46",
+  "notes": 590,
+  "active_notes": 505,
+  "exact_active_duplicate_groups": [],
+  "same_active_name_groups": [
+    [
+      "Canon V16 Maestro.md",
+      "00_Canon/Canon V16 Maestro.md"
+    ],
+    [
+      "02_Geografia/Aranath Valinor.md",
+      "02_Geografia/Entidades Politicas/Reinos Constituyentes/Aranath Valinor.md",
+      "04_Mapa Politico/Reinos Constituyentes/Aranath Valinor.md"
+    ],
+    [
+      "02_Geografia/Beleg Valinor.md",
+      "02_Geografia/Entidades Politicas/Protectorados/Beleg Valinor.md"
+    ],
+    [
+      "02_Geografia/Gwaith Valinor.md",
+      "02_Geografia/Entidades Politicas/Federacion Directa/Gwaith Valinor.md"
+    ],
+    [
+      "02_Geografia/Harnen.md",
+      "02_Geografia/Entidades Politicas/Protectorados/Harnen.md",
+      "04_Mapa Politico/Protectorados/Harnen.md"
+    ],
+    [
+      "02_Geografia/Tol Eressëa.md",
+      "02_Geografia/Regiones/Tol Eressëa.md",
+      "04_Mapa Politico/Núcleos Insulares/Tol Eressëa.md"
+    ],
+    [
+      "02_Geografia/Valinor a Tyl.md",
+      "02_Geografia/Regiones/Valinor a Tyl.md",
+      "04_Mapa Politico/Núcleos Insulares/Valinor a Tyl.md"
+    ],
+    [
+      "04_Mapa Politico/Valinor.md",
+      "02_Geografia/Regiones/Valinor.md",
+      "04_Mapa Politico/Núcleos Insulares/Valinor.md"
+    ],
+    [
+      "02_Geografia/Paises y Estados de Referencia/Kuwait.md",
+      "04_Mapa Politico/Ciudades/Kuwait.md"
+    ],
+    [
+      "02_Geografia/Paises y Estados de Referencia/Yibuti.md",
+      "04_Mapa Politico/Ciudades/Yibuti.md"
+    ],
+    [
+      "02_Geografia/Provincias/Cardolan.md",
+      "04_Mapa Politico/Ciudades/Cardolan.md"
+    ],
+    [
+      "02_Geografia/Provincias/Tolfalas.md",
+      "04_Mapa Politico/Ciudades/Tolfalas.md"
+    ],
+    [
+      "02_Geografia/Entidades Politicas/Federacion Directa/Eryndor.md",
+      "04_Mapa Politico/Estados Federados/Eryndor.md"
+    ],
+    [
+      "02_Geografia/Entidades Politicas/Federacion Directa/Fiyi.md",
+      "04_Mapa Politico/Estados Federados/Fiyi.md"
+    ],
+    [
+      "02_Geografia/Entidades Politicas/Federacion Directa/Hawái.md",
+      "04_Mapa Politico/Estados Federados/Hawái.md"
+    ],
+    [
+      "02_Geografia/Entidades Politicas/Federacion Directa/Malaca.md",
+      "04_Mapa Politico/Estados Federados/Malaca.md"
+    ],
+    [
+      "02_Geografia/Entidades Politicas/Federacion Directa/Micronesia.md",
+      "04_Mapa Politico/Estados Federados/Micronesia.md"
+    ],
+    [
+      "02_Geografia/Entidades Politicas/Federacion Directa/Polinesia.md",
+      "04_Mapa Politico/Estados Federados/Polinesia.md"
+    ],
+    [
+      "02_Geografia/Entidades Politicas/Protectorados/Alqualondë.md",
+      "04_Mapa Politico/Ciudades/Alqualondë.md"
+    ],
+    [
+      "02_Geografia/Entidades Politicas/Protectorados/Amon Rûdh.md",
+      "04_Mapa Politico/Capitales/Amon Rûdh.md"
+    ],
+    [
+      "02_Geografia/Entidades Politicas/Protectorados/Eglarest.md",
+      "04_Mapa Politico/Capitales/Eglarest.md"
+    ],
+    [
+      "02_Geografia/Territorios Federales/Groenlandia/Integración septentrional.md",
+      "02_Geografia/Territorios Federales/Islandia/Integración septentrional.md"
+    ],
+    [
+      "04_Mapa Politico/Capitales/Annúminas.md",
+      "04_Mapa Politico/Ciudades/Annúminas.md"
+    ],
+    [
+      "04_Mapa Politico/Capitales/Avallónë.md",
+      "04_Mapa Politico/Ciudades/Avallónë.md"
+    ],
+    [
+      "04_Mapa Politico/Capitales/Barad Oron.md",
+      "04_Mapa Politico/Ciudades/Barad Oron.md"
+    ],
+    [
+      "04_Mapa Politico/Capitales/Dol Amroth Menel.md",
+      "04_Mapa Politico/Ciudades/Dol Amroth Menel.md"
+    ],
+    [
+      "04_Mapa Politico/Capitales/Eressëa Menel.md",
+      "04_Mapa Politico/Ciudades/Eressëa Menel.md"
+    ],
+    [
+      "04_Mapa Politico/Capitales/Eryn Lasgalen.md",
+      "04_Mapa Politico/Ciudades/Eryn Lasgalen.md"
+    ],
+    [
+      "04_Mapa Politico/Capitales/Harlond Sur.md",
+      "04_Mapa Politico/Ciudades/Harlond Sur.md"
+    ],
+    [
+      "04_Mapa Politico/Capitales/Lond Daer.md",
+      "04_Mapa Politico/Ciudades/Lond Daer.md"
+    ],
+    [
+      "04_Mapa Politico/Capitales/Manama.md",
+      "04_Mapa Politico/Ciudades/Manama.md"
+    ],
+    [
+      "04_Mapa Politico/Capitales/Nueva Tirion.md",
+      "04_Mapa Politico/Ciudades/Nueva Tirion.md"
+    ],
+    [
+      "04_Mapa Politico/Capitales/Pelargir Austral.md",
+      "04_Mapa Politico/Ciudades/Pelargir Austral.md"
+    ],
+    [
+      "04_Mapa Politico/Capitales/Sirion.md",
+      "04_Mapa Politico/Ciudades/Sirion.md"
+    ],
+    [
+      "04_Mapa Politico/Capitales/Taur-en-Mor.md",
+      "04_Mapa Politico/Ciudades/Taur-en-Mor.md"
+    ],
+    [
+      "04_Mapa Politico/Capitales/Tirion del Istmo.md",
+      "04_Mapa Politico/Ciudades/Tirion del Istmo.md"
+    ],
+    [
+      "04_Mapa Politico/Capitales/Tirith Anor.md",
+      "04_Mapa Politico/Ciudades/Tirith Anor.md"
+    ],
+    [
+      "04_Mapa Politico/Capitales/Tol Galen.md",
+      "04_Mapa Politico/Ciudades/Tol Galen.md"
+    ],
+    [
+      "04_Mapa Politico/Capitales/Vinyamar.md",
+      "04_Mapa Politico/Ciudades/Vinyamar.md"
+    ]
+  ],
+  "same_active_title_groups": [
+    [
+      "02_Geografia/Aranath Valinor.md",
+      "02_Geografia/Entidades Politicas/Reinos Constituyentes/Aranath Valinor.md",
+      "04_Mapa Politico/Reinos Constituyentes/Aranath Valinor.md"
+    ],
+    [
+      "02_Geografia/Beleg Valinor.md",
+      "02_Geografia/Entidades Politicas/Protectorados/Beleg Valinor.md"
+    ],
+    [
+      "02_Geografia/Gwaith Valinor.md",
+      "02_Geografia/Entidades Politicas/Federacion Directa/Gwaith Valinor.md"
+    ],
+    [
+      "02_Geografia/Harnen.md",
+      "02_Geografia/Entidades Politicas/Protectorados/Harnen.md"
+    ],
+    [
+      "02_Geografia/Tol Eressëa.md",
+      "02_Geografia/Regiones/Tol Eressëa.md",
+      "04_Mapa Politico/Núcleos Insulares/Tol Eressëa.md"
+    ],
+    [
+      "02_Geografia/Valinor a Tyl.md",
+      "02_Geografia/Regiones/Valinor a Tyl.md",
+      "04_Mapa Politico/Núcleos Insulares/Valinor a Tyl.md"
+    ],
+    [
+      "04_Mapa Politico/Valinor.md",
+      "02_Geografia/Regiones/Valinor.md",
+      "04_Mapa Politico/Núcleos Insulares/Valinor.md"
+    ],
+    [
+      "09_Politica/Casas Menores de Exploración y Comercio.md",
+      "09_Politica/Casas Menores/Índice de Casas Menores.md"
+    ],
+    [
+      "02_Geografia/Paises y Estados de Referencia/Kuwait.md",
+      "04_Mapa Politico/Ciudades/Kuwait.md"
+    ],
+    [
+      "02_Geografia/Paises y Estados de Referencia/Yibuti.md",
+      "04_Mapa Politico/Ciudades/Yibuti.md"
+    ],
+    [
+      "02_Geografia/Entidades Politicas/Federacion Directa/Eryndor.md",
+      "04_Mapa Politico/Estados Federados/Eryndor.md"
+    ],
+    [
+      "02_Geografia/Entidades Politicas/Federacion Directa/Fiyi.md",
+      "04_Mapa Politico/Estados Federados/Fiyi.md"
+    ],
+    [
+      "02_Geografia/Entidades Politicas/Federacion Directa/Hawái.md",
+      "04_Mapa Politico/Estados Federados/Hawái.md"
+    ],
+    [
+      "02_Geografia/Entidades Politicas/Federacion Directa/Malaca.md",
+      "04_Mapa Politico/Estados Federados/Malaca.md"
+    ],
+    [
+      "02_Geografia/Entidades Politicas/Federacion Directa/Micronesia.md",
+      "04_Mapa Politico/Estados Federados/Micronesia.md"
+    ],
+    [
+      "02_Geografia/Entidades Politicas/Federacion Directa/Polinesia.md",
+      "04_Mapa Politico/Estados Federados/Polinesia.md"
+    ],
+    [
+      "02_Geografia/Entidades Politicas/Protectorados/Amon Rûdh.md",
+      "04_Mapa Politico/Capitales/Amon Rûdh.md"
+    ],
+    [
+      "04_Mapa Politico/Capitales/Avallónë.md",
+      "04_Mapa Politico/Ciudades/Avallónë.md"
+    ],
+    [
+      "04_Mapa Politico/Capitales/Manama.md",
+      "04_Mapa Politico/Ciudades/Manama.md"
+    ],
+    [
+      "04_Mapa Politico/Capitales/Nueva Tirion.md",
+      "04_Mapa Politico/Ciudades/Nueva Tirion.md"
+    ],
+    [
+      "09_Politica/Casa Real/Índice de Casa Real.md",
+      "09_Politica/Perfil Fenotípico/Casa Real.md"
+    ],
+    [
+      "09_Politica/Casas Mayores/Índice de Casas Mayores.md",
+      "09_Politica/Perfil Fenotípico/Casas Mayores.md"
+    ],
+    [
+      "09_Politica/Casas Vasallas/Índice de Casas Vasallas.md",
+      "09_Politica/Perfil Fenotípico/Casas Vasallas.md"
+    ]
+  ],
+  "media_duplicate_groups": [
+    [
+      "07_Imagenes/Casa Eryn Lasgale.jpg",
+      "07_Imagenes/Casa Eryn Lasgalen.jpg"
+    ],
+    [
+      "07_Imagenes/Casa Telcontar2q2.jpg",
+      "07_Imagenes/Designer (78).jpg"
+    ]
+  ],
+  "repeated_image_embeds": [],
+  "resolved_links": 9241,
+  "resolved_active_links": 8193,
+  "missing_active_links": [],
+  "missing_historical_links": [
+    {
+      "note": "10_Archivo/Documentos de trabajo integrados/cronologia_maestra_atlantica_v12.md",
+      "target": "../00_Canon/Canon V16 Maestro",
+      "active": false
+    },
+    {
+      "note": "10_Archivo/Enmiendas/actualizaciones_acumulativas_canon_v12.md",
+      "target": "../00_Canon/Canon V16 Maestro",
+      "active": false
+    },
+    {
+      "note": "10_Archivo/Enmiendas/actualizacion_canon_arnor_poblacion_economia_526ac_2026.md",
+      "target": "../00_Canon/Canon V16 Maestro",
+      "active": false
+    },
+    {
+      "note": "10_Archivo/Enmiendas/cronologia_maestra_atlantica_v12.md",
+      "target": "../00_Canon/Canon V16 Maestro",
+      "active": false
+    },
+    {
+      "note": "10_Archivo/Enmiendas/enmienda_canon_ciudades_poblacion_industrial_v12.md",
+      "target": "../00_Canon/Canon V16 Maestro",
+      "active": false
+    },
+    {
+      "note": "10_Archivo/Enmiendas/enmienda_canon_demografia_1850_2026_v12.md",
+      "target": "../00_Canon/Canon V16 Maestro",
+      "active": false
+    },
+    {
+      "note": "10_Archivo/Enmiendas/enmienda_canon_distribucion_urbana_historica_v12.md",
+      "target": "../00_Canon/Canon V16 Maestro",
+      "active": false
+    },
+    {
+      "note": "10_Archivo/Enmiendas/enmienda_canon_enclaves_medio_oriente_v12.md",
+      "target": "../00_Canon/Canon V16 Maestro",
+      "active": false
+    },
+    {
+      "note": "10_Archivo/Enmiendas/enmienda_canon_federacion_golfo_oriental_v14.md",
+      "target": "../00_Canon/Canon V16 Maestro",
+      "active": false
+    },
+    {
+      "note": "10_Archivo/Enmiendas/enmienda_canon_industrializacion_1850_2026_v12.md",
+      "target": "../00_Canon/Canon V16 Maestro",
+      "active": false
+    },
+    {
+      "note": "10_Archivo/Enmiendas/enmienda_canon_nosselie_toliva_canarias_v12.md",
+      "target": "../00_Canon/Canon V16 Maestro",
+      "active": false
+    },
+    {
+      "note": "10_Archivo/Enmiendas/enmienda_canon_oceannet_1850_2026_v12.md",
+      "target": "../00_Canon/Canon V16 Maestro",
+      "active": false
+    },
+    {
+      "note": "10_Archivo/Enmiendas/enmienda_canon_poligono_tol_eressea_y_numenor_v12.md",
+      "target": "../00_Canon/Canon V16 Maestro",
+      "active": false
+    },
+    {
+      "note": "10_Archivo/Enmiendas/enmienda_canon_primer_contacto_caribe_150_ac_v12.md",
+      "target": "../00_Canon/Canon V16 Maestro",
+      "active": false
+    },
+    {
+      "note": "10_Archivo/Enmiendas/enmienda_canon_provincia_arnor_v12.md",
+      "target": "../00_Canon/Canon V16 Maestro",
+      "active": false
+    },
+    {
+      "note": "10_Archivo/Enmiendas/enmienda_canon_provincia_calendardhon_austral_v12.md",
+      "target": "../00_Canon/Canon V16 Maestro",
+      "active": false
+    },
+    {
+      "note": "10_Archivo/Enmiendas/enmienda_canon_recalibracion_poblacion_v12.md",
+      "target": "../00_Canon/Canon V16 Maestro",
+      "active": false
+    },
+    {
+      "note": "10_Archivo/Enmiendas/enmienda_canon_secuencia_atlantica_tol_terranova_valinor_v12.md",
+      "target": "../00_Canon/Canon V16 Maestro",
+      "active": false
+    },
+    {
+      "note": "10_Archivo/Enmiendas/enmienda_canon_sirenande_poblacion_v12.md",
+      "target": "../00_Canon/Canon V16 Maestro",
+      "active": false
+    },
+    {
+      "note": "10_Archivo/Enmiendas/enmienda_canon_sirenande_v12.md",
+      "target": "../00_Canon/Canon V16 Maestro",
+      "active": false
+    },
+    {
+      "note": "10_Archivo/Enmiendas/informe_comparacion_v11.md",
+      "target": "../00_Canon/Canon V16 Maestro",
+      "active": false
+    },
+    {
+      "note": "10_Archivo/Enmiendas/regla_primordial_nomenclatura_urbana_v12.md",
+      "target": "../00_Canon/Canon V16 Maestro",
+      "active": false
+    },
+    {
+      "note": "10_Archivo/Versiones anteriores/Canon Maestro Optimizado v14.md",
+      "target": "../../../00_Canon/Canon V16 Maestro",
+      "active": false
+    },
+    {
+      "note": "10_Archivo/Versiones anteriores/Canon Maestro Optimizado v14.md",
+      "target": "../00_Canon/Canon V16 Maestro",
+      "active": false
+    },
+    {
+      "note": "10_Archivo/Versiones anteriores/Canon Maestro Unificado v13.md",
+      "target": "../../../00_Canon/Canon V16 Maestro",
+      "active": false
+    },
+    {
+      "note": "10_Archivo/Versiones anteriores/Canon Maestro Unificado v13.md",
+      "target": "../00_Canon/Canon V16 Maestro",
+      "active": false
+    },
+    {
+      "note": "10_Archivo/Versiones anteriores/Canon Oficial de Valinor.md",
+      "target": "Pasted image 20261031203209.png",
+      "active": false
+    },
+    {
+      "note": "10_Archivo/Versiones anteriores/Canon Oficial de Valinor.md",
+      "target": "../00_Canon/Canon V16 Maestro",
+      "active": false
+    },
+    {
+      "note": "10_Archivo/Versiones anteriores/Canon-Maestro-Unificado-Edicion-14.md",
+      "target": "../../../00_Canon/Canon V16 Maestro",
+      "active": false
+    },
+    {
+      "note": "10_Archivo/Versiones anteriores/Canon-Maestro-Unificado-Edicion-14.md",
+      "target": "../00_Canon/Canon V16 Maestro",
+      "active": false
+    },
+    {
+      "note": "10_Archivo/Versiones anteriores/LEEME.md",
+      "target": "../00_Canon/Canon V16 Maestro",
+      "active": false
+    },
+    {
+      "note": "10_Archivo/Documentos editoriales/Mundo_Ficticio_Obsidian/Mapa_Mental.md",
+      "target": "../00_Canon/Canon V16 Maestro",
+      "active": false
+    },
+    {
+      "note": "10_Archivo/Documentos editoriales/Nueva carpeta/Canon-Maestro-Unificado-Edicion-14.md",
+      "target": "../00_Canon/Canon V16 Maestro",
+      "active": false
+    },
+    {
+      "note": "10_Archivo/Documentos editoriales/Nueva carpeta/cronologia_maestra_atlantica_v12.md",
+      "target": "../00_Canon/Canon V16 Maestro",
+      "active": false
+    },
+    {
+      "note": "10_Archivo/Documentos editoriales/Oficial/Matriz de conciliacion y plan de integracion del Canon Maestro.md",
+      "target": "../00_Canon/Canon V16 Maestro",
+      "active": false
+    },
+    {
+      "note": "10_Archivo/Respaldos/AsociacionImagenes-20261101-203743/Casa Alqualondë.md",
+      "target": "../Índice de Casas Nobles",
+      "active": false
+    },
+    {
+      "note": "10_Archivo/Respaldos/AsociacionImagenes-20261101-203743/Casa Alqualondë.md",
+      "target": "../../00_Canon/Canon V16 Maestro",
+      "active": false
+    },
+    {
+      "note": "10_Archivo/Respaldos/AsociacionImagenes-20261101-203743/Casa Alqualondë.md",
+      "target": "../../09_Politica/Índice Político Institucional",
+      "active": false
+    },
+    {
+      "note": "10_Archivo/Respaldos/AsociacionImagenes-20261101-203743/Casa Alqualondë.md",
+      "target": "../00_Canon/Canon V16 Maestro",
+      "active": false
+    },
+    {
+      "note": "10_Archivo/Respaldos/AsociacionImagenes-20261101-203743/Casa Alqualondë.md",
+      "target": "../00_Canon/Panel de Control V16",
+      "active": false
+    },
+    {
+      "note": "10_Archivo/Respaldos/AsociacionImagenes-20261101-203743/Casa Alqualondë.md",
+      "target": "../04_Mapa Politico/Índice Político",
+      "active": false
+    },
+    {
+      "note": "10_Archivo/Respaldos/AsociacionImagenes-20261101-203743/Casa Alqualondë.md",
+      "target": "../02_Geografia/Entidades Politicas/Índice de Entidades Políticas",
+      "active": false
+    },
+    {
+      "note": "10_Archivo/Respaldos/AsociacionImagenes-20261101-203743/Casa Alqualondë.md",
+      "target": "../01_Cronologia/Cronología Territorial V16",
+      "active": false
+    },
+    {
+      "note": "10_Archivo/Respaldos/AsociacionImagenes-20261101-203743/Casa Alqualondë.md",
+      "target": "../03_Personajes/Índice de Personajes",
+      "active": false
+    },
+    {
+      "note": "10_Archivo/Respaldos/AsociacionImagenes-20261101-203743/Casa Alqualondë.md",
+      "target": "../04_Mapa Politico/Índice Político",
+      "active": false
+    },
+    {
+      "note": "10_Archivo/Respaldos/AsociacionImagenes-20261101-203743/Casa Alqualondë.md",
+      "target": "../00_Canon/Matriz de Estatus Político",
+      "active": false
+    },
+    {
+      "note": "10_Archivo/Respaldos/AsociacionImagenes-20261101-203743/Casa Alqualondë.md",
+      "target": "../Matriz Heráldica y Funcional de las Casas",
+      "active": false
+    },
+    {
+      "note": "10_Archivo/Respaldos/AsociacionImagenes-20261101-203743/Casa Annúminas.md",
+      "target": "../Índice de Casas Nobles",
+      "active": false
+    },
+    {
+      "note": "10_Archivo/Respaldos/AsociacionImagenes-20261101-203743/Casa Annúminas.md",
+      "target": "../../00_Canon/Canon V16 Maestro",
+      "active": false
+    },
+    {
+      "note": "10_Archivo/Respaldos/AsociacionImagenes-20261101-203743/Casa Annúminas.md",
+      "target": "../../09_Politica/Índice Político Institucional",
+      "active": false
+    },
+    {
+      "note": "10_Archivo/Respaldos/AsociacionImagenes-20261101-203743/Casa Annúminas.md",
+      "target": "../00_Canon/Canon V16 Maestro",
+      "active": false
+    },
+    {
+      "note": "10_Archivo/Respaldos/AsociacionImagenes-20261101-203743/Casa Annúminas.md",
+      "target": "../00_Canon/Panel de Control V16",
+      "active": false
+    },
+    {
+      "note": "10_Archivo/Respaldos/AsociacionImagenes-20261101-203743/Casa Annúminas.md",
+      "target": "../04_Mapa Politico/Índice Político",
+      "active": false
+    },
+    {
+      "note": "10_Archivo/Respaldos/AsociacionImagenes-20261101-203743/Casa Annúminas.md",
+      "target": "../02_Geografia/Entidades Politicas/Índice de Entidades Políticas",
+      "active": false
+    },
+    {
+      "note": "10_Archivo/Respaldos/AsociacionImagenes-20261101-203743/Casa Annúminas.md",
+      "target": "../01_Cronologia/Cronología Territorial V16",
+      "active": false
+    },
+    {
+      "note": "10_Archivo/Respaldos/AsociacionImagenes-20261101-203743/Casa Annúminas.md",
+      "target": "../03_Personajes/Índice de Personajes",
+      "active": false
+    },
+    {
+      "note": "10_Archivo/Respaldos/AsociacionImagenes-20261101-203743/Casa Annúminas.md",
+      "target": "../04_Mapa Politico/Índice Político",
+      "active": false
+    },
+    {
+      "note": "10_Archivo/Respaldos/AsociacionImagenes-20261101-203743/Casa Annúminas.md",
+      "target": "../00_Canon/Matriz de Estatus Político",
+      "active": false
+    },
+    {
+      "note": "10_Archivo/Respaldos/AsociacionImagenes-20261101-203743/Casa Annúminas.md",
+      "target": "../Matriz Heráldica y Funcional de las Casas",
+      "active": false
+    },
+    {
+      "note": "10_Archivo/Respaldos/AsociacionImagenes-20261101-203743/Casa Armenelos.md",
+      "target": "../Índice de Casas Nobles",
+      "active": false
+    },
+    {
+      "note": "10_Archivo/Respaldos/AsociacionImagenes-20261101-203743/Casa Armenelos.md",
+      "target": "../../00_Canon/Canon V16 Maestro",
+      "active": false
+    },
+    {
+      "note": "10_Archivo/Respaldos/AsociacionImagenes-20261101-203743/Casa Armenelos.md",
+      "target": "../../09_Politica/Índice Político Institucional",
+      "active": false
+    },
+    {
+      "note": "10_Archivo/Respaldos/AsociacionImagenes-20261101-203743/Casa Armenelos.md",
+      "target": "../00_Canon/Canon V16 Maestro",
+      "active": false
+    },
+    {
+      "note": "10_Archivo/Respaldos/AsociacionImagenes-20261101-203743/Casa Armenelos.md",
+      "target": "../00_Canon/Panel de Control V16",
+      "active": false
+    },
+    {
+      "note": "10_Archivo/Respaldos/AsociacionImagenes-20261101-203743/Casa Armenelos.md",
+      "target": "../04_Mapa Politico/Índice Político",
+      "active": false
+    },
+    {
+      "note": "10_Archivo/Respaldos/AsociacionImagenes-20261101-203743/Casa Armenelos.md",
+      "target": "../02_Geografia/Entidades Politicas/Índice de Entidades Políticas",
+      "active": false
+    },
+    {
+      "note": "10_Archivo/Respaldos/AsociacionImagenes-20261101-203743/Casa Armenelos.md",
+      "target": "../01_Cronologia/Cronología Territorial V16",
+      "active": false
+    },
+    {
+      "note": "10_Archivo/Respaldos/AsociacionImagenes-20261101-203743/Casa Armenelos.md",
+      "target": "../03_Personajes/Índice de Personajes",
+      "active": false
+    },
+    {
+      "note": "10_Archivo/Respaldos/AsociacionImagenes-20261101-203743/Casa Armenelos.md",
+      "target": "../04_Mapa Politico/Índice Político",
+      "active": false
+    },
+    {
+      "note": "10_Archivo/Respaldos/AsociacionImagenes-20261101-203743/Casa Armenelos.md",
+      "target": "../00_Canon/Matriz de Estatus Político",
+      "active": false
+    },
+    {
+      "note": "10_Archivo/Respaldos/AsociacionImagenes-20261101-203743/Casa Armenelos.md",
+      "target": "../Matriz Heráldica y Funcional de las Casas",
+      "active": false
+    },
+    {
+      "note": "10_Archivo/Respaldos/AsociacionImagenes-20261101-203743/Casa Barad Calen.md",
+      "target": "../Índice de Casas Nobles",
+      "active": false
+    },
+    {
+      "note": "10_Archivo/Respaldos/AsociacionImagenes-20261101-203743/Casa Barad Calen.md",
+      "target": "../../00_Canon/Canon V16 Maestro",
+      "active": false
+    },
+    {
+      "note": "10_Archivo/Respaldos/AsociacionImagenes-20261101-203743/Casa Barad Calen.md",
+      "target": "../../09_Politica/Índice Político Institucional",
+      "active": false
+    },
+    {
+      "note": "10_Archivo/Respaldos/AsociacionImagenes-20261101-203743/Casa Barad Calen.md",
+      "target": "../00_Canon/Canon V16 Maestro",
+      "active": false
+    },
+    {
+      "note": "10_Archivo/Respaldos/AsociacionImagenes-20261101-203743/Casa Barad Calen.md",
+      "target": "../00_Canon/Panel de Control V16",
+      "active": false
+    },
+    {
+      "note": "10_Archivo/Respaldos/AsociacionImagenes-20261101-203743/Casa Barad Calen.md",
+      "target": "../04_Mapa Politico/Índice Político",
+      "active": false
+    },
+    {
+      "note": "10_Archivo/Respaldos/AsociacionImagenes-20261101-203743/Casa Barad Calen.md",
+      "target": "../02_Geografia/Entidades Politicas/Índice de Entidades Políticas",
+      "active": false
+    },
+    {
+      "note": "10_Archivo/Respaldos/AsociacionImagenes-20261101-203743/Casa Barad Calen.md",
+      "target": "../01_Cronologia/Cronología Territorial V16",
+      "active": false
+    },
+    {
+      "note": "10_Archivo/Respaldos/AsociacionImagenes-20261101-203743/Casa Barad Calen.md",
+      "target": "../03_Personajes/Índice de Personajes",
+      "active": false
+    },
+    {
+      "note": "10_Archivo/Respaldos/AsociacionImagenes-20261101-203743/Casa Barad Calen.md",
+      "target": "../04_Mapa Politico/Índice Político",
+      "active": false
+    },
+    {
+      "note": "10_Archivo/Respaldos/AsociacionImagenes-20261101-203743/Casa Barad Calen.md",
+      "target": "../00_Canon/Matriz de Estatus Político",
+      "active": false
+    },
+    {
+      "note": "10_Archivo/Respaldos/AsociacionImagenes-20261101-203743/Casa Barad Calen.md",
+      "target": "../Matriz Heráldica y Funcional de las Casas",
+      "active": false
+    },
+    {
+      "note": "10_Archivo/Respaldos/AsociacionImagenes-20261101-203743/Casa Calenhad.md",
+      "target": "../Índice de Casas Nobles",
+      "active": false
+    },
+    {
+      "note": "10_Archivo/Respaldos/AsociacionImagenes-20261101-203743/Casa Calenhad.md",
+      "target": "../../00_Canon/Canon V16 Maestro",
+      "active": false
+    },
+    {
+      "note": "10_Archivo/Respaldos/AsociacionImagenes-20261101-203743/Casa Calenhad.md",
+      "target": "../../09_Politica/Índice Político Institucional",
+      "active": false
+    },
+    {
+      "note": "10_Archivo/Respaldos/AsociacionImagenes-20261101-203743/Casa Calenhad.md",
+      "target": "../00_Canon/Canon V16 Maestro",
+      "active": false
+    },
+    {
+      "note": "10_Archivo/Respaldos/AsociacionImagenes-20261101-203743/Casa Calenhad.md",
+      "target": "../00_Canon/Panel de Control V16",
+      "active": false
+    },
+    {
+      "note": "10_Archivo/Respaldos/AsociacionImagenes-20261101-203743/Casa Calenhad.md",
+      "target": "../04_Mapa Politico/Índice Político",
+      "active": false
+    },
+    {
+      "note": "10_Archivo/Respaldos/AsociacionImagenes-20261101-203743/Casa Calenhad.md",
+      "target": "../02_Geografia/Entidades Politicas/Índice de Entidades Políticas",
+      "active": false
+    },
+    {
+      "note": "10_Archivo/Respaldos/AsociacionImagenes-20261101-203743/Casa Calenhad.md",
+      "target": "../01_Cronologia/Cronología Territorial V16",
+      "active": false
+    },
+    {
+      "note": "10_Archivo/Respaldos/AsociacionImagenes-20261101-203743/Casa Calenhad.md",
+      "target": "../03_Personajes/Índice de Personajes",
+      "active": false
+    },
+    {
+      "note": "10_Archivo/Respaldos/AsociacionImagenes-20261101-203743/Casa Calenhad.md",
+      "target": "../04_Mapa Politico/Índice Político",
+      "active": false
+    },
+    {
+      "note": "10_Archivo/Respaldos/AsociacionImagenes-20261101-203743/Casa Calenhad.md",
+      "target": "../00_Canon/Matriz de Estatus Político",
+      "active": false
+    },
+    {
+      "note": "10_Archivo/Respaldos/AsociacionImagenes-20261101-203743/Casa Calenhad.md",
+      "target": "../Matriz Heráldica y Funcional de las Casas",
+      "active": false
+    },
+    {
+      "note": "10_Archivo/Respaldos/AsociacionImagenes-20261101-203743/Casa Calenor.md",
+      "target": "../Índice de Casas Nobles",
+      "active": false
+    },
+    {
+      "note": "10_Archivo/Respaldos/AsociacionImagenes-20261101-203743/Casa Calenor.md",
+      "target": "../../00_Canon/Canon V16 Maestro",
+      "active": false
+    },
+    {
+      "note": "10_Archivo/Respaldos/AsociacionImagenes-20261101-203743/Casa Calenor.md",
+      "target": "../../09_Politica/Índice Político Institucional",
+      "active": false
+    },
+    {
+      "note": "10_Archivo/Respaldos/AsociacionImagenes-20261101-203743/Casa Calenor.md",
+      "target": "../00_Canon/Canon V16 Maestro",
+      "active": false
+    },
+    {
+      "note": "10_Archivo/Respaldos/AsociacionImagenes-20261101-203743/Casa Calenor.md",
+      "target": "../00_Canon/Panel de Control V16",
+      "active": false
+    },
+    {
+      "note": "10_Archivo/Respaldos/AsociacionImagenes-20261101-203743/Casa Calenor.md",
+      "target": "../04_Mapa Politico/Índice Político",
+      "active": false
+    },
+    {
+      "note": "10_Archivo/Respaldos/AsociacionImagenes-20261101-203743/Casa Calenor.md",
+      "target": "../02_Geografia/Entidades Politicas/Índice de Entidades Políticas",
+      "active": false
+    },
+    {
+      "note": "10_Archivo/Respaldos/AsociacionImagenes-20261101-203743/Casa Calenor.md",
+      "target": "../01_Cronologia/Cronología Territorial V16",
+      "active": false
+    },
+    {
+      "note": "10_Archivo/Respaldos/AsociacionImagenes-20261101-203743/Casa Calenor.md",
+      "target": "../03_Personajes/Índice de Personajes",
+      "active": false
+    },
+    {
+      "note": "10_Archivo/Respaldos/AsociacionImagenes-20261101-203743/Casa Calenor.md",
+      "target": "../04_Mapa Politico/Índice Político",
+      "active": false
+    },
+    {
+      "note": "10_Archivo/Respaldos/AsociacionImagenes-20261101-203743/Casa Calenor.md",
+      "target": "../00_Canon/Matriz de Estatus Político",
+      "active": false
+    },
+    {
+      "note": "10_Archivo/Respaldos/AsociacionImagenes-20261101-203743/Casa Calenor.md",
+      "target": "../Matriz Heráldica y Funcional de las Casas",
+      "active": false
+    },
+    {
+      "note": "10_Archivo/Respaldos/AsociacionImagenes-20261101-203743/Casa Círdan.md",
+      "target": "../Índice de Casas Nobles",
+      "active": false
+    },
+    {
+      "note": "10_Archivo/Respaldos/AsociacionImagenes-20261101-203743/Casa Círdan.md",
+      "target": "../../00_Canon/Canon V16 Maestro",
+      "active": false
+    },
+    {
+      "note": "10_Archivo/Respaldos/AsociacionImagenes-20261101-203743/Casa Círdan.md",
+      "target": "../../09_Politica/Índice Político Institucional",
+      "active": false
+    },
+    {
+      "note": "10_Archivo/Respaldos/AsociacionImagenes-20261101-203743/Casa Círdan.md",
+      "target": "../00_Canon/Canon V16 Maestro",
+      "active": false
+    },
+    {
+      "note": "10_Archivo/Respaldos/AsociacionImagenes-20261101-203743/Casa Círdan.md",
+      "target": "../00_Canon/Panel de Control V16",
+      "active": false
+    },
+    {
+      "note": "10_Archivo/Respaldos/AsociacionImagenes-20261101-203743/Casa Círdan.md",
+      "target": "../04_Mapa Politico/Índice Político",
+      "active": false
+    },
+    {
+      "note": "10_Archivo/Respaldos/AsociacionImagenes-20261101-203743/Casa Círdan.md",
+      "target": "../02_Geografia/Entidades Politicas/Índice de Entidades Políticas",
+      "active": false
+    },
+    {
+      "note": "10_Archivo/Respaldos/AsociacionImagenes-20261101-203743/Casa Círdan.md",
+      "target": "../01_Cronologia/Cronología Territorial V16",
+      "active": false
+    },
+    {
+      "note": "10_Archivo/Respaldos/AsociacionImagenes-20261101-203743/Casa Círdan.md",
+      "target": "../03_Personajes/Índice de Personajes",
+      "active": false
+    },
+    {
+      "note": "10_Archivo/Respaldos/AsociacionImagenes-20261101-203743/Casa Círdan.md",
+      "target": "../04_Mapa Politico/Índice Político",
+      "active": false
+    },
+    {
+      "note": "10_Archivo/Respaldos/AsociacionImagenes-20261101-203743/Casa Círdan.md",
+      "target": "../00_Canon/Matriz de Estatus Político",
+      "active": false
+    },
+    {
+      "note": "10_Archivo/Respaldos/AsociacionImagenes-20261101-203743/Casa Círdan.md",
+      "target": "../Matriz Heráldica y Funcional de las Casas",
+      "active": false
+    },
+    {
+      "note": "10_Archivo/Respaldos/AsociacionImagenes-20261101-203743/Casa Dol Amroth.md",
+      "target": "../Índice de Casas Nobles",
+      "active": false
+    },
+    {
+      "note": "10_Archivo/Respaldos/AsociacionImagenes-20261101-203743/Casa Dol Amroth.md",
+      "target": "../../00_Canon/Canon V16 Maestro",
+      "active": false
+    },
+    {
+      "note": "10_Archivo/Respaldos/AsociacionImagenes-20261101-203743/Casa Dol Amroth.md",
+      "target": "../../09_Politica/Índice Político Institucional",
+      "active": false
+    },
+    {
+      "note": "10_Archivo/Respaldos/AsociacionImagenes-20261101-203743/Casa Dol Amroth.md",
+      "target": "../00_Canon/Canon V16 Maestro",
+      "active": false
+    },
+    {
+      "note": "10_Archivo/Respaldos/AsociacionImagenes-20261101-203743/Casa Dol Amroth.md",
+      "target": "../00_Canon/Panel de Control V16",
+      "active": false
+    },
+    {
+      "note": "10_Archivo/Respaldos/AsociacionImagenes-20261101-203743/Casa Dol Amroth.md",
+      "target": "../04_Mapa Politico/Índice Político",
+      "active": false
+    },
+    {
+      "note": "10_Archivo/Respaldos/AsociacionImagenes-20261101-203743/Casa Dol Amroth.md",
+      "target": "../02_Geografia/Entidades Politicas/Índice de Entidades Políticas",
+      "active": false
+    },
+    {
+      "note": "10_Archivo/Respaldos/AsociacionImagenes-20261101-203743/Casa Dol Amroth.md",
+      "target": "../01_Cronologia/Cronología Territorial V16",
+      "active": false
+    },
+    {
+      "note": "10_Archivo/Respaldos/AsociacionImagenes-20261101-203743/Casa Dol Amroth.md",
+      "target": "../03_Personajes/Índice de Personajes",
+      "active": false
+    },
+    {
+      "note": "10_Archivo/Respaldos/AsociacionImagenes-20261101-203743/Casa Dol Amroth.md",
+      "target": "../04_Mapa Politico/Índice Político",
+      "active": false
+    },
+    {
+      "note": "10_Archivo/Respaldos/AsociacionImagenes-20261101-203743/Casa Dol Amroth.md",
+      "target": "../00_Canon/Matriz de Estatus Político",
+      "active": false
+    },
+    {
+      "note": "10_Archivo/Respaldos/AsociacionImagenes-20261101-203743/Casa Dol Amroth.md",
+      "target": "../Matriz Heráldica y Funcional de las Casas",
+      "active": false
+    },
+    {
+      "note": "10_Archivo/Respaldos/AsociacionImagenes-20261101-203743/Casa Noldor.md",
+      "target": "Casa Noldor.png",
+      "active": false
+    },
+    {
+      "note": "10_Archivo/Respaldos/AsociacionImagenes-20261101-203743/Casa Noldor.md",
+      "target": "Casa Noldor 2.jpg",
+      "active": false
+    },
+    {
+      "note": "10_Archivo/Respaldos/AsociacionImagenes-20261101-203743/Casa Noldor.md",
+      "target": "../Índice de Casas Nobles",
+      "active": false
+    },
+    {
+      "note": "10_Archivo/Respaldos/AsociacionImagenes-20261101-203743/Casa Noldor.md",
+      "target": "../../00_Canon/Canon V16 Maestro",
+      "active": false
+    },
+    {
+      "note": "10_Archivo/Respaldos/AsociacionImagenes-20261101-203743/Casa Noldor.md",
+      "target": "../../09_Politica/Índice Político Institucional",
+      "active": false
+    },
+    {
+      "note": "10_Archivo/Respaldos/AsociacionImagenes-20261101-203743/Casa Noldor.md",
+      "target": "../00_Canon/Canon V16 Maestro",
+      "active": false
+    },
+    {
+      "note": "10_Archivo/Respaldos/AsociacionImagenes-20261101-203743/Casa Noldor.md",
+      "target": "../00_Canon/Panel de Control V16",
+      "active": false
+    },
+    {
+      "note": "10_Archivo/Respaldos/AsociacionImagenes-20261101-203743/Casa Noldor.md",
+      "target": "../04_Mapa Politico/Índice Político",
+      "active": false
+    },
+    {
+      "note": "10_Archivo/Respaldos/AsociacionImagenes-20261101-203743/Casa Noldor.md",
+      "target": "../02_Geografia/Entidades Politicas/Índice de Entidades Políticas",
+      "active": false
+    },
+    {
+      "note": "10_Archivo/Respaldos/AsociacionImagenes-20261101-203743/Casa Noldor.md",
+      "target": "../01_Cronologia/Cronología Territorial V16",
+      "active": false
+    },
+    {
+      "note": "10_Archivo/Respaldos/AsociacionImagenes-20261101-203743/Casa Noldor.md",
+      "target": "../03_Personajes/Índice de Personajes",
+      "active": false
+    },
+    {
+      "note": "10_Archivo/Respaldos/AsociacionImagenes-20261101-203743/Casa Noldor.md",
+      "target": "../04_Mapa Politico/Índice Político",
+      "active": false
+    },
+    {
+      "note": "10_Archivo/Respaldos/AsociacionImagenes-20261101-203743/Casa Noldor.md",
+      "target": "../00_Canon/Matriz de Estatus Político",
+      "active": false
+    },
+    {
+      "note": "10_Archivo/Respaldos/AsociacionImagenes-20261101-203743/Casa Noldor.md",
+      "target": "../Matriz Heráldica y Funcional de las Casas",
+      "active": false
+    },
+    {
+      "note": "10_Archivo/Respaldos/AsociacionImagenes-20261101-203743/Casa Telcontar.md",
+      "target": "../../03_Personajes/Ariadna",
+      "active": false
+    },
+    {
+      "note": "10_Archivo/Respaldos/AsociacionImagenes-20261101-203743/Casa Telcontar.md",
+      "target": "../../03_Personajes/Thalion Telcontar",
+      "active": false
+    },
+    {
+      "note": "10_Archivo/Respaldos/AsociacionImagenes-20261101-203743/Casa Telcontar.md",
+      "target": "../../03_Personajes/Lothíriel Telcontar",
+      "active": false
+    },
+    {
+      "note": "10_Archivo/Respaldos/AsociacionImagenes-20261101-203743/Casa Telcontar.md",
+      "target": "../03_Personajes/Ariadna",
+      "active": false
+    },
+    {
+      "note": "10_Archivo/Respaldos/AsociacionImagenes-20261101-203743/Casa Telcontar.md",
+      "target": "../Índice de Casas Nobles",
+      "active": false
+    },
+    {
+      "note": "10_Archivo/Respaldos/AsociacionImagenes-20261101-203743/Casa Telcontar.md",
+      "target": "../../00_Canon/Canon V16 Maestro",
+      "active": false
+    },
+    {
+      "note": "10_Archivo/Respaldos/AsociacionImagenes-20261101-203743/Casa Telcontar.md",
+      "target": "../../09_Politica/Índice Político Institucional",
+      "active": false
+    },
+    {
+      "note": "10_Archivo/Respaldos/AsociacionImagenes-20261101-203743/Casa Telcontar.md",
+      "target": "../00_Canon/Canon V16 Maestro",
+      "active": false
+    },
+    {
+      "note": "10_Archivo/Respaldos/AsociacionImagenes-20261101-203743/Casa Telcontar.md",
+      "target": "../00_Canon/Panel de Control V16",
+      "active": false
+    },
+    {
+      "note": "10_Archivo/Respaldos/AsociacionImagenes-20261101-203743/Casa Telcontar.md",
+      "target": "../04_Mapa Politico/Índice Político",
+      "active": false
+    },
+    {
+      "note": "10_Archivo/Respaldos/AsociacionImagenes-20261101-203743/Casa Telcontar.md",
+      "target": "../02_Geografia/Entidades Politicas/Índice de Entidades Políticas",
+      "active": false
+    },
+    {
+      "note": "10_Archivo/Respaldos/AsociacionImagenes-20261101-203743/Casa Telcontar.md",
+      "target": "../01_Cronologia/Cronología Territorial V16",
+      "active": false
+    },
+    {
+      "note": "10_Archivo/Respaldos/AsociacionImagenes-20261101-203743/Casa Telcontar.md",
+      "target": "../03_Personajes/Índice de Personajes",
+      "active": false
+    },
+    {
+      "note": "10_Archivo/Respaldos/AsociacionImagenes-20261101-203743/Casa Telcontar.md",
+      "target": "../04_Mapa Politico/Índice Político",
+      "active": false
+    },
+    {
+      "note": "10_Archivo/Respaldos/AsociacionImagenes-20261101-203743/Casa Telcontar.md",
+      "target": "../00_Canon/Matriz de Estatus Político",
+      "active": false
+    },
+    {
+      "note": "10_Archivo/Respaldos/AsociacionImagenes-20261101-203743/Casa Telcontar.md",
+      "target": "../Matriz Heráldica y Funcional de las Casas",
+      "active": false
+    },
+    {
+      "note": "10_Archivo/Respaldos/AsociacionImagenes-20261101-203743/Índice de Imágenes.md",
+      "target": "../00_Canon/Mapa de Navegación V16",
+      "active": false
+    },
+    {
+      "note": "10_Archivo/Respaldos/AsociacionImagenes-20261101-203743/Índice de Imágenes.md",
+      "target": "../03_Personajes/Índice de Personajes",
+      "active": false
+    },
+    {
+      "note": "10_Archivo/Respaldos/AsociacionImagenes-20261101-203743/Índice de Imágenes.md",
+      "target": "../09_Politica/Índice de Casas Nobles",
+      "active": false
+    },
+    {
+      "note": "10_Archivo/Respaldos/AsociacionImagenes-20261101-203743/Índice de Imágenes.md",
+      "target": "../04_Mapa Politico/Capitales/Capitales del Canon V16",
+      "active": false
+    },
+    {
+      "note": "10_Archivo/Respaldos/AsociacionImagenes-20261101-203743/Índice de Imágenes.md",
+      "target": "../09_Politica/Casas Mayores/Casa Alqualondë",
+      "active": false
+    },
+    {
+      "note": "10_Archivo/Respaldos/AsociacionImagenes-20261101-203743/Índice de Imágenes.md",
+      "target": "../09_Politica/Casas Mayores/Casa Annúminas",
+      "active": false
+    },
+    {
+      "note": "10_Archivo/Respaldos/AsociacionImagenes-20261101-203743/Índice de Imágenes.md",
+      "target": "../09_Politica/Casas Mayores/Casa Armenelos",
+      "active": false
+    },
+    {
+      "note": "10_Archivo/Respaldos/AsociacionImagenes-20261101-203743/Índice de Imágenes.md",
+      "target": "../09_Politica/Casas Mayores/Casa Barad Calen",
+      "active": false
+    },
+    {
+      "note": "10_Archivo/Respaldos/AsociacionImagenes-20261101-203743/Índice de Imágenes.md",
+      "target": "../09_Politica/Casas Mayores/Casa Calenhad",
+      "active": false
+    },
+    {
+      "note": "10_Archivo/Respaldos/AsociacionImagenes-20261101-203743/Índice de Imágenes.md",
+      "target": "../09_Politica/Casas Mayores/Casa Calenor",
+      "active": false
+    },
+    {
+      "note": "10_Archivo/Respaldos/AsociacionImagenes-20261101-203743/Índice de Imágenes.md",
+      "target": "../09_Politica/Casas Mayores/Casa Círdan",
+      "active": false
+    },
+    {
+      "note": "10_Archivo/Respaldos/AsociacionImagenes-20261101-203743/Índice de Imágenes.md",
+      "target": "../09_Politica/Casas Mayores/Casa Dol Amroth",
+      "active": false
+    },
+    {
+      "note": "10_Archivo/Respaldos/AsociacionImagenes-20261101-203743/Índice de Imágenes.md",
+      "target": "../09_Politica/Casas Mayores/Casa Noldor",
+      "active": false
+    },
+    {
+      "note": "10_Archivo/Respaldos/AsociacionImagenes-20261101-203743/Índice de Imágenes.md",
+      "target": "../09_Politica/Casa Real/Casa Telcontar",
+      "active": false
+    },
+    {
+      "note": "10_Archivo/Respaldos/AsociacionImagenes-20261101-203743/Índice de Imágenes.md",
+      "target": "../03_Personajes/Índice de Personajes",
+      "active": false
+    },
+    {
+      "note": "10_Archivo/Respaldos/AsociacionImagenes-20261101-203743/Índice de Imágenes.md",
+      "target": "../09_Politica/Índice de Casas Nobles",
+      "active": false
+    },
+    {
+      "note": "10_Archivo/Respaldos/ReauditoriaImagenes-20261101-204059/Casa Eldalondë.md",
+      "target": "../Índice de Casas Nobles",
+      "active": false
+    },
+    {
+      "note": "10_Archivo/Respaldos/ReauditoriaImagenes-20261101-204059/Casa Eldalondë.md",
+      "target": "../../00_Canon/Canon V16 Maestro",
+      "active": false
+    },
+    {
+      "note": "10_Archivo/Respaldos/ReauditoriaImagenes-20261101-204059/Casa Eldalondë.md",
+      "target": "../../09_Politica/Índice Político Institucional",
+      "active": false
+    },
+    {
+      "note": "10_Archivo/Respaldos/ReauditoriaImagenes-20261101-204059/Casa Eldalondë.md",
+      "target": "../00_Canon/Canon V16 Maestro",
+      "active": false
+    },
+    {
+      "note": "10_Archivo/Respaldos/ReauditoriaImagenes-20261101-204059/Casa Eldalondë.md",
+      "target": "../00_Canon/Panel de Control V16",
+      "active": false
+    },
+    {
+      "note": "10_Archivo/Respaldos/ReauditoriaImagenes-20261101-204059/Casa Eldalondë.md",
+      "target": "../04_Mapa Politico/Índice Político",
+      "active": false
+    },
+    {
+      "note": "10_Archivo/Respaldos/ReauditoriaImagenes-20261101-204059/Casa Eldalondë.md",
+      "target": "../02_Geografia/Entidades Politicas/Índice de Entidades Políticas",
+      "active": false
+    },
+    {
+      "note": "10_Archivo/Respaldos/ReauditoriaImagenes-20261101-204059/Casa Eldalondë.md",
+      "target": "../01_Cronologia/Cronología Territorial V16",
+      "active": false
+    },
+    {
+      "note": "10_Archivo/Respaldos/ReauditoriaImagenes-20261101-204059/Casa Eldalondë.md",
+      "target": "../03_Personajes/Índice de Personajes",
+      "active": false
+    },
+    {
+      "note": "10_Archivo/Respaldos/ReauditoriaImagenes-20261101-204059/Casa Eldalondë.md",
+      "target": "../04_Mapa Politico/Índice Político",
+      "active": false
+    },
+    {
+      "note": "10_Archivo/Respaldos/ReauditoriaImagenes-20261101-204059/Casa Eldalondë.md",
+      "target": "../00_Canon/Matriz de Estatus Político",
+      "active": false
+    },
+    {
+      "note": "10_Archivo/Respaldos/ReauditoriaImagenes-20261101-204059/Casa Eldalondë.md",
+      "target": "../Matriz Heráldica y Funcional de las Casas",
+      "active": false
+    },
+    {
+      "note": "10_Archivo/Respaldos/ReauditoriaImagenes-20261101-204059/Casa Elwing.md",
+      "target": "../Índice de Casas Nobles",
+      "active": false
+    },
+    {
+      "note": "10_Archivo/Respaldos/ReauditoriaImagenes-20261101-204059/Casa Elwing.md",
+      "target": "../../00_Canon/Canon V16 Maestro",
+      "active": false
+    },
+    {
+      "note": "10_Archivo/Respaldos/ReauditoriaImagenes-20261101-204059/Casa Elwing.md",
+      "target": "../../09_Politica/Índice Político Institucional",
+      "active": false
+    },
+    {
+      "note": "10_Archivo/Respaldos/ReauditoriaImagenes-20261101-204059/Casa Elwing.md",
+      "target": "../00_Canon/Canon V16 Maestro",
+      "active": false
+    },
+    {
+      "note": "10_Archivo/Respaldos/ReauditoriaImagenes-20261101-204059/Casa Elwing.md",
+      "target": "../00_Canon/Panel de Control V16",
+      "active": false
+    },
+    {
+      "note": "10_Archivo/Respaldos/ReauditoriaImagenes-20261101-204059/Casa Elwing.md",
+      "target": "../04_Mapa Politico/Índice Político",
+      "active": false
+    },
+    {
+      "note": "10_Archivo/Respaldos/ReauditoriaImagenes-20261101-204059/Casa Elwing.md",
+      "target": "../02_Geografia/Entidades Politicas/Índice de Entidades Políticas",
+      "active": false
+    },
+    {
+      "note": "10_Archivo/Respaldos/ReauditoriaImagenes-20261101-204059/Casa Elwing.md",
+      "target": "../01_Cronologia/Cronología Territorial V16",
+      "active": false
+    },
+    {
+      "note": "10_Archivo/Respaldos/ReauditoriaImagenes-20261101-204059/Casa Elwing.md",
+      "target": "../03_Personajes/Índice de Personajes",
+      "active": false
+    },
+    {
+      "note": "10_Archivo/Respaldos/ReauditoriaImagenes-20261101-204059/Casa Elwing.md",
+      "target": "../04_Mapa Politico/Índice Político",
+      "active": false
+    },
+    {
+      "note": "10_Archivo/Respaldos/ReauditoriaImagenes-20261101-204059/Casa Elwing.md",
+      "target": "../00_Canon/Matriz de Estatus Político",
+      "active": false
+    },
+    {
+      "note": "10_Archivo/Respaldos/ReauditoriaImagenes-20261101-204059/Casa Elwing.md",
+      "target": "../Matriz Heráldica y Funcional de las Casas",
+      "active": false
+    },
+    {
+      "note": "10_Archivo/Respaldos/ReauditoriaImagenes-20261101-204059/Casa Eressëa Menel.md",
+      "target": "../Índice de Casas Nobles",
+      "active": false
+    },
+    {
+      "note": "10_Archivo/Respaldos/ReauditoriaImagenes-20261101-204059/Casa Eressëa Menel.md",
+      "target": "../../00_Canon/Canon V16 Maestro",
+      "active": false
+    },
+    {
+      "note": "10_Archivo/Respaldos/ReauditoriaImagenes-20261101-204059/Casa Eressëa Menel.md",
+      "target": "../../09_Politica/Índice Político Institucional",
+      "active": false
+    },
+    {
+      "note": "10_Archivo/Respaldos/ReauditoriaImagenes-20261101-204059/Casa Eressëa Menel.md",
+      "target": "../00_Canon/Canon V16 Maestro",
+      "active": false
+    },
+    {
+      "note": "10_Archivo/Respaldos/ReauditoriaImagenes-20261101-204059/Casa Eressëa Menel.md",
+      "target": "../00_Canon/Panel de Control V16",
+      "active": false
+    },
+    {
+      "note": "10_Archivo/Respaldos/ReauditoriaImagenes-20261101-204059/Casa Eressëa Menel.md",
+      "target": "../04_Mapa Politico/Índice Político",
+      "active": false
+    },
+    {
+      "note": "10_Archivo/Respaldos/ReauditoriaImagenes-20261101-204059/Casa Eressëa Menel.md",
+      "target": "../02_Geografia/Entidades Politicas/Índice de Entidades Políticas",
+      "active": false
+    },
+    {
+      "note": "10_Archivo/Respaldos/ReauditoriaImagenes-20261101-204059/Casa Eressëa Menel.md",
+      "target": "../01_Cronologia/Cronología Territorial V16",
+      "active": false
+    },
+    {
+      "note": "10_Archivo/Respaldos/ReauditoriaImagenes-20261101-204059/Casa Eressëa Menel.md",
+      "target": "../03_Personajes/Índice de Personajes",
+      "active": false
+    },
+    {
+      "note": "10_Archivo/Respaldos/ReauditoriaImagenes-20261101-204059/Casa Eressëa Menel.md",
+      "target": "../04_Mapa Politico/Índice Político",
+      "active": false
+    },
+    {
+      "note": "10_Archivo/Respaldos/ReauditoriaImagenes-20261101-204059/Casa Eressëa Menel.md",
+      "target": "../00_Canon/Matriz de Estatus Político",
+      "active": false
+    },
+    {
+      "note": "10_Archivo/Respaldos/ReauditoriaImagenes-20261101-204059/Casa Eressëa Menel.md",
+      "target": "../Matriz Heráldica y Funcional de las Casas",
+      "active": false
+    },
+    {
+      "note": "10_Archivo/Respaldos/ReauditoriaImagenes-20261101-204059/Casa Eryn Lasgalen.md",
+      "target": "../Índice de Casas Nobles",
+      "active": false
+    },
+    {
+      "note": "10_Archivo/Respaldos/ReauditoriaImagenes-20261101-204059/Casa Eryn Lasgalen.md",
+      "target": "../../00_Canon/Canon V16 Maestro",
+      "active": false
+    },
+    {
+      "note": "10_Archivo/Respaldos/ReauditoriaImagenes-20261101-204059/Casa Eryn Lasgalen.md",
+      "target": "../../09_Politica/Índice Político Institucional",
+      "active": false
+    },
+    {
+      "note": "10_Archivo/Respaldos/ReauditoriaImagenes-20261101-204059/Casa Eryn Lasgalen.md",
+      "target": "../00_Canon/Canon V16 Maestro",
+      "active": false
+    },
+    {
+      "note": "10_Archivo/Respaldos/ReauditoriaImagenes-20261101-204059/Casa Eryn Lasgalen.md",
+      "target": "../00_Canon/Panel de Control V16",
+      "active": false
+    },
+    {
+      "note": "10_Archivo/Respaldos/ReauditoriaImagenes-20261101-204059/Casa Eryn Lasgalen.md",
+      "target": "../04_Mapa Politico/Índice Político",
+      "active": false
+    },
+    {
+      "note": "10_Archivo/Respaldos/ReauditoriaImagenes-20261101-204059/Casa Eryn Lasgalen.md",
+      "target": "../02_Geografia/Entidades Politicas/Índice de Entidades Políticas",
+      "active": false
+    },
+    {
+      "note": "10_Archivo/Respaldos/ReauditoriaImagenes-20261101-204059/Casa Eryn Lasgalen.md",
+      "target": "../01_Cronologia/Cronología Territorial V16",
+      "active": false
+    },
+    {
+      "note": "10_Archivo/Respaldos/ReauditoriaImagenes-20261101-204059/Casa Eryn Lasgalen.md",
+      "target": "../03_Personajes/Índice de Personajes",
+      "active": false
+    },
+    {
+      "note": "10_Archivo/Respaldos/ReauditoriaImagenes-20261101-204059/Casa Eryn Lasgalen.md",
+      "target": "../04_Mapa Politico/Índice Político",
+      "active": false
+    },
+    {
+      "note": "10_Archivo/Respaldos/ReauditoriaImagenes-20261101-204059/Casa Eryn Lasgalen.md",
+      "target": "../00_Canon/Matriz de Estatus Político",
+      "active": false
+    },
+    {
+      "note": "10_Archivo/Respaldos/ReauditoriaImagenes-20261101-204059/Casa Eryn Lasgalen.md",
+      "target": "../Matriz Heráldica y Funcional de las Casas",
+      "active": false
+    },
+    {
+      "note": "10_Archivo/Respaldos/ReauditoriaImagenes-20261101-204059/Casa Esgal.md",
+      "target": "../Índice de Casas Nobles",
+      "active": false
+    },
+    {
+      "note": "10_Archivo/Respaldos/ReauditoriaImagenes-20261101-204059/Casa Esgal.md",
+      "target": "../../00_Canon/Canon V16 Maestro",
+      "active": false
+    },
+    {
+      "note": "10_Archivo/Respaldos/ReauditoriaImagenes-20261101-204059/Casa Esgal.md",
+      "target": "../../09_Politica/Índice Político Institucional",
+      "active": false
+    },
+    {
+      "note": "10_Archivo/Respaldos/ReauditoriaImagenes-20261101-204059/Casa Esgal.md",
+      "target": "../00_Canon/Canon V16 Maestro",
+      "active": false
+    },
+    {
+      "note": "10_Archivo/Respaldos/ReauditoriaImagenes-20261101-204059/Casa Esgal.md",
+      "target": "../00_Canon/Panel de Control V16",
+      "active": false
+    },
+    {
+      "note": "10_Archivo/Respaldos/ReauditoriaImagenes-20261101-204059/Casa Esgal.md",
+      "target": "../04_Mapa Politico/Índice Político",
+      "active": false
+    },
+    {
+      "note": "10_Archivo/Respaldos/ReauditoriaImagenes-20261101-204059/Casa Esgal.md",
+      "target": "../02_Geografia/Entidades Politicas/Índice de Entidades Políticas",
+      "active": false
+    },
+    {
+      "note": "10_Archivo/Respaldos/ReauditoriaImagenes-20261101-204059/Casa Esgal.md",
+      "target": "../01_Cronologia/Cronología Territorial V16",
+      "active": false
+    },
+    {
+      "note": "10_Archivo/Respaldos/ReauditoriaImagenes-20261101-204059/Casa Esgal.md",
+      "target": "../03_Personajes/Índice de Personajes",
+      "active": false
+    },
+    {
+      "note": "10_Archivo/Respaldos/ReauditoriaImagenes-20261101-204059/Casa Esgal.md",
+      "target": "../04_Mapa Politico/Índice Político",
+      "active": false
+    },
+    {
+      "note": "10_Archivo/Respaldos/ReauditoriaImagenes-20261101-204059/Casa Esgal.md",
+      "target": "../00_Canon/Matriz de Estatus Político",
+      "active": false
+    },
+    {
+      "note": "10_Archivo/Respaldos/ReauditoriaImagenes-20261101-204059/Casa Esgal.md",
+      "target": "../Matriz Heráldica y Funcional de las Casas",
+      "active": false
+    },
+    {
+      "note": "10_Archivo/Respaldos/ReauditoriaImagenes-20261101-204059/Casa Fornost.md",
+      "target": "../Índice de Casas Nobles",
+      "active": false
+    },
+    {
+      "note": "10_Archivo/Respaldos/ReauditoriaImagenes-20261101-204059/Casa Fornost.md",
+      "target": "../../00_Canon/Canon V16 Maestro",
+      "active": false
+    },
+    {
+      "note": "10_Archivo/Respaldos/ReauditoriaImagenes-20261101-204059/Casa Fornost.md",
+      "target": "../../09_Politica/Índice Político Institucional",
+      "active": false
+    },
+    {
+      "note": "10_Archivo/Respaldos/ReauditoriaImagenes-20261101-204059/Casa Fornost.md",
+      "target": "../00_Canon/Canon V16 Maestro",
+      "active": false
+    },
+    {
+      "note": "10_Archivo/Respaldos/ReauditoriaImagenes-20261101-204059/Casa Fornost.md",
+      "target": "../00_Canon/Panel de Control V16",
+      "active": false
+    },
+    {
+      "note": "10_Archivo/Respaldos/ReauditoriaImagenes-20261101-204059/Casa Fornost.md",
+      "target": "../04_Mapa Politico/Índice Político",
+      "active": false
+    },
+    {
+      "note": "10_Archivo/Respaldos/ReauditoriaImagenes-20261101-204059/Casa Fornost.md",
+      "target": "../02_Geografia/Entidades Politicas/Índice de Entidades Políticas",
+      "active": false
+    },
+    {
+      "note": "10_Archivo/Respaldos/ReauditoriaImagenes-20261101-204059/Casa Fornost.md",
+      "target": "../01_Cronologia/Cronología Territorial V16",
+      "active": false
+    },
+    {
+      "note": "10_Archivo/Respaldos/ReauditoriaImagenes-20261101-204059/Casa Fornost.md",
+      "target": "../03_Personajes/Índice de Personajes",
+      "active": false
+    },
+    {
+      "note": "10_Archivo/Respaldos/ReauditoriaImagenes-20261101-204059/Casa Fornost.md",
+      "target": "../04_Mapa Politico/Índice Político",
+      "active": false
+    },
+    {
+      "note": "10_Archivo/Respaldos/ReauditoriaImagenes-20261101-204059/Casa Fornost.md",
+      "target": "../00_Canon/Matriz de Estatus Político",
+      "active": false
+    },
+    {
+      "note": "10_Archivo/Respaldos/ReauditoriaImagenes-20261101-204059/Casa Fornost.md",
+      "target": "../Matriz Heráldica y Funcional de las Casas",
+      "active": false
+    },
+    {
+      "note": "10_Archivo/Respaldos/ReauditoriaImagenes-20261101-204059/Índice de Imágenes.md",
+      "target": "../00_Canon/Mapa de Navegación V16",
+      "active": false
+    },
+    {
+      "note": "10_Archivo/Respaldos/ReauditoriaImagenes-20261101-204059/Índice de Imágenes.md",
+      "target": "../03_Personajes/Índice de Personajes",
+      "active": false
+    },
+    {
+      "note": "10_Archivo/Respaldos/ReauditoriaImagenes-20261101-204059/Índice de Imágenes.md",
+      "target": "../09_Politica/Índice de Casas Nobles",
+      "active": false
+    },
+    {
+      "note": "10_Archivo/Respaldos/ReauditoriaImagenes-20261101-204059/Índice de Imágenes.md",
+      "target": "../04_Mapa Politico/Capitales/Capitales del Canon V16",
+      "active": false
+    },
+    {
+      "note": "10_Archivo/Respaldos/ReauditoriaImagenes-20261101-204059/Índice de Imágenes.md",
+      "target": "../09_Politica/Casas Mayores/Casa Alqualondë",
+      "active": false
+    },
+    {
+      "note": "10_Archivo/Respaldos/ReauditoriaImagenes-20261101-204059/Índice de Imágenes.md",
+      "target": "../09_Politica/Casas Mayores/Casa Annúminas",
+      "active": false
+    },
+    {
+      "note": "10_Archivo/Respaldos/ReauditoriaImagenes-20261101-204059/Índice de Imágenes.md",
+      "target": "../09_Politica/Casas Mayores/Casa Armenelos",
+      "active": false
+    },
+    {
+      "note": "10_Archivo/Respaldos/ReauditoriaImagenes-20261101-204059/Índice de Imágenes.md",
+      "target": "../09_Politica/Casas Mayores/Casa Barad Calen",
+      "active": false
+    },
+    {
+      "note": "10_Archivo/Respaldos/ReauditoriaImagenes-20261101-204059/Índice de Imágenes.md",
+      "target": "../09_Politica/Casas Mayores/Casa Calenhad",
+      "active": false
+    },
+    {
+      "note": "10_Archivo/Respaldos/ReauditoriaImagenes-20261101-204059/Índice de Imágenes.md",
+      "target": "../09_Politica/Casas Mayores/Casa Calenor",
+      "active": false
+    },
+    {
+      "note": "10_Archivo/Respaldos/ReauditoriaImagenes-20261101-204059/Índice de Imágenes.md",
+      "target": "../09_Politica/Casas Mayores/Casa Círdan",
+      "active": false
+    },
+    {
+      "note": "10_Archivo/Respaldos/ReauditoriaImagenes-20261101-204059/Índice de Imágenes.md",
+      "target": "../09_Politica/Casas Mayores/Casa Dol Amroth",
+      "active": false
+    },
+    {
+      "note": "10_Archivo/Respaldos/ReauditoriaImagenes-20261101-204059/Índice de Imágenes.md",
+      "target": "../09_Politica/Casas Mayores/Casa Noldor",
+      "active": false
+    },
+    {
+      "note": "10_Archivo/Respaldos/ReauditoriaImagenes-20261101-204059/Índice de Imágenes.md",
+      "target": "../09_Politica/Casa Real/Casa Telcontar",
+      "active": false
+    },
+    {
+      "note": "10_Archivo/Respaldos/ReauditoriaImagenes-20261101-204059/Índice de Imágenes.md",
+      "target": "../03_Personajes/Índice de Personajes",
+      "active": false
+    },
+    {
+      "note": "10_Archivo/Respaldos/ReauditoriaImagenes-20261101-204059/Índice de Imágenes.md",
+      "target": "../09_Politica/Índice de Casas Nobles",
+      "active": false
+    }
+  ],
+  "ambiguous_links": [],
+  "folder_references": [
+    {
+      "note": "10_Archivo/Índice de accesos y archivos externos.md",
+      "target": "10_Archivo/Documentos de trabajo integrados",
+      "active": false
+    },
+    {
+      "note": "10_Archivo/Índice de accesos y archivos externos.md",
+      "target": "10_Archivo/Versiones anteriores",
+      "active": false
+    },
+    {
+      "note": "10_Archivo/Índice de accesos y archivos externos.md",
+      "target": "10_Archivo/Enmiendas",
+      "active": false
+    }
+  ],
+  "external_links": [
+    {
+      "source": "C:\\Users\\migue\\OneDrive\\DOS\\Historia de un imperio ficticio\\00_Abrir proyecto\\Índice general.md",
+      "target": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\00_Canon\\Canon V16 Maestro.md",
+      "exists": true
+    },
+    {
+      "source": "C:\\Users\\migue\\OneDrive\\DOS\\Historia de un imperio ficticio\\00_Abrir proyecto\\Índice general.md",
+      "target": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\01_Cronologia\\Cronología Territorial V16.md",
+      "exists": true
+    },
+    {
+      "source": "C:\\Users\\migue\\OneDrive\\DOS\\Historia de un imperio ficticio\\00_Abrir proyecto\\Índice general.md",
+      "target": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\10_Archivo\\Documentos editoriales\\Oficial\\Canon V16 Maestro.docx",
+      "exists": true
+    },
+    {
+      "source": "C:\\Users\\migue\\OneDrive\\DOS\\Historia de un imperio ficticio\\00_Abrir proyecto\\Índice general.md",
+      "target": "C:\\Users\\migue\\OneDrive\\DOS\\Historia de un imperio ficticio\\Canon V16 Maestro - Exportacion.docx",
+      "exists": true
+    },
+    {
+      "source": "C:\\Users\\migue\\OneDrive\\DOS\\Historia de un imperio ficticio\\00_Abrir proyecto\\Índice general.md",
+      "target": "C:\\Users\\migue\\OneDrive\\DOS\\Historia de un imperio ficticio\\Canon V16 Maestro.pdf",
+      "exists": true
+    },
+    {
+      "source": "C:\\Users\\migue\\OneDrive\\DOS\\Historia de un imperio ficticio\\00_Abrir proyecto\\Índice general.md",
+      "target": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari",
+      "exists": true
+    },
+    {
+      "source": "C:\\Users\\migue\\OneDrive\\DOS\\Historia de un imperio ficticio\\00_Abrir proyecto\\Índice general.md",
+      "target": "C:\\Users\\migue\\OneDrive\\DOS\\Historia de un imperio ficticio\\05_Control y herramientas\\Auditoría de duplicidades y enlaces.md",
+      "exists": true
+    },
+    {
+      "source": "C:\\Users\\migue\\OneDrive\\DOS\\Historia de un imperio ficticio\\00_Abrir proyecto\\Índice general.md",
+      "target": "C:\\Users\\migue\\OneDrive\\DOS\\Historia de un imperio ficticio\\05_Control y herramientas\\Inventario del proyecto.csv",
+      "exists": true
+    },
+    {
+      "source": "C:\\Users\\migue\\OneDrive\\DOS\\Historia de un imperio ficticio\\00_Abrir proyecto\\Índice general.md",
+      "target": "C:\\Users\\migue\\OneDrive\\DOS\\Historia de un imperio ficticio\\05_Control y herramientas\\rutas_proyecto.json",
+      "exists": true
+    },
+    {
+      "source": "C:\\Users\\migue\\OneDrive\\DOS\\Historia de un imperio ficticio\\00_Abrir proyecto\\Índice general.md",
+      "target": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\00_Canon\\Integraciones V16\\Propuestas pendientes tras revisión V16.1.md",
+      "exists": true
+    },
+    {
+      "source": "C:\\Users\\migue\\OneDrive\\DOS\\Historia de un imperio ficticio\\00_Abrir proyecto\\Índice general.md",
+      "target": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\00_Canon\\Integraciones V16\\Revisión editorial V16.1.md",
+      "exists": true
+    },
+    {
+      "source": "C:\\Users\\migue\\OneDrive\\DOS\\Historia de un imperio ficticio\\00_Abrir proyecto\\Índice general.md",
+      "target": "C:\\Users\\migue\\OneDrive\\DOS\\Historia de un imperio ficticio\\02_Fuentes y manuscritos",
+      "exists": true
+    },
+    {
+      "source": "C:\\Users\\migue\\OneDrive\\DOS\\Historia de un imperio ficticio\\00_Abrir proyecto\\Índice general.md",
+      "target": "C:\\Users\\migue\\OneDrive\\DOS\\Archivo de trabajo ValinARI",
+      "exists": true
+    },
+    {
+      "source": "C:\\Users\\migue\\OneDrive\\DOS\\Historia de un imperio ficticio\\00_Abrir proyecto\\Índice general.md",
+      "target": "C:\\Users\\migue\\OneDrive\\DOS\\Herramientas ValinARI",
+      "exists": true
+    },
+    {
+      "source": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\00_Canon\\Gestión de archivos del proyecto.md",
+      "target": "C:\\Users\\migue\\OneDrive\\DOS\\Historia de un imperio ficticio\\00_Abrir proyecto\\Índice general.md",
+      "exists": true
+    },
+    {
+      "source": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\00_Canon\\Gestión de archivos del proyecto.md",
+      "target": "C:\\Users\\migue\\OneDrive\\DOS\\Historia de un imperio ficticio\\05_Control y herramientas\\Auditoría de duplicidades y enlaces.md",
+      "exists": true
+    },
+    {
+      "source": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\00_Canon\\Gestión de archivos del proyecto.md",
+      "target": "C:\\Users\\migue\\OneDrive\\DOS\\Historia de un imperio ficticio\\05_Control y herramientas\\rutas_proyecto.json",
+      "exists": true
+    },
+    {
+      "source": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\00_Canon\\Gestión de archivos del proyecto.md",
+      "target": "C:\\Users\\migue\\OneDrive\\DOS\\Historia de un imperio ficticio\\Canon V16 Maestro - Exportacion.docx",
+      "exists": true
+    },
+    {
+      "source": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\00_Canon\\Gestión de archivos del proyecto.md",
+      "target": "C:\\Users\\migue\\OneDrive\\DOS\\Historia de un imperio ficticio\\Canon V16 Maestro.pdf",
+      "exists": true
+    },
+    {
+      "source": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\10_Archivo\\Índice de accesos y archivos externos.md",
+      "target": "C:\\Users\\migue\\OneDrive\\DOS\\Archivo de trabajo ValinARI",
+      "exists": true
+    },
+    {
+      "source": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\10_Archivo\\Índice de accesos y archivos externos.md",
+      "target": "C:\\Users\\migue\\OneDrive\\DOS\\Herramientas ValinARI",
+      "exists": true
+    },
+    {
+      "source": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\10_Archivo\\Índice de accesos y archivos externos.md",
+      "target": "C:\\Users\\migue\\OneDrive\\DOS\\Historia de un imperio ficticio\\00_Abrir proyecto\\Índice general.md",
+      "exists": true
+    }
+  ],
+  "verified_shortcuts": 15,
+  "outline_review_candidates": [
+    {
+      "note": "04_Mapa Politico/Valinor.md",
+      "top_level_headings": [
+        "Valinor",
+        "# Capital",
+        "Ciudades Principales",
+        "Geografía",
+        "Economía",
+        "Sociedad",
+        "Ejército",
+        "Cultura",
+        "Situación Política en 833"
+      ]
+    },
+    {
+      "note": "09_Politica/Prompts Visuales de las 84 Casas.md",
+      "top_level_headings": [
+        "Casa Mayor",
+        "Casa Menor",
+        "Casa Vasalla",
+        "Casa Real"
+      ]
+    },
+    {
+      "note": "13_Sociedad/Educación.md",
+      "top_level_headings": [
+        "Educación",
+        "Educación y acumulación del conocimiento"
+      ]
+    }
+  ],
+  "backup": "C:\\Users\\migue\\OneDrive\\DOS\\Historia de un imperio ficticio\\04_Historial editorial\\Respaldo organizacion 20261107_110054.zip",
+  "scope": "Auditoría de destinos y duplicados exactos; coincidencias semánticas y anclas de secciones requieren revisión editorial."
+}

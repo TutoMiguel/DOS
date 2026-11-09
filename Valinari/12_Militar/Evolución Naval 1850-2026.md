@@ -1,0 +1,51 @@
+---
+tipo: ficha militar
+canon: V16
+periodo_principal: 1850–2026
+periodo_de_desarrollo: 1000 a. C.–2026
+estado_canon: V16 vigente
+---
+# Evolución Naval 1850–2026
+
+## Periodización
+
+- **1000–990 a. C.:** defensas de clan, milicias y guerras privadas.
+- **990–550 a. C.:** defensa pactista y coordinación entre Casas.
+- **550–500 a. C.:** consolidación militar de la Corona Telcontar.
+- **500 a. C.–1000 d. C.:** expansión de puertos, convoyes y fortalezas.
+- **1000–1800:** profesionalización progresiva.
+- **1800–1956:** modernización industrial, naval y logística.
+- **1956–2026:** fuerzas armadas modernas, aviación, armada oceánica y OceanNet.
+
+- 1850–1900: vapor, blindados, torpederos y patrulleros.
+- 1900–1945: destructores, submarinos, cruceros y aviación naval.
+- 1945–1965: portaaviones, submarinos de largo alcance, logística y radares.
+- 1965–1985: Gil-galad, Círdan inicial y Ulmo.
+- 1985–2005: Círdan II–III, Pelargir, Andúnië y drones.
+- 2005–2026: Círdan IV y familias Eärendil, Telperion, Palantír, Menel, Esgaroth y Abyssal.
+- 2030–2037: Voronwë, planificada.
+
+Sistema de radar canónico: radar AESA tridimensional con procesamiento 4D.
+
+[[02_Geografia/Enclaves y territorios asociados/Andúnië Austral]] aporta logística y observación científica, sin cambiar su soberanía chilena.
+
+## Turbinas y clases navales, 1873–1945
+
+La introducción temprana de triple expansión y turbinas de vapor se organiza por nuevas construcciones y lotes: 1873, 1882, 1887 y 1894. La flota entre 1882 y 1945 incluye perfiles de acorazados, cruceros, destructores, submarinos, portaaviones y auxiliares; las cifras no establecen el número de unidades. Véase [[12_Militar/Desarrollo naval 1882-1945|catálogo técnico]] y [[11_Ciencia y Tecnologia/Turbinas de vapor y máquinas navales|ficha de propulsión]].
+
+## Contexto institucional y sostenimiento
+
+La función de esta ficha depende de su periodo. Las contribuciones antiguas de Casas y milicias evolucionan hacia fuerzas profesionales bajo mando público. La etapa industrial se sostiene mediante presupuesto, crédito autorizado, educación técnica, energía, transporte y mantenimiento. La coordinación con COFOVAL corresponde a su formación en 1850–1875 y a sus reorganizaciones posteriores.
+
+## Referencias relacionadas
+
+- [[00_Canon/Canon V16 Maestro|Canon V16 Maestro]]
+- [[01_Cronologia/Cronología Territorial V16|Cronología Territorial V16]]
+- [[12_Militar/Índice Militar|Índice Militar]]
+- [[08_Economia/Agricultura valinari 1000-500 aC|Agricultura valinari]]
+- [[08_Economia/Metalurgia valinari 1000-500 aC|Metalurgia valinari]]
+- [[12_Militar/Armada 1875/Índice de la Armada de 1875]]
+- [[12_Militar/Serie Círdan y transición a Voronwë]]
+- [[12_Militar/Índice Militar]]
+- [[08_Economia/Sistema Valinari de Fomento y Desarrollo]]
+- [[09_Politica/Evolución económica e institucional de las Casas]]

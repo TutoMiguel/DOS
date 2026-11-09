@@ -1,0 +1,214 @@
+{
+  "main": {
+    "id": "505ac3f9f4fae856",
+    "type": "split",
+    "children": [
+      {
+        "id": "c1b16aa98c51c73e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f10894c6aa294e0b",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nueva pestaña"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "fbe503ac0fd366ac",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "717ae088f9464d69",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical",
+            "autoReveal": false,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Explorador de archivos"
+        }
+      },
+      {
+        "id": "bd3b49ea7546b2ff",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "Buscar"
+        }
+      },
+      {
+        "id": "19d7fffa7478c05a",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-tags",
+          "title": "Etiquetas"
+        }
+      },
+      {
+        "id": "f859b31af53d0cb0",
+        "type": "leaf",
+        "state": {
+          "type": "all-properties",
+          "state": {
+            "sortOrder": "frequency",
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-archive",
+          "title": "Todas las propiedades"
+        }
+      },
+      {
+        "id": "f1815782b104b5f0",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-bookmark",
+          "title": "Marcadores"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "5b8c0a74e58f1033",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "277bdd8eca7e07d0",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "Enlaces entrantes"
+        }
+      },
+      {
+        "id": "930e294135916146",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "Enlaces salientes"
+        }
+      },
+      {
+        "id": "0a753da060dab158",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "followCursor": false,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-list",
+          "title": "Esquema"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "bases:Crear nueva base": false
+    }
+  },
+  "active": "717ae088f9464d69",
+  "lastOpenFiles": [
+    "Valinari/07_Imagenes/Casa Gwindor.jpg",
+    "Valinari/07_Imagenes/Casa Galdor.jpg",
+    "Valinari/07_Imagenes/Casa Fornost.jpg",
+    "Valinari/07_Imagenes/Casa Forlong.jpg",
+    "Valinari/07_Imagenes/Casa Folcred.jpg",
+    "Valinari/07_Imagenes/Casa Findegil.jpg",
+    "Valinari/07_Imagenes/Casa Falathar.png",
+    "Valinari/07_Imagenes/Casa Falastur.png",
+    "Valinari/07_Imagenes/Casa Eärond.png",
+    "Valinari/07_Imagenes/Casa Estelmo.jpg",
+    "Valinari/07_Imagenes/Casa Esgal.jpg",
+    "Valinari/05_Religion/Índice Religioso y Cultural.md",
+    "Valinari/06_Mapas/Índice de Mapas.md",
+    "Valinari/04_Mapa Politico/Índice Político.md",
+    "Valinari/05_Religion/Religiones y Tradiciones.md",
+    "Valinari/03_Personajes/Thalion Telcontar.md",
+    "Valinari/03_Personajes/Índice de Personajes.md",
+    "Valinari/03_Personajes/Ëarendil y Elwing Noldor.md",
+    "Valinari/04_Mapa Politico/Valinor.md",
+    "Valinari/03_Personajes/Lothíriel Telcontar.md",
+    "Valinari/02_Geografia/Valinor a Tyl.md",
+    "Valinari/03_Personajes/Ariadna.md",
+    "Valinari/02_Geografia/Índice Geográfico.md",
+    "Valinari/02_Geografia/Gwaith Valinor.md",
+    "Valinari/00_Canon/Ruta de Lectura Política.md",
+    "Valinari/02_Geografia/Harnen.md",
+    "Valinari/02_Geografia/Red Oriental de Enclaves y Protectorados.md",
+    "Valinari/02_Geografia/Tol Eressëa.md",
+    "Valinari/02_Geografia/Beleg Valinor.md",
+    "Valinari/02_Geografia/Arnor.md",
+    "Valinari/02_Geografia/Archipiélago de ValinARI.md",
+    "Valinari/02_Geografia/Aranath Valinor.md",
+    "Valinari/01_Cronologia/Red de Protectorados.md",
+    "Valinari/01_Cronologia/Cronología Territorial V16.md.regencia-backup",
+    "Valinari/01_Cronologia/Incorporación a la Federación.md",
+    "Valinari/00_Indice Territorial/Mapa de Relaciones Territoriales.md",
+    "Valinari/01_Cronologia/Cronología Territorial V16.md",
+    "Historia de un imperio ficticio/revision_apariencia_casas/manifest.json",
+    "Historia de un imperio ficticio/redistribucion_capilar_nueve_casas/sorteo.json",
+    "Historia de un imperio ficticio/redistribucion_capilar_nueve_casas/manifest.json",
+    "Historia de un imperio ficticio/redistribucion_capilar_nueve_casas/verificacion.json",
+    "Historia de un imperio ficticio/qa_word_islandia/Canon V16 Maestro.pdf"
+  ]
+}

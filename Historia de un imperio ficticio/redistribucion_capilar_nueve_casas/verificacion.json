@@ -1,0 +1,61 @@
+{
+  "major_houses": 24,
+  "illustrated": 15,
+  "pending": 9,
+  "changed_prompt_blocks": 9,
+  "unchanged_prompt_blocks": 75,
+  "male_redheads": 2,
+  "female_redheads": 2,
+  "male_common": 7,
+  "female_common": 7,
+  "mixed_hair_couples": 8,
+  "allocation": [
+    {
+      "name": "Harlond",
+      "male": "pelirrojo",
+      "female": "rubio muy claro"
+    },
+    {
+      "name": "Harnost",
+      "male": "rubio dorado",
+      "female": "rubio claro"
+    },
+    {
+      "name": "Minas Anor",
+      "male": "rubio ceniza",
+      "female": "rubio ceniza"
+    },
+    {
+      "name": "Mithlond",
+      "male": "rubio oscuro",
+      "female": "rubio dorado"
+    },
+    {
+      "name": "Pelargir",
+      "male": "rubio ceniza",
+      "female": "pelirrojo"
+    },
+    {
+      "name": "Rhunost",
+      "male": "pelirrojo",
+      "female": "rubio ceniza"
+    },
+    {
+      "name": "Taur-en-Mor",
+      "male": "rubio claro",
+      "female": "pelirrojo"
+    },
+    {
+      "name": "Teleri",
+      "male": "rubio platino",
+      "female": "rubio oscuro"
+    },
+    {
+      "name": "Vanyar",
+      "male": "rubio muy claro",
+      "female": "rubio platino"
+    }
+  ],
+  "backup": "C:\\Users\\migue\\Documents\\ChatGPT\\Historia de un imperio ficticio\\redistribucion_capilar_nueve_casas\\respaldo-20261101-205621",
+  "seed": "4751585228256366677"
+}
