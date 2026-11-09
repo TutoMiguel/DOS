@@ -1,8 +1,57 @@
 # Canon V16 Maestro de la Unión Valinoriana
 
-Estado: CANON VIGENTE
+Estado: CANON VIGENTE V16.3
+Integración editorial: 2026-11-09
+Resoluciones: [[Resoluciones aprobadas V16.3]]
 Fecha de consolidación: 1 de noviembre de 2026
 Última integración temática: 6 de noviembre de 2026.
+
+
+## Resoluciones aprobadas V16 3
+
+Estado VIGENTE. Aprobación del autor recogida en la continuación de Análisis del Canon V16 y ratificada en el encargo de integración del 9 de noviembre de 2026. V16.3 tiene precedencia sobre V16.2 exclusivamente en las disposiciones que sustituye expresamente. Las restantes decisiones siguen vigentes.
+
+### R01 Precedencia temporal
+
+Las cronologías maestras explícitamente vigentes prevalecen sobre relatos narrativos incompatibles, salvo resolución posterior específica. V16.3-01 fija definitivamente el descubrimiento de Tol Eressëa en 340–350 d. C. Sustituye el descubrimiento en 20–40 y elimina sus asentamientos en 50 y 85 d. C. Las fechas de Terranova y Valinor se alinean con la cronología atlántica principal; las dependencias groenlandesas incompatibles quedan pendientes de conciliación, sin fechas nuevas inventadas.
+
+### R02 Fechas de soberanía
+
+Separar contacto, asentamiento, protectorado, incorporación pactista, constitucionalización y clasificación editorial. Islandia: incorporación pactista y autonomía marítima 1120–1150; reconocimiento constitucional federal moderno 1956. Groenlandia: integración moderna 1945–1956. En ambos casos, 2026 es vigencia de clasificación editorial, no una conquista ni la primera incorporación.
+
+### R03 Contabilidad territorial y económica
+
+Registro de 2026. Población en millones de habitantes. PIB en billones de dólares internacionales PPA; no constituye PIB nominal ni presupuesto efectivo.
+
+| Ámbito | Población M | PIB PPA billones | Tratamiento |
+| --- | --- | --- | --- |
+| Aranath Valinor Reino | 481 | 58,50 | Incluido una sola vez en Gwaith |
+| Externas anteriores | 37 | 6,05 | Subtotal derivado de 7,00 menos 0,95 |
+| Islandia | 3,5 | 0,55 | Externa al Reino; incluida en Gwaith |
+| Groenlandia | 2 | 0,40 | Externa al Reino; incluida en Gwaith |
+| Externas vigentes | 42,5 | 7,00 | Incluye las dos anteriores; no sumar otra vez |
+| Gwaith Valinor Federación | 523,5 | 65,50 | Total constitucional conciliado |
+
+65,50 es el centro conciliado; 60,85–70,20 es el intervalo macro de planificación. Los 0,95 de Islandia y Groenlandia ya están dentro de los 7,00 externos. Su superficie conjunta de referencia es 2.269.000 km², ya incorporada; no añadirla otra vez.
+
+V16.3-05. Gwaith es el agregado constitucional. Beleg es el agregado operativo con protectorados y enclaves: el rango posterior a Esgal Nénar es 724,5–879,5 millones en 2026; 715,5–865,5 queda como antecedente previo. Esgal Nénar no aumenta la población constitucional. El desglose completo por componente y el cierre del rango siguen PENDIENTES de conciliación. Gwaith Aear incorpora alianzas y no convierte aliados en ciudadanos federales; su rango heredado requiere comprobar el perímetro antes de recalcularlo.
+
+### R04 Inventario y disponibilidad naval
+
+V16.3-07 y 08. En 2026 el inventario de referencia es 615 plataformas: 595 buques tripulados y 20 vehículos no tripulados. Inventario, activos, reserva, mantenimiento, baja y despliegue son campos separados; una unidad no puede ocupar dos estados o teatros simultáneos en la misma fecha. Las series de 1875, 1980 y 2026 no se suman. Las 449 plataformas disponibles son HIPÓTESIS de planificación, no disponibilidad medida.
+
+El registro por unidad debe contener año y fecha de corte, identificador único de casco o vehículo, clase, categoría, estado, teatro, dotación, presupuesto, moneda, método de valoración y ciclo de vida. No se asignan cascos, estados o costes sin fuente. Su cumplimentación y conciliación quedan PENDIENTES.
+
+La equivalencia de diseño del 0,9 % de 65,50 billones PPA es 589,5 mil millones PPA. No es gasto ejecutado ni presupuesto nominal. PPA, nominal y presupuesto efectivo se registran en campos separados y no se suman ni convierten sin método.
+
+### R05 Estado y trazabilidad
+
+V16.3-09. Usar VIGENTE, ANTECEDENTE, HIPÓTESIS y PENDIENTE, con resolución, fecha, ámbito, disposición sustituida y fuente. La aprobación autoriza las soluciones V16.3; no certifica datos aún no verificados. Los textos sustituidos se conservan en los originales y en el registro de cambios de esta integración.
+
+V16.3-06. Se conservan 24 Casas Mayores con 24 votos y Telcontar como Casa Real número 25 sin voto adicional. Compartir Helsingborg con Dol Amroth no duplica Casa ni población. Se mantiene la matriz de 15 provincias noruegas y 9 subzonas escanianas.
+
+V16.3-10. Se conserva la divergencia tecnológica explícita. Todo anexo de capacidad debe distinguir prototipo, producción en serie y despliegue, y registrar toneladas por año, rendimientos, energía, personal técnico, rechazos, astilleros y costes. Las series cuantitativas faltantes quedan PENDIENTES; no se deducen de la mera conservación de conocimientos.
+
 
 ## Religión valinari y relaciones interconfesionales
 
@@ -206,7 +255,7 @@ La red naval sostiene industrias de acero, motores, turbinas, electrónica, rada
 
 La doctrina prioriza la defensa de rutas, islas, puertos, cables, convoyes y centros industriales. Valinor puede realizar desembarcos limitados y operaciones de evacuación, pero no basa su seguridad en la conquista continental permanente.
 
-Este archivo integra la actualización acumulativa vigente y conserva los documentos Markdown del proyecto como anexos trazables. La escala demográfica vigente es: Valinor 16 millones; Valinor a Tyl 26 millones; Aranath Valinor 481 millones; Gwaith Valinor 523,5 millones; Beleg Valinor 715,5–865,5 millones; Gwaith Aear 1.115,5–1.515,5 millones. PIB PPA de planificación: Reino 55–62 billones (centro 58,5); Federación 60,85–70,20 billones (centro operativo 65,50). La conciliación territorial ECON-03 mantiene el punto central del Reino en 58,50 y actualiza la Federación a 65,50 billones. Las entidades son acumulativas; la cifra federal anterior de 245.050.000 queda fuera del canon operativo.
+Este archivo integra la actualización acumulativa vigente y conserva los documentos Markdown del proyecto como anexos trazables. La escala demográfica vigente es: Valinor 16 millones; Valinor a Tyl 26 millones; Aranath Valinor 481 millones; Gwaith Valinor 523,5 millones; Beleg Valinor 715,5–865,5 millones (ANTECEDENTE previo a Esgal Nénar; agregado operativo posterior: 724,5–879,5 millones en 2026, sin alterar Gwaith); Gwaith Aear 1.115,5–1.515,5 millones. PIB PPA de planificación: Reino 55–62 billones (centro 58,5); Federación 60,85–70,20 billones (centro operativo 65,50). La conciliación territorial ECON-03 mantiene el punto central del Reino en 58,50 y actualiza la Federación a 65,50 billones. Las entidades son acumulativas; la cifra federal anterior de 245.050.000 queda fuera del canon operativo.
 
 ## Precedencia canónica
 
@@ -243,7 +292,7 @@ Los anexos no reactivan cifras o reglas sustituidas cuando contradicen la secci�
 
 ## Incorporación atlántica septentrional de Islandia y Groenlandia
 
-Desde el 1 de noviembre de 2026, Islandia y Groenlandia forman parte de Gwaith Valinor como territorios federales autónomos. No pertenecen a Aranath Valinor ni son protectorados de Beleg Valinor.
+La clasificación territorial V16.2, vigente editorialmente desde el 1 de noviembre de 2026, reconoce a Islandia y Groenlandia como territorios federales autónomos de Gwaith Valinor. Esa fecha no es su primera incorporación histórica. No pertenecen a Aranath Valinor ni son protectorados de Beleg Valinor. V16.3-02 distingue incorporación pactista, constitucionalización y clasificación editorial.
 
 ### Islandia
 
@@ -277,13 +326,13 @@ La incorporación crea el Comando del Atlántico Norte, refuerza la patrulla ant
 - **700–950:** reapertura de rutas septentrionales y creación de comunidades marítimas permanentes en Islandia.
 - **950:** protectorado marítimo islandés pactado.
 - **1050:** primer protectorado groenlandés discontinuo.
-- **1120–1150:** Islandia se incorpora como territorio autónomo del sistema federal marítimo.
+- 1120–1150: incorporación pactista de Islandia con autonomía marítima; antecedente institucional del régimen federal moderno, sin proyectar sobre la Edad Media su Constitución de 1956.
 - **1250–1500:** disminución de la presencia groenlandesa por clima, aislamiento y dificultades de abastecimiento; no se considera una pérdida de soberanía absoluta, sino una administración intermitente.
 - **1600–1800:** recuperación de estaciones, cartografía y rutas polares.
 - **1850:** restablecimiento permanente de la administración groenlandesa.
 - **1900–1945:** ampliación de puertos, minería, aviación, meteorología y comunicaciones.
 - **1945–1956:** conversión de Groenlandia en territorio científico-militar ártico.
-- **1956:** integración federal autónoma de Islandia y Groenlandia; creación de bases de radar, patrulla, investigación nuclear y cohetería.
+- 1956: reconocimiento constitucional de Islandia y Groenlandia en el régimen federal moderno; bases de radar, patrulla, investigación nuclear y cohetería. No constituye una segunda primera incorporación de Islandia.
 - **1958–1969:** conexión progresiva de ambos territorios con la Red Federal de Comunicaciones Marítimas y posteriormente con OceanNet.
 - **2026:** Islandia es un territorio marítimo productivo; Groenlandia, un territorio ártico estratégico, científico y minero.
 
@@ -332,6 +381,8 @@ La Unión Valinoreana administra o incorpora:
 - Polinesia.
 - Micronesia.
 - Systreyjar.
+- Islandia, territorio federal autónomo externo al Reino.
+- Groenlandia, territorio federal autónomo externo al Reino.
 
 ## 3. Arnor
 
@@ -730,7 +781,7 @@ Desde Egipto se exploró el mar Rojo y posteriormente el Bab el-Mandeb, Adén y 
 
 #### Tol Eressëa
 
-Descubierta entre 20 y 40 d. C., Tol Eressëa fue el primer gran asentamiento oceánico occidental de los Valinari. Sus primeras instalaciones incluyeron:
+VIGENTE V16.3-01. Hasta 50 d. C., Tol Eressëa no había sido descubierta ni poseía asentamientos valinari. Su descubrimiento se fija en 340–350 d. C. Las instalaciones que se enumeran corresponden a la etapa posterior al descubrimiento:
 
 - puerto de abrigo;
 - estación de agua;
@@ -740,7 +791,7 @@ Descubierta entre 20 y 40 d. C., Tol Eressëa fue el primer gran asentamiento oc
 - santuario marítimo;
 - archivo de navegación.
 
-Tol Eressëa se desarrolló como comunidad insular autónoma y como puente hacia la exploración de Groenlandia. No era todavía una provincia plenamente integrada ni formaba parte de una estructura territorial que incluyera Valinor.
+Después de 340–350 d. C., Tol Eressëa se desarrolla gradualmente como comunidad insular autónoma. Esta evolución no pertenece al periodo hasta 50 d. C.; no supone por sí misma incorporación al Reino ni a la estructura posterior de Valinor a Tyl.
 
 ### Organización política, administrativa y territorial
 
@@ -846,7 +897,7 @@ En 50 d. C. los territorios se clasifican de la siguiente manera:
 | Dominio de Casa | Tierras agrícolas, talleres y puertos menores | Administrado por una Casa bajo obligaciones reales |
 | Puerto asociado | Sicilia, Malta, Chipre, Alejandría | Autoridad local conservada; acuerdos comerciales y navales |
 | Factoría | Estaciones mediterráneas y del mar Rojo | Presencia limitada, almacenes y agentes |
-| Estación oceánica | Tol Eressëa | Comunidad insular temprana con autonomía especial |
+| Territorio no descubierto en 50 d. C. | Tol Eressëa | Descubrimiento 340–350 d. C. V16.3-01 |
 | Ruta reconocida | Groenlandia futura, costas americanas futuras | Sin soberanía ni administración permanente |
 | Territorio no incorporado | Númenor, Arnor, América continental, Valinor | Fuera del dominio territorial valinario |
 
@@ -866,7 +917,7 @@ Las Casas conservan autonomía sobre tierras, aldeas, talleres, graneros, camino
 
 La fuerza militar se divide entre guardias de las Casas, milicias rurales, guarniciones portuarias, convoyes armados, patrullas costeras, ingenieros, tripulaciones reales y exploradores. La Corona controla directamente las flotas de largo alcance, la guardia real, las fuerzas de intervención, los ingenieros navales y las estaciones exteriores; las campañas requieren contribuciones pactadas de las Casas.
 
-La clasificación territorial vigente para 50 d. C. distingue patria ancestral, núcleo administrado, dominio de Casa, ciudad portuaria, puerto asociado, factoría, estación marítima, comunidad exploratoria y territorio reconocido. Escania es patria ancestral; Systreyjar y Nosselië Toliva son núcleos administrados; Tol Eressëa es comunidad oceánica autónoma; Sicilia, Malta, Chipre y Alejandría son puertos asociados o factorías; Groenlandia, Númenor, Arnor, América continental y Valinor son territorios aún no incorporados.
+La clasificación territorial vigente para 50 d. C. distingue patria ancestral, núcleo administrado, dominio de Casa, ciudad portuaria, puerto asociado, factoría, estación marítima, comunidad exploratoria y territorio reconocido. Escania es patria ancestral; Systreyjar y Nosselië Toliva son núcleos administrados; Tol Eressëa aún no ha sido descubierta y no es una comunidad administrada; Sicilia, Malta, Chipre y Alejandría son puertos asociados o factorías; Groenlandia, Númenor, Arnor, América continental y Valinor son territorios aún no incorporados.
 
 Una ruta, escala, tratado o factoría no convierte automáticamente un territorio en provincia. La incorporación exige población permanente, administración reconocida, abastecimiento, defensa, registro legal y aceptación política. Las categorías de Estado federal, provincia autónoma, ciudadanía federal y ministerio no deben proyectarse sobre la Antigüedad.
 
@@ -874,10 +925,10 @@ Una ruta, escala, tratado o factoría no convierte automáticamente un territori
 
 En esta fecha todavía no se habían desarrollado como territorios valinari estables:
 
-- Groenlandia, conocida solo después de 55–75 d. C.;
-- Númenor/Terranova, alcanzada después de 140 d. C.;
+- Groenlandia: sin incorporación estable en 50 d. C.; reconocimiento independiente pendiente de conciliación V16.3-01.
+- Númenor/Terranova: expediciones en 400–500 d. C. y asentamiento permanente en 920–980, según la cronología maestra.
 - Arnor y la América continental, incorporados en fases posteriores;
-- Valinor, cuyo reconocimiento se sitúa entre los siglos III y V d. C.;
+- Valinor: descubrimiento formal en 650–750 d. C. y primeros asentamientos permanentes en 750–850.
 - las islas del Pacífico y Malaca como unidades federales.
 
 La expansión posterior parte de esta red previa de conocimientos, puertos y comunidades, pero no debe proyectar sus fronteras modernas sobre el periodo antiguo.
@@ -890,21 +941,21 @@ Entre **300 y 100 a. C.**, la exploración atlántica se extendió hacia las isl
 
 Entre **100 a. C. y 20 d. C.**, las expediciones combinaron navegación atlántica, comercio mediterráneo y reconocimiento de las islas del norte. Los puertos mediterráneos aportaron conocimientos de astronomía, medicina, escritura, matemáticas y administración, mientras que las tradiciones escandinavas aportaron navegación oceánica, madera, hierro, meteorología práctica y construcción naval.
 
-Entre **20 y 40 d. C.**, los navegantes valinari descubrieron Tol Eressëa. La isla recibió estaciones iniciales de agua, reparación, observación, cartografía y archivo. Su integración posterior al núcleo de Valinor a Tyl fue gradual y autónoma.
+Entre 20 y 40 d. C. prosiguen las rutas atlánticas y el reconocimiento septentrional, sin descubrimiento ni asentamiento en Tol Eressëa. El descubrimiento insular corresponde a 340–350 d. C. por precedencia V16.3-01.
 
-Hacia **50 d. C.**, Tol Eressëa era el primer gran descubrimiento oceánico occidental de los Valinari. Groenlandia aún no había sido reconocida de forma estable; su exploración corresponde a la etapa posterior de **55–75 d. C.**. Valinor, Númenor/Terranova y Arnor todavía no formaban parte de la administración valinaria.
+Hacia 50 d. C., Tol Eressëa permanece sin descubrir. La expansión se apoya en los núcleos administrados y las rutas atlánticas y mediterráneas existentes, sin asentamiento en esa isla.
 
-La secuencia canónica de exploración oceánica occidental queda fijada como: **Tol Eressëa → Groenlandia → Númenor/Terranova y América → Valinor**. Esta secuencia distingue descubrimiento, presencia estacional, colonización y anexión política; ningún reconocimiento geográfico equivale automáticamente a incorporación territorial.
+VIGENTE V16.3-01 y R01. La cronología atlántica principal prevalece: Tol Eressëa 340–350 d. C.; expediciones a Terranova 400–500; descubrimiento de Valinor 650–750; asentamientos permanentes en Valinor 750–850; asentamiento permanente de Númenor y fundación posterior de Armenelos 920–980. Los contactos caribeños anteriores siguen vigentes; no se impone una secuencia única a todas las rutas.
 
-Tol Eressëa es el primer gran descubrimiento oceánico occidental, situado aproximadamente entre **20 y 40 d. C.** por navegantes que exploraban las rutas de Islandia y las islas septentrionales. Se establecen estaciones de agua, reparación, observación, cartografía y archivo. Su incorporación posterior al núcleo de Valinor a Tyl es gradual y conserva un régimen insular autónomo; en 85 d. C. todavía no existe la estructura territorial completa de Valinor a Tyl.
+Tol Eressëa se descubre entre 340 y 350 d. C. Sus estaciones de agua, reparación, observación, cartografía y archivo se desarrollan después de ese hito. En 85 d. C. no existen estaciones valinari en Tol Eressëa.
 
-Groenlandia se reconoce aproximadamente entre **55 y 75 d. C.** y recibe estaciones estacionales entre **70 y 110 d. C.**. En 85 d. C. ya es conocida y utilizada como paso noratlántico desde Tol Eressëa, pero no es una provincia federal ni una colonia plenamente consolidada. La colonización estable se desarrolla posteriormente, entre los siglos IV y VI d. C., y la integración política plena es muy posterior.
+ANTECEDENTE SUSTITUIDO EN SU RUTA DE ORIGEN V16.3-01. El reconocimiento temprano de Groenlandia no puede partir de Tol Eressëa en 55–75 d. C., pues esta se descubre en 340–350. Las fechas groenlandesas de reconocimiento independiente y asentamiento requieren conciliación específica; se conserva la secuencia septentrional de protectorados e integración posterior sin inventar una nueva fecha.
 
-Númenor, asociada a Terranova, se alcanza después de Groenlandia, aproximadamente entre **140 y 180 d. C.**, con primeras estaciones permanentes entre **180 y 240 d. C.**. Funciona como base pesquera, puerto de invierno, centro de reparación y punto de observación de las costas americanas. La expansión continental se produce gradualmente entre los siglos III y V d. C.
+VIGENTE por precedencia de la cronología maestra V16.3-R01: las primeras expediciones a Terranova se sitúan en 400–500 d. C.; el asentamiento permanente de Númenor y la fundación posterior de Armenelos en 920–980. Las fechas de 140–180 y 180–240 del relato anterior quedan sustituidas en estos hitos.
 
-Valinor es descubierto después de Tol Eressëa y Groenlandia mediante expediciones de mayor alcance, no como una simple escala de la ruta groenlandesa. Las primeras expediciones indirectas corresponden a los siglos III–IV d. C.; el reconocimiento geográfico se sitúa entre **350 y 450 d. C.**, los asentamientos iniciales entre los siglos V y VI y la consolidación territorial entre los siglos VII y IX. El descubrimiento se atribuye a la capacidad acumulada de navegación, astronomía, construcción naval, lectura de corrientes y coordinación logística de los marinos valinari.
+VIGENTE por precedencia de la cronología maestra V16.3-R01: descubrimiento formal de Valinor en 650–750 d. C.; primeros asentamientos permanentes y desarrollo inicial de Nueva Tirion en 750–850. El reconocimiento de 350–450 y los asentamientos de los siglos V–VI quedan como antecedentes sustituidos para esos mismos hitos.
 
-En 85 d. C. la administración valinaria comprende el núcleo de Systreyjar y Nosselië Toliva, junto con las primeras estaciones de Tol Eressëa. Groenlandia posee solo puestos estacionales; Númenor, Arnor, la América continental y el territorio de Valinor todavía no forman parte de la administración territorial valinaria. La población administrada o dependiente se estima en **1,68–1,75 millones**, sin sumar automáticamente a las poblaciones locales de territorios explorados.
+En 85 d. C. no se incluye Tol Eressëa entre las posesiones o estaciones administradas. La estimación anterior de 1,68–1,75 millones queda PENDIENTE de comprobar su perímetro, pues el relato que la acompañaba incluía estaciones insulares anteriores al descubrimiento. No se adopta un total sustitutivo sin desglose.
 
 ### Mediterráneo y rutas meridionales
 
@@ -952,7 +1003,7 @@ En 85 d. C. Valinor posee una presencia mediterránea comercial, diplomática y 
 
 La población del Imperio romano alrededor de la época de Augusto y las primeras décadas del siglo I d. C. se estima históricamente en aproximadamente **50–60 millones de habitantes**. La cifra es una reconstrucción demográfica, no un censo completo y uniforme.
 
-En el escenario valinari, la población bajo administración directa hacia 50 d. C. es de aproximadamente **475.000–545.000 habitantes**: Systreyjar, Nosselië Toliva, Tol Eressëa, estaciones atlánticas y factorías menores. La red ampliada de comunidades vinculadas por origen, comercio y parentesco alcanza aproximadamente **800.000–1.050.000 personas**, sin contar como población valinaria a las sociedades locales de Escania, Noruega, Dinamarca, el Mediterráneo, Egipto o el mar Rojo.
+En el escenario valinari, la población bajo administración directa hacia 50 d. C. es de aproximadamente **475.000–545.000 habitantes**: Systreyjar, Nosselië Toliva, estaciones atlánticas y factorías menores. La red ampliada de comunidades vinculadas por origen, comercio y parentesco alcanza aproximadamente **800.000–1.050.000 personas**, sin contar como población valinaria a las sociedades locales de Escania, Noruega, Dinamarca, el Mediterráneo, Egipto o el mar Rojo. V16.3-01: el rango demográfico queda pendiente de comprobar su desglose tras excluir Tol Eressëa; no se recalcula sin componentes.
 
 Roma es entre cien y ciento veinte veces más grande que la administración valinaria directa. Roma domina el Mediterráneo mediante provincias, impuestos, ejército, puertos y derecho imperial; Valinor opera como una red marítima menor, especializada en navegación septentrional, comercio de larga distancia, traducción y servicios portuarios.
 
@@ -1702,7 +1753,7 @@ Nosselië Toliva (Canarias) forma parte de Aranath Valinor, el Reino.
 | Valinor a Tyl | Valinor, Tol Eressëa y Systreyjar | 53.200 km² | 26 millones |
 | Aranath Valinor | Valinor a Tyl, Nosselië Toliva y América y Caribe directos | 5,4–5,5 millones km² | 481 millones |
 | Gwaith Valinor | Aranath Valinor más Malaca, Oceanía federal y Eryndor | 5,6–5,7 millones km² | 523,5 millones |
-| Beleg Valinor | Federación más protectorados y enclaves | 8,2–8,4 millones km² | 715,5–865,5 millones |
+| Beleg Valinor | Federación más protectorados y enclaves | 8,2–8,4 millones km² | 715,5–865,5 millones (ANTECEDENTE previo a Esgal Nénar; agregado operativo posterior: 724,5–879,5 millones en 2026, sin alterar Gwaith) |
 | Gwaith Aear | Gran Valinor más aliados extranjeros | Sin frontera única | 1.115,5–1.515,5 millones |
 
 ### 17.3. Composición política
@@ -1874,7 +1925,7 @@ Rhunost (Musandam) queda incluido dentro de Harnen y no se suma nuevamente.
 |---|---:|---:|---:|
 | Gwaith Valinor | 508 millones | +10 millones | 523,5 millones |
 | PIB PPA de Gwaith Valinor | 60–72 billones | +0,70 billones | 60,7–72,7 billones |
-| Beleg Valinor | 700–850 millones | +10 millones | 715,5–865,5 millones |
+| Beleg Valinor | 700–850 millones | +10 millones | 715,5–865,5 millones (ANTECEDENTE previo a Esgal Nénar; agregado operativo posterior: 724,5–879,5 millones en 2026, sin alterar Gwaith) |
 | PIB PPA de Beleg Valinor | 80–105 billones | +0,70 billones | 80,7–105,7 billones |
 | Gwaith Aear | 1.100–1.500 millones | +10 millones | 1.115,5–1.515,5 millones |
 | PIB PPA de Gwaith Aear | 105–140 billones | +0,70 billones | 105,7–140,7 billones |
@@ -1989,7 +2040,7 @@ La industria militar, aeroespacial y electrónica forma parte de la producción 
 | Aranath Valinor (Reino) | 481 millones | 55–62 billones | 42–48 billones |
 | Gwaith Valinor (Federación) | 523,5 millones | 60,85–70,20 billones | 45–52 billones |
 
-Se fija como centro de referencia 58,5 billones PPA para el Reino y 65 billones PPA para la Federación. El centro nominal federal es aproximadamente 48,5 billones. Son valores de planificación del mundo ficticio, no conversiones directas entre PPA y PIB nominal.
+Se fija como centro de referencia 58,5 billones PPA para el Reino y 65,50 billones PPA para la Federación. El centro nominal federal es aproximadamente 48,5 billones. Son valores de planificación del mundo ficticio, no conversiones directas entre PPA y PIB nominal.
 
 El rango anterior de 67–81 billones PPA (centro 74) queda sustituido. La conciliación territorial ECON-03 fija como referencia central 58,50 billones para el Reino más 7,00 billones para las unidades federales externas: **65,50 billones PPA para la Federación**, redondeados a 66. Las cuentas territoriales actualizadas incorporan Islandia y Groenlandia; las matrices preliminares conservan valor histórico solo cuando no contradicen esta sección. Son estimaciones canónicas del mundo ficticio, no estadísticas observadas; sus supuestos contables y límites de precisión permanecen explícitos.
 
@@ -2205,7 +2256,7 @@ Quedan incorporadas al Canon Maestro todas las actualizaciones acumulativas y en
 - regla primordial de nomenclatura urbana;
 - coordenadas textuales y polígonos ficticios aprobados.
 
-La escala vigente queda fijada en: Valinor 16 millones; Valinor a Tyl 26 millones; Aranath Valinor 481 millones; Gwaith Valinor 523,5 millones; Beleg Valinor 715,5–865,5 millones; Gwaith Aear 1.115,5–1.515,5 millones. El PIB PPA vigente de Gwaith Valinor es 60,85–70,20 billones, con valor central de 65,50 billones; el PIB nominal estimado se actualiza proporcionalmente a 45,6–52,9 billones, con centro de 49,2 billones.
+La escala vigente queda fijada en: Valinor 16 millones; Valinor a Tyl 26 millones; Aranath Valinor 481 millones; Gwaith Valinor 523,5 millones; Beleg Valinor 715,5–865,5 millones (ANTECEDENTE previo a Esgal Nénar; agregado operativo posterior: 724,5–879,5 millones en 2026, sin alterar Gwaith); Gwaith Aear 1.115,5–1.515,5 millones. El PIB PPA vigente de Gwaith Valinor es 60,85–70,20 billones, con valor central de 65,50 billones; el PIB nominal estimado se actualiza proporcionalmente a 45,6–52,9 billones, con centro de 49,2 billones.
 
 Los documentos fuente permanecen como anexos de trazabilidad. Cuando contienen cifras o estatus anteriores, prevalecen las resoluciones más recientes de este canon y no se produce doble contabilización.
 
@@ -2806,7 +2857,7 @@ La distribución urbana se fija en núcleos funcionales y no implica que cada mu
 | Barbados | Otros centros urbanos | 0,85 M |
 | Barbados | Población rural y dispersa | 0,50 M |
 
-La población fijada asciende a 87 millones: Venezuela Federal 50, Provincia del Orinoco 15 y Caribe 22. Al sumarla a las otras unidades del Reino, Aranath Valinor conserva 481 millones; no se altera la población federal externa de 37 millones ni el total de 523,5 millones.
+La población fijada asciende a 87 millones: Venezuela Federal 50, Provincia del Orinoco 15 y Caribe 22. Al sumarla a las otras unidades del Reino, Aranath Valinor conserva 481 millones; no se altera la subtotal federal externo anterior de 37 millones; con Islandia y Groenlandia, las externas vigentes suman 42,5 millones ni el total de 523,5 millones.
 
 ### 35.3. Cuentas propias de producción e insumos
 

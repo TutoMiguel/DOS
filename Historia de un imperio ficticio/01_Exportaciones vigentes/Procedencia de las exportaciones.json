@@ -1,14 +1,15 @@
 {
-  "source_sha256": "27621eef07e57a2c803d475e8693928fab956ef342f63da2353480b7905798ee",
-  "word_sha256": "a9ede153320ef66dffa87a81794689fd61d00de2deb51c065468799b88ff391d",
-  "pdf_sha256": "db1ea28d25c29346da288d3f89f7921251606174fa499cf57d4802cc998489ca",
-  "chronology_sha256": "bf4f64997ad6d2ad64ab7711ff2e31b35fea02392a95d142d8d6f0025f4c0e83",
-  "pdf_pages": 253,
-  "verified_render": "C:\\Users\\migue\\Documents\\ChatGPT\\Historia de un imperio ficticio\\.word_v16_regeneracion_20261108_v16_2\\render_final\\Canon V16 Maestro.pdf",
-  "qa_report": "C:\\Users\\migue\\Documents\\ChatGPT\\Historia de un imperio ficticio\\.word_v16_regeneracion_20261108_v16_2\\verificacion.json",
-  "updated": "2026-11-08T12:40:29.026688-03:00",
+  "source_sha256": "5c4234e5b9f50bcac5b77776079f9afdd6a7ad7308939e838f972049eec6bea4",
+  "word_sha256": "c755c2b982a16fa88d36dd24d63fcea56beb16b0648835458f266e99ec3fd73f",
+  "pdf_sha256": "227d02cd3f358ec93cfc848566ee7727e244bea8377585e04b98f9f4274dcc36",
+  "chronology_sha256": "06979ade9e4a150bd06feee775f8d61f499d24fcc0873fba6752dfd2b496beb7",
+  "pdf_pages": 274,
+  "verified_render": "C:\\Users\\migue\\Documents\\Codex\\2026-11-09\\referenced-chatgpt-conversation-this-is-an\\outputs\\Canon V16 Maestro V16.3.pdf",
+  "qa_report": "C:\\Users\\migue\\Documents\\Codex\\2026-11-09\\referenced-chatgpt-conversation-this-is-an\\outputs\\Informe de integración y ubicaciones V16.3.md",
+  "updated": "2026-11-09",
   "word_original": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\10_Archivo\\Documentos editoriales\\Oficial\\Canon V16 Maestro.docx",
   "word_export": "C:\\Users\\migue\\OneDrive\\DOS\\Historia de un imperio ficticio\\Canon V16 Maestro - Exportacion.docx",
   "pdf_export": "C:\\Users\\migue\\OneDrive\\DOS\\Historia de un imperio ficticio\\Canon V16 Maestro.pdf",
-  "revision": "V16.2"
+  "revision": "V16.3",
+  "originales_respaldo": "C:\\Users\\migue\\OneDrive\\DOS\\Historia de un imperio ficticio\\04_Historial editorial\\Integración V16.3 2026-11-09\\Originales_antes_V16_3.zip"
 }

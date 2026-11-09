@@ -1,0 +1,91 @@
+{
+  "fecha": "2026-11-09",
+  "revision": "V16.3",
+  "fuentes": {
+    "word": {
+      "ruta": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\10_Archivo\\Documentos editoriales\\Oficial\\Canon V16 Maestro.docx",
+      "sha256": "c5dff2832a23c550ce545285c73996042d3fd4efb398a1961cc075619c9cd9df"
+    },
+    "markdown": {
+      "ruta": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\00_Canon\\Canon V16 Maestro.md",
+      "sha256": "74864d2b207f88d251efb124394defb8302201be9df8b813b4e6a29c80f22bf1"
+    },
+    "cronologia": {
+      "ruta": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\01_Cronologia\\Cronología Territorial V16.md",
+      "sha256": "6143b852b3c072de99dbfec3c85008bb14ece1d5b3518c30b845f80bafaeb65f"
+    },
+    "auditoria": {
+      "ruta": "C:\\Users\\migue\\AppData\\Local\\Temp\\codex-file-preview-f0BLUB\\Auditoria_Canon_V16_3.docx",
+      "sha256": "a611f53bc84a65d1c891a2ae6b1395b6c455c5bc1adfe9368ce39eb686209b22"
+    },
+    "word_centro": {
+      "ruta": "C:\\Users\\migue\\OneDrive\\DOS\\Historia de un imperio ficticio\\Canon V16 Maestro.docx",
+      "sha256": "a442bbd2000af96a65d1891f1c716521cd9d2e2c07d1e20debc43c623e6fc54c"
+    },
+    "word_exportacion": {
+      "ruta": "C:\\Users\\migue\\OneDrive\\DOS\\Historia de un imperio ficticio\\Canon V16 Maestro - Exportacion.docx",
+      "sha256": "a442bbd2000af96a65d1891f1c716521cd9d2e2c07d1e20debc43c623e6fc54c"
+    },
+    "adjunto": {
+      "ruta": "C:\\Users\\migue\\AppData\\Local\\Temp\\codex-file-preview-e9ZID9\\Canon V16 Maestro.docx",
+      "sha256": "cc209cfb94ecad53d26577fbc2fcbc5a526eb370d614aa2b5aaa651181623bd8"
+    },
+    "pdf_exportacion": {
+      "ruta": "C:\\Users\\migue\\OneDrive\\DOS\\Historia de un imperio ficticio\\Canon V16 Maestro.pdf",
+      "sha256": "db1ea28d25c29346da288d3f89f7921251606174fa499cf57d4802cc998489ca"
+    },
+    "procedencia_anterior": {
+      "ruta": "C:\\Users\\migue\\OneDrive\\DOS\\Historia de un imperio ficticio\\01_Exportaciones vigentes\\Procedencia de las exportaciones.json",
+      "sha256": "cb57c2e42487603c47c426c37552e5362af8d70761c5ee9af78cfc6027000269"
+    }
+  },
+  "publicado": true,
+  "salidas": {
+    "Canon V16 Maestro V16.3.docx": "c755c2b982a16fa88d36dd24d63fcea56beb16b0648835458f266e99ec3fd73f",
+    "Canon V16 Maestro V16.3.md": "5c4234e5b9f50bcac5b77776079f9afdd6a7ad7308939e838f972049eec6bea4",
+    "Canon V16 Maestro V16.3.pdf": "227d02cd3f358ec93cfc848566ee7727e244bea8377585e04b98f9f4274dcc36",
+    "Cronología Territorial V16.3.md": "06979ade9e4a150bd06feee775f8d61f499d24fcc0873fba6752dfd2b496beb7",
+    "Informe de integración y ubicaciones V16.3.md": "48bba42460fef0849a0423c691b03e36a1c5d16f7469baba4dfa802999f4b4d7",
+    "Originales_antes_V16_3.zip": "6f48de5b6a70c01f37b27f7ec0c388046c77b3573d5be83ac3a9ca85e4677c18",
+    "Registro de cambios V16.3.json": "f5637364658a869eeb7e46af14f114a8b05ea79f2d43ec330223300e92b53c04",
+    "Resoluciones aprobadas V16.3.md": "69319dc6deac18b7c7a9f936044ad3155d685e27b37b4470b644d5dc154f19c1"
+  },
+  "publicacion_local": [
+    {
+      "ruta": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\10_Archivo\\Documentos editoriales\\Oficial\\Canon V16 Maestro.docx",
+      "sha256": "c755c2b982a16fa88d36dd24d63fcea56beb16b0648835458f266e99ec3fd73f"
+    },
+    {
+      "ruta": "C:\\Users\\migue\\OneDrive\\DOS\\Historia de un imperio ficticio\\Canon V16 Maestro.docx",
+      "sha256": "c755c2b982a16fa88d36dd24d63fcea56beb16b0648835458f266e99ec3fd73f"
+    },
+    {
+      "ruta": "C:\\Users\\migue\\OneDrive\\DOS\\Historia de un imperio ficticio\\Canon V16 Maestro - Exportacion.docx",
+      "sha256": "c755c2b982a16fa88d36dd24d63fcea56beb16b0648835458f266e99ec3fd73f"
+    },
+    {
+      "ruta": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\00_Canon\\Canon V16 Maestro.md",
+      "sha256": "5c4234e5b9f50bcac5b77776079f9afdd6a7ad7308939e838f972049eec6bea4"
+    },
+    {
+      "ruta": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\01_Cronologia\\Cronología Territorial V16.md",
+      "sha256": "06979ade9e4a150bd06feee775f8d61f499d24fcc0873fba6752dfd2b496beb7"
+    },
+    {
+      "ruta": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\00_Canon\\Integraciones V16\\Resoluciones aprobadas V16.3.md",
+      "sha256": "69319dc6deac18b7c7a9f936044ad3155d685e27b37b4470b644d5dc154f19c1"
+    },
+    {
+      "ruta": "C:\\Users\\migue\\OneDrive\\DOS\\Historia de un imperio ficticio\\Canon V16 Maestro.pdf",
+      "sha256": "227d02cd3f358ec93cfc848566ee7727e244bea8377585e04b98f9f4274dcc36"
+    }
+  ],
+  "respaldo_publicado": "C:\\Users\\migue\\OneDrive\\DOS\\Historia de un imperio ficticio\\04_Historial editorial\\Integración V16.3 2026-11-09\\Originales_antes_V16_3.zip",
+  "verificacion": {
+    "renderizador": "Microsoft Word exportación PDF",
+    "paginas": 274,
+    "imagenes_generadas": 274,
+    "revision_visual": "Revisión de todas las páginas en láminas de contacto y revisión ampliada de páginas críticas",
+    "alcance": "Integración dirigida; controles cuantitativos abiertos detallados en el informe"
+  }
+}

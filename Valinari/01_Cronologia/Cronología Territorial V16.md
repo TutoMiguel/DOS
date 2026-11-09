@@ -1,5 +1,11 @@
 # Cronología maestra atlántica de la Unión Valinoriana
 
+
+Estado: VIGENTE V16.3. Integración editorial 2026-11-09. Precedencia limitada a las disposiciones expresamente sustituidas.
+
+* **2026 clasificación editorial:** Islandia y Groenlandia son unidades federales externas al Reino; 2026 no es primera incorporación histórica.
+* **2026 cuentas conciliadas:** 481 + 37 + 5,5 = 523,5 millones; externas vigentes 42,5. PIB PPA 58,50 + 7,00 = 65,50 billones; los 0,95 de Islandia y Groenlandia ya están incluidos en las externas.
+
 ## Fundación y expansión inicial
 
 * **998–990 a. C.:** ciclo de visiones de Míriel Elerwen.
@@ -104,7 +110,7 @@ La expansión se evalúa mediante series territoriales de cobertura y calidad, p
 * **2026:** queda vigente la jerarquía **Valinor → Valinor a Tyl → Aranath Valinor → Gwaith Valinor → Beleg Valinor → Gwaith Aear**. Aranath Valinor se define como reino constituyente de Gwaith Valinor: todos sus territorios pertenecen a la Federación a través del Reino, aunque no sean miembros federales directos. Las unidades federales externas al Reino se vinculan directamente al gobierno federal.
 * **2026:** Nosselië Toliva (Canarias) queda dentro de Aranath Valinor y, por medio del Reino constituyente, dentro de Gwaith Valinor. No se cuenta como adición federal externa. Su superficie canónica es 7.493 km² y su población 10 millones.
 * **2026:** Eryndor (Baréin) y Harnen (Omán) pasan de protectorados a estados federados de Gwaith Valinor; Rhunost (Musandam) queda como provincia autónoma estratégica dentro de Harnen.
-* **2026:** corrección proporcional de Eryndor y Harnen: 10 millones de habitantes y 0,70 billones PPA conjuntos. Son unidades federales externas al Reino; Rhunost permanece dentro de Harnen. Gwaith Valinor alcanza 523,5 millones; Beleg Valinor 715,5–865,5 millones; Gwaith Aear 1.115,5–1.515,5 millones.
+* **2026:** corrección proporcional de Eryndor y Harnen: 10 millones de habitantes y 0,70 billones PPA conjuntos. Son unidades federales externas al Reino; Rhunost permanece dentro de Harnen. Gwaith Valinor alcanza 523,5 millones; Beleg Valinor 715,5–865,5 millones (ANTECEDENTE previo a Esgal Nénar; agregado operativo posterior: 724,5–879,5 millones en 2026, sin alterar Gwaith); Gwaith Aear 1.115,5–1.515,5 millones.
 
 ## Complejo industrial estratégico
 
@@ -193,7 +199,7 @@ La expansión se evalúa mediante series territoriales de cobertura y calidad, p
 * **1900:** 72 000 000 habitantes; 25 200 000 urbanos.
 * **1950:** 142 000 000 habitantes; 82 360 000 urbanos.
 * **2000:** 257 000 000 habitantes; 187 610 000 urbanos.
-* **2026:** Valinor, 16 millones; Valinor a Tyl, 26 millones; Aranath Valinor, 481 millones; Gwaith Valinor, 523,5 millones. Beleg Valinor alcanza 715,5–865,5 millones y Gwaith Aear 1.115,5–1.515,5 millones. Las cifras son acumulativas y no deben sumarse entre niveles.
+* **2026:** Valinor, 16 millones; Valinor a Tyl, 26 millones; Aranath Valinor, 481 millones; Gwaith Valinor, 523,5 millones. Beleg Valinor alcanza 715,5–865,5 millones (ANTECEDENTE previo a Esgal Nénar; agregado operativo posterior: 724,5–879,5 millones en 2026, sin alterar Gwaith) y Gwaith Aear 1.115,5–1.515,5 millones. Las cifras son acumulativas y no deben sumarse entre niveles.
 
 ## Estado canónico
 
@@ -270,14 +276,14 @@ La economía naval se integra con acero, motores, turbinas, electrónica, radare
 * **700–950:** se consolidan comunidades marítimas permanentes en Islandia y se reabre el corredor hacia el Ártico.
 * **950:** Islandia queda bajo protectorado marítimo pactado.
 * **1050:** comienza un protectorado groenlandés discontinuo, dependiente de las condiciones de navegación y abastecimiento.
-* **1120–1150:** Islandia se incorpora como territorio autónomo del sistema federal marítimo.
+* **1120–1150:** incorporación pactista de Islandia con autonomía marítima; antecedente del régimen federal moderno. V16.3-02.
 * **1250–1500:** la presencia administrativa en Groenlandia se reduce por aislamiento y clima; la soberanía se mantiene como pretensión histórica, pero la administración efectiva es intermitente.
 * **1600–1800:** se recuperan las rutas polares, la cartografía y las estaciones de observación.
 * **1850:** se restablece de forma permanente la administración groenlandesa.
 * **1900–1945:** se amplían puertos, minería, aviación, meteorología y comunicaciones.
 * **1945:** Groenlandia pasa a ser centro de investigación polar, vigilancia y logística ártica.
 * **1952–1956:** se construyen el Instituto Ártico de Física Nuclear, radares, estaciones de alerta temprana y centros de cohetería.
-* **1956:** Islandia y Groenlandia quedan integradas como territorios federales autónomos de Gwaith Valinor; se crea el Comando del Atlántico Norte.
+* **1956:** reconocimiento constitucional de Islandia y Groenlandia en el régimen federal moderno; creación del Comando del Atlántico Norte. V16.3-02.
 * **1957–1958:** Valinor realiza su primera prueba nuclear dentro de la secuencia de desarrollo del programa federal; Groenlandia participa como centro científico y de seguridad, no como único lugar de producción.
 * **1958–1969:** Islandia y Groenlandia se conectan progresivamente a la Red Federal de Comunicaciones Marítimas y después a OceanNet.
 * **2026:** Islandia alcanza 3,5 millones de habitantes y 0,55 billones de dólares PPA; Groenlandia alcanza 2 millones de habitantes y 0,40 billones. La adición conjunta es de 5,5 millones de habitantes, 2.269.000 km² y 0,95 billones de dólares PPA.
@@ -726,21 +732,21 @@ La rivalidad anglo-valinari produce guerras de corso, bloqueos, disputas por pue
 * **550–300 a. C.:** la Corona amplía las rutas del mar del Norte, el Atlántico oriental y el Mediterráneo; aparecen escuelas portuarias, convoyes, factorías y acuerdos de protección.
 * **300–100 a. C.:** la exploración se extiende hacia las islas septentrionales; se perfeccionan cartas de navegación, estaciones de agua y reparación.
 * **100 a. C.–20 d. C.:** las expediciones combinan navegación atlántica, comercio mediterráneo y reconocimiento de las islas del norte.
-* **20–40 d. C.:** descubrimiento de Tol Eressëa; se establecen estaciones iniciales de agua, reparación, observación, cartografía y archivo.
-* **50 d. C.:** Tol Eressëa es el primer gran descubrimiento oceánico occidental. Groenlandia todavía no posee reconocimiento estable; Númenor/Terranova, Arnor, América continental y Valinor aún no están incorporados.
+* **20–40 d. C.:** rutas atlánticas y reconocimiento septentrional sin descubrimiento ni asentamiento en Tol Eressëa. V16.3-01.
+* **50 d. C.:** Tol Eressëa permanece sin descubrir; las rutas y núcleos administrados no incluyen un asentamiento en esa isla. V16.3-01.
 
 * **650–550 a. C.:** el desarrollo valinari se redistribuye entre Escania, Noruega, Dinamarca, el Báltico, el mar del Norte, Systreyjar y Nosselië Toliva. Escania conserva santuarios, propiedades y memoria genealógica, pero deja de ser el centro político.
 * **550–300 a. C.:** Systreyjar se consolida como centro insular de coordinación marítima y Nosselië Toliva como escala atlántica oriental vinculada con África y el Mediterráneo.
 * **450–150 a. C.:** Sicilia, Malta, Chipre, Creta, el Egeo, Egipto, Alejandría y el Levante funcionan como espacios de comercio, traducción, medicina, astronomía, derecho y navegación; no son provincias valinarias.
 * **300–50 a. C.:** la red mediterránea y atlántica combina conocimientos de mares fríos, navegación oceánica, cartografía, construcción naval y observación astronómica.
-* **20–40 d. C.:** Tol Eressëa recibe puerto, almacenes, taller, observatorio, santuario y archivo de navegación; se convierte en puente hacia las posteriores rutas de Groenlandia.
-* **50 d. C.:** el desarrollo territorial valinari se concentra en el núcleo septentrional y atlántico oriental, las escalas mediterráneas y Tol Eressëa. Groenlandia, Númenor, Arnor, América continental y Valinor todavía pertenecen a fases futuras.
+* **20–40 d. C.:** rutas atlánticas y reconocimiento septentrional sin descubrimiento ni asentamiento en Tol Eressëa. V16.3-01.
+* **50 d. C.:** Tol Eressëa permanece sin descubrir; las rutas y núcleos administrados no incluyen un asentamiento en esa isla. V16.3-01.
 
-* **55–75 d. C.:** reconocimiento de Groenlandia desde Tol Eressëa. Entre 70 y 110 se mantienen puestos estacionales, sin integración provincial plena.
-* **85 d. C.:** Tol Eressëa ya posee estaciones insulares tempranas; Groenlandia es una escala noratlántica; Númenor/Terranova, América continental y el territorio de Valinor todavía no están incorporados.
-* **140–180 d. C.:** llegada a Númenor/Terranova después de Groenlandia; se inicia el reconocimiento de las costas americanas.
-* **180–240 d. C.:** primeras estaciones permanentes en Númenor; la expansión continental americana se desarrolla gradualmente entre los siglos III y V.
-* **350–450 d. C.:** reconocimiento geográfico de Valinor después de Tol Eressëa y Groenlandia, gracias a la navegación oceánica acumulada de los marinos valinari.
+* **PENDIENTE V16.3-01:** la ruta de reconocimiento de Groenlandia desde Tol Eressëa en 55–75 queda sustituida por ser anterior al descubrimiento de su supuesto punto de partida. No se fija una nueva fecha de reconocimiento independiente.
+* **85 d. C.:** no existen estaciones valinari en Tol Eressëa. El perímetro de los agregados demográficos que la incluían requiere conciliación. V16.3-01.
+* **400–500 d. C.:** expediciones hacia Terranova; el asentamiento permanente de Númenor corresponde a 920–980. Sustituye 140–180 para la llegada y 180–240 para el asentamiento. V16.3-R01.
+* **920–980 d. C.:** asentamiento permanente de Númenor y fundación posterior de Armenelos; sustituye las estaciones permanentes atribuidas a 180–240. V16.3-R01.
+* **650–750 d. C.:** descubrimiento formal de Valinor; primeros asentamientos permanentes en 750–850. Sustituye 350–450 para el mismo hito. V16.3-R01.
 * **Siglos V–IX d. C.:** asentamiento y consolidación territorial progresiva de Valinor.
 * **Hacia 930 a. C.:** reconocimiento del Mediterráneo occidental. La ruta mediterránea es independiente de la secuencia atlántica septentrional.
 * **Siglos IX–I a. C.:** contactos indirectos, comercio, traducción y reconocimiento mediterráneo; no existe una presencia territorial valinaria estable.
