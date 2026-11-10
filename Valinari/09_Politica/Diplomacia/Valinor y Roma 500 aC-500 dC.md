@@ -85,5 +85,5 @@ La relación queda definida como cooperación regulada: Roma protege la presenci
 
 - [[00_Canon/Canon V16 Maestro|Canon V16 Maestro]]
 - [[01_Cronologia/Cronología Territorial V16|Cronología maestra]]
-- [[12_Militar/Armada antigua 500 aC-500 dC]]
-- [[12_Militar/Ejército antiguo 500 aC-500 dC]]
+- [[12_Militar/03_Armada/Armada antigua 500 aC-500 dC]]
+- [[12_Militar/02_Ejército/Ejército antiguo 500 aC-500 dC]]

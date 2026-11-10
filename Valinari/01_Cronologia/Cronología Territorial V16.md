@@ -264,7 +264,7 @@ El registro completo de nacimiento, coronación, abdicación y muerte de los 44 
 * **2000–2026:** se despliegan inteligencia artificial, drones, radares Palantír-4D y Palantír Aeglos, submarinos no tripulados y sistemas de defensa antimisiles.
 * **1945 y 1960:** AM1 conserva reconstrucciones de 368 y 408 unidades respectivamente; sirven para explicar la transición y no son inventarios medidos.
 * **1980:** la composición canónica de referencia suma 427 unidades en categorías separadas: 7 portaaviones, 14 cruceros, 36 destructores, 56 fragatas/escoltas, 50 corbetas, 24 lanchas misilísticas, 60 patrulleros, 42 submarinos, 34 anfibios, 26 MCM y 78 auxiliares.
-* **2026:** el inventario canónico suma 615 plataformas: 595 buques tripulados y 20 vehículos navales no tripulados; distribución: 11 portaaviones, 54 submarinos, 190 combatientes de superficie, 34 anfibios, 220 plataformas de patrulla/vigilancia/servicio y 106 auxiliares. La disponibilidad estimada de 449 es una hipótesis de planificación. Véase [[12_Militar/AM1 Armada 1875-2026|AM1 Armada 1875–2026]].
+* **2026:** el inventario canónico suma 615 plataformas: 595 buques tripulados y 20 vehículos navales no tripulados; distribución: 11 portaaviones, 54 submarinos, 190 combatientes de superficie, 34 anfibios, 220 plataformas de patrulla/vigilancia/servicio y 106 auxiliares. La disponibilidad estimada de 449 es una hipótesis de planificación. Véase [[12_Militar/03_Armada/AM1 Armada 1875-2026|AM1 Armada 1875–2026]].
 
 La economía naval se integra con acero, motores, turbinas, electrónica, radares, astilleros, aeronáutica, combustibles, seguros y logística. Islandia aporta energía geotérmica, pesca, aluminio y reparación naval; Groenlandia aporta minerales estratégicos, hidroelectricidad, investigación polar, comunicaciones y defensa.
 
@@ -899,7 +899,7 @@ Forostar (Helsingborg) mantiene la capitalidad política y la Casa Telcontar con
 - **2005–2026:** integración de propulsión eléctrica, radares AESA, OceanNet, vehículos no tripulados y mantenimiento predictivo.
 - **2026:** inventario estructural de 615 plataformas; la disponibilidad de 449 es hipótesis, no dato medido.
 
-Ficha técnica: [[12_Militar/AM1 Armada 1875-2026|AM1 Armada 1875–2026]].
+Ficha técnica: [[12_Militar/03_Armada/AM1 Armada 1875-2026|AM1 Armada 1875–2026]].
 
 ## 1952–1979 — Turbinas navales y composición de la Armada en 1973
 
@@ -907,7 +907,7 @@ Ficha técnica: [[12_Militar/AM1 Armada 1875-2026|AM1 Armada 1875–2026]].
 - **1958–1965:** primeras series en lanchas, patrulleros y escoltas ligeros; nacen equipos y rutinas de cambio modular.
 - **1965–1970:** se masifica la turbina en destructores, fragatas, corbetas y lanchas; aparecen combinaciones diésel-gas para equilibrar velocidad y autonomía.
 - **1970–1979:** se perfeccionan COGOG, CODOG y CODAG, el control de planta y los intervalos de mantenimiento. El vapor permanece en portaaviones convencionales y en el ciclo secundario de los nucleares; diésel sigue en submarinos convencionales, anfibios, patrulleros de permanencia y auxiliares.
-- **1973:** reconstrucción AM1 de 421 plataformas, entre las referencias de 1960 y 1980. No representa un recuento histórico medido. Véase [[12_Militar/AM1 Armada 1973 — reconstrucción y turbinas]].
+- **1973:** reconstrucción AM1 de 421 plataformas, entre las referencias de 1960 y 1980. No representa un recuento histórico medido. Véase [[12_Militar/03_Armada/AM1 Armada 1973 — reconstrucción y turbinas]].
 
 ## Evolución de la familia de destructores Gil-galad
 
@@ -918,7 +918,7 @@ Ficha técnica: [[12_Militar/AM1 Armada 1875-2026|AM1 Armada 1875–2026]].
 - **2005–2013:** construcción de Gil-galad V, con integración de red y radar AESA inicial.
 - **2020–2030:** construcción prevista de Gil-galad VI; entrada en servicio escalonada desde 2027–2035.
 
-La reconstrucción AM1 de 1973 atribuye 12 unidades a Gil-galad II. El inventario de 1980 contabiliza la familia de manera agregada durante la transición II–III. En 2026, los 24 destructores corresponden a generaciones IV y V; la VI aún no se cuenta como operativa. Véase [[12_Militar/Destructores Gil-galad — evolución de la familia]].
+La reconstrucción AM1 de 1973 atribuye 12 unidades a Gil-galad II. El inventario de 1980 contabiliza la familia de manera agregada durante la transición II–III. En 2026, los 24 destructores corresponden a generaciones IV y V; la VI aún no se cuenta como operativa. Véase [[12_Militar/03_Armada/Destructores Gil-galad — evolución de la familia]].
 
 ## Acumulativa A092 y cierre contable V16 4
 

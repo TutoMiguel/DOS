@@ -325,7 +325,7 @@ Los intervalos expresan procesos de formación cuando no existe un día o año e
 
 ### Bases militares y distribución territorial, 500 a. C.–500 d. C.
 
-- La red militar valinari no es una ocupación uniforme, sino una cadena de puntos de apoyo situados junto a rutas, puertos, estrechos, fuentes de agua, graneros, astilleros y pasos terrestres. Se organiza en arsenales navales, fortalezas portuarias, estaciones de convoy, torres de vigilancia, guarniciones interiores, depósitos y campamentos temporales. [[12_Militar/Red histórica de bases antiguas|Desarrollo canónico]]
+- La red militar valinari no es una ocupación uniforme, sino una cadena de puntos de apoyo situados junto a rutas, puertos, estrechos, fuentes de agua, graneros, astilleros y pasos terrestres. Se organiza en arsenales navales, fortalezas portuarias, estaciones de convoy, torres de vigilancia, guarniciones interiores, depósitos y campamentos temporales. [[12_Militar/05_Industria tecnología y logística/Red histórica de bases antiguas|Desarrollo canónico]]
 
 ### Constitución monárquica pactista, 500 a. C.–500 d. C.
 
@@ -333,7 +333,7 @@ Los intervalos expresan procesos de formación cuando no existe un día o año e
 
 ### Defensa territorial en profundidad, 500 a. C.–500 d. C.
 
-- La defensa valinari se organiza en capas sucesivas. El objetivo no es hacer inexpugnable cada costa, sino impedir que una incursión naval se transforme en una conquista duradera. Cada capa combina vigilancia, fortificación, movilidad, reservas y coordinación entre la Corona, las Casas y las ciudades. [[12_Militar/Defensa territorial antigua|Desarrollo canónico]]
+- La defensa valinari se organiza en capas sucesivas. El objetivo no es hacer inexpugnable cada costa, sino impedir que una incursión naval se transforme en una conquista duradera. Cada capa combina vigilancia, fortificación, movilidad, reservas y coordinación entre la Corona, las Casas y las ciudades. [[12_Militar/02_Ejército/Defensa territorial antigua|Desarrollo canónico]]
 
 ### Economía valinari, 500 a. C.–500 d. C.
 
@@ -341,7 +341,7 @@ Los intervalos expresan procesos de formación cuando no existe un día o año e
 
 ### Evolución entre 500 a. C. y 500 d. C.
 
-- Entre 500 y 300 a. C., cada Casa aporta barcos, marineros, remeros, pilotos, astilleros y tropas. La Corona y el Consejo de las Casas coordinan las campañas mayores, pero todavía no existe una armada completamente centralizada. [[12_Militar/Armada antigua 500 aC-500 dC|Desarrollo canónico]]
+- Entre 500 y 300 a. C., cada Casa aporta barcos, marineros, remeros, pilotos, astilleros y tropas. La Corona y el Consejo de las Casas coordinan las campañas mayores, pero todavía no existe una armada completamente centralizada. [[12_Militar/03_Armada/Armada antigua 500 aC-500 dC|Desarrollo canónico]]
 
 ### Hacia 500 a. C.
 
@@ -423,7 +423,7 @@ Los intervalos expresan procesos de formación cuando no existe un día o año e
 
 ### Expansión regional, 300–50 a. C.
 
-- Durante la expansión hacia el Báltico, el mar del Norte y el Mediterráneo, Forostar continúa siendo la capital política y militar. La Corona no se traslada porque las nuevas bases todavía son estaciones subordinadas y no centros de gobierno. [[12_Militar/Red histórica de bases antiguas|Desarrollo canónico]]
+- Durante la expansión hacia el Báltico, el mar del Norte y el Mediterráneo, Forostar continúa siendo la capital política y militar. La Corona no se traslada porque las nuevas bases todavía son estaciones subordinadas y no centros de gobierno. [[12_Militar/05_Industria tecnología y logística/Red histórica de bases antiguas|Desarrollo canónico]]
 
 ### 291 a. C.
 
@@ -477,7 +477,7 @@ Los intervalos expresan procesos de formación cuando no existe un día o año e
 
 ### Consolidación atlántica, 50 a. C.–200 d. C.
 
-- Durante la consolidación atlántica, Forostar mantiene el rango de capital política y jurídica. Sin embargo, se produce una división funcional: **Forostar (Helsingborg):** capital política, sede de la Corona y del Consejo de las Casas, **Númenor:** capital oceánica y principal base naval occidental, **Systreyjar:** estación de enlace septentrional, **Nosselië Toliva:** escala atlántica oriental, **Tol Eressëa:** estación avanzada de exploración y comunicación, **Valinor:** territorio en proceso de incorporación, todavía sin ser la capital. [[12_Militar/Red histórica de bases antiguas|Desarrollo canónico]]
+- Durante la consolidación atlántica, Forostar mantiene el rango de capital política y jurídica. Sin embargo, se produce una división funcional: **Forostar (Helsingborg):** capital política, sede de la Corona y del Consejo de las Casas, **Númenor:** capital oceánica y principal base naval occidental, **Systreyjar:** estación de enlace septentrional, **Nosselië Toliva:** escala atlántica oriental, **Tol Eressëa:** estación avanzada de exploración y comunicación, **Valinor:** territorio en proceso de incorporación, todavía sin ser la capital. [[12_Militar/05_Industria tecnología y logística/Red histórica de bases antiguas|Desarrollo canónico]]
 
 ### Cooperación durante el periodo imperial, 27 a. C.–200 d. C.
 

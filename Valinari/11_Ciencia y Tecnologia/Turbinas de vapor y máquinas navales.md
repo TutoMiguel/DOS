@@ -28,7 +28,7 @@ La planta se diseña con caldera, turbina, condensador, reductora cuando corresp
 
 La triple expansión ofrece una solución madura y reparable para cruceros, corbetas, cañoneras y auxiliares seleccionados. Las turbinas pasan primero por ensayo y buques rápidos, después por buques capitales y finalmente por lotes de flota. Los cascos antiguos conservan sus plantas: la conversión exige rediseñar calderas, soportes, transmisión, ejes y espacios interiores, por lo que se privilegia la construcción nueva.
 
-Los rangos de potencia, calado, número de ejes y autonomía por clase constan en las fichas de 1875 y en [[12_Militar/Desarrollo naval 1882-1945|Desarrollo naval 1882–1945]]. Las cifras son intervalos de diseño, no inventarios ni prestaciones aseguradas en cualquier carga o mar.
+Los rangos de potencia, calado, número de ejes y autonomía por clase constan en las fichas de 1875 y en [[12_Militar/03_Armada/Desarrollo naval 1882-1945|Desarrollo naval 1882–1945]]. Las cifras son intervalos de diseño, no inventarios ni prestaciones aseguradas en cualquier carga o mar.
 
 ## Cadena de capacidad
 
@@ -40,6 +40,6 @@ La adopción exige metalurgia de calderas y ejes, mecanizado, fundición, herram
 - [[01_Cronologia/Cronología Territorial V16|Cronología maestra]]
 - [[11_Ciencia y Tecnologia/Motores y Propulsión|Motores y Propulsión]]
 - [[11_Ciencia y Tecnologia/Turbinas|Turbinas de gas y sistemas modernos]]
-- [[12_Militar/Armada 1875/Índice de la Armada de 1875|Armada de 1875]]
-- [[12_Militar/Desarrollo naval 1882-1945|Catálogo naval 1882–1945]]
+- [[12_Militar/03_Armada/Armada 1875/Índice de la Armada de 1875|Armada de 1875]]
+- [[12_Militar/03_Armada/Desarrollo naval 1882-1945|Catálogo naval 1882–1945]]
 - [[00_Canon/Integraciones V16/Actualización acumulativa 111v — Radar y sensores|Registro acumulativo 111v]]

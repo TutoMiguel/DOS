@@ -1,0 +1,53 @@
+---
+tipo: ficha militar
+canon: V16
+estado: propuesta técnica pendiente de validación
+actualizado: 2026-11-10
+---
+# CBT-16 Elendil V Turbina
+
+Propuesta técnica y narrativa desarrollada en este chat e incorporada a la carpeta militar para su seguimiento. No se considera un programa histórico demostrado ni sustituye las configuraciones diésel de Elendil V y VI. La fecha propuesta de introducción limitada no demuestra producción o despliegue.
+
+## Configuración propuesta
+
+| Característica | Propuesta |
+| --- | --- |
+| Inicio del programa | 2002 |
+| Demostrador móvil | 2008 |
+| Introducción limitada propuesta | 2016 |
+| Masa | 63–65 t |
+| Tripulación | 4 |
+| Armamento principal | 120 mm de la familia Elendil V |
+| Armamento secundario | Coaxial 7,62 mm y estación remota 12,7 mm |
+| Motor | Turbina de gas recuperada de unos 1200 kW, aproximadamente 1630 CV |
+| Eficiencia exigida | Objetivo del 42 % térmico neto al eje sobre PCI, en punto nominal y condiciones de referencia |
+| Transmisión | Mecánica automática adaptada |
+| APU | Generador diésel independiente de 25–30 kW eléctricos |
+| Apoyo eléctrico | Baterías para transición entre fuentes y vigilancia temporal |
+| Velocidad objetivo | Unos 70 km/h en carretera |
+| Blindaje | Base de Elendil V; distribución, masa instalada y modificaciones pendientes de evaluación |
+| Autonomía y producción | Pendientes; no se deducen del rendimiento nominal |
+
+## Uso de la turbina y de la APU
+
+La turbina proporciona potencia de tracción. El recuperador aprovecha calor del escape para precalentar el aire comprimido antes de la combustión. El 42 % es un requisito ambicioso para el punto nominal, no una eficiencia garantizada en cualquier carga ni una cifra de rendimiento hasta las cadenas. Las pérdidas de transmisión y el consumo auxiliar requieren su propio balance.
+
+La APU permite servicios estacionarios con la turbina principal apagada. Alimenta comunicaciones, sensores y otros equipos dentro de su potencia disponible; las baterías cubren transitorios y períodos limitados sin motores encendidos. La expresión APU para ralentí se interpreta como sustitución del ralentí de la turbina, no como funcionamiento continuo de ambos motores. La APU no aumenta el rendimiento térmico de la turbina y no mueve el carro sin añadir un sistema de tracción específico.
+
+## Factibilidad y cronología
+
+La combinación básica de turbina y APU es plausible antes que el objetivo del 42 %. Para Valinor se propone investigación en los años 2000, demostrador entre 2005 y 2010 e introducción limitada entre 2015 y 2020. Son ventanas inferidas para el canon. El 42 % compacto y militarizado requiere ensayos de integración, durabilidad y consumo; no se afirma que un carro real lo hubiera validado en 2016.
+
+El presupuesto del Ejército estadounidense de 1998 describe una APU para evitar mantener la turbina del Abrams funcionando durante paradas. En 2011 el Departamento de Energía respaldaba una microturbina estacionaria con objetivo del 42 % eléctrico neto. Este segundo referente demuestra un objetivo de investigación; no certifica una turbina de carro ni permite equiparar sin balance eficiencia eléctrica y eficiencia al eje.
+
+- [Ejército de Estados Unidos, presupuesto de 1998](https://www.asafm.army.mil/Portals/72/Documents/BudgetMaterial/1999/base%20budget/justification%20book/wtcv.pdf)
+- [Departamento de Energía, programa de microturbinas](https://www.energy.gov/cmei/success-stories/articles/eere-success-story-california-microturbine-protects-environment)
+
+## Conciliación con el catálogo
+
+No se añaden vehículos a los 1680 Elendil V diésel ni al total de las 27 familias. Antes de fijar producción deberá decidirse si los CBT-16 son cascos nuevos o conversiones. Una conversión mantiene el casco original y no incrementa el total construido. El Elendil VI de 2023 conserva su configuración diésel.
+
+
+[[12_Militar/02_Ejército/Blindados/Carros y exploradores/CB-06 Elendil V|Elendil V diésel]]
+
+[[12_Militar/02_Ejército/Blindados/Historia y criterios de los blindados|Criterios del catálogo]]

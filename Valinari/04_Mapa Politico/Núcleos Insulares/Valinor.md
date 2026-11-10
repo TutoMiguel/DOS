@@ -104,5 +104,5 @@ No fijada de forma explícita en esta ficha.
 - [[10_Archivo/Documentos de trabajo integrados/regla_primordial_nomenclatura_urbana_v12|regla_primordial_nomenclatura_urbana_v12]]
 - [[11_Ciencia y Tecnologia/Inteligencia Artificial|Inteligencia Artificial]]
 - [[11_Ciencia y Tecnologia/OceanNet|OceanNet]]
-- [[12_Militar/Ejército|Ejército]]
+- [[12_Militar/02_Ejército/Ejército|Ejército]]
 - [[Inicio Valinari|Inicio Valinari]]

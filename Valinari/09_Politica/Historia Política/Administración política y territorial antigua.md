@@ -629,5 +629,5 @@ La organización de 5 d. C. es, por tanto, una red septentrional y atlántica or
 
 - [[00_Canon/Canon V16 Maestro|Canon V16 Maestro]]
 - [[01_Cronologia/Cronología Territorial V16|Cronología maestra]]
-- [[12_Militar/Fortalezas y Bases]]
+- [[12_Militar/05_Industria tecnología y logística/Fortalezas y Bases]]
 - [[04_Mapa Politico/Capitales/Evolución de las capitales hasta 1200]]

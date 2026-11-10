@@ -13124,7 +13124,7 @@ La regla de ciclo es una modernización integral de media vida por casco, ademá
 
 En la historia real, HMS Exmouth probó propulsión íntegra de turbinas de gas en 1967 y USS Spruance, primer destructor de turbina de gas de la Marina estadounidense, entró en servicio en 1975. La cronología valinari adelanta la decisión de serie mediante inversión industrial y técnica; no supone que desaparezcan el consumo elevado a máxima potencia, la corrosión salina o la necesidad de módulos de repuesto.
 
-Ficha de Obsidian: [[12_Militar/Destructores Gil-galad — evolución de la familia|12_Militar/Destructores Gil-galad — evolución de la familia]].md
+Ficha de Obsidian: [[12_Militar/03_Armada/Destructores Gil-galad — evolución de la familia|12_Militar/Destructores Gil-galad — evolución de la familia]].md
 
 ## Complementos recuperados del Canon Markdown
 
@@ -13146,7 +13146,7 @@ Los Maiar son intermediarios de la tradición religiosa: profetisas, guardianas 
 
 Estado del material recuperado: VIGENTE. Fuente: Canon Markdown anterior a V16.4. Precedencia A092.
 
-En 2026 el inventario canónico de referencia comprende 615 plataformas navales: 595 buques tripulados y 20 vehículos navales no tripulados. Se distribuye en 11 portaaviones, 54 submarinos, 190 escoltas y combatientes de superficie, 34 anfibios, 220 plataformas de patrulla/vigilancia/servicio y 106 auxiliares. La estimación de 449 unidades disponibles en un ciclo ordinario es una hipótesis de planificación, no una tasa observada. El desglose funcional y técnico se encuentra en [[12_Militar/AM1 Armada 1875-2026|AM1 Armada 1875–2026]].
+En 2026 el inventario canónico de referencia comprende 615 plataformas navales: 595 buques tripulados y 20 vehículos navales no tripulados. Se distribuye en 11 portaaviones, 54 submarinos, 190 escoltas y combatientes de superficie, 34 anfibios, 220 plataformas de patrulla/vigilancia/servicio y 106 auxiliares. La estimación de 449 unidades disponibles en un ciclo ordinario es una hipótesis de planificación, no una tasa observada. El desglose funcional y técnico se encuentra en [[12_Militar/03_Armada/AM1 Armada 1875-2026|AM1 Armada 1875–2026]].
 
 ### Precedencia canónica
 
@@ -13676,7 +13676,7 @@ La industria naval evoluciona desde los arsenales de vapor y siderurgia de 1750�
 
 La planificación presupuestaria adopta como regla comparativa la misma proporción del PIB estadounidense dedicada al Department of the Navy, contando Navy y Marine Corps de forma homogénea. Para 2026 la referencia de AM1 es aproximadamente 0,9 % del PIB, equivalente a unos 589,5 mil millones PPA sobre el PIB federal canónico de 65,50 billones PPA. Es una equivalencia de planificación: PPA no es presupuesto nominal y la serie histórica, especialmente 1980, requiere armonizar apropiaciones, gasto ejecutado y perímetro institucional antes de fijar montos canónicos comparables.
 
-La infantería de Marina mantiene una fuerza expedicionaria para evacuación, respuesta rápida, defensa de puertos y apoyo a territorios; el rango de 150.000–190.000 activos y 80.000–120.000 reservistas se trata como objetivo de planificación, no como censo de personal verificado. Las fichas de clase y los perfiles técnicos completos se encuentran en [[12_Militar/AM1 Armada 1875-2026|AM1 Armada 1875–2026]], [[12_Militar/Clases navales 1980|Clases navales de referencia 1980]] y [[12_Militar/Clases navales 2026|Clases navales de referencia 2026]].
+La infantería de Marina mantiene una fuerza expedicionaria para evacuación, respuesta rápida, defensa de puertos y apoyo a territorios; el rango de 150.000–190.000 activos y 80.000–120.000 reservistas se trata como objetivo de planificación, no como censo de personal verificado. Las fichas de clase y los perfiles técnicos completos se encuentran en [[12_Militar/03_Armada/AM1 Armada 1875-2026|AM1 Armada 1875–2026]], [[12_Militar/03_Armada/Clases navales 1980|Clases navales de referencia 1980]] y [[12_Militar/03_Armada/Clases navales 2026|Clases navales de referencia 2026]].
 
 ### 24. Integración total de actualizaciones acumulativas
 
@@ -14642,7 +14642,7 @@ Se incorpora como reconstrucción AM1 una fuerza naval de referencia de 1973 de 
 
 Se fija la trayectoria de turbinas de gas: ensayos valinari en 1952–1958; primeras series en lanchas y escoltas ligeros en 1958–1965; adopción masiva en destructores, fragatas, corbetas y buques rápidos en 1965–1970; perfeccionamiento de plantas combinadas, protección salina, control automático y mantenimiento modular en 1970–1979. En 1973 predomina gas en destructores modernos, buena parte de fragatas/escoltas y la mayoría de corbetas y lanchas rápidas. Portaaviones convencionales conservan vapor; los nucleares producen vapor desde reactores; submarinos nucleares usan ciclo de vapor; patrulleros de permanencia, anfibios y auxiliares favorecen diésel por autonomía y consumo.
 
-Las fechas de botadura, entrada en servicio y retiro por generación, así como velocidades, dotaciones, armas, sensores y variantes, constan en [[12_Militar/AM1 Armada 1973 — reconstrucción y turbinas|12_Militar/AM1 Armada 1973 — reconstrucción y turbinas]]. Los nombres Nénar y Míriel para misiles de la propuesta de 1973 quedan identificados como denominaciones de trabajo de esta reconstrucción.
+Las fechas de botadura, entrada en servicio y retiro por generación, así como velocidades, dotaciones, armas, sensores y variantes, constan en [[12_Militar/03_Armada/AM1 Armada 1973 — reconstrucción y turbinas|12_Militar/AM1 Armada 1973 — reconstrucción y turbinas]]. Los nombres Nénar y Míriel para misiles de la propuesta de 1973 quedan identificados como denominaciones de trabajo de esta reconstrucción.
 
 ### Familia de destructores Gil-galad — secuencia generacional
 
@@ -14652,9 +14652,9 @@ Se fija una convención única para la familia: Gil-galad I designa la generaci�
 
 La reconstrucción de 1973 contabiliza 12 Gil-galad II de posguerra. La generación III comienza a entrar en servicio desde 1978. La cifra AM1 de 1980 para la familia es agregada durante el reemplazo II–III; no autoriza a sumar dos veces los cascos ni a asignar doce buques a cada generación. Para 2026 se registran 24 destructores de generaciones IV y V; la VI no se cuenta como operativa antes de su fecha prevista de entrada en servicio.
 
-La ficha técnica con misiones, prestaciones, armamento, sensores, propulsión y ciclos de casco se encuentra en [[12_Militar/Destructores Gil-galad — evolución de la familia|12_Militar/Destructores Gil-galad — evolución de la familia]]. Esta secuencia prevalece sobre numeraciones anteriores que asignaban el mismo ordinal a generaciones distintas.
+La ficha técnica con misiones, prestaciones, armamento, sensores, propulsión y ciclos de casco se encuentra en [[12_Militar/03_Armada/Destructores Gil-galad — evolución de la familia|12_Militar/Destructores Gil-galad — evolución de la familia]]. Esta secuencia prevalece sobre numeraciones anteriores que asignaban el mismo ordinal a generaciones distintas.
 
-La secuencia generacional Gil-galad se normaliza en la ficha [[12_Militar/Destructores Gil-galad — evolución de la familia|12_Militar/Destructores Gil-galad — evolución de la familia]]; sus fechas de familia no equivalen a la vida de un casco individual.
+La secuencia generacional Gil-galad se normaliza en la ficha [[12_Militar/03_Armada/Destructores Gil-galad — evolución de la familia|12_Militar/Destructores Gil-galad — evolución de la familia]]; sus fechas de familia no equivalen a la vida de un casco individual.
 
 ## Anexos cuantitativos A092
 

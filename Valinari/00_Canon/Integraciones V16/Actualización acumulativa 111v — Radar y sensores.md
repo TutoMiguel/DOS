@@ -503,8 +503,8 @@ Solo quedan decisiones de configuración: variantes por casco/lote, cantidades d
 
 - [[00_Canon/Canon V16 Maestro#Defensa y fuerzas armadas|Canon V16 Maestro — Defensa y fuerzas armadas]]
 - [[01_Cronologia/Cronología Territorial V16|Cronología maestra]]
-- [[12_Militar/Armada|Armada]]
-- [[12_Militar/Serie Círdan y transición a Voronwë|Serie Círdan y transición a Voronwë]]
+- [[12_Militar/03_Armada/Armada|Armada]]
+- [[12_Militar/03_Armada/Serie Círdan y transición a Voronwë|Serie Círdan y transición a Voronwë]]
 - U.S. Naval History and Heritage Command: https://www.history.navy.mil/content/history/nhhc/browse-by-topic/exploration-and-innovation/radar-sonar.html
 - UK Defence and Security Exports: https://www.gov.uk/government/case-studies/ukdi-asw-spearhead-enhances-merlin-and-sonar-capabilities-through-rapid-innovation
 - BAE Systems Australia, Hunter Class: https://www.baesystems.com/en-aus/product/hunter-class-frigates

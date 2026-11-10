@@ -62,4 +62,4 @@ No fijada de forma explícita en esta ficha.
 - [[11_Ciencia y Tecnologia/Evolución Tecnológica 1850-2026|Evolución Tecnológica 1850-2026]]
 - [[11_Ciencia y Tecnologia/Índice de Ciencia y Tecnología|Índice de Ciencia y Tecnología]]
 - [[11_Ciencia y Tecnologia/OceanNet|OceanNet]]
-- [[12_Militar/Evolución Naval 1850-2026|Evolución Naval 1850-2026]]
+- [[12_Militar/03_Armada/Evolución Naval 1850-2026|Evolución Naval 1850-2026]]

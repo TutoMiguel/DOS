@@ -58,4 +58,4 @@ No fijada de forma explícita en esta ficha.
 - [[10_Archivo/Documentos de trabajo integrados/Canon-Maestro-Unificado-Edicion-14|Canon-Maestro-Unificado-Edicion-14]]
 - [[10_Archivo/Documentos de trabajo integrados/enmienda_canon_enclaves_medio_oriente_v12|enmienda_canon_enclaves_medio_oriente_v12]]
 - [[10_Archivo/Documentos de trabajo integrados/prompts_visuales_actualizados|prompts_visuales_actualizados]]
-- [[12_Militar/Evolución Naval 1850-2026|Evolución Naval 1850-2026]]
+- [[12_Militar/03_Armada/Evolución Naval 1850-2026|Evolución Naval 1850-2026]]

@@ -113,9 +113,9 @@ Se dejan abiertas solo decisiones de configuración que requieren canon de plata
 - [[00_Canon/Integraciones V16/Actualización acumulativa 111v — Radar y sensores|Actualización acumulativa 111v]]
 - [[01_Cronologia/Cronología Territorial V16|Cronología maestra]]
 - [[11_Ciencia y Tecnologia/OceanNet|OceanNet]]
-- [[12_Militar/Armada|Armada]]
-- [[12_Militar/Serie Círdan y transición a Voronwë|Serie Círdan y transición a Voronwë]]
-- [[12_Militar/Tecnología Militar|Tecnología Militar]]
+- [[12_Militar/03_Armada/Armada|Armada]]
+- [[12_Militar/03_Armada/Serie Círdan y transición a Voronwë|Serie Círdan y transición a Voronwë]]
+- [[12_Militar/05_Industria tecnología y logística/Tecnología Militar|Tecnología Militar]]
 
 ## Fuentes técnicas reales consultadas
 

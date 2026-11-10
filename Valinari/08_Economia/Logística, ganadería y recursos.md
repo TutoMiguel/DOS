@@ -45,5 +45,5 @@ Se mantiene la corrección territorial: **Númenor corresponde a Terranova y Tol
 
 - [[00_Canon/Canon V16 Maestro|Canon V16 Maestro]]
 - [[01_Cronologia/Cronología Territorial V16|Cronología maestra]]
-- [[12_Militar/Cultura naval y continuidad de rutas]]
+- [[12_Militar/03_Armada/Cultura naval y continuidad de rutas]]
 - [[11_Ciencia y Tecnologia/Metalurgia y siderurgia]]

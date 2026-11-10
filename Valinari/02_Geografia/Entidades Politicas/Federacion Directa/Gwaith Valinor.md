@@ -61,5 +61,5 @@ Harnen es protectorado de Beleg. Sus 8 millones y 0,52 billones se incluyen una 
 - [[10_Archivo/Documentos de trabajo integrados/Integracion septentrional Islandia Groenlandia V16|Integracion septentrional Islandia Groenlandia V16]]
 - [[10_Archivo/Documentos de trabajo integrados/Matriz de conciliacion y plan de integracion del Canon Maestro|Matriz de conciliacion y plan de integracion del Canon Maestro]]
 - [[11_Ciencia y Tecnologia/Inteligencia Artificial|Inteligencia Artificial]]
-- [[12_Militar/Ejército|Ejército]]
+- [[12_Militar/02_Ejército/Ejército|Ejército]]
 - [[Inicio Valinari|Inicio Valinari]]

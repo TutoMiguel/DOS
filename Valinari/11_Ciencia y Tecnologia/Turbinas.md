@@ -150,8 +150,8 @@ Cada aeronave debe especificar familia de motor, cantidad, empuje o potencia de 
 - [[11_Ciencia y Tecnologia/Energía|Energía]]
 - [[11_Ciencia y Tecnologia/Construcción Naval|Construcción Naval]]
 - [[11_Ciencia y Tecnologia/Aeronáutica|Aeronáutica]]
-- [[12_Militar/Armada|Armada]]
-- [[12_Militar/Serie Círdan y transición a Voronwë|Serie Círdan y transición a Voronwë]]
+- [[12_Militar/03_Armada/Armada|Armada]]
+- [[12_Militar/03_Armada/Serie Círdan y transición a Voronwë|Serie Círdan y transición a Voronwë]]
 - [[11_Ciencia y Tecnologia/Radar y Sensores|Radar y Sensores]]
 
 ## Fuentes técnicas reales

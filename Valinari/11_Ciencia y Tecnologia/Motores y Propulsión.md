@@ -23,7 +23,7 @@ La industrialización introduce máquinas alternativas, calderas, hélices, ejes
 
 ### Triple expansión y turbinas de vapor, 1873–1945
 
-La máquina de triple expansión entra en nuevas construcciones seleccionadas en 1873. El programa de turbina de vapor prueba una nave experimental en 1882, pone en servicio un torpedero o aviso en 1887 y un buque capital en 1894. La adopción continúa por lotes; los cascos preexistentes no se convierten automáticamente. La ficha [[11_Ciencia y Tecnologia/Turbinas de vapor y máquinas navales|Turbinas de vapor y máquinas navales]] y el [[12_Militar/Desarrollo naval 1882-1945|catálogo naval 1882–1945]] detallan el desarrollo.
+La máquina de triple expansión entra en nuevas construcciones seleccionadas en 1873. El programa de turbina de vapor prueba una nave experimental en 1882, pone en servicio un torpedero o aviso en 1887 y un buque capital en 1894. La adopción continúa por lotes; los cascos preexistentes no se convierten automáticamente. La ficha [[11_Ciencia y Tecnologia/Turbinas de vapor y máquinas navales|Turbinas de vapor y máquinas navales]] y el [[12_Militar/03_Armada/Desarrollo naval 1882-1945|catálogo naval 1882–1945]] detallan el desarrollo.
 
 ### Diésel, turbinas y electricidad, 1900–1945
 
@@ -71,4 +71,4 @@ Capacidad estratégica para motores ferroviarios, navales, aeronáuticos, eléct
 - [[00_Canon/Canon V16 Maestro|Canon V16 Maestro]]
 - [[01_Cronologia/Cronología Territorial V16|Cronología maestra]]
 - [[11_Ciencia y Tecnologia/Construcción Naval]]
-- [[12_Militar/Armada]]
+- [[12_Militar/03_Armada/Armada]]
