@@ -1,0 +1,21 @@
+{
+  "fecha": "2026-11-10",
+  "ampliacion": "A094",
+  "bloques_anteriores": 773,
+  "bloques_actuales": 851,
+  "bloques_previos_modificados": [
+    0,
+    1
+  ],
+  "motivo_modificacion": "título y rótulo de revisión",
+  "tablas": 85,
+  "diferencias_word_markdown": 0,
+  "fabricantes_propuestos": 6,
+  "escenario_millones_vehiculos": 12,
+  "banda_escenario": [
+    10,
+    14
+  ],
+  "escenario_no_observado": true,
+  "maestro_y_cronologia_no_modificados": true
+}
