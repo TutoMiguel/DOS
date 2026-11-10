@@ -1,0 +1,32 @@
+{
+  "fecha": "2026-11-10",
+  "paginas": 70,
+  "publicaciones": [
+    {
+      "destino": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\10_Archivo\\Documentos editoriales\\Oficial\\Acumulativa A092 V16.4.docx",
+      "anterior_sha256": "8f8b8af608e75c0150196b3f27d31dd73e9df25defbcc62b6f7106b62defad48",
+      "actual_sha256": "3119db717c334eaa6b782736d7c4f708eb0a537b3195c5ec121d3d187b7f47a7"
+    },
+    {
+      "destino": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\00_Canon\\Integraciones V16\\Acumulativa A092 V16.4.md",
+      "anterior_sha256": "036f91159f247f166c024584bc102ade47f9fd59620f60ef5bd1f4b7858466ea",
+      "actual_sha256": "869810461d79bf48bbf4a78f3f12b2d8acc95201ef8e2d9887929f31b68cfd2e"
+    },
+    {
+      "destino": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\00_Canon\\Integraciones V16\\Acumulativa A095 Fuerza Aérea.md",
+      "anterior_sha256": null,
+      "actual_sha256": "b11062aac795e2d129636d1a2e2f91adbae4eebc579d532dd10a6071058970eb"
+    },
+    {
+      "destino": "C:\\Users\\migue\\OneDrive\\DOS\\Historia de un imperio ficticio\\01_Exportaciones vigentes\\Procedencia de las exportaciones.json",
+      "anterior_sha256": "21a80a417173510b3ed59ea23096b7866aa8edab4c99cb5d540bcbbd2ac018ee",
+      "actual_sha256": "22db0a5c8ddd5310fe2eca05d5a5787d455c15e5a1c32bfd9625af977003684a"
+    }
+  ],
+  "maestro_y_cronologia_conservados": {
+    "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\10_Archivo\\Documentos editoriales\\Oficial\\Canon V16 Maestro.docx": "594faeb88bbb4d722922438f4bb6058a73f8a93288d37597222d65174de3b4fe",
+    "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\00_Canon\\Canon V16 Maestro.md": "b7965685c35379a11a1be3ed490333a1b589a43ad8c886f4fd1afc9c26c81c3f",
+    "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\01_Cronologia\\Cronología Territorial V16.md": "55a4e4d1b8c9654e855c01fd0f4579c09c15f0e62254918aa6102b97fbcea02e"
+  },
+  "sincronizacion_remota_verificada": false
+}

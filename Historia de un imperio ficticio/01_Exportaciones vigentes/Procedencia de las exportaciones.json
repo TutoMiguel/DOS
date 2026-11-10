@@ -6,7 +6,7 @@
   "pdf_sha256": "10601b32373b58953b9a2cc29e0fba3df2de87e1fb1c6b377a3dda8e10e7567c",
   "chronology_sha256": "55a4e4d1b8c9654e855c01fd0f4579c09c15f0e62254918aa6102b97fbcea02e",
   "pdf_pages": 383,
-  "cumulative_pages": 64,
+  "cumulative_pages": 70,
   "word_original": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\10_Archivo\\Documentos editoriales\\Oficial\\Canon V16 Maestro.docx",
   "word_export": "C:\\Users\\migue\\OneDrive\\DOS\\Historia de un imperio ficticio\\Canon V16 Maestro - Exportacion.docx",
   "pdf_export": "C:\\Users\\migue\\OneDrive\\DOS\\Historia de un imperio ficticio\\Canon V16 Maestro.pdf",
@@ -19,10 +19,10 @@
   "cumulative_blocks": 773,
   "precedencia": "A093 y A092 en materias expresas; V16.3 en lo no sustituido",
   "sincronizacion_remota_verificada": false,
-  "cumulative_revision": "V16.5 ampliada con A094",
-  "cumulative_word_sha256": "8f8b8af608e75c0150196b3f27d31dd73e9df25defbcc62b6f7106b62defad48",
-  "cumulative_markdown_sha256": "036f91159f247f166c024584bc102ade47f9fd59620f60ef5bd1f4b7858466ea",
-  "cumulative_report": "C:\\Users\\migue\\Documents\\Codex\\2026-11-09\\referenced-chatgpt-conversation-this-is-an\\outputs\\A094_Automotriz\\Informe A094.md",
+  "cumulative_revision": "V16.5 ampliada con A095",
+  "cumulative_word_sha256": "3119db717c334eaa6b782736d7c4f708eb0a537b3195c5ec121d3d187b7f47a7",
+  "cumulative_markdown_sha256": "869810461d79bf48bbf4a78f3f12b2d8acc95201ef8e2d9887929f31b68cfd2e",
+  "cumulative_report": "C:\\Users\\migue\\Documents\\Codex\\2026-11-09\\referenced-chatgpt-conversation-this-is-an\\outputs\\A095_Fuerza_Aerea\\Informe A095.md",
   "cumulative_updated": "2026-11-10",
-  "cumulative_master_integration": "pendiente para A094; Maestro V16.5 conserva A092 A093"
+  "cumulative_master_integration": "A094 y A095 pendientes; Maestro V16.5 conserva A092 A093"
 }

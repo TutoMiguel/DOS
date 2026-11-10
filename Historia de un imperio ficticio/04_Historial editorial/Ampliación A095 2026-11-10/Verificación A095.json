@@ -1,0 +1,19 @@
+{
+  "fecha": "2026-11-10",
+  "ampliacion": "A095",
+  "bloques_anteriores": 851,
+  "bloques_actuales": 923,
+  "bloques_anteriores_modificados": [
+    1
+  ],
+  "motivo": "rótulo de revisión",
+  "tablas": 95,
+  "diferencias_word_markdown": 0,
+  "programas_aeronaves_propuestos": 12,
+  "hitos_institucionales_propuestos": [
+    1912,
+    1926,
+    1958
+  ],
+  "inventario_aereo_fijado": false
+}
