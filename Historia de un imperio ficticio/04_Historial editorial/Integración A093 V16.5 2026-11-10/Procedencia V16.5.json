@@ -1,0 +1,22 @@
+{
+  "revision": "V16.5 A092 A093",
+  "updated": "2026-11-10",
+  "source_sha256": "b7965685c35379a11a1be3ed490333a1b589a43ad8c886f4fd1afc9c26c81c3f",
+  "word_sha256": "594faeb88bbb4d722922438f4bb6058a73f8a93288d37597222d65174de3b4fe",
+  "pdf_sha256": "10601b32373b58953b9a2cc29e0fba3df2de87e1fb1c6b377a3dda8e10e7567c",
+  "chronology_sha256": "55a4e4d1b8c9654e855c01fd0f4579c09c15f0e62254918aa6102b97fbcea02e",
+  "pdf_pages": 383,
+  "cumulative_pages": 59,
+  "word_original": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\10_Archivo\\Documentos editoriales\\Oficial\\Canon V16 Maestro.docx",
+  "word_export": "C:\\Users\\migue\\OneDrive\\DOS\\Historia de un imperio ficticio\\Canon V16 Maestro - Exportacion.docx",
+  "pdf_export": "C:\\Users\\migue\\OneDrive\\DOS\\Historia de un imperio ficticio\\Canon V16 Maestro.pdf",
+  "verified_render": "C:\\Users\\migue\\Documents\\Codex\\2026-11-09\\referenced-chatgpt-conversation-this-is-an\\outputs\\V16.5\\Canon V16 Maestro V16.5.pdf",
+  "qa_report": "C:\\Users\\migue\\Documents\\Codex\\2026-11-09\\referenced-chatgpt-conversation-this-is-an\\outputs\\V16.5\\Informe de integración V16.5.md",
+  "originales_respaldo": "C:\\Users\\migue\\Documents\\Codex\\2026-11-09\\referenced-chatgpt-conversation-this-is-an\\outputs\\V16.5\\Originales antes de V16.5.zip",
+  "content_blocks": 7163,
+  "native_tables": 178,
+  "content_mismatches": 0,
+  "cumulative_blocks": 773,
+  "precedencia": "A093 y A092 en materias expresas; V16.3 en lo no sustituido",
+  "sincronizacion_remota_verificada": false
+}

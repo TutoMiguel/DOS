@@ -1,0 +1,14 @@
+{
+  "revision": "V16.5",
+  "equivalencia_maestro": "7163 bloques sin diferencias",
+  "equivalencia_acumulativa": "773 bloques sin diferencias",
+  "fichas_incorporadas": 28,
+  "base_A092_conservada_sin_duplicar": true,
+  "propiedades_obsidian_preservadas": true,
+  "escenario_80_40_96_subtotal": 216,
+  "inventario_vigente": 615,
+  "disponibilidad_simulada": 449,
+  "nuevos_enlaces_rotos": [],
+  "referencias_anteriores_sin_resolver": [],
+  "cronologia_actualizada": true
+}

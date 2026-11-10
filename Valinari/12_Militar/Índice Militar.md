@@ -36,3 +36,11 @@ La carpeta se ordena por área y conserva los inventarios, reconstrucciones y pr
 [[01_Cronologia/Cronología Territorial V16|Cronología territorial]]
 
 Las resoluciones posteriores expresas de A092 prevalecen en sus materias. V16.3 continúa en lo no sustituido. Las reconstrucciones navales, la disponibilidad simulada de 449 y el programa CBT-16 no se convierten en mediciones por estar ordenados aquí. Círdan, Voronwë y Falathar tienen usos terrestres y navales distintos; deben identificarse por su ficha completa.
+
+## Integración militar A093
+
+- [[00_Canon/Integraciones V16/Acumulativa A093 V16.5|Resoluciones integradas en V16.5]]
+- [[12_Militar/03_Armada/Corbetas fragatas y persistencia naval]]
+- [[12_Militar/03_Armada/Escenario de composición naval A093]]
+- [[12_Militar/03_Armada/Lanchas misilísticas y territorios candidatos]]
+- [[12_Militar/03_Armada/Redes navales y transición a drones]]

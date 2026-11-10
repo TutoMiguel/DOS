@@ -28,3 +28,11 @@ actualizado: 2026-11-10
 - [[12_Militar/03_Armada/Armada 1875/Índice de la Armada de 1875|Armada de 1875]]
 
 [[12_Militar/Índice Militar|Volver al índice militar]]
+
+## Desarrollo naval A093
+
+- [[00_Canon/Integraciones V16/Acumulativa A093 V16.5|Resoluciones integradas en V16.5]]
+- [[12_Militar/03_Armada/Corbetas fragatas y persistencia naval]]
+- [[12_Militar/03_Armada/Escenario de composición naval A093]]
+- [[12_Militar/03_Armada/Lanchas misilísticas y territorios candidatos]]
+- [[12_Militar/03_Armada/Redes navales y transición a drones]]

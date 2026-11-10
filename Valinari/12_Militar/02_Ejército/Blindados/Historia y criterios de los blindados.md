@@ -86,7 +86,7 @@ No se adjudican costes unitarios, presupuestos ejecutados ni capacidad anual de 
 
 Las fichas proceden de la ampliación A092 R07 y R08 incorporada por instrucción del autor. Las cantidades son producción histórica estimada por familia, no existencias activas. La acumulativa conserva la instantánea editorial; esta carpeta ofrece la consulta temática enlazada. La revisión presente añade como propuesta separada el CBT-16 de turbina y no lo suma a las 27 familias ni a sus cantidades.
 
-El cuerpo del Canon Maestro no se reescribe en esta ordenación. Las fechas terrestres se consultan en las fichas de esta colección; la cronología territorial conserva su alcance.
+La revisión V16.5 integra esta colección y su desarrollo en el cuerpo del Canon Maestro y en la acumulativa A092 y A093. La cronología maestra recibe los hitos terrestres y navales, distinguiendo las fechas narrativas de los programas propuestos.
 
 
 [[00_Canon/Integraciones V16/Acumulativa A092 V16.4|Acumulativa A092]]

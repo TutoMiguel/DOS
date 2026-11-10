@@ -1,0 +1,30 @@
+{
+  "revision": "V16.5 A092 A093",
+  "bloques_maestro_anteriores": 6564,
+  "bloques_maestro_nuevos": 7163,
+  "bloques_acumulativa": 773,
+  "cambios_en_bloques_previos": [
+    {
+      "bloque": 2,
+      "antes": "Integración editorial: 2026-11-09",
+      "despues": "Integración editorial: 2026-11-10"
+    },
+    {
+      "bloque": 3,
+      "antes": "Revisión editorial: V16.4 con acumulativa A092",
+      "despues": "Revisión editorial: V16.5 con acumulativas A092 y A093"
+    },
+    {
+      "bloque": 4,
+      "antes": "Canon temático consolidado con las decisiones A092 del autor, la conciliación territorial y la recuperación de contenidos de Word y Obsidian. Se conservan los antecedentes y las hipótesis con su estado; A092 prevalece en las disposiciones que sustituye.",
+      "despues": "Canon consolidado con A092 y A093, conciliación territorial, catálogo terrestre y desarrollo naval en red. Se conservan originales, antecedentes y escenarios con su estado. Las resoluciones posteriores prevalecen únicamente en las materias que sustituyen."
+    }
+  ],
+  "base_A092_no_duplicada": 174,
+  "fichas": 28,
+  "tablas_tecnicas_conservadas": 28,
+  "notas_obsidian_nuevas": 5,
+  "notas_obsidian_actualizadas": 5,
+  "cuentas_economicas_modificadas": false,
+  "inventario_615_modificado": false
+}

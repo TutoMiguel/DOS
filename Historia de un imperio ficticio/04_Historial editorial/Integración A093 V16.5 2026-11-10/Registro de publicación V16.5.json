@@ -1,0 +1,103 @@
+{
+  "fecha": "2026-11-10",
+  "publicaciones": [
+    {
+      "destino": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\10_Archivo\\Documentos editoriales\\Oficial\\Canon V16 Maestro.docx",
+      "anterior_sha256": "64d9c29e2b10cc3414736d0a43200fb0e94de5270d4692ec5082a6b0333c56b5",
+      "actual_sha256": "594faeb88bbb4d722922438f4bb6058a73f8a93288d37597222d65174de3b4fe"
+    },
+    {
+      "destino": "C:\\Users\\migue\\OneDrive\\DOS\\Historia de un imperio ficticio\\Canon V16 Maestro.docx",
+      "anterior_sha256": "64d9c29e2b10cc3414736d0a43200fb0e94de5270d4692ec5082a6b0333c56b5",
+      "actual_sha256": "594faeb88bbb4d722922438f4bb6058a73f8a93288d37597222d65174de3b4fe"
+    },
+    {
+      "destino": "C:\\Users\\migue\\OneDrive\\DOS\\Historia de un imperio ficticio\\Canon V16 Maestro - Exportacion.docx",
+      "anterior_sha256": "64d9c29e2b10cc3414736d0a43200fb0e94de5270d4692ec5082a6b0333c56b5",
+      "actual_sha256": "594faeb88bbb4d722922438f4bb6058a73f8a93288d37597222d65174de3b4fe"
+    },
+    {
+      "destino": "C:\\Users\\migue\\OneDrive\\DOS\\Historia de un imperio ficticio\\Canon V16 Maestro.pdf",
+      "anterior_sha256": "67f1daf8b1eea685fdfd01f5a1ac2d21b8745c23b8c1aa92a078cc6f3b22e081",
+      "actual_sha256": "10601b32373b58953b9a2cc29e0fba3df2de87e1fb1c6b377a3dda8e10e7567c"
+    },
+    {
+      "destino": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\00_Canon\\Canon V16 Maestro.md",
+      "anterior_sha256": "dceacaa5dbff74ebb9bc7990eabb0f685ace9f7127808f50d4132060464d3880",
+      "actual_sha256": "b7965685c35379a11a1be3ed490333a1b589a43ad8c886f4fd1afc9c26c81c3f"
+    },
+    {
+      "destino": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\10_Archivo\\Documentos editoriales\\Oficial\\Acumulativa A092 V16.4.docx",
+      "anterior_sha256": "d82d9525c1aac634bb5193e70f66da6be401653692d4e17260b11ad37b2771c9",
+      "actual_sha256": "2c51735ebc232cec1efe1282d933e3013b438deec5e27ee35b994753018148c8"
+    },
+    {
+      "destino": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\00_Canon\\Integraciones V16\\Acumulativa A092 V16.4.md",
+      "anterior_sha256": "81beade4682796c76a76c62b784aaec268e57cbc217eb5dfde5bbd5e7e865860",
+      "actual_sha256": "d0b06a4367bdb110cb1dde1211af65f86fa7a4fb53ab69a5237e479155cb1ed1"
+    },
+    {
+      "destino": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\01_Cronologia\\Cronología Territorial V16.md",
+      "anterior_sha256": "f0f09b39dcc6daed43e5cc9aea63100d34dcbba1f0297286bc43f1c706077d99",
+      "actual_sha256": "55a4e4d1b8c9654e855c01fd0f4579c09c15f0e62254918aa6102b97fbcea02e"
+    },
+    {
+      "destino": "C:\\Users\\migue\\OneDrive\\DOS\\Historia de un imperio ficticio\\01_Exportaciones vigentes\\Procedencia de las exportaciones.json",
+      "anterior_sha256": "ad52bdef93855d8d12767c916e9d0547ee274ce94a24981512a959abc2b69e65",
+      "actual_sha256": "d3bd9baee9d6fe0dca0da4ce9d381951ee6a64cf3098ec48ae1133a5b6881529"
+    },
+    {
+      "destino": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\12_Militar\\02_Ejército\\Blindados\\Historia y criterios de los blindados.md",
+      "anterior_sha256": "882993599cca4c4d819e2d45e3578aaae19a38e4b4252b7d68f973a38e5560d9",
+      "actual_sha256": "ff6ba4cd6c9b8657ca3a4860d381f412735b024fbdab16342ac25a2c160583a3"
+    },
+    {
+      "destino": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\12_Militar\\03_Armada\\Corbetas fragatas y persistencia naval.md",
+      "anterior_sha256": null,
+      "actual_sha256": "e6098f0da1253c5d37ce678f8ff1acd151da458827376e330f24591f64097cfe"
+    },
+    {
+      "destino": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\12_Militar\\03_Armada\\Escenario de composición naval A093.md",
+      "anterior_sha256": null,
+      "actual_sha256": "1dd50318e678e5b1cc05964bf760662bf665a3c536733fb9dbee11fc7dbc0f22"
+    },
+    {
+      "destino": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\12_Militar\\03_Armada\\Lanchas misilísticas y territorios candidatos.md",
+      "anterior_sha256": null,
+      "actual_sha256": "63a2e479c6f1b598b112d11f312e465d80a6e25c3f7b310e9dca3fb492eedbd7"
+    },
+    {
+      "destino": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\12_Militar\\03_Armada\\Redes navales y transición a drones.md",
+      "anterior_sha256": null,
+      "actual_sha256": "011b6ab9d6a6060318681bc391272af7aaf7305d68aaf662e0b25944025e032f"
+    },
+    {
+      "destino": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\00_Canon\\Integraciones V16\\Acumulativa A093 V16.5.md",
+      "anterior_sha256": null,
+      "actual_sha256": "c8182e3eeebdbcd5dfe6735608fc377bfd1af3bd30435509f87c910d7b47cf67"
+    },
+    {
+      "destino": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\12_Militar\\Índice Militar.md",
+      "anterior_sha256": "bc13f249d8fc8b1e00740c6507fcb290470683a687ed58d4f83618788a8227dc",
+      "actual_sha256": "c2d12bc23ded1463b0e351d924751c6c286bde44b7b797a2736d2f5dfe5d3f6e"
+    },
+    {
+      "destino": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\12_Militar\\03_Armada\\Índice de armada.md",
+      "anterior_sha256": "cae7bc949bdfedaa6c714d867157705e2820903e6eaa28782d28745a965fe504",
+      "actual_sha256": "0e5963c701e9a403eba31822b262ef4fcb8b598e5b41ce1e3fdd10246657fa6b"
+    },
+    {
+      "destino": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\12_Militar\\03_Armada\\Armada.md",
+      "anterior_sha256": "68730f7ba9ee12e32aef4e93def3357a93945dd23ad943a8bba656d26d33e38e",
+      "actual_sha256": "c7fb5da0fefe988532cfca21bd8f701b5eeef32806089d91099f5dba03fedeae"
+    },
+    {
+      "destino": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\12_Militar\\03_Armada\\AM1 Armada 1875-2026.md",
+      "anterior_sha256": "015761693c14180fcbb9e68103929cfb46254f6882008c40e6e6af585b8c1fab",
+      "actual_sha256": "1d5857c619447b2cc4c8ef476a896259900d262b5b669f8e6de6b3ea859ff19d"
+    }
+  ],
+  "historial": "C:\\Users\\migue\\OneDrive\\DOS\\Historia de un imperio ficticio\\04_Historial editorial\\Integración A093 V16.5 2026-11-10",
+  "fuentes_respaldadas": 140,
+  "sincronizacion_remota_verificada": false
+}

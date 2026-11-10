@@ -77,3 +77,11 @@ La defensa antigua integra Casas, guarniciones, milicias y fuerzas navales. La p
 ## Familia de destructores Gil-galad
 
 - [[12_Militar/03_Armada/Destructores Gil-galad — evolución de la familia]] — generaciones I–VI, doctrina, prestaciones y renovación.
+
+## Redes y composición A093
+
+- [[00_Canon/Integraciones V16/Acumulativa A093 V16.5|Resoluciones integradas en V16.5]]
+- [[12_Militar/03_Armada/Corbetas fragatas y persistencia naval]]
+- [[12_Militar/03_Armada/Escenario de composición naval A093]]
+- [[12_Militar/03_Armada/Lanchas misilísticas y territorios candidatos]]
+- [[12_Militar/03_Armada/Redes navales y transición a drones]]

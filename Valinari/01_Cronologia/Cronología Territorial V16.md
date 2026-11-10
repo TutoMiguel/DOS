@@ -1,7 +1,7 @@
 # Cronología maestra atlántica de la Unión Valinoriana
 
 
-Estado: VIGENTE V16.4 A092. Las decisiones expresas posteriores del autor prevalecen sobre V16.3. Tol Eressëa 20–40 y Groenlandia 55–75 d. C.; poblaciones antiguas conservadas por ámbito.
+Estado: VIGENTE V16.5 A092 y A093. Las decisiones expresas posteriores del autor prevalecen sobre V16.3. Tol Eressëa 20–40 y Groenlandia 55–75 d. C.; poblaciones antiguas conservadas por ámbito.
 
 * **2026 clasificación editorial:** Islandia y Groenlandia son unidades federales externas al Reino; 2026 no es primera incorporación histórica.
 * **2026 cuentas conciliadas:** 481 + 37 + 5,5 = 523,5 millones; externas vigentes 42,5. PIB PPA 58,50 + 7,00 = 65,50 billones; los 0,95 de Islandia y Groenlandia ya están incluidos en las externas.
@@ -932,3 +932,53 @@ La reconstrucción AM1 de 1973 atribuye 12 unidades a Gil-galad II. El inventari
 * **2026 modelos A092:** nuevas matrices de Islandia y Groenlandia, urbanización septentrional, disponibilidad simulada 449/615, reparto presupuestario e hipótesis industriales. No son datos observados.
 
 Véase [[Acumulativa A092 V16.4]] y [[Matriz territorial maestra A092]].
+
+
+## Integración militar A093 y desarrollo terrestre
+
+Las introducciones siguientes pertenecen al desarrollo narrativo A092 incorporado en V16.5. No son fechas de incorporación territorial ni cifras de disponibilidad.
+
+- **1911:** introducción de [[12_Militar/02_Ejército/Blindados/Carros y exploradores/BA-11 Hador|BA-11 Hador]].
+- **1917:** introducción de [[12_Militar/02_Ejército/Blindados/Carros y exploradores/CP-17 Belegost|CP-17 Belegost]].
+- **1926:** introducción de [[12_Militar/02_Ejército/Blindados/Carros y exploradores/CL-26 Duilin|CL-26 Duilin]].
+- **1932:** introducción de [[12_Militar/02_Ejército/Blindados/VCI y transportes/TP-32 Barahir|TP-32 Barahir]].
+- **1934:** introducción de [[12_Militar/02_Ejército/Blindados/Carros y exploradores/CM-34 Gondolin|CM-34 Gondolin]].
+- **1938:** introducción de [[12_Militar/02_Ejército/Blindados/Carros y exploradores/CL-38 Nimrodel|CL-38 Nimrodel]].
+- **1941:** introducción de [[12_Militar/02_Ejército/Blindados/Carros y exploradores/CM-41 Anárion|CM-41 Anárion]].
+- **1942:** introducción de [[12_Militar/02_Ejército/Blindados/VCI y transportes/TP-42 Haleth|TP-42 Haleth]].
+- **1944:** introducción de [[12_Militar/02_Ejército/Blindados/Carros y exploradores/CP-44 Beleg|CP-44 Beleg]].
+- **1952:** introducción de [[12_Militar/02_Ejército/Blindados/Carros y exploradores/CU-52 Elendil|CU-52 Elendil]].
+- **1955:** introducción de [[12_Militar/02_Ejército/Blindados/VCI y transportes/TP-55 Bregor|TP-55 Bregor]].
+- **1963:** introducción de [[12_Militar/02_Ejército/Blindados/Carros y exploradores/CB-63 Elendil II|CB-63 Elendil II]].
+- **1965:** introducción de [[12_Militar/02_Ejército/Blindados/VCI y transportes/TP-65 Círdan|TP-65 Círdan]].
+- **1969:** introducción de [[12_Militar/02_Ejército/Blindados/Carros y exploradores/CA-69 Falathar|CA-69 Falathar]].
+- **1972:** introducción de [[12_Militar/02_Ejército/Blindados/Artillería autopropulsada/AAP-72 Aulë|AAP-72 Aulë]].
+- **1974:** introducción de [[12_Militar/02_Ejército/Blindados/VCI y transportes/VT-74 Mablung|VT-74 Mablung]].
+- **1978:** introducción de [[12_Militar/02_Ejército/Blindados/Carros y exploradores/CB-78 Elendil III|CB-78 Elendil III]].
+- **1984:** introducción de [[12_Militar/02_Ejército/Blindados/VCI y transportes/TP-84 Beregond|TP-84 Beregond]].
+- **1988:** introducción de [[12_Militar/02_Ejército/Blindados/VCI y transportes/VC-88 Galdor|VC-88 Galdor]].
+- **1991:** introducción de [[12_Militar/02_Ejército/Blindados/Carros y exploradores/CB-91 Elendil IV|CB-91 Elendil IV]].
+- **2003:** introducción de [[12_Militar/02_Ejército/Blindados/VCI y transportes/TP-03 Erkenbrand|TP-03 Erkenbrand]].
+- **2006:** introducción de [[12_Militar/02_Ejército/Blindados/Carros y exploradores/CB-06 Elendil V|CB-06 Elendil V]].
+- **2009:** introducción de [[12_Militar/02_Ejército/Blindados/VCI y transportes/VC-09 Haldir|VC-09 Haldir]].
+- **2012:** introducción de [[12_Militar/02_Ejército/Blindados/VCI y transportes/VBR-12 Hirgon|VBR-12 Hirgon]].
+- **2015:** introducción de [[12_Militar/02_Ejército/Blindados/Carros y exploradores/CE-15 Ecthelion|CE-15 Ecthelion]].
+- **2019:** introducción de [[12_Militar/02_Ejército/Blindados/VCI y transportes/TP-19 Voronwë|TP-19 Voronwë]].
+- **2023:** introducción de [[12_Militar/02_Ejército/Blindados/Carros y exploradores/CB-23 Elendil VI|CB-23 Elendil VI]].
+
+## Redes navales y control de drones A093
+
+- **1955–1970:** coordinación por radio y procedimientos comunes; marco narrativo integrado, con equipos y lotes pendientes de identificación.
+- **1970–1985:** primeros enlaces digitales e intercambio limitado con determinadas flotillas; no implantación simultánea en toda la Armada.
+- **1985–2000:** imagen táctica compartida más madura y coordinación regional.
+- **2000–2019:** integración progresiva de sensores y sistemas; cooperación avanzada solo en equipos compatibles y validados.
+- **Desde 2020:** la Armada utiliza buques que controlan drones de ataque, por decisión expresa del autor. Clases, cantidades y pertenencia a categorías administrativas siguen pendientes.
+
+## Programa terrestre de turbina propuesto
+
+- **2002 propuesto:** inicio del programa CBT-16.
+- **2008 propuesto:** demostrador móvil.
+- **2016 propuesto:** introducción limitada; no demuestra producción o validación del rendimiento.
+- **Objetivo técnico:** 42 % térmico neto al eje sobre PCI en punto nominal; APU diésel de 25–30 kW eléctricos para servicios estacionarios con la turbina principal apagada. Producción y autonomía pendientes.
+
+Véase [[00_Canon/Integraciones V16/Acumulativa A093 V16.5|Resoluciones A093]] y [[12_Militar/03_Armada/Redes navales y transición a drones|Redes navales]]. El escenario 80 fragatas, 40 corbetas y 96 OPV no sustituye el inventario vigente 64, 72 y 80.
