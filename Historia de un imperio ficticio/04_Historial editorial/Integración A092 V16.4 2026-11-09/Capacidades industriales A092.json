@@ -1,0 +1,89 @@
+{
+  "steel_energy_staff_scenarios": [
+    {
+      "year": 1875,
+      "state": "HIPÓTESIS NUEVA A092",
+      "steel_useful_mt": "2.4",
+      "steel_nominal_mt": "4.0336",
+      "steel_utilization": ".70",
+      "steel_reject_rate": ".15",
+      "electricity_twh": "1.1",
+      "industrial_technical_staff": 450000,
+      "naval_industrial_staff_subset": 60000,
+      "staff_note": "personal naval incluido dentro del técnico industrial; no sumar",
+      "production_observed": null,
+      "capital_cost_observed": null,
+      "operating_cost_observed": null,
+      "plant_allocation": "no fijada; no repartir entre plantas sin capacidad territorial comprobada"
+    },
+    {
+      "year": 1980,
+      "state": "HIPÓTESIS NUEVA A092",
+      "steel_useful_mt": "120",
+      "steel_nominal_mt": "140.3509",
+      "steel_utilization": ".90",
+      "steel_reject_rate": ".05",
+      "electricity_twh": "900",
+      "industrial_technical_staff": 5500000,
+      "naval_industrial_staff_subset": 220000,
+      "staff_note": "personal naval incluido dentro del técnico industrial; no sumar",
+      "production_observed": null,
+      "capital_cost_observed": null,
+      "operating_cost_observed": null,
+      "plant_allocation": "no fijada; no repartir entre plantas sin capacidad territorial comprobada"
+    },
+    {
+      "year": 2026,
+      "state": "HIPÓTESIS NUEVA A092",
+      "steel_useful_mt": "280",
+      "steel_nominal_mt": "320.7331",
+      "steel_utilization": ".90",
+      "steel_reject_rate": ".03",
+      "electricity_twh": "6200",
+      "industrial_technical_staff": 12000000,
+      "naval_industrial_staff_subset": 320000,
+      "staff_note": "personal naval incluido dentro del técnico industrial; no sumar",
+      "production_observed": null,
+      "capital_cost_observed": null,
+      "operating_cost_observed": null,
+      "plant_allocation": "no fijada; no repartir entre plantas sin capacidad territorial comprobada"
+    }
+  ],
+  "semiconductor_model": {
+    "state": "HIPÓTESIS A092 dentro de envolvente heredada",
+    "year": 2026,
+    "nominal_million_300mm_wafers": "8.5",
+    "utilization": ".86",
+    "started": "7.31",
+    "useful_output": "6.90",
+    "rejected_equivalent": ".41",
+    "yield": "0.9439124487004103967168262654",
+    "electricity_twh": "16",
+    "gross_water_million_m3": "70",
+    "poles": 5,
+    "mature_lines": 12,
+    "advanced_lines": 3,
+    "packaging_centers": 8,
+    "research_centers": 3,
+    "staff_observed": null,
+    "recycled_water_fraction": null,
+    "capex_observed": null,
+    "opex_observed": null
+  },
+  "criteria": {
+    "prototype": "demostración sin producción sostenida",
+    "series": "salida útil repetible con rendimiento y coste registrados",
+    "deployment": "capacidad instalada con energía, mantenimiento, personal y demanda verificables"
+  },
+  "naval_support_model": {
+    "state": "HIPÓTESIS",
+    "manned_ships": 595,
+    "average_reference_life_years": 35,
+    "replacement_ships_per_year": 17,
+    "maintenance_days_per_ship": 90,
+    "maintenance_post_days_total": 53550,
+    "productive_days_per_post": 300,
+    "equivalent_maintenance_posts": "178.5",
+    "not_all_posts_are_dry_docks": true
+  }
+}

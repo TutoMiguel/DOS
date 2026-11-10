@@ -1,0 +1,151 @@
+{
+  "beleg_target_population": [
+    "724.5",
+    "879.5"
+  ],
+  "identified_population": "535.0",
+  "unallocated_population": [
+    "189.5",
+    "344.5"
+  ],
+  "identified_gdp": "66.02",
+  "unallocated_gdp": [
+    "7.33",
+    "27.73"
+  ],
+  "protectorates": [
+    [
+      "Harnen/Omán",
+      "8 M",
+      "Ya en base operativa",
+      "Rhunost 0,45 M está dentro de los 8"
+    ],
+    [
+      "Esgal Nénar",
+      "11,5 M",
+      "Beleg exterior a base operativa",
+      "No federal; 0,52 billones"
+    ],
+    [
+      "Kheled-zâram/Kuwait",
+      "Sin cifra",
+      "Protectorado por desarrollar",
+      "No añadir vecinos"
+    ],
+    [
+      "Círdan/Socotra",
+      "Sin cifra",
+      "Nodo protegido exterior",
+      "No Yemen completo"
+    ],
+    [
+      "Harlond/Adén",
+      "Sin cifra",
+      "Nodo protegido exterior",
+      "No Yemen completo"
+    ],
+    [
+      "Amon Rûdh/Yibuti",
+      "Sin cifra",
+      "Protectorado portuario",
+      "Delimitar puerto y país"
+    ],
+    [
+      "Alqualondë/Chipre",
+      "Sin cifra",
+      "Asociación; adscripción mixta",
+      "Residentes del nodo una vez"
+    ],
+    [
+      "Eglarest/Malta",
+      "Sin cifra",
+      "Asociación; adscripción mixta",
+      "No isla completa sin tratado"
+    ],
+    [
+      "Pelargir/Alejandría",
+      "Sin cifra",
+      "Puerto asociado",
+      "No Egipto completo"
+    ],
+    [
+      "Nanduhirion/Palaos",
+      "Incluido",
+      "Dentro de Micronesia",
+      "Incremento Beleg cero"
+    ],
+    [
+      "Eärendil/Cabo Verde",
+      "Sin cifra",
+      "Enclave asociado",
+      "Solo perímetro enclave"
+    ],
+    [
+      "Tol Morwen/Santo Tomé",
+      "Sin cifra",
+      "Puerto científico",
+      "No soberanía completa"
+    ],
+    [
+      "Nandor Occidental/Bijagós",
+      "Sin cifra",
+      "Red de acuerdos",
+      "No Guinea-Bisáu completa"
+    ],
+    [
+      "Tol Eressëa Occidental/Madeira",
+      "Sin cifra",
+      "Puerto asociado",
+      "Distinta de Tol Eressëa"
+    ],
+    [
+      "Barad Nimras/Gibraltar",
+      "Sin cifra",
+      "Base arrendada",
+      "Solo perímetro documentado"
+    ],
+    [
+      "Eressëa Índica/Seychelles",
+      "Sin cifra",
+      "Enclave científico",
+      "No país completo"
+    ],
+    [
+      "Harlond Caribe/Curaçao",
+      "Sin cifra",
+      "Concesión logística",
+      "Distinto de Adén"
+    ],
+    [
+      "Forlond Austral/Malvinas",
+      "Sin cifra",
+      "Estación arrendada",
+      "No archipiélago completo"
+    ],
+    [
+      "Amon Uilos/Ascensión",
+      "Sin cifra",
+      "Estación científica",
+      "No toda población anfitriona"
+    ]
+  ],
+  "sovereign_allies": [
+    {
+      "name": "Chile",
+      "population_2026": null,
+      "subsets_not_to_add": [
+        "Andúnië Austral"
+      ]
+    }
+  ],
+  "associated_ports": [
+    "Alqualondë/Chipre",
+    "Eglarest/Malta",
+    "Pelargir/Alejandría"
+  ],
+  "aear_confirmed_population": null,
+  "aear_sensitivity_only": [
+    "1124.5",
+    "1529.5"
+  ]
+}

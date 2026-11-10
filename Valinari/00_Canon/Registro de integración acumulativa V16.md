@@ -45,3 +45,7 @@ Educación, producción, crédito, navegación, recursos, familias, ciudadanía,
 ## Integración editorial — Tercera Revolución Industrial (2026-11-08)
 
 Se integró el desarrollo histórico 1950–2026, los efectos económicos y laborales, la expansión civil de OceanNet, la gobernanza, los indicadores, la conciliación presupuestaria y el balance de riesgos en Canon, cronología, Word y Obsidian. Se conservaron los hitos OceanNet de 1959, 1968 y 1969; se distinguen el objetivo selectivo de diez años y la norma de siete años para telecomunicaciones. Las métricas sin línea base y partidas no conciliadas siguen pendientes y no modifican el PIB canónico.
+
+## Acumulativa A092 del 9 de noviembre de 2026
+
+Las cifras y decisiones anteriores de este registro son antecedentes cuando contradicen A092. Integradas las decisiones posteriores del autor: Tol Eressëa 20–40 y Groenlandia 55–75 d. C.; poblaciones antiguas conservadas; Beleg rector 724,5–879,5; cuentas de 515,5 millones constitucionales y 523,5 operativos; padrón de aliados sin doble cómputo; cotejo común de Word y Obsidian; registros naval, presupuestario y de capacidades. Véase [[Acumulativa A092 V16.4]].

@@ -1,8 +1,10 @@
 # Integración de Auditoría V16 3
 
-## Resoluciones aprobadas V16 3
+## Resoluciones originales V16 3
 
-Estado VIGENTE. Aprobación del autor recogida en la continuación de Análisis del Canon V16 y ratificada en el encargo de integración del 9 de noviembre de 2026. V16.3 tiene precedencia sobre V16.2 exclusivamente en las disposiciones que sustituye expresamente. Las restantes decisiones siguen vigentes.
+A092 sustituye el descubrimiento de Tol Eressëa por 20–40 d. C. y conserva Groenlandia en 55–75. Corrige además los perímetros de población y contabilidad. Véase [[Acumulativa A092 V16.4]].
+
+Estado ANTECEDENTE PARCIAL tras A092. Las decisiones no sustituidas siguen vigentes.  Aprobación del autor recogida en la continuación de Análisis del Canon V16 y ratificada en el encargo de integración del 9 de noviembre de 2026. V16.3 tiene precedencia sobre V16.2 exclusivamente en las disposiciones que sustituye expresamente. Las restantes decisiones siguen vigentes.
 
 ### R01 Precedencia temporal
 

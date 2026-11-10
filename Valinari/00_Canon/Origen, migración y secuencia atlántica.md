@@ -27,8 +27,12 @@ Contacto, comercio, transmisión de conocimientos y presencia temporal no equiva
 - 430 a. C.: integración atlántica.
 - 250 a. C.: rutas del Atlántico africano.
 - 150 a. C.: primer contacto documentado con el Caribe.
-- 340–350 d. C.: descubrimiento de Tol Eressëa.
+- 20–40 d. C.: descubrimiento de Tol Eressëa.
 - 400–500: expediciones hacia Terranova.
 - 650–750: descubrimiento de Valinor.
 
 [[Canon V16 Maestro]] · [[01_Cronologia/Cronología Territorial V16]] · [[00_Canon/Origen y naturaleza ficticia de los Valinari]]
+
+## Actualización A092
+
+Prevalece [[Acumulativa A092 V16.4]]. Tol Eressëa se descubre en 20–40 d. C. y Groenlandia en 55–75. ECON-03 conserva 523,5 millones y 65,50 billones en su ámbito operativo; el constitucional excluye Harnen y es 515,5 millones y 64,98 billones. Rhunost y las unidades septentrionales no se suman dos veces. Las 23 cuentas y 230 filas están en [[Matriz territorial maestra A092]] y [[Cuentas sectoriales conciliadas A092]].

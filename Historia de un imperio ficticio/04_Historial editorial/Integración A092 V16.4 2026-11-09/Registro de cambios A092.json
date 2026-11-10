@@ -1,0 +1,2701 @@
+{
+  "changes": [
+    {
+      "operation": "superseded_supplement",
+      "source": "Word V16.3",
+      "paragraph_range": [
+        5,
+        29
+      ],
+      "replacement": "Acumulativa A092 V16.4; previous wording preserved in snapshot"
+    },
+    {
+      "operation": "replace",
+      "location": "Word snapshot paragraph after supplement removal 65",
+      "before": "340–350 d. C.: descubrimiento de Tol Eressëa.",
+      "after": "20–40 d. C.: descubrimiento de Tol Eressëa."
+    },
+    {
+      "operation": "replace",
+      "location": "Word snapshot paragraph after supplement removal 94",
+      "before": "La secuencia territorial vigente conserva: reconocimiento atlántico de Nosselië Toliva entre 900–750 a. C.; primer registro en 720 a. C.; primera presencia estacional en 680 a. C.; estación permanente en 620 a. C.; factoría en 540 a. C.; conexión atlántica en 430 a. C.; rutas africanas en 250 a. C.; primer contacto documentado con el Caribe en 150 a. C.; descubrimiento de Tol Eressëa en 340–350 d. C.; expediciones hacia Terranova entre 400–500; y descubrimiento de Valinor entre 650–750.",
+      "after": "La secuencia territorial vigente conserva: reconocimiento atlántico de Nosselië Toliva entre 900–750 a. C.; primer registro en 720 a. C.; primera presencia estacional en 680 a. C.; estación permanente en 620 a. C.; factoría en 540 a. C.; conexión atlántica en 430 a. C.; rutas africanas en 250 a. C.; primer contacto documentado con el Caribe en 150 a. C.; descubrimiento de Tol Eressëa en 20–40 d. C.; expediciones hacia Terranova entre 400–500; y descubrimiento de Valinor entre 650–750."
+    },
+    {
+      "operation": "replace",
+      "location": "Word snapshot paragraph after supplement removal 253",
+      "before": "La secuencia histórica comprende contactos desde 300–500, estaciones comerciales entre 500–750, acuerdos fluviales hacia 750–950, protectorado pactado en 950, expansión agrícola y portuaria entre 1200–1800, industrialización entre 1800–1950 e integración en OceanNet entre 1958 y 2026. Con Esgal Nénar, Beleg Valinor pasa a un rango demográfico aproximado de 724,5–879,5 millones y un PIB PPA operativo de 73,35–93,75 billones, sin modificar las cifras constitucionales de Gwaith Valinor.",
+      "after": "Esgal Nénar aporta 11,5 millones y 0,52 billones PPA fuera del ámbito constitucional. Beleg conserva el rango rector 724,5–879,5 millones y 73,35–93,75 billones PPA. La cuenta identificada suma 535 millones y 66,02 billones; el residuo es 189,5–344,5 millones y 7,33–27,73 billones. Harnen se cuenta una vez, según A092-R04."
+    },
+    {
+      "operation": "replace",
+      "location": "Word snapshot paragraph after supplement removal 368",
+      "before": "VIGENTE V16.3-01. Hasta 50 d. C., Tol Eressëa no había sido descubierta ni poseía asentamientos valinari. Su descubrimiento se fija en 340–350 d. C. Las instalaciones que se enumeran corresponden a la etapa posterior al descubrimiento:",
+      "after": "Descubierta entre 20 y 40 d. C., Tol Eressëa fue el primer gran asentamiento oceánico occidental de los Valinari. Sus primeras instalaciones incluyeron:"
+    },
+    {
+      "operation": "replace",
+      "location": "Word snapshot paragraph after supplement removal 376",
+      "before": "Después de 340–350 d. C., Tol Eressëa se desarrolla gradualmente como comunidad insular autónoma. Esta evolución no pertenece al periodo hasta 50 d. C.; no supone por sí misma incorporación al Reino ni a la estructura posterior de Valinor a Tyl.",
+      "after": "Tol Eressëa se desarrolló como comunidad insular autónoma y como puente hacia la exploración de Groenlandia. No era todavía una provincia plenamente integrada ni formaba parte de una estructura territorial que incluyera Valinor."
+    },
+    {
+      "operation": "replace",
+      "location": "Word snapshot paragraph after supplement removal 454",
+      "before": "La clasificación territorial vigente para 50 d. C. distingue patria ancestral, núcleo administrado, dominio de Casa, ciudad portuaria, puerto asociado, factoría, estación marítima, comunidad exploratoria y territorio reconocido. Escania es patria ancestral; Systreyjar y Nosselië Toliva son núcleos administrados; Tol Eressëa aún no ha sido descubierta y no es una comunidad administrada; Sicilia, Malta, Chipre y Alejandría son puertos asociados o factorías; Groenlandia, Númenor, Arnor, América continental y Valinor son territorios aún no incorporados.",
+      "after": "La clasificación territorial vigente para 50 d. C. distingue patria ancestral, núcleo administrado, dominio de Casa, ciudad portuaria, puerto asociado, factoría, estación marítima, comunidad exploratoria y territorio reconocido. Escania es patria ancestral; Systreyjar y Nosselië Toliva son núcleos administrados; Tol Eressëa es comunidad oceánica autónoma; Sicilia, Malta, Chipre y Alejandría son puertos asociados o factorías; Groenlandia, Númenor, Arnor, América continental y Valinor son territorios aún no incorporados."
+    },
+    {
+      "operation": "replace",
+      "location": "Word snapshot paragraph after supplement removal 458",
+      "before": "Groenlandia: sin incorporación estable en 50 d. C.; la fecha de reconocimiento independiente queda pendiente de conciliación V16.3-01.",
+      "after": "Groenlandia, conocida solo después de 55–75 d. C.;"
+    },
+    {
+      "operation": "replace",
+      "location": "Word snapshot paragraph after supplement removal 468",
+      "before": "Entre 20 y 40 d. C. prosiguen las rutas atlánticas y el reconocimiento septentrional, sin descubrimiento ni asentamiento en Tol Eressëa. El descubrimiento insular corresponde a 340–350 d. C. por precedencia V16.3-01.",
+      "after": "Entre 20 y 40 d. C., los navegantes valinari descubrieron Tol Eressëa. La isla recibió estaciones iniciales de agua, reparación, observación, cartografía y archivo. Su integración posterior al núcleo de Valinor a Tyl fue gradual y autónoma."
+    },
+    {
+      "operation": "replace",
+      "location": "Word snapshot paragraph after supplement removal 469",
+      "before": "Hacia 50 d. C., Tol Eressëa permanece sin descubrir. La expansión se apoya en los núcleos administrados y las rutas atlánticas y mediterráneas existentes, sin asentamiento en esa isla.",
+      "after": "Hacia 50 d. C., Tol Eressëa era el primer gran descubrimiento oceánico occidental de los Valinari. Groenlandia aún no había sido reconocida de forma estable; su exploración corresponde a la etapa posterior de 55–75 d. C.. Valinor, Númenor/Terranova y Arnor todavía no formaban parte de la administración valinaria."
+    },
+    {
+      "operation": "replace",
+      "location": "Word snapshot paragraph after supplement removal 470",
+      "before": "VIGENTE V16.3-01 y R01. La cronología atlántica principal prevalece: Tol Eressëa 340–350 d. C.; expediciones a Terranova 400–500; descubrimiento de Valinor 650–750; asentamientos permanentes en Valinor 750–850; asentamiento permanente de Númenor y fundación posterior de Armenelos 920–980. Los contactos caribeños anteriores siguen vigentes; no se impone una secuencia única a todas las rutas.",
+      "after": "VIGENTE A092-R01 y R01. La cronología atlántica principal prevalece: Tol Eressëa 20–40 d. C.; expediciones a Terranova 400–500; descubrimiento de Valinor 650–750; asentamientos permanentes en Valinor 750–850; asentamiento permanente de Númenor y fundación posterior de Armenelos 920–980. Los contactos caribeños anteriores siguen vigentes; no se impone una secuencia única a todas las rutas."
+    },
+    {
+      "operation": "replace",
+      "location": "Word snapshot paragraph after supplement removal 471",
+      "before": "Tol Eressëa se descubre entre 340 y 350 d. C. Sus estaciones de agua, reparación, observación, cartografía y archivo se desarrollan después de ese hito. En 85 d. C. no existen estaciones valinari en Tol Eressëa.",
+      "after": "Tol Eressëa es el primer gran descubrimiento oceánico occidental, situado aproximadamente entre 20 y 40 d. C. por navegantes que exploraban las rutas de Islandia y las islas septentrionales. Se establecen estaciones de agua, reparación, observación, cartografía y archivo. Su incorporación posterior al núcleo de Valinor a Tyl es gradual y conserva un régimen insular autónomo; en 85 d. C. todavía no existe la estructura territorial completa de Valinor a Tyl."
+    },
+    {
+      "operation": "replace",
+      "location": "Word snapshot paragraph after supplement removal 472",
+      "before": "ANTECEDENTE SUSTITUIDO EN SU RUTA DE ORIGEN V16.3-01. El reconocimiento temprano de Groenlandia no puede partir de Tol Eressëa en 55–75 d. C., pues esta se descubre en 340–350. Las fechas groenlandesas de reconocimiento independiente y asentamiento requieren conciliación específica; se conserva la secuencia septentrional de protectorados e integración posterior sin inventar una nueva fecha.",
+      "after": "Groenlandia se reconoce aproximadamente entre 55 y 75 d. C. y recibe estaciones estacionales entre 70 y 110 d. C.. En 85 d. C. ya es conocida y utilizada como paso noratlántico desde Tol Eressëa, pero no es una provincia federal ni una colonia plenamente consolidada. La colonización estable se desarrolla posteriormente, entre los siglos IV y VI d. C., y la integración política plena es muy posterior."
+    },
+    {
+      "operation": "replace",
+      "location": "Word snapshot paragraph after supplement removal 475",
+      "before": "En 85 d. C. no se incluye Tol Eressëa entre las posesiones o estaciones administradas. La estimación anterior de 1,68–1,75 millones queda PENDIENTE de comprobar su perímetro, pues el relato que la acompañaba incluía estaciones insulares anteriores al descubrimiento. No se adopta un total sustitutivo sin desglose.",
+      "after": "En 85 d. C. la administración valinaria comprende el núcleo de Systreyjar y Nosselië Toliva, junto con las primeras estaciones de Tol Eressëa. Groenlandia posee solo puestos estacionales; Númenor, Arnor, la América continental y el territorio de Valinor todavía no forman parte de la administración territorial valinaria. La población administrada o dependiente se estima en 1,68–1,75 millones, sin sumar automáticamente a las poblaciones locales de territorios explorados."
+    },
+    {
+      "operation": "replace",
+      "location": "Word snapshot paragraph after supplement removal 509",
+      "before": "En el escenario valinari, la población bajo administración directa hacia 50 d. C. es de aproximadamente 475.000–545.000 habitantes: Systreyjar, Nosselië Toliva, estaciones atlánticas y factorías menores. La red ampliada de comunidades vinculadas por origen, comercio y parentesco alcanza aproximadamente 800.000–1.050.000 personas, sin contar como población valinaria a las sociedades locales de Escania, Noruega, Dinamarca, el Mediterráneo, Egipto o el mar Rojo. V16.3-01: el rango demográfico queda pendiente de comprobar su desglose tras excluir Tol Eressëa; no se recalcula sin componentes.",
+      "after": "En el escenario valinari, la población bajo administración directa hacia 50 d. C. es de aproximadamente 475.000–545.000 habitantes: Systreyjar, Nosselië Toliva, Tol Eressëa, estaciones atlánticas y factorías menores. La red ampliada de comunidades vinculadas por origen, comercio y parentesco alcanza aproximadamente 800.000–1.050.000 personas, sin contar como población valinaria a las sociedades locales de Escania, Noruega, Dinamarca, el Mediterráneo, Egipto o el mar Rojo."
+    },
+    {
+      "operation": "replace",
+      "location": "Word snapshot paragraph after supplement removal 696",
+      "before": "Gwaith Aear (Unión Marítima) reúne Gran Valinor y aliados soberanos. Su superficie es variable; su población aproximada es de 1.115,5–1.515,5 millones y su PIB PPA indicativo es de aproximadamente 98–128 billones, sujeto a revisar el valor añadido de los aliados. No posee frontera única ni ciudadanía común.",
+      "after": "ANTECEDENTE CUANTITATIVO para Gwaith Aear: el rango de aliados no está conciliado; rige A092-R04 y el registro de aliados. Gwaith Aear (Unión Marítima) reúne Gran Valinor y aliados soberanos. Su superficie es variable; su población aproximada es de 1.115,5–1.515,5 millones y su PIB PPA indicativo es de aproximadamente 98–128 billones, sujeto a revisar el valor añadido de los aliados. No posee frontera única ni ciudadanía común."
+    },
+    {
+      "operation": "replace",
+      "location": "Word snapshot paragraph after supplement removal 790",
+      "before": "Tol Eressëa se descubre en 340–350 d. C. Avallónë desarrolla después funciones portuarias y de asentamiento permanente; no se mantiene su inicio en el siglo I. La fecha exacta de fundación requiere un registro específico.",
+      "after": "Tol Eressëa se descubre entre 20 y 40 d. C. y comienza como estación oceánica. Avallónë se desarrolla como su principal puerto y asentamiento permanente entre los siglos I y V."
+    },
+    {
+      "operation": "replace",
+      "location": "Word snapshot paragraph after supplement removal 1228",
+      "before": "En 5 d. C. no deben proyectarse las fronteras de los siglos posteriores. Tol Eressëa se descubre en 340–350 d. C.; las expediciones a Terranova corresponden a 400–500 y el descubrimiento formal de Valinor a 650–750. El reconocimiento de Groenlandia no equivale a incorporación política ni depende de una estación en Tol Eressëa anterior a su descubrimiento.",
+      "after": "En 5 d. C. no se proyectan fronteras posteriores: Tol Eressëa se descubre en 20–40 d. C.; Groenlandia se reconoce en 55–75; las expediciones a Terranova corresponden a 400–500 y el descubrimiento formal de Valinor a 650–750. Descubrimiento, estación e incorporación política son actos distintos. A092-R01."
+    },
+    {
+      "operation": "replace",
+      "location": "Word snapshot paragraph after supplement removal 2452",
+      "before": "La población fijada asciende a 87 millones: Venezuela Federal 50, Provincia del Orinoco 15 y Caribe 22. Al sumarla a las otras unidades del Reino, Aranath Valinor conserva 481 millones; no se altera la subtotal federal externo anterior de 37 millones; con Islandia y Groenlandia, las externas vigentes suman 42,5 millones ni el total de 523,5 millones.",
+      "after": "Venezuela Federal 50 millones, Orinoco 15 y las cinco cuentas caribeñas 22 suman 87. El Reino mantiene 481 millones. Las externas federales son 34,5 y las externas operativas 42,5 al incluir Harnen. Los totales constitucional y operativo son 515,5 y 523,5 millones. A092-R03."
+    },
+    {
+      "operation": "replace",
+      "location": "Word snapshot paragraph after supplement removal 2539",
+      "before": "Los PIB por habitante se mantienen como prueba de plausibilidad, no como sustituto de las cuentas de producción. La distribución sectorial refleja las funciones ya fijadas: tecnología y servicios en Arnor y Valinor a Tyl; agroindustria, metalurgia y construcción naval en Calenardhon; extracción, energía y procesamiento en Sírënandë; manufactura, banca, puertos y servicios en Colombia Costera y Panamá; y perfiles insulares, logísticos, financieros, energéticos y turísticos en las unidades externas. La distribución demográfica cierra en 431,85 millones urbanos y 49,15 rurales para el Reino; las unidades externas suman 32,20 urbanos y 4,80 rurales. La Federación totaliza 464,05 millones urbanos y 53,95 rurales/dispersos, con 89,6 % de urbanización.",
+      "after": "Distribución 2026 A092: Reino 431,85 millones urbanos y 49,15 rurales; constitucional 462,37 y 53,13; operativo 468,97 y 54,53. Se añaden como hipótesis septentrional 3,22 urbanos y 0,28 rurales de Islandia, y 1,70 y 0,30 de Groenlandia. Los totales son 481, 515,5 y 523,5 millones respectivamente."
+    },
+    {
+      "operation": "replace",
+      "location": "Word snapshot paragraph after supplement removal 2543",
+      "before": "Las 14 cuentas nuevas cierran en 48,80000 billones para las siete unidades restantes del Reino y 7,00000 para las unidades externas. Sumadas a las siete cuentas de el apartado «Venezuela, Orinoco y Caribe», conservan 58,50000 billones y 481 millones para el Reino, y 65,50000 billones y 523,5 millones para la Federación. La suma de VAB más impuestos netos reproduce cada objetivo de PIB; diferencias inferiores a 0,0001 en filas sectoriales responden al redondeo a cinco decimales.",
+      "after": "A092 regulariza 23 cuentas y 230 registros sectoriales: 14 unidades del Reino, ocho federales externas y Harnen como protectorado operativo. Los objetivos son 481 millones y 58,50 billones del Reino; 515,5 y 64,98 constitucionales; 523,5 y 65,50 operativos. Islandia y Groenlandia tienen matrices nuevas de planificación. Los resúmenes anteriores de 21 cuentas no constituyen el cierre vigente."
+    },
+    {
+      "operation": "replace",
+      "location": "Word snapshot paragraph after supplement removal 2544",
+      "before": "Estado del bloque ECON-03: 21/21 territorios tienen una matriz A–J de producción, insumos y VAB, y distribución demográfica urbana/rural definida. Los objetivos agregados quedan conciliados. Las matrices de las secciones 33–34 se conservan como antecedentes de modelación; para las 14 unidades de esta sección rigen las cuentas y delimitaciones aquí fijadas, y para Venezuela, Orinoco y Caribe rige el apartado «Venezuela, Orinoco y Caribe». La siguiente mejora posible es auditar empleo, comercio interterritorial, importaciones y productividad sectorial contra una matriz de oferta y utilización, sin alterar estos objetivos salvo decisión canónica expresa.",
+      "after": "A092 regulariza 23 cuentas y 230 registros sectoriales: 14 unidades del Reino, ocho federales externas y Harnen como protectorado operativo. Los objetivos son 481 millones y 58,50 billones del Reino; 515,5 y 64,98 constitucionales; 523,5 y 65,50 operativos. Islandia y Groenlandia tienen matrices nuevas de planificación. Los resúmenes anteriores de 21 cuentas no constituyen el cierre vigente."
+    },
+    {
+      "operation": "replace",
+      "location": "Word snapshot paragraph after supplement removal 4729",
+      "before": "Este archivo integra la actualización acumulativa vigente y conserva los documentos Markdown del proyecto como anexos trazables. La escala demográfica vigente es: Valinor 16 millones; Valinor a Tyl 26 millones; Aranath Valinor 481 millones; Gwaith Valinor 523,5 millones; Beleg Valinor 715,5–865,5 millones (ANTECEDENTE previo a Esgal Nénar; agregado operativo posterior: 724,5–879,5 millones en 2026, sin alterar Gwaith); Gwaith Aear 1.115,5–1.515,5 millones. PIB PPA de planificación: Reino 55–62 billones (centro 58,5); Federación 60,85–70,20 billones (centro operativo 65,50). La conciliación territorial ECON-03 mantiene el punto central del Reino en 58,50 y actualiza la Federación a 65,50 billones. Las entidades son acumulativas; la cifra federal anterior de 245.050.000 queda fuera del canon operativo.",
+      "after": "ANTECEDENTE CUANTITATIVO para Gwaith Aear: el rango de aliados no está conciliado; rige A092-R04 y el registro de aliados. Este archivo integra la actualización acumulativa vigente y conserva los documentos Markdown del proyecto como anexos trazables. La escala demográfica vigente es: Valinor 16 millones; Valinor a Tyl 26 millones; Aranath Valinor 481 millones; Gwaith Valinor 523,5 millones; Beleg Valinor 724,5–879,5 millones (rango rector A092; componentes exteriores aún por conciliar); Gwaith Aear 1.115,5–1.515,5 millones. PIB PPA de planificación: Reino 55–62 billones (centro 58,5); Federación 60,85–70,20 billones (centro operativo 65,50). La conciliación territorial ECON-03 mantiene el punto central del Reino en 58,50 y actualiza la Federación a 65,50 billones. Las entidades son acumulativas; la cifra federal anterior de 245.050.000 queda fuera del canon operativo."
+    },
+    {
+      "operation": "replace",
+      "location": "Word snapshot paragraph after supplement removal 5080",
+      "before": "ANTECEDENTE V16.3-01 y R01. La enumeración siguiente conserva el antiguo reparto funcional, que no es vigente para 50 a. C.–200 d. C. Las funciones insulares solo pueden desarrollarse después de los descubrimientos y asentamientos fijados por la cronología principal:",
+      "after": "ANTECEDENTE A092-R01 y R01. La enumeración siguiente conserva el antiguo reparto funcional, que no es vigente para 50 a. C.–200 d. C. Las funciones insulares solo pueden desarrollarse después de los descubrimientos y asentamientos fijados por la cronología principal:"
+    },
+    {
+      "operation": "replace_row",
+      "location": "Word table 1 row 6",
+      "before": [
+        "Territorio no descubierto",
+        "Tol Eressëa",
+        "No descubierta en 50 d. C.; descubrimiento 340–350 d. C. V16.3-01"
+      ],
+      "after": [
+        "Estación oceánica",
+        "Tol Eressëa",
+        "Comunidad insular temprana en 50 d. C.; descubrimiento 20–40. A092-R01."
+      ]
+    },
+    {
+      "operation": "replace_row",
+      "location": "Word table 2 row 6",
+      "before": [
+        "Gwaith Aear",
+        "Gran Valinor más aliados extranjeros",
+        "Sin frontera única",
+        "1.115,5–1.515,5 millones"
+      ],
+      "after": [
+        "Gwaith Aear",
+        "Gran Valinor más aliados extranjeros",
+        "Sin frontera única",
+        "No conciliada; los rangos heredados son escenarios. A092-R04."
+      ]
+    },
+    {
+      "operation": "replace_row",
+      "location": "Word table 21 row 16",
+      "before": [
+        "Provincia del Orinoco",
+        "F",
+        "Transporte y logística",
+        "0,33405",
+        "0,16369",
+        "0,17037"
+      ],
+      "after": [
+        "Provincia del Orinoco",
+        "F",
+        "Transporte y logística",
+        "0,33405",
+        "0,16369",
+        "0,17036"
+      ]
+    },
+    {
+      "operation": "replace_row",
+      "location": "Word table 21 row 20",
+      "before": [
+        "Provincia del Orinoco",
+        "J",
+        "Administración y servicios sociales",
+        "0,24572",
+        "0,05406",
+        "0,19166"
+      ],
+      "after": [
+        "Provincia del Orinoco",
+        "J",
+        "Administración y servicios sociales",
+        "0,24572",
+        "0,05405",
+        "0,19167"
+      ]
+    },
+    {
+      "operation": "replace_row",
+      "location": "Word table 22 row 5",
+      "before": [
+        "Federación",
+        "65,50000",
+        "3,92210",
+        "61,57790",
+        "105,74805",
+        "44,17006"
+      ],
+      "after": [
+        "Federación",
+        "65,50000",
+        "3,02210",
+        "62,47790",
+        "107,20049",
+        "44,72259"
+      ]
+    },
+    {
+      "operation": "replace_row",
+      "location": "Word table 26 row 4",
+      "before": [
+        "D",
+        "Construcción e infraestructura",
+        "0,28466",
+        "0,13664",
+        "0,14803"
+      ],
+      "after": [
+        "D",
+        "Construcción e infraestructura",
+        "0,28466",
+        "0,13664",
+        "0,14802"
+      ]
+    },
+    {
+      "operation": "replace_row",
+      "location": "Word table 28 row 10",
+      "before": [
+        "J",
+        "Administración y servicios sociales",
+        "0,78611",
+        "0,12578",
+        "0,66033"
+      ],
+      "after": [
+        "J",
+        "Administración y servicios sociales",
+        "0,78611",
+        "0,12580",
+        "0,66031"
+      ]
+    },
+    {
+      "operation": "replace_row",
+      "location": "Word table 33 row 4",
+      "before": [
+        "D",
+        "Construcción e infraestructura",
+        "0,39917",
+        "0,19958",
+        "0,19958"
+      ],
+      "after": [
+        "D",
+        "Construcción e infraestructura",
+        "0,39917",
+        "0,19958",
+        "0,19959"
+      ]
+    },
+    {
+      "operation": "replace_row",
+      "location": "Word table 33 row 5",
+      "before": [
+        "E",
+        "Comercio, alojamiento y servicios personales",
+        "0,32719",
+        "0,12760",
+        "0,19958"
+      ],
+      "after": [
+        "E",
+        "Comercio, alojamiento y servicios personales",
+        "0,32719",
+        "0,12760",
+        "0,19959"
+      ]
+    },
+    {
+      "operation": "replace_row",
+      "location": "Word table 33 row 10",
+      "before": [
+        "J",
+        "Administración y servicios sociales",
+        "0,06789",
+        "0,01086",
+        "0,05702"
+      ],
+      "after": [
+        "J",
+        "Administración y servicios sociales",
+        "0,06789",
+        "0,01089",
+        "0,05700"
+      ]
+    },
+    {
+      "operation": "replace_row",
+      "location": "Word table 34 row 10",
+      "before": [
+        "J",
+        "Administración y servicios sociales",
+        "0,18264",
+        "0,02922",
+        "0,15341"
+      ],
+      "after": [
+        "J",
+        "Administración y servicios sociales",
+        "0,18264",
+        "0,02922",
+        "0,15342"
+      ]
+    },
+    {
+      "operation": "replace_row",
+      "location": "Word table 36 row 6",
+      "before": [
+        "F",
+        "Transporte y logística",
+        "0,09188",
+        "0,04226",
+        "0,04961"
+      ],
+      "after": [
+        "F",
+        "Transporte y logística",
+        "0,09188",
+        "0,04226",
+        "0,04962"
+      ]
+    },
+    {
+      "operation": "replace_row",
+      "location": "Word table 36 row 8",
+      "before": [
+        "H",
+        "Información, telecomunicaciones, software e I+D",
+        "0,03456",
+        "0,01140",
+        "0,02315"
+      ],
+      "after": [
+        "H",
+        "Información, telecomunicaciones, software e I+D",
+        "0,03456",
+        "0,01140",
+        "0,02316"
+      ]
+    },
+    {
+      "operation": "replace_row",
+      "location": "Word table 36 row 10",
+      "before": [
+        "J",
+        "Administración y servicios sociales",
+        "0,03721",
+        "0,00744",
+        "0,02977"
+      ],
+      "after": [
+        "J",
+        "Administración y servicios sociales",
+        "0,03721",
+        "0,00746",
+        "0,02975"
+      ]
+    },
+    {
+      "operation": "replace_row",
+      "location": "Word table 37 row 8",
+      "before": [
+        "H",
+        "Información, telecomunicaciones, software e I+D",
+        "0,03353",
+        "0,01106",
+        "0,02246"
+      ],
+      "after": [
+        "H",
+        "Información, telecomunicaciones, software e I+D",
+        "0,03353",
+        "0,01106",
+        "0,02247"
+      ]
+    },
+    {
+      "operation": "replace_row",
+      "location": "Word table 37 row 10",
+      "before": [
+        "J",
+        "Administración y servicios sociales",
+        "0,02465",
+        "0,00468",
+        "0,01997"
+      ],
+      "after": [
+        "J",
+        "Administración y servicios sociales",
+        "0,02465",
+        "0,00467",
+        "0,01998"
+      ]
+    },
+    {
+      "operation": "replace_row",
+      "location": "Word table 38 row 10",
+      "before": [
+        "J",
+        "Administración y servicios sociales",
+        "0,01094",
+        "0,00153",
+        "0,00941"
+      ],
+      "after": [
+        "J",
+        "Administración y servicios sociales",
+        "0,01094",
+        "0,00154",
+        "0,00940"
+      ]
+    },
+    {
+      "operation": "replace_row",
+      "location": "Word table 39 row 3",
+      "before": [
+        "C",
+        "Manufactura y reparación",
+        "0,22173",
+        "0,12638",
+        "0,09534"
+      ],
+      "after": [
+        "C",
+        "Manufactura y reparación",
+        "0,22173",
+        "0,12638",
+        "0,09535"
+      ]
+    },
+    {
+      "operation": "replace_row",
+      "location": "Word table 39 row 4",
+      "before": [
+        "D",
+        "Construcción e infraestructura",
+        "0,06887",
+        "0,03375",
+        "0,03513"
+      ],
+      "after": [
+        "D",
+        "Construcción e infraestructura",
+        "0,06887",
+        "0,03375",
+        "0,03512"
+      ]
+    },
+    {
+      "operation": "replace_row",
+      "location": "Word table 39 row 6",
+      "before": [
+        "F",
+        "Transporte y logística",
+        "0,11445",
+        "0,04921",
+        "0,06523"
+      ],
+      "after": [
+        "F",
+        "Transporte y logística",
+        "0,11445",
+        "0,04921",
+        "0,06524"
+      ]
+    },
+    {
+      "operation": "replace_row",
+      "location": "Word table 39 row 10",
+      "before": [
+        "J",
+        "Administración y servicios sociales",
+        "0,03023",
+        "0,00514",
+        "0,02509"
+      ],
+      "after": [
+        "J",
+        "Administración y servicios sociales",
+        "0,03023",
+        "0,00516",
+        "0,02507"
+      ]
+    },
+    {
+      "operation": "replace_row",
+      "location": "Word table 42 row 4",
+      "before": [
+        "Federación",
+        "523,5 M",
+        "65,50000",
+        "3,92210",
+        "61,57790",
+        "105,74805",
+        "44,17006"
+      ],
+      "after": [
+        "Federación",
+        "523,5 M",
+        "65,50000",
+        "3,02210",
+        "62,47790",
+        "107,20049",
+        "44,72259"
+      ]
+    },
+    {
+      "operation": "rebuild_current_section_36_summaries",
+      "accounts": 23,
+      "section_36_accounts": 16,
+      "section_35_accounts": 7,
+      "basis": "23 territorial ledgers A092; two northern model accounts added"
+    },
+    {
+      "operation": "clarify_legal_scope",
+      "before": "Gwaith Valinor (Federación) comprende el Reino completo —incluidos todos sus territorios, como Nosselië Toliva— más las unidades federales externas: Malaca, Hawái, Fiyi, Polinesia, Micronesia y Eryndor. Harnen pertenece a Beleg Valinor como protectorado y Rhunost permanece como provincia autónoma interna de Harnen. La Federación es el Estado soberano con ciudadanía, moneda, ejército, armada, tribunales, política exterior, OceanNet y administración fiscal comunes. Sus referencias agregadas de PIB PPA y nominal constan en la sección 23; el desglose territorial vigente y su conciliación constan en los apartados de Venezuela, Orinoco y Caribe y del cierre ECON-03.",
+      "after": "Gwaith Valinor constitucional comprende el Reino completo y ocho unidades federales externas: Malaca, Hawái, Fiyi, Polinesia, Micronesia, Eryndor, Islandia y Groenlandia. Cuenta 515,5 millones y 64,98 billones PPA. Harnen es protectorado de Beleg, con Rhunost dentro; al incluir su cuenta una sola vez se obtiene el agregado operativo ECON-03 de 523,5 millones y 65,50 billones. A092-R03."
+    },
+    {
+      "operation": "clarify_legal_scope",
+      "before": "Gwaith Valinor (Federación) comprende el Reino completo —incluidos todos sus territorios, como Nosselië Toliva— más las unidades federales externas: Malaca, Hawái, Fiyi, Polinesia, Micronesia y Eryndor. Harnen pertenece a Beleg Valinor como protectorado y Rhunost permanece como provincia autónoma interna de Harnen. La Federación es el Estado soberano con ciudadanía, moneda, ejército, armada, tribunales, política exterior, OceanNet y administración fiscal comunes. Sus referencias agregadas de PIB PPA y nominal constan en la sección 23; el desglose territorial vigente y su conciliación constan en las secciones 35 y 36.",
+      "after": "Gwaith Valinor constitucional comprende el Reino completo y ocho unidades federales externas: Malaca, Hawái, Fiyi, Polinesia, Micronesia, Eryndor, Islandia y Groenlandia. Cuenta 515,5 millones y 64,98 billones PPA. Harnen es protectorado de Beleg, con Rhunost dentro; al incluir su cuenta una sola vez se obtiene el agregado operativo ECON-03 de 523,5 millones y 65,50 billones. A092-R03."
+    },
+    {
+      "operation": "clarify_scope_row",
+      "location": "table 14 row 4",
+      "before": [
+        "Gwaith Valinor",
+        "Aranath Valinor más Malaca, Oceanía federal y Eryndor",
+        "5,6–5,7 millones km²",
+        "523,5 millones"
+      ],
+      "after": [
+        "Gwaith constitucional / ECON-03 operativo",
+        "Reino más ocho externas federales; Harnen solo en el ámbito operativo",
+        "Superficie total no conciliada; septentrionales incluidos en su cuenta",
+        "515,5 constitucionales; 523,5 operativos"
+      ]
+    },
+    {
+      "operation": "clarify_scope_row",
+      "location": "table 14 row 5",
+      "before": [
+        "Beleg Valinor",
+        "Federación más protectorados y enclaves",
+        "8,2–8,4 millones km²",
+        "715,5–865,5 millones (ANTECEDENTE previo a Esgal Nénar; agregado operativo posterior: 724,5–879,5 millones en 2026, sin alterar Gwaith)"
+      ],
+      "after": [
+        "Beleg Valinor",
+        "Federación más protectorados y enclaves",
+        "Perímetro extendido; superficie pendiente de conciliación",
+        "724,5–879,5 millones; rango rector con residuo por asignar"
+      ]
+    },
+    {
+      "operation": "clarify_scope_row",
+      "location": "table 27 row 2",
+      "before": [
+        "Gwaith Valinor (Federación)",
+        "523,5 millones",
+        "60,85–70,20 billones",
+        "45–52 billones"
+      ],
+      "after": [
+        "Agregado operativo ECON-03",
+        "523,5 millones",
+        "60,85–70,20 billones",
+        "45–52 billones"
+      ]
+    },
+    {
+      "operation": "clarify_scope_row",
+      "location": "table 73 row 4",
+      "before": [
+        "Gwaith Valinor",
+        "Aranath Valinor más Malaca, Oceanía federal y Eryndor",
+        "5,6–5,7 millones km²",
+        "523,5 millones"
+      ],
+      "after": [
+        "Gwaith constitucional / ECON-03 operativo",
+        "Reino más ocho externas federales; Harnen solo en el ámbito operativo",
+        "Superficie total no conciliada; septentrionales incluidos en su cuenta",
+        "515,5 constitucionales; 523,5 operativos"
+      ]
+    },
+    {
+      "operation": "clarify_scope_row",
+      "location": "table 73 row 5",
+      "before": [
+        "Beleg Valinor",
+        "Federación más protectorados y enclaves",
+        "8,2–8,4 millones km²",
+        "724,5–879,5 millones (rango rector A092; componentes exteriores aún por conciliar)"
+      ],
+      "after": [
+        "Beleg Valinor",
+        "Federación más protectorados y enclaves",
+        "Perímetro extendido; superficie pendiente de conciliación",
+        "724,5–879,5 millones; rango rector con residuo por asignar"
+      ]
+    },
+    {
+      "operation": "classify_recovered_legacy_table",
+      "section": "17.2. Escala acumulativa de las entidades",
+      "before": "Estado del material recuperado: VIGENTE. Fuente: Canon Markdown anterior a V16.4. Precedencia A092.",
+      "after": "Estado del material recuperado: ANTECEDENTE. Fuente Markdown anterior. Prevalecen los cierres y ámbitos A092."
+    },
+    {
+      "operation": "classify_recovered_legacy_table",
+      "section": "Totales actualizados por adición proporcional",
+      "before": "Estado del material recuperado: VIGENTE. Fuente: Canon Markdown anterior a V16.4. Precedencia A092.",
+      "after": "Estado del material recuperado: ANTECEDENTE. Fuente Markdown anterior. Prevalecen los cierres y ámbitos A092."
+    },
+    {
+      "operation": "classify_recovered_legacy_table",
+      "section": "Sírënandë",
+      "before": "Estado del material recuperado: VIGENTE. Fuente: Canon Markdown anterior a V16.4. Precedencia A092.",
+      "after": "Estado del material recuperado: ANTECEDENTE. Fuente Markdown anterior. Prevalecen los cierres y ámbitos A092."
+    },
+    {
+      "operation": "classify_recovered_legacy_table",
+      "section": "Valinor a Tyl",
+      "before": "Estado del material recuperado: VIGENTE. Fuente: Canon Markdown anterior a V16.4. Precedencia A092.",
+      "after": "Estado del material recuperado: ANTECEDENTE. Fuente Markdown anterior. Prevalecen los cierres y ámbitos A092."
+    },
+    {
+      "operation": "classify_recovered_legacy_table",
+      "section": "Calenardhon Austral",
+      "before": "Estado del material recuperado: VIGENTE. Fuente: Canon Markdown anterior a V16.4. Precedencia A092.",
+      "after": "Estado del material recuperado: ANTECEDENTE. Fuente Markdown anterior. Prevalecen los cierres y ámbitos A092."
+    },
+    {
+      "operation": "classify_recovered_legacy_table",
+      "section": "Malaca",
+      "before": "Estado del material recuperado: VIGENTE. Fuente: Canon Markdown anterior a V16.4. Precedencia A092.",
+      "after": "Estado del material recuperado: ANTECEDENTE. Fuente Markdown anterior. Prevalecen los cierres y ámbitos A092."
+    },
+    {
+      "operation": "classify_recovered_legacy_table",
+      "section": "Hawái",
+      "before": "Estado del material recuperado: VIGENTE. Fuente: Canon Markdown anterior a V16.4. Precedencia A092.",
+      "after": "Estado del material recuperado: ANTECEDENTE. Fuente Markdown anterior. Prevalecen los cierres y ámbitos A092."
+    },
+    {
+      "operation": "classify_recovered_legacy_table",
+      "section": "Polinesia",
+      "before": "Estado del material recuperado: VIGENTE. Fuente: Canon Markdown anterior a V16.4. Precedencia A092.",
+      "after": "Estado del material recuperado: ANTECEDENTE. Fuente Markdown anterior. Prevalecen los cierres y ámbitos A092."
+    },
+    {
+      "operation": "classify_recovered_legacy_table",
+      "section": "Micronesia",
+      "before": "Estado del material recuperado: VIGENTE. Fuente: Canon Markdown anterior a V16.4. Precedencia A092.",
+      "after": "Estado del material recuperado: ANTECEDENTE. Fuente Markdown anterior. Prevalecen los cierres y ámbitos A092."
+    },
+    {
+      "operation": "classify_recovered_legacy_table",
+      "section": "Eryndor",
+      "before": "Estado del material recuperado: VIGENTE. Fuente: Canon Markdown anterior a V16.4. Precedencia A092.",
+      "after": "Estado del material recuperado: ANTECEDENTE. Fuente Markdown anterior. Prevalecen los cierres y ámbitos A092."
+    },
+    {
+      "operation": "classify_recovered_legacy_table",
+      "section": "Harnen",
+      "before": "Estado del material recuperado: VIGENTE. Fuente: Canon Markdown anterior a V16.4. Precedencia A092.",
+      "after": "Estado del material recuperado: ANTECEDENTE. Fuente Markdown anterior. Prevalecen los cierres y ámbitos A092."
+    },
+    {
+      "operation": "clarify_legacy_presentation",
+      "section": "17.2. Escala acumulativa de las entidades",
+      "before": "ANTECEDENTE CUANTITATIVO para Gwaith Aear: el rango de aliados no está conciliado; rige A092-R04 y el registro de aliados. | Gwaith Aear | Gran Valinor más aliados extranjeros | Sin frontera única | 1.115,5–1.515,5 millones |",
+      "after": "ANTECEDENTE CUANTITATIVO para Gwaith Aear: el rango de aliados no está conciliado; rige A092-R04 y el registro de aliados.. Datos del antecedente: Gwaith Aear; Gran Valinor más aliados extranjeros; Sin frontera única; 1.115,5–1.515,5 millones."
+    },
+    {
+      "operation": "clarify_legacy_presentation",
+      "section": "19.1. Indicadores vigentes",
+      "before": "Estado del material recuperado: VIGENTE. Fuente: Canon Markdown anterior a V16.4. Precedencia A092.",
+      "after": "Estado del material recuperado: ANTECEDENTE. Ampliación de 22 millones sustituida por los valores proporcionales y A092."
+    },
+    {
+      "operation": "clarify_legacy_presentation",
+      "section": "19.2. Curva histórica revisada",
+      "before": "Estado del material recuperado: VIGENTE. Fuente: Canon Markdown anterior a V16.4. Precedencia A092.",
+      "after": "Estado del material recuperado: ANTECEDENTE. Ampliación de 22 millones sustituida por los valores proporcionales y A092."
+    },
+    {
+      "operation": "clarify_legacy_presentation",
+      "section": "19.3. Producción y empleo en 2026",
+      "before": "Estado del material recuperado: VIGENTE. Fuente: Canon Markdown anterior a V16.4. Precedencia A092.",
+      "after": "Estado del material recuperado: ANTECEDENTE. Ampliación de 22 millones sustituida por los valores proporcionales y A092."
+    },
+    {
+      "operation": "clarify_legacy_presentation",
+      "section": "19.4. Recalculo de los niveles superiores",
+      "before": "Estado del material recuperado: VIGENTE. Fuente: Canon Markdown anterior a V16.4. Precedencia A092.",
+      "after": "Estado del material recuperado: ANTECEDENTE. Ampliación de 22 millones sustituida por los valores proporcionales y A092."
+    },
+    {
+      "operation": "clarify_legacy_presentation",
+      "section": "Totales actualizados por adición proporcional",
+      "before": "ANTECEDENTE CUANTITATIVO para Gwaith Aear: el rango de aliados no está conciliado; rige A092-R04 y el registro de aliados. | Gwaith Aear | 1.100–1.500 millones | +10 millones | 1.115,5–1.515,5 millones |",
+      "after": "ANTECEDENTE CUANTITATIVO para Gwaith Aear: el rango de aliados no está conciliado; rige A092-R04 y el registro de aliados.. Datos del antecedente: Gwaith Aear; 1.100–1.500 millones; +10 millones; 1.115,5–1.515,5 millones."
+    }
+  ],
+  "recovered": [
+    {
+      "source_block": 36,
+      "section": "Desarrollo sistemático de la religión",
+      "state": "VIGENTE",
+      "kind": "paragraph",
+      "signature_sha256": "8778d4258e07d22d800ca751c7a97c89f428bca5a90e2b0720abd99381b30bc1"
+    },
+    {
+      "source_block": 74,
+      "section": "Teología valinari de Eru Ainur y Maiar",
+      "state": "VIGENTE",
+      "kind": "paragraph",
+      "signature_sha256": "cd8dc5d9999c9e936e208b40e430295105c08bba1bffd99e648b46c4d6f99c17"
+    },
+    {
+      "source_block": 88,
+      "section": "Composición naval vigente",
+      "state": "VIGENTE",
+      "kind": "paragraph",
+      "signature_sha256": "9bdbeefc39b44933cf3919c246afbbc2d9963b982861affec10848ba362de97b"
+    },
+    {
+      "source_block": 95,
+      "section": "Precedencia canónica",
+      "state": "VIGENTE",
+      "kind": "paragraph",
+      "signature_sha256": "0fd6fb710535fb64b316fe13ead7597acdb0a9df887781143d85b725966b4742"
+    },
+    {
+      "source_block": 96,
+      "section": "Precedencia canónica",
+      "state": "VIGENTE",
+      "kind": "paragraph",
+      "signature_sha256": "cbca125022069eb8c1112c835c246bf6cbbabe3df269c82668bb2ac6d2bc5292"
+    },
+    {
+      "source_block": 97,
+      "section": "Precedencia canónica",
+      "state": "VIGENTE",
+      "kind": "paragraph",
+      "signature_sha256": "43c4c70b62d94c193b4702ab5563114bbd8c17c95915e7e4ade016b2d7f587a6"
+    },
+    {
+      "source_block": 98,
+      "section": "Precedencia canónica",
+      "state": "VIGENTE",
+      "kind": "paragraph",
+      "signature_sha256": "11b958a7a33187efc7d5d1ce388f36f49e8e893fba974ebecf80670f224e71a1"
+    },
+    {
+      "source_block": 99,
+      "section": "Precedencia canónica",
+      "state": "VIGENTE",
+      "kind": "paragraph",
+      "signature_sha256": "5098fc34e9c60b17b024e0010a730487bd2b23030ae4a0e5f4dbc45785f859df"
+    },
+    {
+      "source_block": 101,
+      "section": "Índice de archivos integrados",
+      "state": "VIGENTE",
+      "kind": "paragraph",
+      "signature_sha256": "f799e79b674b0cf706ba159ad36f95d027850f5c79ada600559f75f85180f73e"
+    },
+    {
+      "source_block": 102,
+      "section": "Índice de archivos integrados",
+      "state": "VIGENTE",
+      "kind": "paragraph",
+      "signature_sha256": "b5acd631c3277356cd98b56bffcdbd5dadc01217ffa88b7d15c76074722684bd"
+    },
+    {
+      "source_block": 103,
+      "section": "Índice de archivos integrados",
+      "state": "VIGENTE",
+      "kind": "paragraph",
+      "signature_sha256": "bbcd4f95f76b017040f6e9ea517458fe1faa57a66e1973b0ca58e76202a52805"
+    },
+    {
+      "source_block": 104,
+      "section": "Índice de archivos integrados",
+      "state": "VIGENTE",
+      "kind": "paragraph",
+      "signature_sha256": "628456cfaa43f00c0c524ec8318f68f1ff8950e1c191245e89004c7ebd62125d"
+    },
+    {
+      "source_block": 105,
+      "section": "Índice de archivos integrados",
+      "state": "VIGENTE",
+      "kind": "paragraph",
+      "signature_sha256": "1b8cc67cf20f6197918d874b19080fc577c3f82bf6d9b4b71f7ce9a953f5af37"
+    },
+    {
+      "source_block": 106,
+      "section": "Índice de archivos integrados",
+      "state": "VIGENTE",
+      "kind": "paragraph",
+      "signature_sha256": "7979c09ecaad2d9b60d3df9982098187fbe2bfc862c14ea4cd18f8ec0aff4796"
+    },
+    {
+      "source_block": 107,
+      "section": "Índice de archivos integrados",
+      "state": "VIGENTE",
+      "kind": "paragraph",
+      "signature_sha256": "fb6563ef0245e008d1b95b037c3247f92fc591481d68eb3b8cf2b55099b0b56e"
+    },
+    {
+      "source_block": 108,
+      "section": "Índice de archivos integrados",
+      "state": "VIGENTE",
+      "kind": "paragraph",
+      "signature_sha256": "3583649ba2d63e80d5cf1d66192bef7cb96007c0afbae44984e03e433c2d6494"
+    },
+    {
+      "source_block": 109,
+      "section": "Índice de archivos integrados",
+      "state": "VIGENTE",
+      "kind": "paragraph",
+      "signature_sha256": "f251b8731cc39dc4c79f05171ce7f5fdd08691f9c26589001844d5887ecfbd01"
+    },
+    {
+      "source_block": 110,
+      "section": "Índice de archivos integrados",
+      "state": "VIGENTE",
+      "kind": "paragraph",
+      "signature_sha256": "3396adc8928bf29cc4f5c6c92637039274441428c032cb4a49c0d07ef35b4f10"
+    },
+    {
+      "source_block": 111,
+      "section": "Índice de archivos integrados",
+      "state": "VIGENTE",
+      "kind": "paragraph",
+      "signature_sha256": "d78a242a6bec2ca0886bb1833fa043697c294ca9751574ed53243b300e7c039e"
+    },
+    {
+      "source_block": 112,
+      "section": "Índice de archivos integrados",
+      "state": "VIGENTE",
+      "kind": "paragraph",
+      "signature_sha256": "13f7b5787eb4da58505a7f1a680872f1ce028a49afbf24ae3098482b802cae62"
+    },
+    {
+      "source_block": 113,
+      "section": "Índice de archivos integrados",
+      "state": "VIGENTE",
+      "kind": "paragraph",
+      "signature_sha256": "e3416472a914972c6cd5e576453b41de647202732a8663fbcb380ca02b1776b1"
+    },
+    {
+      "source_block": 114,
+      "section": "Índice de archivos integrados",
+      "state": "VIGENTE",
+      "kind": "paragraph",
+      "signature_sha256": "8e141d1d2a0d6562b2d92e6ff5279766bf2106464fbd6fa1b2f36ccfc80c7a57"
+    },
+    {
+      "source_block": 115,
+      "section": "Índice de archivos integrados",
+      "state": "VIGENTE",
+      "kind": "paragraph",
+      "signature_sha256": "8a956127cc199fd33f93b00f76c5ad3dca7188093b5ad20a55dabad1aa389bed"
+    },
+    {
+      "source_block": 116,
+      "section": "Índice de archivos integrados",
+      "state": "VIGENTE",
+      "kind": "paragraph",
+      "signature_sha256": "5c6d9cb276ac21ae63d0a9c0480d2b80388c4bf12fb5f2387a2bcf83c74ee431"
+    },
+    {
+      "source_block": 117,
+      "section": "Índice de archivos integrados",
+      "state": "VIGENTE",
+      "kind": "paragraph",
+      "signature_sha256": "57996e1f84842a4b0223019c2fb35f57e2ec38233fed76418bbd547650611536"
+    },
+    {
+      "source_block": 118,
+      "section": "Índice de archivos integrados",
+      "state": "VIGENTE",
+      "kind": "paragraph",
+      "signature_sha256": "e3052c6b122951d56bf1598d4dc3f81232545061f9348a832cdc199c2955abc7"
+    },
+    {
+      "source_block": 119,
+      "section": "Índice de archivos integrados",
+      "state": "VIGENTE",
+      "kind": "paragraph",
+      "signature_sha256": "2f55787812e50ad6c7bb4246edcf31e6c94f3061a3e947cb66ab128b952890d4"
+    },
+    {
+      "source_block": 152,
+      "section": "Actualizaciones acumulativas del canon valinoriano",
+      "state": "VIGENTE",
+      "kind": "paragraph",
+      "signature_sha256": "a5bb19ed5cfb3006d25d34a41330a4391bd239a8f40e039283dedc4e8c0c419d"
+    },
+    {
+      "source_block": 154,
+      "section": "Actualizaciones acumulativas del canon valinoriano",
+      "state": "VIGENTE",
+      "kind": "paragraph",
+      "signature_sha256": "c53e8c7cb5235f0c6e3a00a9619355d723855721dd670f0d43bf30e4355ac13f"
+    },
+    {
+      "source_block": 187,
+      "section": "2. Territorios directos",
+      "state": "VIGENTE",
+      "kind": "paragraph",
+      "signature_sha256": "1812695b3df7d41ee7236028372426d74c61d8f0010c47d256fc4b47bea60aeb"
+    },
+    {
+      "source_block": 188,
+      "section": "2. Territorios directos",
+      "state": "VIGENTE",
+      "kind": "paragraph",
+      "signature_sha256": "3dccae3a0c22a5656882674abb0b4bd3a3592623cf5e75a1a684857e937e148a"
+    },
+    {
+      "source_block": 200,
+      "section": "3. Arnor",
+      "state": "VIGENTE",
+      "kind": "paragraph",
+      "signature_sha256": "62547c60921234916f43123c70cb99e8d01b6345476b97d26ba425f6d01f8de7"
+    },
+    {
+      "source_block": 228,
+      "section": "4. Calenardhon Austral",
+      "state": "VIGENTE",
+      "kind": "paragraph",
+      "signature_sha256": "70e65794389a2b3599a3825d0349cef64a9db4c77111b4a73ed305c98fb2a8b0"
+    },
+    {
+      "source_block": 236,
+      "section": "5. Sírënandë",
+      "state": "VIGENTE",
+      "kind": "paragraph",
+      "signature_sha256": "472d1b5989f0980e5b16a490e432aeb0b26360880a50064dbd1fa38b41dfbc11"
+    },
+    {
+      "source_block": 286,
+      "section": "Armada y sistemas de defensa",
+      "state": "VIGENTE",
+      "kind": "paragraph",
+      "signature_sha256": "1bf2a34967bf4d82b372087bfe1fae49140602d01859b1cd37dd252c46198328"
+    },
+    {
+      "source_block": 343,
+      "section": "Normalización de capitales y ciudades principales",
+      "state": "VIGENTE",
+      "kind": "paragraph",
+      "signature_sha256": "1facca44ff9346f2175417dd0c27d4059a144ed10402e710625d0dd2c5259e86"
+    },
+    {
+      "source_block": 532,
+      "section": "Clasificación territorial en 50 d. C.",
+      "state": "VIGENTE",
+      "kind": "table",
+      "signature_sha256": "df6846b307255ed9128f1da6cd074ef13e269c4df5531ba0a4a6f8eb4b47487d"
+    },
+    {
+      "source_block": 545,
+      "section": "Espacios aún no desarrollados en 50 d. C.",
+      "state": "VIGENTE",
+      "kind": "paragraph",
+      "signature_sha256": "2a1be7fb3572a9efae339d1bc61db476e3b8357de9b45c928006360625254e4d"
+    },
+    {
+      "source_block": 603,
+      "section": "Modelo demográfico valinari, 1000 a. C.–800 d. C.",
+      "state": "VIGENTE",
+      "kind": "paragraph",
+      "signature_sha256": "aaf7370e6fc8b212e53a30c7a2ec41ec1bd753f1db4f313a9d22430582c98a96"
+    },
+    {
+      "source_block": 604,
+      "section": "Modelo demográfico valinari, 1000 a. C.–800 d. C.",
+      "state": "VIGENTE",
+      "kind": "paragraph",
+      "signature_sha256": "55cdad9d601799402a3c4ec2bfa4328fcca6e083c789b4c3b8785fb973b0dc01"
+    },
+    {
+      "source_block": 605,
+      "section": "Modelo demográfico valinari, 1000 a. C.–800 d. C.",
+      "state": "VIGENTE",
+      "kind": "paragraph",
+      "signature_sha256": "a00030a85d9a3cfd2772e6a9bf877f75631321df7e375c25373a6b5642f70fec"
+    },
+    {
+      "source_block": 607,
+      "section": "Recalculo demográfico centenario y migración diferenciada",
+      "state": "VIGENTE",
+      "kind": "paragraph",
+      "signature_sha256": "a1ef032168260fc0911f9ae9c850acaf73e918e8eaa511f78469a3f80f333c7f"
+    },
+    {
+      "source_block": 608,
+      "section": "Recalculo demográfico centenario y migración diferenciada",
+      "state": "VIGENTE",
+      "kind": "table",
+      "signature_sha256": "b56fce21c2ab219f356ce5df27b26db637a59785677406bb61e44e4f6e817576"
+    },
+    {
+      "source_block": 609,
+      "section": "Recalculo demográfico centenario y migración diferenciada",
+      "state": "VIGENTE",
+      "kind": "paragraph",
+      "signature_sha256": "74aaae09f48613f47c109e2738afa269dad9d268ab59cc76dbe2734ca6cae490"
+    },
+    {
+      "source_block": 610,
+      "section": "Recalculo demográfico centenario y migración diferenciada",
+      "state": "VIGENTE",
+      "kind": "paragraph",
+      "signature_sha256": "07829e7c66bc3f67b846ba10821258bb23def4720c52af2a53ee0915edefdc63"
+    },
+    {
+      "source_block": 810,
+      "section": "Integración acumulativa consolidada",
+      "state": "VIGENTE",
+      "kind": "paragraph",
+      "signature_sha256": "dbce164770d14628a53cfc2a872d578851ef233509ed73cad403aa9c5f3c5602"
+    },
+    {
+      "source_block": 811,
+      "section": "Integración acumulativa consolidada",
+      "state": "VIGENTE",
+      "kind": "paragraph",
+      "signature_sha256": "c50a82e6a76426b12c062196f8007acd33661581d6c99fc7cb0afbf5b39ee14d"
+    },
+    {
+      "source_block": 812,
+      "section": "Integración acumulativa consolidada",
+      "state": "VIGENTE",
+      "kind": "paragraph",
+      "signature_sha256": "cf8c510d3c09c17a654da7883339ae03571b8812f99878eb64d3cd5138fd8d04"
+    },
+    {
+      "source_block": 813,
+      "section": "Integración acumulativa consolidada",
+      "state": "VIGENTE",
+      "kind": "paragraph",
+      "signature_sha256": "5dfcf42d223dde941648b1098ac5a0e7f0ab03660ccee622285bebd7e3c9dbae"
+    },
+    {
+      "source_block": 814,
+      "section": "Integración acumulativa consolidada",
+      "state": "VIGENTE",
+      "kind": "paragraph",
+      "signature_sha256": "3011813c68549fefd1d974d6199cd82024a73236b8ab5732c8207f8f36f9fca2"
+    },
+    {
+      "source_block": 816,
+      "section": "Industria, canal y fiscalidad contemporánea",
+      "state": "VIGENTE",
+      "kind": "paragraph",
+      "signature_sha256": "d91f236df50fc5b21b61b5ebf51d0d63427deb0e6ac46e9c91f3f061a9a1e0d7"
+    },
+    {
+      "source_block": 817,
+      "section": "Industria, canal y fiscalidad contemporánea",
+      "state": "VIGENTE",
+      "kind": "paragraph",
+      "signature_sha256": "07ab77862d1d80a03096a383a23bcae55d559098f0cc112ff12f3747ab3d2713"
+    },
+    {
+      "source_block": 818,
+      "section": "Industria, canal y fiscalidad contemporánea",
+      "state": "VIGENTE",
+      "kind": "paragraph",
+      "signature_sha256": "b9ff8924ea95fea2a3f4f02e928e622e2ea74bc091ca46a681398eedaa2e8fdd"
+    },
+    {
+      "source_block": 827,
+      "section": "Esclavitud dependencia y reforma",
+      "state": "VIGENTE",
+      "kind": "paragraph",
+      "signature_sha256": "3ec78b0d8975492cdfd77a950549c915a13a8fa27622e69b0991fcbda889ce61"
+    },
+    {
+      "source_block": 885,
+      "section": "COFOVAL y el fomento económico federal",
+      "state": "VIGENTE",
+      "kind": "paragraph",
+      "signature_sha256": "a306f87a523aa3609ad6aea8a217504237b3d2cd36b57e1516a2adfe5ad04a1f"
+    },
+    {
+      "source_block": 886,
+      "section": "COFOVAL y el fomento económico federal",
+      "state": "VIGENTE",
+      "kind": "paragraph",
+      "signature_sha256": "b08f43cde35b58454617820fccc88637a51360fec57a36fe1a59243212835763"
+    },
+    {
+      "source_block": 887,
+      "section": "COFOVAL y el fomento económico federal",
+      "state": "VIGENTE",
+      "kind": "paragraph",
+      "signature_sha256": "9afcbeb6c8bfc13bb1a05c5fc7753eeb608b51abf97ef1612d0f76efb639d15f"
+    },
+    {
+      "source_block": 888,
+      "section": "COFOVAL y el fomento económico federal",
+      "state": "VIGENTE",
+      "kind": "paragraph",
+      "signature_sha256": "d22e59754768c297786404b33cf54106d881142b28f184b5b5f2a3e49910ca09"
+    },
+    {
+      "source_block": 889,
+      "section": "COFOVAL y el fomento económico federal",
+      "state": "VIGENTE",
+      "kind": "paragraph",
+      "signature_sha256": "aeb780b474c331635ca590fca9c83eff5e72ddb1cbe9df6760dfcabc0e4da6d4"
+    },
+    {
+      "source_block": 890,
+      "section": "COFOVAL y el fomento económico federal",
+      "state": "VIGENTE",
+      "kind": "paragraph",
+      "signature_sha256": "b9d00f0470549f959ef5a3d75eac39335ee867cafec3d92dc56bda1a3f95913b"
+    },
+    {
+      "source_block": 891,
+      "section": "COFOVAL y el fomento económico federal",
+      "state": "VIGENTE",
+      "kind": "paragraph",
+      "signature_sha256": "45155dffda521ecca070225a7ff0410833451faa682977cccb61909a790538c3"
+    },
+    {
+      "source_block": 893,
+      "section": "Balance físico de suministro: escenario central 2026",
+      "state": "HIPÓTESIS",
+      "kind": "paragraph",
+      "signature_sha256": "f0bab68188508cec710f10315abc8344246f7cf87f19dd853809167135b088b5"
+    },
+    {
+      "source_block": 894,
+      "section": "Balance físico de suministro: escenario central 2026",
+      "state": "HIPÓTESIS",
+      "kind": "table",
+      "signature_sha256": "3f004509ff0f2e98105a5270736f50f4e0e501c1f8084f4756de892594bdfc1c"
+    },
+    {
+      "source_block": 895,
+      "section": "Balance físico de suministro: escenario central 2026",
+      "state": "HIPÓTESIS",
+      "kind": "paragraph",
+      "signature_sha256": "0fa8979e434dcac1dc367dd050ffe880ada689dbe30964d2d2a16ea0eb8f4ee9"
+    },
+    {
+      "source_block": 896,
+      "section": "Balance físico de suministro: escenario central 2026",
+      "state": "HIPÓTESIS",
+      "kind": "paragraph",
+      "signature_sha256": "66962af78a878dcc711be50d71db486ce5bebd8ef556911b3c60afff0f1ab63c"
+    },
+    {
+      "source_block": 898,
+      "section": "12. Regla primordial de nomenclatura urbana",
+      "state": "VIGENTE",
+      "kind": "paragraph",
+      "signature_sha256": "38b591f54bb4e62b4919fcef3039d0b2d609f63e06d8937ce9c25d5711b5926f"
+    },
+    {
+      "source_block": 901,
+      "section": "12. Regla primordial de nomenclatura urbana",
+      "state": "VIGENTE",
+      "kind": "paragraph",
+      "signature_sha256": "b7dfeb3873a78c6401dc9237a8c0ae20b25b5adca32e21ce0afef3fedf1d1cc9"
+    },
+    {
+      "source_block": 950,
+      "section": "Fragmentación, recuperación y memoria institucional",
+      "state": "VIGENTE",
+      "kind": "paragraph",
+      "signature_sha256": "749dedc8932b94892424b0aee2086ebc80961fe00185bdae2e3ce3768b098bc3"
+    },
+    {
+      "source_block": 1023,
+      "section": "17.2. Escala acumulativa de las entidades",
+      "state": "VIGENTE",
+      "kind": "table",
+      "signature_sha256": "1f95d654bdd79760d87d489bc0384100fa599368071006dc742fd0a6763d2aa0"
+    },
+    {
+      "source_block": 1024,
+      "section": "17.2. Escala acumulativa de las entidades",
+      "state": "VIGENTE",
+      "kind": "paragraph",
+      "signature_sha256": "3316e59eb97d5d75d34900fb11397e43f909a6abb9842a444fa93bdd4a1fbd67"
+    },
+    {
+      "source_block": 1028,
+      "section": "17.3. Composición política",
+      "state": "VIGENTE",
+      "kind": "paragraph",
+      "signature_sha256": "5cc95dc14fbaa4bce8de0ed3fd4055ae00729b3016eec730fa2390a4a4e31ecb"
+    },
+    {
+      "source_block": 1043,
+      "section": "17.4. Política cultural de la expansión oriental",
+      "state": "VIGENTE",
+      "kind": "paragraph",
+      "signature_sha256": "45b9c1e1dc146f806a095ec9af1283c3002b8bcb27da40f623a3842d23403521"
+    },
+    {
+      "source_block": 1077,
+      "section": "19. Ampliación demográfica y económica de Eryndor y Harnen",
+      "state": "ANTECEDENTE",
+      "kind": "paragraph",
+      "signature_sha256": "68e352703f992e31b44e9ebc1bff01d5ea7ee0ad67f6ce1449d05dbd8260d798"
+    },
+    {
+      "source_block": 1078,
+      "section": "19. Ampliación demográfica y económica de Eryndor y Harnen",
+      "state": "ANTECEDENTE",
+      "kind": "paragraph",
+      "signature_sha256": "d65069714987d7e6ecaab3f50a9490ffd5bd65223d1fde865038c6b09b2aa974"
+    },
+    {
+      "source_block": 1080,
+      "section": "19.1. Indicadores vigentes",
+      "state": "VIGENTE",
+      "kind": "table",
+      "signature_sha256": "b75d086ffa641b607a365ce374ccae4c585fea964d00909d2604482f3fa38545"
+    },
+    {
+      "source_block": 1081,
+      "section": "19.1. Indicadores vigentes",
+      "state": "VIGENTE",
+      "kind": "paragraph",
+      "signature_sha256": "6bf431cfc0b459d8dc2236c547ef941906484dba87c08d0818be6b51f44ed12c"
+    },
+    {
+      "source_block": 1083,
+      "section": "19.2. Curva histórica revisada",
+      "state": "VIGENTE",
+      "kind": "table",
+      "signature_sha256": "f258c6dfad1061eda6252279dca4ac91fa49cf2bb0f4bde61f6269b68e463cd3"
+    },
+    {
+      "source_block": 1085,
+      "section": "19.3. Producción y empleo en 2026",
+      "state": "VIGENTE",
+      "kind": "table",
+      "signature_sha256": "6d47198b2f24946046e40a1c40d74ac92285227397bcabcb82ae49243c170175"
+    },
+    {
+      "source_block": 1087,
+      "section": "19.4. Recalculo de los niveles superiores",
+      "state": "VIGENTE",
+      "kind": "paragraph",
+      "signature_sha256": "d9ab133bc5b8d3d39f2153f9c750ba7b82f061f833c57e7ccd5488c5dc2b4855"
+    },
+    {
+      "source_block": 1088,
+      "section": "19.4. Recalculo de los niveles superiores",
+      "state": "VIGENTE",
+      "kind": "paragraph",
+      "signature_sha256": "df0d2b809b1b992d0dfefbbad1359f05419195740760441536a1edbaf2292899"
+    },
+    {
+      "source_block": 1089,
+      "section": "19.4. Recalculo de los niveles superiores",
+      "state": "VIGENTE",
+      "kind": "paragraph",
+      "signature_sha256": "97cfa340f3df8afede7dcc2a004fb8bec3432b57db96bdb62ed28cecf1c3e002"
+    },
+    {
+      "source_block": 1090,
+      "section": "19.4. Recalculo de los niveles superiores",
+      "state": "VIGENTE",
+      "kind": "paragraph",
+      "signature_sha256": "dcfae4ae10202fd7cb664d0fda70b571bb50f6c02618700fd7573aa56813e5e3"
+    },
+    {
+      "source_block": 1091,
+      "section": "19.4. Recalculo de los niveles superiores",
+      "state": "VIGENTE",
+      "kind": "paragraph",
+      "signature_sha256": "b4c572cfe193d99ff345fb5beafa6fe7a9c65a17c14cc16aa7647839c29d46dc"
+    },
+    {
+      "source_block": 1092,
+      "section": "19.4. Recalculo de los niveles superiores",
+      "state": "VIGENTE",
+      "kind": "paragraph",
+      "signature_sha256": "d78813e9c375ca4f2bbe5bbbf3d6e323993485c2ec9dda92d972a3a6eaf26848"
+    },
+    {
+      "source_block": 1093,
+      "section": "19.4. Recalculo de los niveles superiores",
+      "state": "VIGENTE",
+      "kind": "paragraph",
+      "signature_sha256": "cf326f1ce641e1832294cd3509013c9e8c7b62f6f7ca87d6a7b72dbb52ab6554"
+    },
+    {
+      "source_block": 1095,
+      "section": "20. Corrección de la ampliación federal — valores proporcionales",
+      "state": "VIGENTE",
+      "kind": "paragraph",
+      "signature_sha256": "bdd0840e40e97169b0355f3dcb990a50dd50f8a180d1de127fb6a0d513ff8d8e"
+    },
+    {
+      "source_block": 1096,
+      "section": "20. Corrección de la ampliación federal — valores proporcionales",
+      "state": "VIGENTE",
+      "kind": "paragraph",
+      "signature_sha256": "84892b475767e6cbf5e04c4caaaf1b210902ef546780bf549e722d530ff37802"
+    },
+    {
+      "source_block": 1098,
+      "section": "Valores vigentes de los nuevos estados",
+      "state": "VIGENTE",
+      "kind": "table",
+      "signature_sha256": "6d13d9d9c39f78415f470b222b8ca7efe049a23bead90ff6fdeb0e7136e8baea"
+    },
+    {
+      "source_block": 1099,
+      "section": "Valores vigentes de los nuevos estados",
+      "state": "VIGENTE",
+      "kind": "paragraph",
+      "signature_sha256": "9751f2becc50bce6e9141b7382e3bdfdff75dde10ee4e55fe49706af8d793d60"
+    },
+    {
+      "source_block": 1101,
+      "section": "Totales actualizados por adición proporcional",
+      "state": "VIGENTE",
+      "kind": "table",
+      "signature_sha256": "c413a795129626e87d41a2c67b7377442689afbe18dfd7bb380ed34ee5b0a808"
+    },
+    {
+      "source_block": 1102,
+      "section": "Totales actualizados por adición proporcional",
+      "state": "VIGENTE",
+      "kind": "paragraph",
+      "signature_sha256": "c674f189744dbe61d53e01e1e7da2a65f79c3311bc267a6dcbefaaba320e3b27"
+    },
+    {
+      "source_block": 1103,
+      "section": "Totales actualizados por adición proporcional",
+      "state": "VIGENTE",
+      "kind": "table",
+      "signature_sha256": "89a5219a143d566c7e6c1d692058b101e4b47c4a31238ead5e6656abb6118c76"
+    },
+    {
+      "source_block": 1104,
+      "section": "Totales actualizados por adición proporcional",
+      "state": "VIGENTE",
+      "kind": "paragraph",
+      "signature_sha256": "6175a1a4ff61971d8490d704d7678f16a9879ae7936bca5e255cf64fedc30525"
+    },
+    {
+      "source_block": 1105,
+      "section": "Totales actualizados por adición proporcional",
+      "state": "VIGENTE",
+      "kind": "paragraph",
+      "signature_sha256": "f2ab1e86a2dde70d732ce9a6ae03f63994633781a5a203143b3c693ef44ef8ed"
+    },
+    {
+      "source_block": 1107,
+      "section": "21. Auditoría de coherencia y decisiones resueltas",
+      "state": "VIGENTE",
+      "kind": "paragraph",
+      "signature_sha256": "2a959af3ed60f1b5fb30ef1f72b5d906657a1b8b3d19e4b75c90c6f9b1c92483"
+    },
+    {
+      "source_block": 1108,
+      "section": "21. Auditoría de coherencia y decisiones resueltas",
+      "state": "VIGENTE",
+      "kind": "paragraph",
+      "signature_sha256": "e1fa75c9722e538806a8c32ffdb36e2d5e5aee99d9f82de8460993cf4ff9af8c"
+    },
+    {
+      "source_block": 1110,
+      "section": "Resolución A — escala demográfica principal",
+      "state": "VIGENTE",
+      "kind": "paragraph",
+      "signature_sha256": "53e46f32af04264b979b90a5ba1e98f23cad8f0af5c3feab0b6ad6fac45997cb"
+    },
+    {
+      "source_block": 1111,
+      "section": "Resolución A — escala demográfica principal",
+      "state": "VIGENTE",
+      "kind": "paragraph",
+      "signature_sha256": "582c24bf24170437f25dfca85a9a9e313debf63ae26a8a8ab244837dcb03edfb"
+    },
+    {
+      "source_block": 1112,
+      "section": "Resolución A — escala demográfica principal",
+      "state": "VIGENTE",
+      "kind": "paragraph",
+      "signature_sha256": "5b24fa5d7660c2f7036a93000fc81c47dcf202e49152ddb24f12a69098e88971"
+    },
+    {
+      "source_block": 1114,
+      "section": "Resolución B — estatus de Nosselië Toliva",
+      "state": "VIGENTE",
+      "kind": "paragraph",
+      "signature_sha256": "5b49a4f2bb9532b6a5db7f5bc351eddf165f1bfdf98a1c711394c3b1f550889a"
+    },
+    {
+      "source_block": 1115,
+      "section": "Resolución B — estatus de Nosselië Toliva",
+      "state": "VIGENTE",
+      "kind": "paragraph",
+      "signature_sha256": "ea5fca30bf8e21f66acf5190cf9d6cf11639576e382002780e95d28a69ef0b84"
+    },
+    {
+      "source_block": 1116,
+      "section": "Resolución B — estatus de Nosselië Toliva",
+      "state": "VIGENTE",
+      "kind": "paragraph",
+      "signature_sha256": "4d96b776103f9d2a867da3cecd02ca00cd7eead3cff35db98f5d8328e1d3cdff"
+    },
+    {
+      "source_block": 1118,
+      "section": "Resolución C — estatus de Eryndor y Harnen",
+      "state": "VIGENTE",
+      "kind": "paragraph",
+      "signature_sha256": "5dff49efc8cbd6f02ca3c501ac48a9ae0934e1c39e2c34e65a3fb2f0970a8574"
+    },
+    {
+      "source_block": 1119,
+      "section": "Resolución C — estatus de Eryndor y Harnen",
+      "state": "VIGENTE",
+      "kind": "paragraph",
+      "signature_sha256": "77b4a59f583497d3aabcfcb09e16bb6058124e705e4c2c7c1d2047c544f8aa39"
+    },
+    {
+      "source_block": 1120,
+      "section": "Resolución C — estatus de Eryndor y Harnen",
+      "state": "VIGENTE",
+      "kind": "paragraph",
+      "signature_sha256": "698c4b39dda9befbdb91a342c9279ceec0d9712c42ee460fc257ece79773a377"
+    },
+    {
+      "source_block": 1122,
+      "section": "Resolución D — Systreyjar",
+      "state": "VIGENTE",
+      "kind": "paragraph",
+      "signature_sha256": "2959f70fa43e8c8e5ffcffc6ac05cf9d09904045ca244c8340418e2b27d57f0f"
+    },
+    {
+      "source_block": 1123,
+      "section": "Resolución D — Systreyjar",
+      "state": "VIGENTE",
+      "kind": "paragraph",
+      "signature_sha256": "e55ff0c4d45820a5e71af0e166e27df826892f627668ac85bef9c71c8755b721"
+    },
+    {
+      "source_block": 1124,
+      "section": "Resolución D — Systreyjar",
+      "state": "VIGENTE",
+      "kind": "paragraph",
+      "signature_sha256": "11bbd3263bac8a7545eb009acea68c79ef05e784b8a72c8e9d96d66c6ede7744"
+    },
+    {
+      "source_block": 1126,
+      "section": "Resolución F — relación constitucional y contable entre el Reino y la Federación",
+      "state": "VIGENTE",
+      "kind": "paragraph",
+      "signature_sha256": "4a40a552cefb14546f0aca62fd9abd9490afc5771af77bb3418e7dac2aa51665"
+    },
+    {
+      "source_block": 1127,
+      "section": "Resolución F — relación constitucional y contable entre el Reino y la Federación",
+      "state": "VIGENTE",
+      "kind": "paragraph",
+      "signature_sha256": "d89adaf9ee3f3345a81b7e2586c41074399815a66edff355b16eb55b34e7b71d"
+    },
+    {
+      "source_block": 1128,
+      "section": "Resolución F — relación constitucional y contable entre el Reino y la Federación",
+      "state": "VIGENTE",
+      "kind": "paragraph",
+      "signature_sha256": "d5cea252a6714bb2a6a9483fd21a76a8e67e98d9dbce2e30f41197cd69b7ae01"
+    },
+    {
+      "source_block": 1129,
+      "section": "Resolución F — relación constitucional y contable entre el Reino y la Federación",
+      "state": "VIGENTE",
+      "kind": "paragraph",
+      "signature_sha256": "0b02da1ea3d9c21b4bf8ab771855aeb2e91a2a1a21327391c86743e3a9309adc"
+    },
+    {
+      "source_block": 1130,
+      "section": "Resolución F — relación constitucional y contable entre el Reino y la Federación",
+      "state": "VIGENTE",
+      "kind": "paragraph",
+      "signature_sha256": "d31c9e4e82d78f618b0ee6f0d2bfd3570d07fd77405111799a66d80e4cd4bcf4"
+    },
+    {
+      "source_block": 1132,
+      "section": "Resolución E — cronologías y convenios culturales",
+      "state": "VIGENTE",
+      "kind": "paragraph",
+      "signature_sha256": "4f6d4c8a905d934d18174217fae3c7898f004ec05af709a419d62bf14cd4a06e"
+    },
+    {
+      "source_block": 1134,
+      "section": "Regla de precedencia consolidada",
+      "state": "VIGENTE",
+      "kind": "paragraph",
+      "signature_sha256": "f5fca71c13a4415aff55caa4ae5195925e8ce709e0ed20e167c4af48f298eb6e"
+    },
+    {
+      "source_block": 1166,
+      "section": "22.4. Centros industriales",
+      "state": "VIGENTE",
+      "kind": "paragraph",
+      "signature_sha256": "0fff7165c3da68f443fb2e08cdaa3298b461a82117c247402ad3089469a0b2ac"
+    },
+    {
+      "source_block": 1187,
+      "section": "23.3. Distribución sectorial federal revisada",
+      "state": "VIGENTE",
+      "kind": "paragraph",
+      "signature_sha256": "856bc3c0150044dcf0e50f5dbd6eb6b97915512577896f29f67dd2bbcdaa6852"
+    },
+    {
+      "source_block": 1214,
+      "section": "Equivalencia de generaciones",
+      "state": "VIGENTE",
+      "kind": "paragraph",
+      "signature_sha256": "4eb7b73a43b362dfb958b9c079d9104980f55be588c1d4bef37b0495f2ac08f4"
+    },
+    {
+      "source_block": 1218,
+      "section": "26. Clases principales de la Armada Valinoreana",
+      "state": "VIGENTE",
+      "kind": "table",
+      "signature_sha256": "d4c14494df59be642587c8fe2b0a72d22353cb290c4e7bd80184d13bfd6a2b01"
+    },
+    {
+      "source_block": 1230,
+      "section": "Integración canónica AM1 — Armada 1875–2026",
+      "state": "VIGENTE",
+      "kind": "paragraph",
+      "signature_sha256": "23a139ced4c914fb935d60dc2316cb98ac265f8bb81754196a3d4f8e493758de"
+    },
+    {
+      "source_block": 1232,
+      "section": "Composiciones de referencia",
+      "state": "VIGENTE",
+      "kind": "table",
+      "signature_sha256": "1eb10eaeee007a751dcea84d1b3dd6df22469ee2d6a274e4051b05de0607159f"
+    },
+    {
+      "source_block": 1233,
+      "section": "Composiciones de referencia",
+      "state": "VIGENTE",
+      "kind": "paragraph",
+      "signature_sha256": "123f767dc90e4bcdd3cb5866afcb19a5f07f1fa50ee87070dd90cd04208cd67e"
+    },
+    {
+      "source_block": 1234,
+      "section": "Composiciones de referencia",
+      "state": "VIGENTE",
+      "kind": "paragraph",
+      "signature_sha256": "ee39bf4539ac8b35d1489b8ec37ae5f49ae524720725a4d253c8a5ef9063e6c2"
+    },
+    {
+      "source_block": 1236,
+      "section": "Ciclo de vida y modernización",
+      "state": "VIGENTE",
+      "kind": "paragraph",
+      "signature_sha256": "8ff1e3cfe9a11a103f5007b44b2db05aec5692cd77267c0f812590a6a95fe542"
+    },
+    {
+      "source_block": 1237,
+      "section": "Ciclo de vida y modernización",
+      "state": "VIGENTE",
+      "kind": "paragraph",
+      "signature_sha256": "9f510490d1165cb1404b140bafa89ece97fdbf232adac595c2b087a378a29111"
+    },
+    {
+      "source_block": 1239,
+      "section": "Industria, tecnología y sostenimiento",
+      "state": "VIGENTE",
+      "kind": "paragraph",
+      "signature_sha256": "8f1ace347695048495f7c535b363f811409d45ee0a42e0b8773719ebd9617308"
+    },
+    {
+      "source_block": 1240,
+      "section": "Industria, tecnología y sostenimiento",
+      "state": "VIGENTE",
+      "kind": "paragraph",
+      "signature_sha256": "79efc09406a8c27c7692c8793e84cf496b47b6ce79b1307371f495f2096beef2"
+    },
+    {
+      "source_block": 1241,
+      "section": "Industria, tecnología y sostenimiento",
+      "state": "VIGENTE",
+      "kind": "paragraph",
+      "signature_sha256": "ff783c29594603bb4bb2f4a3107133f60a5455f0ada0e214b288bbb774a83304"
+    },
+    {
+      "source_block": 1270,
+      "section": "24. Integración total de actualizaciones acumulativas",
+      "state": "VIGENTE",
+      "kind": "paragraph",
+      "signature_sha256": "6db4e432e71c1a359ad9a025e350ba59c112e013b84b4b55bd9779b4fa063480"
+    },
+    {
+      "source_block": 1271,
+      "section": "24. Integración total de actualizaciones acumulativas",
+      "state": "VIGENTE",
+      "kind": "paragraph",
+      "signature_sha256": "adeadd9dfa32febe54ca54d273d67ee9f186f5975bb125acf4f063d63a63603f"
+    },
+    {
+      "source_block": 1272,
+      "section": "24. Integración total de actualizaciones acumulativas",
+      "state": "VIGENTE",
+      "kind": "paragraph",
+      "signature_sha256": "7d648ca36095ea1dd9f87a0cc89a8bb84966c0bbea4217086443b9fc4a81e9ba"
+    },
+    {
+      "source_block": 1273,
+      "section": "24. Integración total de actualizaciones acumulativas",
+      "state": "VIGENTE",
+      "kind": "paragraph",
+      "signature_sha256": "d548ad14f7e858d62e3734a87014d1be05e9b1ee39229883b87bcb9fbd76710e"
+    },
+    {
+      "source_block": 1274,
+      "section": "24. Integración total de actualizaciones acumulativas",
+      "state": "VIGENTE",
+      "kind": "paragraph",
+      "signature_sha256": "e1554cc29b07d634e52f63212a7af92121782ae9558f2025501cd20dff3aaad3"
+    },
+    {
+      "source_block": 1275,
+      "section": "24. Integración total de actualizaciones acumulativas",
+      "state": "VIGENTE",
+      "kind": "paragraph",
+      "signature_sha256": "ff995daf448b5a43887d7d62553dfbf3c90d48adf11f764dc77c664dd49d47ee"
+    },
+    {
+      "source_block": 1276,
+      "section": "24. Integración total de actualizaciones acumulativas",
+      "state": "VIGENTE",
+      "kind": "paragraph",
+      "signature_sha256": "50f85e241f0dcf15ad939708d0fe775c5573bb4b23f7b28586b3a14f118684af"
+    },
+    {
+      "source_block": 1277,
+      "section": "24. Integración total de actualizaciones acumulativas",
+      "state": "VIGENTE",
+      "kind": "paragraph",
+      "signature_sha256": "6e40943cbc020db2c23c851f33a13f3c9b69d8da63dc04830ee9cdbe6d39216a"
+    },
+    {
+      "source_block": 1278,
+      "section": "24. Integración total de actualizaciones acumulativas",
+      "state": "VIGENTE",
+      "kind": "paragraph",
+      "signature_sha256": "d5c2a0836ea2186f98abe98ba52f6edc56a4c5dec9547c6b024fbe54bf0f61cf"
+    },
+    {
+      "source_block": 1279,
+      "section": "24. Integración total de actualizaciones acumulativas",
+      "state": "VIGENTE",
+      "kind": "paragraph",
+      "signature_sha256": "01881709466bb0cbe183755ac2a6a3685db7727b624b3395efd5ffd07332d8d3"
+    },
+    {
+      "source_block": 1280,
+      "section": "24. Integración total de actualizaciones acumulativas",
+      "state": "VIGENTE",
+      "kind": "paragraph",
+      "signature_sha256": "da9651e14a6162cb237db2c4bc640aeb8aade48e6692948d6257f5bfca0daead"
+    },
+    {
+      "source_block": 1281,
+      "section": "24. Integración total de actualizaciones acumulativas",
+      "state": "VIGENTE",
+      "kind": "paragraph",
+      "signature_sha256": "518eae66aed13789280fd12834b04c8cd55f985d4a46baebceaaef0cb216d64b"
+    },
+    {
+      "source_block": 1282,
+      "section": "24. Integración total de actualizaciones acumulativas",
+      "state": "VIGENTE",
+      "kind": "paragraph",
+      "signature_sha256": "d4d32a2751ef34a71c17dc25098ea16e92b9e50daa1a9287eafd3be37306b7c7"
+    },
+    {
+      "source_block": 1283,
+      "section": "24. Integración total de actualizaciones acumulativas",
+      "state": "VIGENTE",
+      "kind": "paragraph",
+      "signature_sha256": "501b4ff809dd542630d0994390ad28ee31466cf83e656bdd48d30788b64d99fa"
+    },
+    {
+      "source_block": 1284,
+      "section": "24. Integración total de actualizaciones acumulativas",
+      "state": "VIGENTE",
+      "kind": "paragraph",
+      "signature_sha256": "9fbc7c249b8bcf895a8d3ead2d541a719502a0bb6231b22cabaccf8926614b44"
+    },
+    {
+      "source_block": 1285,
+      "section": "24. Integración total de actualizaciones acumulativas",
+      "state": "VIGENTE",
+      "kind": "paragraph",
+      "signature_sha256": "d934e3d147426c178cab4f6298c3b8e946b37289078893a82f8075a259e9119b"
+    },
+    {
+      "source_block": 1286,
+      "section": "24. Integración total de actualizaciones acumulativas",
+      "state": "VIGENTE",
+      "kind": "paragraph",
+      "signature_sha256": "fb82e538624d1989f5ae71db04756fa2782cf05ce6ffd3072593cbc40dbe81c3"
+    },
+    {
+      "source_block": 1342,
+      "section": "29.5. Consecuencias",
+      "state": "VIGENTE",
+      "kind": "paragraph",
+      "signature_sha256": "f9a30952d3d95afe8b7fe9c7d6a627115e35462c51ed948721c77e668ab10a7b"
+    },
+    {
+      "source_block": 1378,
+      "section": "31.3. Primera estimación del VAB (sustituida por sección 36)",
+      "state": "ANTECEDENTE",
+      "kind": "paragraph",
+      "signature_sha256": "e87b1abd0717f003c9cd1a33f17da695e02802ee1ae9563184ce2e0c5fcd4098"
+    },
+    {
+      "source_block": 1379,
+      "section": "31.3. Primera estimación del VAB (sustituida por sección 36)",
+      "state": "ANTECEDENTE",
+      "kind": "table",
+      "signature_sha256": "9e67d2fb314ec57af36f695e0ea4f2e7f659167c8ee9e04be50aea7cd8d0bca3"
+    },
+    {
+      "source_block": 1380,
+      "section": "31.3. Primera estimación del VAB (sustituida por sección 36)",
+      "state": "ANTECEDENTE",
+      "kind": "paragraph",
+      "signature_sha256": "ac87eb118f47dc7b6f3dff00b929cffaa3c0984e34fe624b1ca310c709c629ba"
+    },
+    {
+      "source_block": 1381,
+      "section": "31.3. Primera estimación del VAB (sustituida por sección 36)",
+      "state": "ANTECEDENTE",
+      "kind": "paragraph",
+      "signature_sha256": "a76adcbc23bb989ab85acaa6211ad66387515476236925df0a46387507ae1265"
+    },
+    {
+      "source_block": 1388,
+      "section": "32.2. Primera estimación del VAB (sustituida por sección 36)",
+      "state": "ANTECEDENTE",
+      "kind": "paragraph",
+      "signature_sha256": "cf9794366b5961696352e42aafcb4ece5f922b8cb8d3ec50e827980e81a00f17"
+    },
+    {
+      "source_block": 1389,
+      "section": "32.2. Primera estimación del VAB (sustituida por sección 36)",
+      "state": "ANTECEDENTE",
+      "kind": "table",
+      "signature_sha256": "d0c222b9c79d9fe435225342766a7208370c3a44ed29ad49cb737e66dfbf6994"
+    },
+    {
+      "source_block": 1390,
+      "section": "32.2. Primera estimación del VAB (sustituida por sección 36)",
+      "state": "ANTECEDENTE",
+      "kind": "paragraph",
+      "signature_sha256": "c5ebe0a37c6950793e75a2ae5371fab02bca15aa0a9f7710ddef0adad0481d28"
+    },
+    {
+      "source_block": 1391,
+      "section": "32.2. Primera estimación del VAB (sustituida por sección 36)",
+      "state": "ANTECEDENTE",
+      "kind": "paragraph",
+      "signature_sha256": "5c95f42838b060222eecc6d01166fedfcd83176d24f05e41d2299952d1a25ad4"
+    },
+    {
+      "source_block": 1392,
+      "section": "32.2. Primera estimación del VAB (sustituida por sección 36)",
+      "state": "ANTECEDENTE",
+      "kind": "paragraph",
+      "signature_sha256": "16976c0682ade46ef2a5044a29454899545d64b8610cd6fa6670e5cf1b46f347"
+    },
+    {
+      "source_block": 1393,
+      "section": "32.2. Primera estimación del VAB (sustituida por sección 36)",
+      "state": "ANTECEDENTE",
+      "kind": "paragraph",
+      "signature_sha256": "631596eed8d59044515e54a49d46e5c12e2e4469fffb6048408e5fec69c4158f"
+    },
+    {
+      "source_block": 1394,
+      "section": "32.2. Primera estimación del VAB (sustituida por sección 36)",
+      "state": "ANTECEDENTE",
+      "kind": "paragraph",
+      "signature_sha256": "b30493581ddc8b2fcf08c5ad193a8bc1de6e08beb3503ade551aedf60cadd046"
+    },
+    {
+      "source_block": 1396,
+      "section": "33. ECON-03: cálculo del valor añadido por sector y territorio",
+      "state": "VIGENTE",
+      "kind": "paragraph",
+      "signature_sha256": "fdf5308ece6fc8f7f2bbd079fae636daf09b3f139ce6f6e48afb36cef1715c00"
+    },
+    {
+      "source_block": 1411,
+      "section": "33.4. Formato de entrega y confianza",
+      "state": "VIGENTE",
+      "kind": "paragraph",
+      "signature_sha256": "e546334b1f246846256e0d819bd2a0945064ea6f5f7dfe222c1cc9f0e7202462"
+    },
+    {
+      "source_block": 1413,
+      "section": "33.5. Primera matriz ECON-03: Colombia Costera y Panamá Federal",
+      "state": "ANTECEDENTE",
+      "kind": "paragraph",
+      "signature_sha256": "e2d6cf3339f5dd98cfcadef98ef87a50d047c92393b724374e0df84d18a0cbb8"
+    },
+    {
+      "source_block": 1414,
+      "section": "33.5. Primera matriz ECON-03: Colombia Costera y Panamá Federal",
+      "state": "ANTECEDENTE",
+      "kind": "table",
+      "signature_sha256": "e52465dab51e81776c2d633b57029aa1c56b3a04ea1d36d03bae41725d6286d2"
+    },
+    {
+      "source_block": 1415,
+      "section": "33.5. Primera matriz ECON-03: Colombia Costera y Panamá Federal",
+      "state": "ANTECEDENTE",
+      "kind": "paragraph",
+      "signature_sha256": "bfb51da4ab6e8e06b379a8ba13e60c43e85ee5208d987299addef348143ad337"
+    },
+    {
+      "source_block": 1417,
+      "section": "33.6. Primera matriz ECON-03 para Arnor",
+      "state": "ANTECEDENTE",
+      "kind": "paragraph",
+      "signature_sha256": "94c692110bd96aef19bdb4beff394dd29e551d147366efbf975f6ace6bb03630"
+    },
+    {
+      "source_block": 1418,
+      "section": "33.6. Primera matriz ECON-03 para Arnor",
+      "state": "ANTECEDENTE",
+      "kind": "table",
+      "signature_sha256": "acc209947a914e6bf9b4491687fe3e1a2683198bc2d748921130e13138929659"
+    },
+    {
+      "source_block": 1419,
+      "section": "33.6. Primera matriz ECON-03 para Arnor",
+      "state": "ANTECEDENTE",
+      "kind": "paragraph",
+      "signature_sha256": "039a94a486b6338cbf54646ea20b0a3cffd56cdd244324fce72ebd8ca140608a"
+    },
+    {
+      "source_block": 1420,
+      "section": "33.6. Primera matriz ECON-03 para Arnor",
+      "state": "ANTECEDENTE",
+      "kind": "table",
+      "signature_sha256": "0579de35b66a0c6ffd648306ba64ee9445a4dc349f191b4b5681ff30d9788f34"
+    },
+    {
+      "source_block": 1421,
+      "section": "33.6. Primera matriz ECON-03 para Arnor",
+      "state": "ANTECEDENTE",
+      "kind": "paragraph",
+      "signature_sha256": "da6026d068db4dfef70cb456131d39b988c9b9137074be793ac681abd021dc94"
+    },
+    {
+      "source_block": 1423,
+      "section": "33.7. Objetivos de PIB para Calenardhon Austral y Sírënandë",
+      "state": "VIGENTE",
+      "kind": "paragraph",
+      "signature_sha256": "87a79acb9eed8b5de2002ff2958340a8c4d791c39ef618e59b29af5b87a63091"
+    },
+    {
+      "source_block": 1424,
+      "section": "33.7. Objetivos de PIB para Calenardhon Austral y Sírënandë",
+      "state": "ANTECEDENTE",
+      "kind": "table",
+      "signature_sha256": "8acab04f0fb3ce1d9c36daa040c5562a39e2ad04d31003640624c79c8245a7b2"
+    },
+    {
+      "source_block": 1425,
+      "section": "33.7. Objetivos de PIB para Calenardhon Austral y Sírënandë",
+      "state": "VIGENTE",
+      "kind": "paragraph",
+      "signature_sha256": "2c4d494dbd21ef9e23622373c9711db46a0b731af9b6d1a2822cde63203b4f7d"
+    },
+    {
+      "source_block": 1426,
+      "section": "33.7. Objetivos de PIB para Calenardhon Austral y Sírënandë",
+      "state": "VIGENTE",
+      "kind": "paragraph",
+      "signature_sha256": "78e6e1d9a760a60162837fd429f75443c164bee4b6a267819fab378cd18e6bec"
+    },
+    {
+      "source_block": 1427,
+      "section": "33.7. Objetivos de PIB para Calenardhon Austral y Sírënandë",
+      "state": "VIGENTE",
+      "kind": "paragraph",
+      "signature_sha256": "8bc0ee04b92a02a4c7d12c9a105685e2750aedb8049027ccf41ddb2ff8e6bc94"
+    },
+    {
+      "source_block": 1429,
+      "section": "33.8. Matrices iniciales ECON-03: Calenardhon Austral y Sírënandë",
+      "state": "ANTECEDENTE",
+      "kind": "paragraph",
+      "signature_sha256": "cdcf3e67acc7c99c6ea06aa8f8230dfe66fd1f4a87a353eb1e1672836b5c344e"
+    },
+    {
+      "source_block": 1431,
+      "section": "Calenardhon Austral",
+      "state": "VIGENTE",
+      "kind": "paragraph",
+      "signature_sha256": "1b0e88890583360063aa89723087cee9b3d3e177b28f14d091ce614eea85cfe2"
+    },
+    {
+      "source_block": 1432,
+      "section": "Calenardhon Austral",
+      "state": "VIGENTE",
+      "kind": "table",
+      "signature_sha256": "64cc3e8f97f168412378542debcab4896e943f83ba7f9f142c25d8228bc356fc"
+    },
+    {
+      "source_block": 1433,
+      "section": "Calenardhon Austral",
+      "state": "VIGENTE",
+      "kind": "paragraph",
+      "signature_sha256": "193e2b6d4b5095af4c3acd07d29a5d258db802a64eb908a5145ed4f92dc830e2"
+    },
+    {
+      "source_block": 1435,
+      "section": "Sírënandë",
+      "state": "VIGENTE",
+      "kind": "paragraph",
+      "signature_sha256": "b94f8e996398196087f1a2c74336a3c1f32be5497ce4a787fd7ab1217e0a4d30"
+    },
+    {
+      "source_block": 1436,
+      "section": "Sírënandë",
+      "state": "VIGENTE",
+      "kind": "table",
+      "signature_sha256": "8965d95f7f74eb5d08aaae555bffea59d70d8e54a396d65a3cd55e7e2e0dab9e"
+    },
+    {
+      "source_block": 1437,
+      "section": "Sírënandë",
+      "state": "VIGENTE",
+      "kind": "paragraph",
+      "signature_sha256": "dfc7e6df16b447048afce9034a42f9a383ee3b08eb4de460ed61d5164ad7def1"
+    },
+    {
+      "source_block": 1438,
+      "section": "Sírënandë",
+      "state": "VIGENTE",
+      "kind": "table",
+      "signature_sha256": "6899e62229c88c11c8c03c10fcca8a0454eb97576a33af4a768bd5854fa81ca4"
+    },
+    {
+      "source_block": 1439,
+      "section": "Sírënandë",
+      "state": "VIGENTE",
+      "kind": "paragraph",
+      "signature_sha256": "c2b41df17df494cd08951f464bc71236a80f0d9790d2e2fcedab8245280f2a05"
+    },
+    {
+      "source_block": 1441,
+      "section": "34. ECON-03 integrado: territorios, población, PIB y cuentas modeladas",
+      "state": "VIGENTE",
+      "kind": "paragraph",
+      "signature_sha256": "415894b18aec7f18453f071c7b56dde53be86c811b9adcea56057a6a05656fcc"
+    },
+    {
+      "source_block": 1443,
+      "section": "34.1. Límites y población (sustituidos para Venezuela y Orinoco por la sección 35)",
+      "state": "VIGENTE",
+      "kind": "paragraph",
+      "signature_sha256": "9dc4abc4fc68752d993510186fb1bc95870f362cfccef65dcf26c7dbe611d70f"
+    },
+    {
+      "source_block": 1444,
+      "section": "34.1. Límites y población (sustituidos para Venezuela y Orinoco por la sección 35)",
+      "state": "VIGENTE",
+      "kind": "paragraph",
+      "signature_sha256": "8b2b941d9eca5e2c1cf11c71bf562d2e31911ada927f34d54e95c293608148d0"
+    },
+    {
+      "source_block": 1445,
+      "section": "34.1. Límites y población (sustituidos para Venezuela y Orinoco por la sección 35)",
+      "state": "ANTECEDENTE",
+      "kind": "table",
+      "signature_sha256": "2b279ff5611acf8069f21d3807f0bb9203f9336934b13d3b2ab5fb4c13e3b02f"
+    },
+    {
+      "source_block": 1447,
+      "section": "34.2. PIB objetivo por unidad y conciliación",
+      "state": "VIGENTE",
+      "kind": "paragraph",
+      "signature_sha256": "40ef86d426a4e150d21fc4dcbcd4716c8f923cf447830522f1e8ee14a40fdd1e"
+    },
+    {
+      "source_block": 1448,
+      "section": "34.2. PIB objetivo por unidad y conciliación",
+      "state": "ANTECEDENTE",
+      "kind": "table",
+      "signature_sha256": "b73c16e2a2f81f622a4503f421fb7be0adc6e979e54cca1c8faa891e98643cf9"
+    },
+    {
+      "source_block": 1449,
+      "section": "34.2. PIB objetivo por unidad y conciliación",
+      "state": "VIGENTE",
+      "kind": "paragraph",
+      "signature_sha256": "42a2e607ce5d73e39486aa4cdf63a9ab7371d86a9656e607a6cd5a0706dd943e"
+    },
+    {
+      "source_block": 1450,
+      "section": "34.2. PIB objetivo por unidad y conciliación",
+      "state": "VIGENTE",
+      "kind": "paragraph",
+      "signature_sha256": "7773ace6c0a9f88152d4a4cbc56db51fc078b15f68c7baa258a7757e9e98ea07"
+    },
+    {
+      "source_block": 1452,
+      "section": "34.3. Cuentas modeladas de producción e insumos",
+      "state": "VIGENTE",
+      "kind": "paragraph",
+      "signature_sha256": "9011e3dee030d8c840755fda3cbd398a0fd2e587e05a52025ec0e42fd29ddbbf"
+    },
+    {
+      "source_block": 1453,
+      "section": "34.3. Cuentas modeladas de producción e insumos",
+      "state": "ANTECEDENTE",
+      "kind": "table",
+      "signature_sha256": "4f914d33a03581e9f5c38f62365c15cc072f8b443045de4918a221def2185a86"
+    },
+    {
+      "source_block": 1454,
+      "section": "34.3. Cuentas modeladas de producción e insumos",
+      "state": "VIGENTE",
+      "kind": "paragraph",
+      "signature_sha256": "86f12069b7498dffd83c8357c1744b55acfa01aef868a45715c610ab5b75676f"
+    },
+    {
+      "source_block": 1456,
+      "section": "34.4. Matrices iniciales de las 21 unidades (sustituidas para siete territorios por la sección 35)",
+      "state": "ANTECEDENTE",
+      "kind": "paragraph",
+      "signature_sha256": "be8c0e9f76d0e33e7150270a69df72c5a342bbfd011351974e6d959b84eb35d9"
+    },
+    {
+      "source_block": 1457,
+      "section": "34.4. Matrices iniciales de las 21 unidades (sustituidas para siete territorios por la sección 35)",
+      "state": "ANTECEDENTE",
+      "kind": "table",
+      "signature_sha256": "efddd277507395421403f56f9d4020710d58f51d62903049c5dd602959a53cf1"
+    },
+    {
+      "source_block": 1458,
+      "section": "34.4. Matrices iniciales de las 21 unidades (sustituidas para siete territorios por la sección 35)",
+      "state": "ANTECEDENTE",
+      "kind": "paragraph",
+      "signature_sha256": "6bf1b4056f6746826a50ca6b07b5812670beda97b8316c11f1460189ed19f4dd"
+    },
+    {
+      "source_block": 1460,
+      "section": "34.5. Conciliación inicial de cuentas (sustituida por las secciones 35 y 36)",
+      "state": "ANTECEDENTE",
+      "kind": "table",
+      "signature_sha256": "8ce39121922ea2e1219e42a4b2b97e78b546f93090e0b870e5ac9f07383c5ec9"
+    },
+    {
+      "source_block": 1462,
+      "section": "34.6. Estado de la primera ronda (actualizado por secciones 35 y 36)",
+      "state": "VIGENTE",
+      "kind": "paragraph",
+      "signature_sha256": "4c5dc4804650ebd8ef2048113d0b51bdc4d0cd2b456408796cf2bf73e47b37a7"
+    },
+    {
+      "source_block": 1463,
+      "section": "34.6. Estado de la primera ronda (actualizado por secciones 35 y 36)",
+      "state": "VIGENTE",
+      "kind": "paragraph",
+      "signature_sha256": "6de6e85840e5b13f096ca5596d6e41e2ac13f4d3d4216f5162a1f67c100f728d"
+    },
+    {
+      "source_block": 1478,
+      "section": "35.3. Cuentas propias de producción e insumos",
+      "state": "ANTECEDENTE",
+      "kind": "table",
+      "signature_sha256": "256c39885cfe0f1669290fdfc24fbc10e26b1b2b0a345a185936d92e8d255071"
+    },
+    {
+      "source_block": 1482,
+      "section": "35.4. Conciliación del Reino y estado de aceptación",
+      "state": "VIGENTE",
+      "kind": "paragraph",
+      "signature_sha256": "44104280b9bd9406eccd729080e3cd4252e219796fa8afd9177154954bc4a35e"
+    },
+    {
+      "source_block": 1503,
+      "section": "36.1. Límites operativos y población urbana/rural",
+      "state": "ANTECEDENTE",
+      "kind": "table",
+      "signature_sha256": "28e0ba94b4bf237cdf4b52b45abdb5050766b70670312b7b7ad3eb4c7fdc49ab"
+    },
+    {
+      "source_block": 1520,
+      "section": "Valinor a Tyl",
+      "state": "VIGENTE",
+      "kind": "table",
+      "signature_sha256": "0779b86bcbec75345405f9386d2d4df73b53b0480b2a4bd0400ad54beeeed167"
+    },
+    {
+      "source_block": 1526,
+      "section": "Calenardhon Austral",
+      "state": "VIGENTE",
+      "kind": "table",
+      "signature_sha256": "28ee84fda3101ff6060700e782c83c104efcdd6c372c96a160487d46ab1e8efe"
+    },
+    {
+      "source_block": 1541,
+      "section": "Malaca",
+      "state": "VIGENTE",
+      "kind": "table",
+      "signature_sha256": "bddb9f9abb80c6bb6bf9a8fcceec70508d034361b71fe358f2f58345f9d20426"
+    },
+    {
+      "source_block": 1544,
+      "section": "Hawái",
+      "state": "VIGENTE",
+      "kind": "table",
+      "signature_sha256": "5875b576c60d6e3bdc9d8eb65e4ef7b97e6c32030674595906e06474dcde24b2"
+    },
+    {
+      "source_block": 1550,
+      "section": "Polinesia",
+      "state": "VIGENTE",
+      "kind": "table",
+      "signature_sha256": "2a71eaa511340a18ccc365b068007528b04c019c2aa50e88317cb5fccb019117"
+    },
+    {
+      "source_block": 1553,
+      "section": "Micronesia",
+      "state": "VIGENTE",
+      "kind": "table",
+      "signature_sha256": "8847bc542dba3f5aae9dc525549ac96ca3e3ccde6c683903b477df9f09573653"
+    },
+    {
+      "source_block": 1556,
+      "section": "Eryndor",
+      "state": "VIGENTE",
+      "kind": "table",
+      "signature_sha256": "a30006fb1f407374fce1313be4765a864c8b934ddc7d6c4075a55d5e1af31b0d"
+    },
+    {
+      "source_block": 1559,
+      "section": "Harnen",
+      "state": "VIGENTE",
+      "kind": "table",
+      "signature_sha256": "a6dad4197b3b6fc524f6067d7698f7fc7bbd9c288430a86a3d969c1c8acaed1a"
+    },
+    {
+      "source_block": 1562,
+      "section": "36.6. Coherencia territorial y conciliación final",
+      "state": "ANTECEDENTE",
+      "kind": "table",
+      "signature_sha256": "282f007c560bb031b16584e6cb322d7f13b50a05c362513bf3675448dd90bd33"
+    },
+    {
+      "source_block": 1563,
+      "section": "36.6. Coherencia territorial y conciliación final",
+      "state": "ANTECEDENTE",
+      "kind": "table",
+      "signature_sha256": "dc35267b43030707df73a2f616d5094878933fce213ef70edb5b79927bc4e161"
+    },
+    {
+      "source_block": 1564,
+      "section": "36.6. Coherencia territorial y conciliación final",
+      "state": "ANTECEDENTE",
+      "kind": "table",
+      "signature_sha256": "be54cb6f080cbd3c247483848bc05a3c0efdf5979d5f2cfabd7982d1c21e1060"
+    },
+    {
+      "source_block": 1575,
+      "section": "7.4. Antecedentes y nacimiento de OceanNet",
+      "state": "ANTECEDENTE",
+      "kind": "paragraph",
+      "signature_sha256": "df5960901f01cfbf498a1678dc039495623f1a42652c01e69b234e4e5e199a55"
+    },
+    {
+      "source_block": 1581,
+      "section": "7.4. Antecedentes y nacimiento de OceanNet",
+      "state": "ANTECEDENTE",
+      "kind": "paragraph",
+      "signature_sha256": "e7a5f6cf277dd0994a25a45ad1ac129b7c693436240f193bf848b413829d96f6"
+    },
+    {
+      "source_block": 1583,
+      "section": "Infraestructura troncal de telecomunicaciones — Decisión 2",
+      "state": "VIGENTE",
+      "kind": "paragraph",
+      "signature_sha256": "70e0028747516ccfad281c3e41386c17930c1f739a2bbbf21d9fb552b3754cb4"
+    },
+    {
+      "source_block": 1584,
+      "section": "Infraestructura troncal de telecomunicaciones — Decisión 2",
+      "state": "VIGENTE",
+      "kind": "paragraph",
+      "signature_sha256": "1774a82cd69188df252ea33fa852e013fd78eac3ffd7a111f021f360f2699f91"
+    },
+    {
+      "source_block": 1586,
+      "section": "Estrategia federal de la Tercera Revolución Industrial — Decisiones 1–14",
+      "state": "VIGENTE",
+      "kind": "paragraph",
+      "signature_sha256": "0d842cf0e6615e8813a38d164000016aaebef66b494dece13ba3830ff44592d8"
+    },
+    {
+      "source_block": 1587,
+      "section": "Estrategia federal de la Tercera Revolución Industrial — Decisiones 1–14",
+      "state": "VIGENTE",
+      "kind": "paragraph",
+      "signature_sha256": "42919b52caf18fb692672231f1486aeba0a084471e42f91a2a344901934af033"
+    },
+    {
+      "source_block": 1588,
+      "section": "Estrategia federal de la Tercera Revolución Industrial — Decisiones 1–14",
+      "state": "VIGENTE",
+      "kind": "paragraph",
+      "signature_sha256": "01076fc349fc81662b99ea2821211be7f49ebbe150e16fa0a7cf7a612f6f3c85"
+    },
+    {
+      "source_block": 1589,
+      "section": "Estrategia federal de la Tercera Revolución Industrial — Decisiones 1–14",
+      "state": "VIGENTE",
+      "kind": "paragraph",
+      "signature_sha256": "046af8c7931b11a6678229f5a2964ff39221fd7b006e75e834e5fef8595455e4"
+    },
+    {
+      "source_block": 1590,
+      "section": "Estrategia federal de la Tercera Revolución Industrial — Decisiones 1–14",
+      "state": "VIGENTE",
+      "kind": "paragraph",
+      "signature_sha256": "c3295e4e11afe929d056ccb0ea7cbbd49feb4bdf203f56019ecbaeadad72bdcf"
+    },
+    {
+      "source_block": 1592,
+      "section": "Desarrollo histórico y evaluación de la Tercera Revolución Industrial (1950–2026)",
+      "state": "VIGENTE",
+      "kind": "paragraph",
+      "signature_sha256": "ec126256a09caa2fc18ee3e748dd096f7c8fa29ccd964c8e4759de191e579895"
+    },
+    {
+      "source_block": 1593,
+      "section": "Desarrollo histórico y evaluación de la Tercera Revolución Industrial (1950–2026)",
+      "state": "VIGENTE",
+      "kind": "paragraph",
+      "signature_sha256": "238f696837827260354a5b152a4ca8c22094bdd3cb2d6d10ff62bef7fec037aa"
+    },
+    {
+      "source_block": 1594,
+      "section": "Desarrollo histórico y evaluación de la Tercera Revolución Industrial (1950–2026)",
+      "state": "VIGENTE",
+      "kind": "paragraph",
+      "signature_sha256": "4e4daffcc042128f4adf54223dc6d82e2ea426a3f32264c6ec452fce75e2c572"
+    },
+    {
+      "source_block": 1595,
+      "section": "Desarrollo histórico y evaluación de la Tercera Revolución Industrial (1950–2026)",
+      "state": "VIGENTE",
+      "kind": "paragraph",
+      "signature_sha256": "81a8ff29e672889f2e245d491512e8857a19b5e8e54fb02de2c9e0dae27843f6"
+    },
+    {
+      "source_block": 1596,
+      "section": "Desarrollo histórico y evaluación de la Tercera Revolución Industrial (1950–2026)",
+      "state": "VIGENTE",
+      "kind": "paragraph",
+      "signature_sha256": "9960ebc7c64b01daad96d87c930df30a3942ac50e179d8d400c677618bfa329d"
+    },
+    {
+      "source_block": 1597,
+      "section": "Desarrollo histórico y evaluación de la Tercera Revolución Industrial (1950–2026)",
+      "state": "VIGENTE",
+      "kind": "paragraph",
+      "signature_sha256": "fff03cac5c5b214cebe5ec735acf5925eb9641f27c5f2f66c6c4412d5174d179"
+    },
+    {
+      "source_block": 1601,
+      "section": "Normalización de nodos históricos",
+      "state": "VIGENTE",
+      "kind": "paragraph",
+      "signature_sha256": "60bdea89e1f5fe4f6e24b276020dfb24b2572b11bc4bb4941dd0c31eb721739e"
+    },
+    {
+      "source_block": 1623,
+      "section": "Secuencia histórica de desarrollo",
+      "state": "VIGENTE",
+      "kind": "paragraph",
+      "signature_sha256": "f62852cc5a797af6ea7ce1cc985f2b5f6cec9c455bd51b3cdb3e404e564b3aee"
+    },
+    {
+      "source_block": 1653,
+      "section": "Orden de lectura y precedencia editorial",
+      "state": "VIGENTE",
+      "kind": "paragraph",
+      "signature_sha256": "ec4530b4f1d06f882bbda8d9e09fb68c0870272d140671ec982d55903b8ce64b"
+    },
+    {
+      "source_block": 1659,
+      "section": "Casas Mayores pendientes de imagen",
+      "state": "VIGENTE",
+      "kind": "table",
+      "signature_sha256": "5f156976b06058ee6041f7720489883c32f2f9cd34a0894119efd23b2b739151"
+    },
+    {
+      "source_block": 1661,
+      "section": "Casas Menores",
+      "state": "VIGENTE",
+      "kind": "table",
+      "signature_sha256": "69155d6b737308afc25996ab595fff8a10fd7944e91698d248d4b85ffcc7c0e4"
+    },
+    {
+      "source_block": 1663,
+      "section": "Casas Vasallas",
+      "state": "VIGENTE",
+      "kind": "table",
+      "signature_sha256": "dd2300ba4001b7f7c3aaea03bfc098963b1c5dff0c9e55dd44ab601d4e47ea0d"
+    },
+    {
+      "source_block": 1715,
+      "section": "Maiar",
+      "state": "VIGENTE",
+      "kind": "paragraph",
+      "signature_sha256": "f708600343c3689f6a7102675fcc8c112a268ca0c89b4fef4fb6ccba826d5b0d"
+    },
+    {
+      "source_block": 2043,
+      "section": "Armada Valinoreana en 1875",
+      "state": "VIGENTE",
+      "kind": "paragraph",
+      "signature_sha256": "df915fe942826d3605c9cd3f67f269952f210010504ce68ec87a95dda2c98ef9"
+    },
+    {
+      "source_block": 2044,
+      "section": "Armada Valinoreana en 1875",
+      "state": "VIGENTE",
+      "kind": "paragraph",
+      "signature_sha256": "53c4c4da754ccc572b5bc2edc6cd7fd5008a3d9da43ac43026c878e364f2b9c7"
+    },
+    {
+      "source_block": 2046,
+      "section": "Fuerza de combate",
+      "state": "VIGENTE",
+      "kind": "table",
+      "signature_sha256": "63d8077ece881b80c7acebd8eaaa71b39fdcbc5a4fb5c5396951ad3ccec22ae1"
+    },
+    {
+      "source_block": 2047,
+      "section": "Fuerza de combate",
+      "state": "VIGENTE",
+      "kind": "paragraph",
+      "signature_sha256": "daea9695f38379396031e08a3fd5d1b11d4e75d5c78d5989cc8ceef1febd029e"
+    },
+    {
+      "source_block": 2049,
+      "section": "Clases principales",
+      "state": "VIGENTE",
+      "kind": "paragraph",
+      "signature_sha256": "703a6ceec6165d23cce42ff53aca04982b1e9150b1caf6e7a1e34b2af9b09b6a"
+    },
+    {
+      "source_block": 2050,
+      "section": "Clases principales",
+      "state": "VIGENTE",
+      "kind": "paragraph",
+      "signature_sha256": "285d8d7e081c9e324395f3f62b07ae1a03e3e2651432ffb7f6e3077473bb7144"
+    },
+    {
+      "source_block": 2051,
+      "section": "Clases principales",
+      "state": "VIGENTE",
+      "kind": "paragraph",
+      "signature_sha256": "e140fb9a24f68f28af4acad810304574cfe9e1aac980f2841a2fa0417f700bc3"
+    },
+    {
+      "source_block": 2052,
+      "section": "Clases principales",
+      "state": "VIGENTE",
+      "kind": "paragraph",
+      "signature_sha256": "58b5bd80441306cf9c882f34d84db2428bccbeceb4939a68d1fff1cd3870c2e0"
+    },
+    {
+      "source_block": 2054,
+      "section": "Fuerza logística",
+      "state": "VIGENTE",
+      "kind": "paragraph",
+      "signature_sha256": "dad401f48e721957ab3105b24ecfe402fe0079b0bdf643a119bd3e6d6275373a"
+    },
+    {
+      "source_block": 2055,
+      "section": "Fuerza logística",
+      "state": "VIGENTE",
+      "kind": "table",
+      "signature_sha256": "6a49f0b2c5d9e05d79aa7a9ee6c7894eb1cca9e1d33bf9d91aea26638b73187e"
+    },
+    {
+      "source_block": 2056,
+      "section": "Fuerza logística",
+      "state": "VIGENTE",
+      "kind": "paragraph",
+      "signature_sha256": "30af30c5c775e2c3f9f4880518b54c8fafdce8a3c1011b2888b5a981420ad9be"
+    },
+    {
+      "source_block": 2058,
+      "section": "Red mundial de apoyo",
+      "state": "VIGENTE",
+      "kind": "paragraph",
+      "signature_sha256": "31d1d7061633714da012b932d7f28096d31cf8e666e6854ed315fc22eb94afba"
+    },
+    {
+      "source_block": 2059,
+      "section": "Red mundial de apoyo",
+      "state": "VIGENTE",
+      "kind": "paragraph",
+      "signature_sha256": "5e777c79c32b37e0a3743f2f1b8ee5c3cc2ec01d37af2e24200d23660290ae28"
+    },
+    {
+      "source_block": 2060,
+      "section": "Red mundial de apoyo",
+      "state": "VIGENTE",
+      "kind": "paragraph",
+      "signature_sha256": "bde5f7078c4a4667da363e68f63d7757bc36fad0e4bbd1ce2ceebcc5c22c5c8b"
+    },
+    {
+      "source_block": 2061,
+      "section": "Red mundial de apoyo",
+      "state": "VIGENTE",
+      "kind": "paragraph",
+      "signature_sha256": "c52dfab2fb72904f06aa4fe88333da94b2fb4fb9743840b1306c9f09687dfb2f"
+    },
+    {
+      "source_block": 2062,
+      "section": "Red mundial de apoyo",
+      "state": "VIGENTE",
+      "kind": "paragraph",
+      "signature_sha256": "2dc52b0bf5dfbe9e461bc5cd7465e156361301e2d7f98fdac50345bd1d8458f0"
+    },
+    {
+      "source_block": 2063,
+      "section": "Red mundial de apoyo",
+      "state": "VIGENTE",
+      "kind": "paragraph",
+      "signature_sha256": "86e975b88b0bc5b79127ee0e2918122addbc3448251c6bcdfbcd3b94f53c9044"
+    },
+    {
+      "source_block": 2064,
+      "section": "Red mundial de apoyo",
+      "state": "VIGENTE",
+      "kind": "paragraph",
+      "signature_sha256": "1b7793201e9d849e278a972ec814889ca6c35803d5e487accd9db4501f4a3770"
+    },
+    {
+      "source_block": 2065,
+      "section": "Red mundial de apoyo",
+      "state": "VIGENTE",
+      "kind": "paragraph",
+      "signature_sha256": "1092d66bbb7026002053b117cb68504fb43d3a48ab262acadcf716fc45223a63"
+    },
+    {
+      "source_block": 2066,
+      "section": "Red mundial de apoyo",
+      "state": "VIGENTE",
+      "kind": "paragraph",
+      "signature_sha256": "892028431a28183bbb9e041a26f7369198feda458370621f0a2e7e19a7fa07ee"
+    },
+    {
+      "source_block": 2067,
+      "section": "Red mundial de apoyo",
+      "state": "VIGENTE",
+      "kind": "paragraph",
+      "signature_sha256": "4c119d58fee150e0d6883c3cd5b86999b088446b4f01764bf11721690f7dcf8a"
+    },
+    {
+      "source_block": 2069,
+      "section": "Comparación con la Royal Navy",
+      "state": "VIGENTE",
+      "kind": "paragraph",
+      "signature_sha256": "4c845f900f971583cd5454af3e1b8137e3e3d61b995542e062933051e18d823a"
+    },
+    {
+      "source_block": 2070,
+      "section": "Comparación con la Royal Navy",
+      "state": "VIGENTE",
+      "kind": "paragraph",
+      "signature_sha256": "a2588d9d313aab5983f9890a5302540daf52423161638b243c02237cfb79745b"
+    },
+    {
+      "source_block": 2071,
+      "section": "Comparación con la Royal Navy",
+      "state": "VIGENTE",
+      "kind": "paragraph",
+      "signature_sha256": "39d5c37d2d084b33a33caeb52867b795d35f8fb47c31bdf3c9992277fee8f47a"
+    },
+    {
+      "source_block": 2072,
+      "section": "Comparación con la Royal Navy",
+      "state": "VIGENTE",
+      "kind": "paragraph",
+      "signature_sha256": "eed977d246a8cdd745ffb2c50ab971c815bcfbffa78b9729a15be4239624123a"
+    },
+    {
+      "source_block": 2073,
+      "section": "Comparación con la Royal Navy",
+      "state": "VIGENTE",
+      "kind": "paragraph",
+      "signature_sha256": "448d6d245037dbee03f1e9cd2c3b381344edef376b8cd1641ad94b98bbf6211f"
+    },
+    {
+      "source_block": 2074,
+      "section": "Comparación con la Royal Navy",
+      "state": "VIGENTE",
+      "kind": "paragraph",
+      "signature_sha256": "c8291982d2ecb180227835bf454660486b32079abbec797c31ed8d0ac82838dc"
+    },
+    {
+      "source_block": 2157,
+      "section": "30.8. Evolución histórica",
+      "state": "VIGENTE",
+      "kind": "paragraph",
+      "signature_sha256": "a7d1bb15495fdb0eed17bcec61fd783d42f31487faaa61c7570f1e2b7c8d3f3d"
+    },
+    {
+      "source_block": 2182,
+      "section": "Resolución AM1 — Armada de 1973 y transición a turbinas de gas",
+      "state": "VIGENTE",
+      "kind": "paragraph",
+      "signature_sha256": "4e8f9030bc12ab54a28816985b0ca0e15c927d8c9d4d2d16106fbc66fd68f649"
+    },
+    {
+      "source_block": 2183,
+      "section": "Resolución AM1 — Armada de 1973 y transición a turbinas de gas",
+      "state": "VIGENTE",
+      "kind": "paragraph",
+      "signature_sha256": "2d617ee62dbb29cef918b7c2bfa3fdcd32d5d6058518e6da7be24e6615ff1aec"
+    },
+    {
+      "source_block": 2184,
+      "section": "Resolución AM1 — Armada de 1973 y transición a turbinas de gas",
+      "state": "VIGENTE",
+      "kind": "paragraph",
+      "signature_sha256": "306416369ce45882a8b51a803bbd5e4595956399186512fb9a2a735500be7abe"
+    },
+    {
+      "source_block": 2186,
+      "section": "Familia de destructores Gil-galad — secuencia generacional",
+      "state": "VIGENTE",
+      "kind": "paragraph",
+      "signature_sha256": "b56b87225d65d40a923976470897aee822335fc9b2815092148f35328fe21065"
+    },
+    {
+      "source_block": 2187,
+      "section": "Familia de destructores Gil-galad — secuencia generacional",
+      "state": "VIGENTE",
+      "kind": "paragraph",
+      "signature_sha256": "fbcd34951e2785bc09532a755622ea25b8ac107ec71efee61e56492587fda224"
+    },
+    {
+      "source_block": 2188,
+      "section": "Familia de destructores Gil-galad — secuencia generacional",
+      "state": "VIGENTE",
+      "kind": "paragraph",
+      "signature_sha256": "6e835c9f8cdcb971b8dc18acfa952d3e283133adc88705e87c5a5a8b13d70229"
+    },
+    {
+      "source_block": 2189,
+      "section": "Familia de destructores Gil-galad — secuencia generacional",
+      "state": "VIGENTE",
+      "kind": "paragraph",
+      "signature_sha256": "6d23fa55faf038cd34b4adf5f085956a8ce7ef166420a3f23537e65084e73d8e"
+    }
+  ],
+  "rounding": [
+    {
+      "territory": "Calenardhon Austral",
+      "field": "CI J",
+      "before": "0.12578",
+      "after": "0.12580",
+      "delta_vab": "-0.00002",
+      "reason": "redondeo a cinco decimales; PIB y fiscalidad conservados"
+    },
+    {
+      "territory": "Provincia del Orinoco",
+      "field": "CI J",
+      "before": "0.05406",
+      "after": "0.05405",
+      "delta_vab": "0.00001",
+      "reason": "redondeo a cinco decimales; PIB y fiscalidad conservados"
+    },
+    {
+      "territory": "Malaca",
+      "field": "CI J",
+      "before": "0.01086",
+      "after": "0.01089",
+      "delta_vab": "-0.00003",
+      "reason": "redondeo a cinco decimales; PIB y fiscalidad conservados"
+    },
+    {
+      "territory": "Polinesia",
+      "field": "CI J",
+      "before": "0.00744",
+      "after": "0.00746",
+      "delta_vab": "-0.00002",
+      "reason": "redondeo a cinco decimales; PIB y fiscalidad conservados"
+    },
+    {
+      "territory": "Micronesia",
+      "field": "CI J",
+      "before": "0.00468",
+      "after": "0.00467",
+      "delta_vab": "0.00001",
+      "reason": "redondeo a cinco decimales; PIB y fiscalidad conservados"
+    },
+    {
+      "territory": "Eryndor",
+      "field": "CI J",
+      "before": "0.00153",
+      "after": "0.00154",
+      "delta_vab": "-0.00001",
+      "reason": "redondeo a cinco decimales; PIB y fiscalidad conservados"
+    },
+    {
+      "territory": "Harnen",
+      "field": "CI J",
+      "before": "0.00514",
+      "after": "0.00516",
+      "delta_vab": "-0.00002",
+      "reason": "redondeo a cinco decimales; PIB y fiscalidad conservados"
+    }
+  ],
+  "new_models": [
+    "urbanización septentrional",
+    "matrices A–J septentrionales",
+    "disponibilidad 449 por mayores restos",
+    "serie interpolada 1980–2026",
+    "reparto naval 2026",
+    "escenarios industriales"
+  ]
+}

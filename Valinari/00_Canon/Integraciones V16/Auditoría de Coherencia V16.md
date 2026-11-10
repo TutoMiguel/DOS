@@ -40,3 +40,7 @@ Los 87 bloques acumulativos tienen tratamiento y destino explícitos en [[00_Can
 - [[00_Canon/Auditoría de Coherencia V16|Auditoría de Coherencia V16]]
 - [[00_Canon/Registro de Cambios|Registro de Cambios]]
 - [[00_Canon/Registro de integración acumulativa V16]]
+
+## Acumulativa A092 del 9 de noviembre de 2026
+
+Las cifras y decisiones anteriores de este registro son antecedentes cuando contradicen A092. Integradas las decisiones posteriores del autor: Tol Eressëa 20–40 y Groenlandia 55–75 d. C.; poblaciones antiguas conservadas; Beleg rector 724,5–879,5; cuentas de 515,5 millones constitucionales y 523,5 operativos; padrón de aliados sin doble cómputo; cotejo común de Word y Obsidian; registros naval, presupuestario y de capacidades. Véase [[Acumulativa A092 V16.4]].

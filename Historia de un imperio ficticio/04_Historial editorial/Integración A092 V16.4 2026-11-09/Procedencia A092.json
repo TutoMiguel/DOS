@@ -1,0 +1,377 @@
+{
+  "revision": "V16.4 A092",
+  "date": "2026-11-09",
+  "published_locally": true,
+  "source_files": {
+    "word": {
+      "member": "001/Canon V16 Maestro.docx",
+      "path": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\10_Archivo\\Documentos editoriales\\Oficial\\Canon V16 Maestro.docx",
+      "sha256": "c755c2b982a16fa88d36dd24d63fcea56beb16b0648835458f266e99ec3fd73f"
+    },
+    "md": {
+      "member": "002/Canon V16 Maestro.md",
+      "path": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\00_Canon\\Canon V16 Maestro.md",
+      "sha256": "5c4234e5b9f50bcac5b77776079f9afdd6a7ad7308939e838f972049eec6bea4"
+    },
+    "chron": {
+      "member": "003/Cronología Territorial V16.md",
+      "path": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\01_Cronologia\\Cronología Territorial V16.md",
+      "sha256": "06979ade9e4a150bd06feee775f8d61f499d24fcc0873fba6752dfd2b496beb7"
+    },
+    "official": {
+      "member": "004/Cifras Oficiales V16.md",
+      "path": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\00_Canon\\Cifras Oficiales V16.md",
+      "sha256": "5a5a11308416ed133aef9ee7b9b477bb7ac1a751011b235b87f8db98660f014f"
+    },
+    "matrix": {
+      "member": "005/Matriz Territorial Económica.md",
+      "path": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\00_Canon\\Matriz Territorial Económica.md",
+      "sha256": "4790998cea563639c70b860f5f2deb93d5d0f0e3614aa7b06ebd9b8deeac1188"
+    },
+    "am1": {
+      "member": "006/AM1 Armada 1875-2026.md",
+      "path": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\12_Militar\\AM1 Armada 1875-2026.md",
+      "sha256": "4db9bf43102eb4b0f5a2a7c00de0bc5b9ea97bf74e09671bf562a46e28784a2b"
+    },
+    "resolutions": {
+      "member": "007/Resoluciones aprobadas V16.3.md",
+      "path": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\00_Canon\\Integraciones V16\\Resoluciones aprobadas V16.3.md",
+      "sha256": "69319dc6deac18b7c7a9f936044ad3155d685e27b37b4470b644d5dc154f19c1"
+    },
+    "export": {
+      "member": "008/Canon V16 Maestro - Exportacion.docx",
+      "path": "C:\\Users\\migue\\OneDrive\\DOS\\Historia de un imperio ficticio\\Canon V16 Maestro - Exportacion.docx",
+      "sha256": "c755c2b982a16fa88d36dd24d63fcea56beb16b0648835458f266e99ec3fd73f"
+    },
+    "center": {
+      "member": "009/Canon V16 Maestro.docx",
+      "path": "C:\\Users\\migue\\OneDrive\\DOS\\Historia de un imperio ficticio\\Canon V16 Maestro.docx",
+      "sha256": "c755c2b982a16fa88d36dd24d63fcea56beb16b0648835458f266e99ec3fd73f"
+    },
+    "pdf": {
+      "member": "010/Canon V16 Maestro.pdf",
+      "path": "C:\\Users\\migue\\OneDrive\\DOS\\Historia de un imperio ficticio\\Canon V16 Maestro.pdf",
+      "sha256": "227d02cd3f358ec93cfc848566ee7727e244bea8377585e04b98f9f4274dcc36"
+    },
+    "provenance": {
+      "member": "011/Procedencia de las exportaciones.json",
+      "path": "C:\\Users\\migue\\OneDrive\\DOS\\Historia de un imperio ficticio\\01_Exportaciones vigentes\\Procedencia de las exportaciones.json",
+      "sha256": "8d63ec5a8d4b7a5c2abee4253994b353a5c4b0b3e9e5bd678a9b2e9de3dc4612"
+    },
+    "vault:01_Cronologia/Cronología Territorial V16.md": {
+      "member": "012/Cronología Territorial V16.md",
+      "path": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\01_Cronologia\\Cronología Territorial V16.md",
+      "sha256": "06979ade9e4a150bd06feee775f8d61f499d24fcc0873fba6752dfd2b496beb7"
+    },
+    "vault:00_Canon/Cifras Oficiales V16.md": {
+      "member": "013/Cifras Oficiales V16.md",
+      "path": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\00_Canon\\Cifras Oficiales V16.md",
+      "sha256": "5a5a11308416ed133aef9ee7b9b477bb7ac1a751011b235b87f8db98660f014f"
+    },
+    "vault:00_Canon/Matriz Territorial Económica.md": {
+      "member": "014/Matriz Territorial Económica.md",
+      "path": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\00_Canon\\Matriz Territorial Económica.md",
+      "sha256": "4790998cea563639c70b860f5f2deb93d5d0f0e3614aa7b06ebd9b8deeac1188"
+    },
+    "vault:00_Canon/Matriz de Estatus Político.md": {
+      "member": "015/Matriz de Estatus Político.md",
+      "path": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\00_Canon\\Matriz de Estatus Político.md",
+      "sha256": "f2b6a62b86f850f3eb701f840e8363bdab89c999f3d6fa9c71b8b06314af8802"
+    },
+    "vault:02_Geografia/Gwaith Valinor.md": {
+      "member": "016/Gwaith Valinor.md",
+      "path": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\02_Geografia\\Gwaith Valinor.md",
+      "sha256": "2f9c0fa954e346b17497a9aa4dc834a6ced502463cd0d4465826c5bda625fc11"
+    },
+    "vault:02_Geografia/Entidades Politicas/Federacion Directa/Gwaith Valinor.md": {
+      "member": "017/Gwaith Valinor.md",
+      "path": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\02_Geografia\\Entidades Politicas\\Federacion Directa\\Gwaith Valinor.md",
+      "sha256": "a04b72b66f1d5a7835e9c57ab59d1e78e3ed3cf2f0788853152f595f5a3032d8"
+    },
+    "vault:02_Geografia/Beleg Valinor.md": {
+      "member": "018/Beleg Valinor.md",
+      "path": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\02_Geografia\\Beleg Valinor.md",
+      "sha256": "d74b56b5452a1c0a6ac12a90711a01237167fdaeb720a3e8dda7f14e5ae3a47f"
+    },
+    "vault:02_Geografia/Entidades Politicas/Protectorados/Beleg Valinor.md": {
+      "member": "019/Beleg Valinor.md",
+      "path": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\02_Geografia\\Entidades Politicas\\Protectorados\\Beleg Valinor.md",
+      "sha256": "9233be974d39ed4e810dca5f76626a79126351289d59fe69a2e00a5566395965"
+    },
+    "vault:02_Geografia/Entidades Politicas/Gwaith Aear.md": {
+      "member": "020/Gwaith Aear.md",
+      "path": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\02_Geografia\\Entidades Politicas\\Gwaith Aear.md",
+      "sha256": "5694e6ed42adc4217b8fde212b09123faaff65a1140051325552a39f3f288855"
+    },
+    "vault:00_Canon/Integraciones V16/Resoluciones aprobadas V16.3.md": {
+      "member": "021/Resoluciones aprobadas V16.3.md",
+      "path": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\00_Canon\\Integraciones V16\\Resoluciones aprobadas V16.3.md",
+      "sha256": "69319dc6deac18b7c7a9f936044ad3155d685e27b37b4470b644d5dc154f19c1"
+    },
+    "vault:12_Militar/AM1 Armada 1875-2026.md": {
+      "member": "022/AM1 Armada 1875-2026.md",
+      "path": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\12_Militar\\AM1 Armada 1875-2026.md",
+      "sha256": "4db9bf43102eb4b0f5a2a7c00de0bc5b9ea97bf74e09671bf562a46e28784a2b"
+    },
+    "vault:00_Canon/Origen, migración y secuencia atlántica.md": {
+      "member": "023/Origen, migración y secuencia atlántica.md",
+      "path": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\00_Canon\\Origen, migración y secuencia atlántica.md",
+      "sha256": "5060254660d360a52ca2ed943e733bd482628379e8a64cc449a3aa5d9253d361"
+    },
+    "vault:08_Economia/ECON-03 Resumen.md": {
+      "member": "024/ECON-03 Resumen.md",
+      "path": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\08_Economia\\ECON-03 Resumen.md",
+      "sha256": "3e236943dc53a98bb8bffa2fdb33c380a0437fbe7fd32e4d5a21bb547eb364da"
+    },
+    "vault:08_Economia/ECON-03/Reglas de integracion.md": {
+      "member": "025/Reglas de integracion.md",
+      "path": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\08_Economia\\ECON-03\\Reglas de integracion.md",
+      "sha256": "80ee02e1badb20fc7b22b0049c0d3955d14cc63288b51f2641b677a18f8ca83d"
+    },
+    "vault:00_Canon/Registro de Cambios.md": {
+      "member": "026/Registro de Cambios.md",
+      "path": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\00_Canon\\Registro de Cambios.md",
+      "sha256": "4ab88a8be84777b4b1b48390b63f4a5e4d9f65e71972ddc4d2ca1bc9d7af1862"
+    },
+    "vault:00_Canon/Registro de integración acumulativa V16.md": {
+      "member": "027/Registro de integración acumulativa V16.md",
+      "path": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\00_Canon\\Registro de integración acumulativa V16.md",
+      "sha256": "fe621b1dd7a90c67f6979b3e94a168ef4b742d4a23808c1c51667fccdf60d21d"
+    },
+    "vault:00_Canon/Integraciones V16/Auditoría de Coherencia V16.md": {
+      "member": "028/Auditoría de Coherencia V16.md",
+      "path": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\00_Canon\\Integraciones V16\\Auditoría de Coherencia V16.md",
+      "sha256": "44bef4e2250a282096682f555e64d156960ea9922a1dcf1b791d5a17d7b07f6b"
+    },
+    "source:02_Geografia/Entidades Politicas/Protectorados/Esgal Nénar.md": {
+      "member": "029/Esgal Nénar.md",
+      "path": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\02_Geografia\\Entidades Politicas\\Protectorados\\Esgal Nénar.md",
+      "sha256": "b161f094361cd7ebc1563e6334aaace8cef8981d336644666fdc8a8bd1488a4e"
+    },
+    "source:02_Geografia/Red Oriental de Enclaves y Protectorados.md": {
+      "member": "030/Red Oriental de Enclaves y Protectorados.md",
+      "path": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\02_Geografia\\Red Oriental de Enclaves y Protectorados.md",
+      "sha256": "fec341688cb376a6747a2695efa2f03ade703861ba3cf047c7b0fce8f33ae2e8"
+    },
+    "source:04_Mapa Politico/Capitales/Capitales del Canon V16.md": {
+      "member": "031/Capitales del Canon V16.md",
+      "path": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\04_Mapa Politico\\Capitales\\Capitales del Canon V16.md",
+      "sha256": "65046afbcafc4ee13c50231d4b57f414a7249abf34dd61751a9d3d90d43d42f6"
+    },
+    "source:09_Politica/Diplomacia/Andúnië Austral y Chile.md": {
+      "member": "032/Andúnië Austral y Chile.md",
+      "path": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\09_Politica\\Diplomacia\\Andúnië Austral y Chile.md",
+      "sha256": "629ac53f90e3fa6ddade7cbafa6d626f4b56819b45b11f53d1607972988698ca"
+    }
+  },
+  "backup_local": "C:\\Users\\migue\\OneDrive\\DOS\\Historia de un imperio ficticio\\04_Historial editorial\\Integración A092 V16.4 2026-11-09\\Originales antes de V16.4.zip",
+  "published_files": [
+    {
+      "path": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\10_Archivo\\Documentos editoriales\\Oficial\\Canon V16 Maestro.docx",
+      "sha256": "64d9c29e2b10cc3414736d0a43200fb0e94de5270d4692ec5082a6b0333c56b5",
+      "source_output": "C:\\Users\\migue\\Documents\\Codex\\2026-11-09\\referenced-chatgpt-conversation-this-is-an\\outputs\\V16.4\\Canon V16 Maestro V16.4.docx"
+    },
+    {
+      "path": "C:\\Users\\migue\\OneDrive\\DOS\\Historia de un imperio ficticio\\Canon V16 Maestro.docx",
+      "sha256": "64d9c29e2b10cc3414736d0a43200fb0e94de5270d4692ec5082a6b0333c56b5",
+      "source_output": "C:\\Users\\migue\\Documents\\Codex\\2026-11-09\\referenced-chatgpt-conversation-this-is-an\\outputs\\V16.4\\Canon V16 Maestro V16.4.docx"
+    },
+    {
+      "path": "C:\\Users\\migue\\OneDrive\\DOS\\Historia de un imperio ficticio\\Canon V16 Maestro - Exportacion.docx",
+      "sha256": "64d9c29e2b10cc3414736d0a43200fb0e94de5270d4692ec5082a6b0333c56b5",
+      "source_output": "C:\\Users\\migue\\Documents\\Codex\\2026-11-09\\referenced-chatgpt-conversation-this-is-an\\outputs\\V16.4\\Canon V16 Maestro V16.4.docx"
+    },
+    {
+      "path": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\00_Canon\\Canon V16 Maestro.md",
+      "sha256": "7ee4efa75e291b78454be3468fe451c4ededced432ca0639d5d6a063b74294e8",
+      "source_output": "C:\\Users\\migue\\Documents\\Codex\\2026-11-09\\referenced-chatgpt-conversation-this-is-an\\outputs\\V16.4\\Canon V16 Maestro V16.4.md"
+    },
+    {
+      "path": "C:\\Users\\migue\\OneDrive\\DOS\\Historia de un imperio ficticio\\Canon V16 Maestro.pdf",
+      "sha256": "67f1daf8b1eea685fdfd01f5a1ac2d21b8745c23b8c1aa92a078cc6f3b22e081",
+      "source_output": "C:\\Users\\migue\\Documents\\Codex\\2026-11-09\\referenced-chatgpt-conversation-this-is-an\\outputs\\V16.4\\Canon V16 Maestro V16.4.pdf"
+    },
+    {
+      "path": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\10_Archivo\\Documentos editoriales\\Oficial\\Acumulativa A092 V16.4.docx",
+      "sha256": "6ef12873db4aa32e0c69bbda8d09b451125fd6cd760b0ab134179c64e753700a",
+      "source_output": "C:\\Users\\migue\\Documents\\Codex\\2026-11-09\\referenced-chatgpt-conversation-this-is-an\\outputs\\V16.4\\Acumulativa A092 V16.4.docx"
+    },
+    {
+      "path": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\01_Cronologia\\Cronología Territorial V16.md",
+      "sha256": "79a32bddd9ece236b023955e8bdac210a33168cf071cb833a1facf43ea255589",
+      "source_output": "C:\\Users\\migue\\Documents\\Codex\\2026-11-09\\referenced-chatgpt-conversation-this-is-an\\work\\v16_4\\publish\\01_Cronologia\\Cronología Territorial V16.md"
+    },
+    {
+      "path": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\00_Canon\\Cifras Oficiales V16.md",
+      "sha256": "c45d2d868a6537b8236f42ee0bc387abe6f6bb7df42c336c44aeae9de0acd178",
+      "source_output": "C:\\Users\\migue\\Documents\\Codex\\2026-11-09\\referenced-chatgpt-conversation-this-is-an\\work\\v16_4\\publish\\00_Canon\\Cifras Oficiales V16.md"
+    },
+    {
+      "path": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\00_Canon\\Matriz Territorial Económica.md",
+      "sha256": "cb76ed0d1e8974a71eb81f31071265596094b7405689d468c2e9adcba4a338ea",
+      "source_output": "C:\\Users\\migue\\Documents\\Codex\\2026-11-09\\referenced-chatgpt-conversation-this-is-an\\work\\v16_4\\publish\\00_Canon\\Matriz Territorial Económica.md"
+    },
+    {
+      "path": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\00_Canon\\Matriz de Estatus Político.md",
+      "sha256": "5af5aea14a1782bfb1ee05d511a8c3fe76b31ddda7cb5069ac92c18a929e0f77",
+      "source_output": "C:\\Users\\migue\\Documents\\Codex\\2026-11-09\\referenced-chatgpt-conversation-this-is-an\\work\\v16_4\\publish\\00_Canon\\Matriz de Estatus Político.md"
+    },
+    {
+      "path": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\02_Geografia\\Gwaith Valinor.md",
+      "sha256": "5c269d50b38dd1f893e850630014581778433152749e0d2f2dd3ee30c15fd5f8",
+      "source_output": "C:\\Users\\migue\\Documents\\Codex\\2026-11-09\\referenced-chatgpt-conversation-this-is-an\\work\\v16_4\\publish\\02_Geografia\\Gwaith Valinor.md"
+    },
+    {
+      "path": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\02_Geografia\\Entidades Politicas\\Federacion Directa\\Gwaith Valinor.md",
+      "sha256": "5ddb712a0a2993c3f971219a4a24a27f9e62d25a8c1ba8166d536e4b57da422a",
+      "source_output": "C:\\Users\\migue\\Documents\\Codex\\2026-11-09\\referenced-chatgpt-conversation-this-is-an\\work\\v16_4\\publish\\02_Geografia\\Entidades Politicas\\Federacion Directa\\Gwaith Valinor.md"
+    },
+    {
+      "path": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\02_Geografia\\Beleg Valinor.md",
+      "sha256": "b2a18d83667cd3a658e5ec7c49ff892fcb2a359d3a98d208688a87eb3f98f51d",
+      "source_output": "C:\\Users\\migue\\Documents\\Codex\\2026-11-09\\referenced-chatgpt-conversation-this-is-an\\work\\v16_4\\publish\\02_Geografia\\Beleg Valinor.md"
+    },
+    {
+      "path": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\02_Geografia\\Entidades Politicas\\Protectorados\\Beleg Valinor.md",
+      "sha256": "ccb755678b1ca04678f181c2884d34097e157e6c11e2cb37ce79293c07257c2b",
+      "source_output": "C:\\Users\\migue\\Documents\\Codex\\2026-11-09\\referenced-chatgpt-conversation-this-is-an\\work\\v16_4\\publish\\02_Geografia\\Entidades Politicas\\Protectorados\\Beleg Valinor.md"
+    },
+    {
+      "path": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\02_Geografia\\Entidades Politicas\\Gwaith Aear.md",
+      "sha256": "3ccc0bd0fd9a9825dd073e0fa4b977c5c7e1891d3d7f7fd245b4873a3e05520f",
+      "source_output": "C:\\Users\\migue\\Documents\\Codex\\2026-11-09\\referenced-chatgpt-conversation-this-is-an\\work\\v16_4\\publish\\02_Geografia\\Entidades Politicas\\Gwaith Aear.md"
+    },
+    {
+      "path": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\00_Canon\\Integraciones V16\\Resoluciones aprobadas V16.3.md",
+      "sha256": "0372ab13c3950f299dd5e61ea8bcda5ea2dacc6bce2709605abaff817bc33b56",
+      "source_output": "C:\\Users\\migue\\Documents\\Codex\\2026-11-09\\referenced-chatgpt-conversation-this-is-an\\work\\v16_4\\publish\\00_Canon\\Integraciones V16\\Resoluciones aprobadas V16.3.md"
+    },
+    {
+      "path": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\12_Militar\\AM1 Armada 1875-2026.md",
+      "sha256": "f20cdca0b917d3ada4764c84f7b4477c5cb54ab2563cd2358360d8b80f712419",
+      "source_output": "C:\\Users\\migue\\Documents\\Codex\\2026-11-09\\referenced-chatgpt-conversation-this-is-an\\work\\v16_4\\publish\\12_Militar\\AM1 Armada 1875-2026.md"
+    },
+    {
+      "path": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\00_Canon\\Integraciones V16\\Acumulativa A092 V16.4.md",
+      "sha256": "c7debf9f058d40e3e3f102092932716b1458ff54ec1ee6c16725976b991149d7",
+      "source_output": "C:\\Users\\migue\\Documents\\Codex\\2026-11-09\\referenced-chatgpt-conversation-this-is-an\\work\\v16_4\\publish\\00_Canon\\Integraciones V16\\Acumulativa A092 V16.4.md"
+    },
+    {
+      "path": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\00_Canon\\Matriz territorial maestra A092.md",
+      "sha256": "cb76ed0d1e8974a71eb81f31071265596094b7405689d468c2e9adcba4a338ea",
+      "source_output": "C:\\Users\\migue\\Documents\\Codex\\2026-11-09\\referenced-chatgpt-conversation-this-is-an\\work\\v16_4\\publish\\00_Canon\\Matriz territorial maestra A092.md"
+    },
+    {
+      "path": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\08_Economia\\Cuentas sectoriales conciliadas A092.md",
+      "sha256": "3acc164f435d378a87e7ce904fdfc9359a5fed62cf39575ee5f659c65de3f61c",
+      "source_output": "C:\\Users\\migue\\Documents\\Codex\\2026-11-09\\referenced-chatgpt-conversation-this-is-an\\work\\v16_4\\publish\\08_Economia\\Cuentas sectoriales conciliadas A092.md"
+    },
+    {
+      "path": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\12_Militar\\Registro naval 2026 A092.md",
+      "sha256": "3147ed881e3da1fc394170034ccabceef297c8ab2c2008d8b7c47334c8b81c62",
+      "source_output": "C:\\Users\\migue\\Documents\\Codex\\2026-11-09\\referenced-chatgpt-conversation-this-is-an\\work\\v16_4\\publish\\12_Militar\\Registro naval 2026 A092.md"
+    },
+    {
+      "path": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\12_Militar\\Serie naval anual 1875 2026 A092.md",
+      "sha256": "59e147ec73c5c80b89385865324b78d991a58012b92be98cb8ace6d6b21c0d8a",
+      "source_output": "C:\\Users\\migue\\Documents\\Codex\\2026-11-09\\referenced-chatgpt-conversation-this-is-an\\work\\v16_4\\publish\\12_Militar\\Serie naval anual 1875 2026 A092.md"
+    },
+    {
+      "path": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\00_Canon\\Integraciones V16\\Cotejo sección por sección V16.4.md",
+      "sha256": "9c1ad5b0a94abe4b66f0db3e1bfbafeea5655067bda2bb6b443b138b9c20291b",
+      "source_output": "C:\\Users\\migue\\Documents\\Codex\\2026-11-09\\referenced-chatgpt-conversation-this-is-an\\work\\v16_4\\publish\\00_Canon\\Integraciones V16\\Cotejo sección por sección V16.4.md"
+    },
+    {
+      "path": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\00_Canon\\Origen, migración y secuencia atlántica.md",
+      "sha256": "61016bcaef4ee23eee0b25a253356d3bb0de656a3e50bc6b00430f6f98e68c6f",
+      "source_output": "C:\\Users\\migue\\Documents\\Codex\\2026-11-09\\referenced-chatgpt-conversation-this-is-an\\work\\v16_4\\publish\\00_Canon\\Origen, migración y secuencia atlántica.md"
+    },
+    {
+      "path": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\08_Economia\\ECON-03 Resumen.md",
+      "sha256": "0d5bc79c52d575a87bc8f5eee75adef40b08834ef52543abac11978e5fbd2afc",
+      "source_output": "C:\\Users\\migue\\Documents\\Codex\\2026-11-09\\referenced-chatgpt-conversation-this-is-an\\work\\v16_4\\publish\\08_Economia\\ECON-03 Resumen.md"
+    },
+    {
+      "path": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\08_Economia\\ECON-03\\Reglas de integracion.md",
+      "sha256": "4d53374a8928775fdbc23904991d3e0f98f5aaf7dcaa8d9ff64574dc85f3c9b1",
+      "source_output": "C:\\Users\\migue\\Documents\\Codex\\2026-11-09\\referenced-chatgpt-conversation-this-is-an\\work\\v16_4\\publish\\08_Economia\\ECON-03\\Reglas de integracion.md"
+    },
+    {
+      "path": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\00_Canon\\Registro de Cambios.md",
+      "sha256": "3fa01cb062a61d8a2789bb64de016fd6a29341e44c9a0df631a6ccf59053eec7",
+      "source_output": "C:\\Users\\migue\\Documents\\Codex\\2026-11-09\\referenced-chatgpt-conversation-this-is-an\\work\\v16_4\\publish\\00_Canon\\Registro de Cambios.md"
+    },
+    {
+      "path": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\00_Canon\\Registro de integración acumulativa V16.md",
+      "sha256": "cdb5174827b911f1908069aaf002ce2527f228f4df5bcf0c6fdd694b24ace4c3",
+      "source_output": "C:\\Users\\migue\\Documents\\Codex\\2026-11-09\\referenced-chatgpt-conversation-this-is-an\\work\\v16_4\\publish\\00_Canon\\Registro de integración acumulativa V16.md"
+    },
+    {
+      "path": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\00_Canon\\Integraciones V16\\Auditoría de Coherencia V16.md",
+      "sha256": "2f46154986723a8d02b2ab6d1e77538ff0f161c993e2d9295bafea153c298cda",
+      "source_output": "C:\\Users\\migue\\Documents\\Codex\\2026-11-09\\referenced-chatgpt-conversation-this-is-an\\work\\v16_4\\publish\\00_Canon\\Integraciones V16\\Auditoría de Coherencia V16.md"
+    },
+    {
+      "path": "C:\\Users\\migue\\OneDrive\\DOS\\Historia de un imperio ficticio\\01_Exportaciones vigentes\\Procedencia de las exportaciones.json",
+      "sha256": "ad52bdef93855d8d12767c916e9d0547ee274ce94a24981512a959abc2b69e65",
+      "source_output": "C:\\Users\\migue\\Documents\\Codex\\2026-11-09\\referenced-chatgpt-conversation-this-is-an\\work\\v16_4\\Procedencia de las exportaciones A092.json"
+    }
+  ],
+  "qa": {
+    "passed": true,
+    "territories": 23,
+    "sector_rows": 230,
+    "unique_naval_ids": 615,
+    "manned_ships": 595,
+    "unmanned": 20,
+    "available_scenario": 449,
+    "annual_years": 152,
+    "common_blocks": 6564,
+    "sections": 1074,
+    "native_tables": 141,
+    "content_mismatches": 0,
+    "pages": {
+      "Canon V16 Maestro V16.4": 343,
+      "Acumulativa A092 V16.4": 23
+    },
+    "limitations": [
+      "Beleg residue 189.5–344.5 million not assigned to named territories",
+      "Aear complete allies population not fixed",
+      "Ship historic identities and observed states not documented",
+      "Executed nominal budgets not documented",
+      "New northern and industrial capacities are hypotheses"
+    ]
+  },
+  "visual_review": {
+    "renderer": "Microsoft Word",
+    "master_pages": 343,
+    "cumulative_pages": 23,
+    "page_images": 366,
+    "scope": "Imágenes de todas las páginas; lectura ampliada de acumulativa y revisión de láminas del maestro"
+  },
+  "outputs": {
+    "Acumulativa A092 V16.4.docx": "6ef12873db4aa32e0c69bbda8d09b451125fd6cd760b0ab134179c64e753700a",
+    "Acumulativa A092 V16.4.md": "c7debf9f058d40e3e3f102092932716b1458ff54ec1ee6c16725976b991149d7",
+    "Canon V16 Maestro V16.4.docx": "64d9c29e2b10cc3414736d0a43200fb0e94de5270d4692ec5082a6b0333c56b5",
+    "Canon V16 Maestro V16.4.md": "7ee4efa75e291b78454be3468fe451c4ededced432ca0639d5d6a063b74294e8",
+    "Canon V16 Maestro V16.4.pdf": "67f1daf8b1eea685fdfd01f5a1ac2d21b8745c23b8c1aa92a078cc6f3b22e081",
+    "Capacidades industriales A092.json": "9e18ab75e7f27586f9c13bf12fcf8c64670594308048981f94fc51eed83c97fa",
+    "Cotejo completo por bloques V16.4.json": "596078dcb9049947a573dd962eef3d2baa8bd6ef899a4913cde559963d5548ee",
+    "Cotejo sección por sección V16.4.md": "9c1ad5b0a94abe4b66f0db3e1bfbafeea5655067bda2bb6b443b138b9c20291b",
+    "Cronología Territorial V16.4.md": "79a32bddd9ece236b023955e8bdac210a33168cf071cb833a1facf43ea255589",
+    "Cuentas sectoriales conciliadas A092.md": "3acc164f435d378a87e7ce904fdfc9359a5fed62cf39575ee5f659c65de3f61c",
+    "Diferencias iniciales y recuperación A092.md": "17c4763f37a24558b0ef30162dc942b668895b656c950fc9e8f385e5e3d79c6b",
+    "Enlaces Obsidian recuperados A092.json": "dcc38de79a2a101fb45141fa322fbda5254758d90ca8663b6568768fe4be874b",
+    "Informe de integración A092.md": "8bd20a332ff085563a271502d72d91ba2edeb870f532bc4d46fdbaa954ae9da3",
+    "Matriz territorial maestra A092.md": "cb76ed0d1e8974a71eb81f31071265596094b7405689d468c2e9adcba4a338ea",
+    "Matriz territorial y cuentas A092.json": "ac2133a96d055ee469348ce7b793dd042939a6d77ff540eeebc0e0e48a494889",
+    "Originales antes de V16.4.zip": "22ef97b79dc847723b221dce7baf67c44b2aeb0f42790193d8d630d4c6592207",
+    "Protectorados y aliados A092.json": "9e754120768cbf2b654a6bf1a6465d53538fc6870130cc34eb8a2b7c82869593",
+    "Registro de cambios A092.json": "119fd6eb5f6f0fd5f0f9948e563786c744c67782f7ad200fc0bc34e515003cbc",
+    "Registro naval 2026 A092.json": "530d6f553815f345bac35c5b13b4c903702c8f4e3ff1b12cabb33de3f054c612",
+    "Registro naval 2026 A092.md": "3147ed881e3da1fc394170034ccabceef297c8ab2c2008d8b7c47334c8b81c62",
+    "Serie naval anual 1875 2026 A092.json": "bc2ff7abc9927b81a947e1fee566cb2d55ae247c8bfba99699fc843289a0b551",
+    "Serie naval anual 1875 2026 A092.md": "59e147ec73c5c80b89385865324b78d991a58012b92be98cb8ace6d6b21c0d8a",
+    "Verificación aritmética y editorial A092.json": "411c1f7e7dab68976f2009614132bce27e18f565567e11ae696064ae6d2abd7e"
+  }
+}

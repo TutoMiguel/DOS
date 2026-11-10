@@ -1,0 +1,25 @@
+{
+  "passed": true,
+  "territories": 23,
+  "sector_rows": 230,
+  "unique_naval_ids": 615,
+  "manned_ships": 595,
+  "unmanned": 20,
+  "available_scenario": 449,
+  "annual_years": 152,
+  "common_blocks": 6564,
+  "sections": 1074,
+  "native_tables": 141,
+  "content_mismatches": 0,
+  "pages": {
+    "Canon V16 Maestro V16.4": 343,
+    "Acumulativa A092 V16.4": 23
+  },
+  "limitations": [
+    "Beleg residue 189.5–344.5 million not assigned to named territories",
+    "Aear complete allies population not fixed",
+    "Ship historic identities and observed states not documented",
+    "Executed nominal budgets not documented",
+    "New northern and industrial capacities are hypotheses"
+  ]
+}

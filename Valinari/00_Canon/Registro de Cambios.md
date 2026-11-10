@@ -94,3 +94,7 @@ Se aprueba e integra el marco de la Tercera Revolución Industrial. Las Decision
 ## 2026-11-08 — Desarrollo integral de la Tercera Revolución Industrial
 
 Se integró la historia tecnológica 1950–2026, sus efectos económicos, sociales y laborales, la separación de usos civiles y militares, la gobernanza, los indicadores, la conciliación presupuestaria y el balance de riesgos. Se preservaron los hitos de OceanNet y las reglas tecnológicas vigentes.
+
+## Acumulativa A092 del 9 de noviembre de 2026
+
+Las cifras y decisiones anteriores de este registro son antecedentes cuando contradicen A092. Integradas las decisiones posteriores del autor: Tol Eressëa 20–40 y Groenlandia 55–75 d. C.; poblaciones antiguas conservadas; Beleg rector 724,5–879,5; cuentas de 515,5 millones constitucionales y 523,5 operativos; padrón de aliados sin doble cómputo; cotejo común de Word y Obsidian; registros naval, presupuestario y de capacidades. Véase [[Acumulativa A092 V16.4]].

@@ -1,34 +1,16 @@
 ---
 tipo: entidad territorial
-estatus: gran valinor
-canon: V16
+canon: V16.4
+estado: vigente
+resolucion: A092
 ---
 # Beleg Valinor
 
-Beleg Valinor comprende [[02_Geografia/Gwaith Valinor]] más los protectorados y enclaves exteriores.
+Rango rector 2026: 724,5–879,5 millones; PIB PPA 73,35–93,75 billones. No son la suma demostrada de todas las fichas disponibles. El subtotal identificado es 515,5 millones constitucionales + 8 de Harnen + 11,5 de Esgal Nénar = 535. El resto necesario es 189,5–344,5 millones, pendiente de asignación territorial documentada.
 
-## Protectorados y enclaves
+Por la ruta operativa: 523,5 + 11,5 + residuo. Harnen ya está en 523,5 y no se añade otra vez; Rhunost está en Harnen. Nanduhirion/Palaos está dentro de Micronesia y no es población adicional de Beleg. Los puertos asociados se cuentan por su perímetro documentado, sin incorporar toda la población anfitriona.
 
-- [[02_Geografia/Harnen]]
-- Kheled-zâram
-- Círdan
-- Harlond
-- Amon Rûdh
-- Alqualondë
-- Eglarest
-- Pelargir
-
-[[00_Canon/Canon V16 Maestro]]
-
-## Datos territoriales normalizados
-
-- **Población:** 
-No fijada de forma explícita en esta ficha.
-- **Economía y función:** 
-No fijada de forma explícita en esta ficha; consultar ECON-03 y el Canon V16.
-- **Dependencia administrativa:** 
-No fijada de forma explícita en esta ficha.
-- **Criterio editorial:** se conservan los datos canónicos existentes; los campos no fijados quedan expresamente pendientes y no se completan por inferencia.
+[[Acumulativa A092 V16.4]] · [[Matriz territorial maestra A092]]
 
 ## Referencias relacionadas
 

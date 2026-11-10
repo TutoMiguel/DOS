@@ -1,0 +1,715 @@
+{
+  "restored_occurrences": 177,
+  "unique_verified_targets": 94,
+  "ambiguous_labels_skipped": [],
+  "links": [
+    {
+      "label": "Casa Mithlond",
+      "target": "09_Politica/Casas Mayores/Casa Mithlond"
+    },
+    {
+      "label": "Casa Mithlond",
+      "target": "09_Politica/Casas Mayores/Casa Mithlond"
+    },
+    {
+      "label": "Casa Mithlond",
+      "target": "09_Politica/Casas Mayores/Casa Mithlond"
+    },
+    {
+      "label": "Casa Vanyar",
+      "target": "09_Politica/Casas Mayores/Casa Vanyar"
+    },
+    {
+      "label": "Casa Teleri",
+      "target": "09_Politica/Casas Mayores/Casa Teleri"
+    },
+    {
+      "label": "Casa Mithlond",
+      "target": "09_Politica/Casas Mayores/Casa Mithlond"
+    },
+    {
+      "label": "Casa Taur-en-Mor",
+      "target": "09_Politica/Casas Mayores/Casa Taur-en-Mor"
+    },
+    {
+      "label": "Casa Pelargir",
+      "target": "09_Politica/Casas Mayores/Casa Pelargir"
+    },
+    {
+      "label": "Casa Harlond",
+      "target": "09_Politica/Casas Mayores/Casa Harlond"
+    },
+    {
+      "label": "Casa Minas Anor",
+      "target": "09_Politica/Casas Mayores/Casa Minas Anor"
+    },
+    {
+      "label": "Casa Rhunost",
+      "target": "09_Politica/Casas Mayores/Casa Rhunost"
+    },
+    {
+      "label": "Casa Harnost",
+      "target": "09_Politica/Casas Mayores/Casa Harnost"
+    },
+    {
+      "label": "Prompt individual de Casa Telcontar",
+      "target": "09_Politica/Prompts Visuales de las 84 Casas"
+    },
+    {
+      "label": "Ficha de Casa Telcontar",
+      "target": "09_Politica/Casa Real/Casa Telcontar"
+    },
+    {
+      "label": "Casa Harlond",
+      "target": "09_Politica/Casas Mayores/Casa Harlond"
+    },
+    {
+      "label": "Casa Harnost",
+      "target": "09_Politica/Casas Mayores/Casa Harnost"
+    },
+    {
+      "label": "Casa Minas Anor",
+      "target": "09_Politica/Casas Mayores/Casa Minas Anor"
+    },
+    {
+      "label": "Casa Mithlond",
+      "target": "09_Politica/Casas Mayores/Casa Mithlond"
+    },
+    {
+      "label": "Casa Pelargir",
+      "target": "09_Politica/Casas Mayores/Casa Pelargir"
+    },
+    {
+      "label": "Casa Rhunost",
+      "target": "09_Politica/Casas Mayores/Casa Rhunost"
+    },
+    {
+      "label": "Casa Taur-en-Mor",
+      "target": "09_Politica/Casas Mayores/Casa Taur-en-Mor"
+    },
+    {
+      "label": "Casa Teleri",
+      "target": "09_Politica/Casas Mayores/Casa Teleri"
+    },
+    {
+      "label": "Casa Vanyar",
+      "target": "09_Politica/Casas Mayores/Casa Vanyar"
+    },
+    {
+      "label": "Casa Aerandir",
+      "target": "09_Politica/Casas Menores/Casa Aerandir"
+    },
+    {
+      "label": "Casa Aglaran",
+      "target": "09_Politica/Casas Menores/Casa Aglaran"
+    },
+    {
+      "label": "Casa Angren",
+      "target": "09_Politica/Casas Menores/Casa Angren"
+    },
+    {
+      "label": "Casa Baranor",
+      "target": "09_Politica/Casas Menores/Casa Baranor"
+    },
+    {
+      "label": "Casa Belegor",
+      "target": "09_Politica/Casas Menores/Casa Belegor"
+    },
+    {
+      "label": "Casa Celepharn",
+      "target": "09_Politica/Casas Menores/Casa Celepharn"
+    },
+    {
+      "label": "Casa Círdanir",
+      "target": "09_Politica/Casas Menores/Casa Círdanir"
+    },
+    {
+      "label": "Casa Duilin",
+      "target": "09_Politica/Casas Menores/Casa Duilin"
+    },
+    {
+      "label": "Casa Elentir",
+      "target": "09_Politica/Casas Menores/Casa Elentir"
+    },
+    {
+      "label": "Casa Erestor",
+      "target": "09_Politica/Casas Menores/Casa Erestor"
+    },
+    {
+      "label": "Casa Eärond",
+      "target": "09_Politica/Casas Menores/Casa Eärond"
+    },
+    {
+      "label": "Casa Falastur",
+      "target": "09_Politica/Casas Menores/Casa Falastur"
+    },
+    {
+      "label": "Casa Falathar",
+      "target": "09_Politica/Casas Menores/Casa Falathar"
+    },
+    {
+      "label": "Casa Gwindor",
+      "target": "09_Politica/Casas Menores/Casa Gwindor"
+    },
+    {
+      "label": "Casa Hallas",
+      "target": "09_Politica/Casas Menores/Casa Hallas"
+    },
+    {
+      "label": "Casa Lindor",
+      "target": "09_Politica/Casas Menores/Casa Lindor"
+    },
+    {
+      "label": "Casa Maethor",
+      "target": "09_Politica/Casas Menores/Casa Maethor"
+    },
+    {
+      "label": "Casa Meneldir",
+      "target": "09_Politica/Casas Menores/Casa Meneldir"
+    },
+    {
+      "label": "Casa Nimrodel",
+      "target": "09_Politica/Casas Menores/Casa Nimrodel"
+    },
+    {
+      "label": "Casa Ostor",
+      "target": "09_Politica/Casas Menores/Casa Ostor"
+    },
+    {
+      "label": "Casa Tarond",
+      "target": "09_Politica/Casas Menores/Casa Tarond"
+    },
+    {
+      "label": "Casa Thoron",
+      "target": "09_Politica/Casas Menores/Casa Thoron"
+    },
+    {
+      "label": "Casa Tumladen",
+      "target": "09_Politica/Casas Menores/Casa Tumladen"
+    },
+    {
+      "label": "Casa Voronwë",
+      "target": "09_Politica/Casas Menores/Casa Voronwë"
+    },
+    {
+      "label": "Casa Aegnor",
+      "target": "09_Politica/Casas Vasallas/Casa Aegnor"
+    },
+    {
+      "label": "Casa Amdir",
+      "target": "09_Politica/Casas Vasallas/Casa Amdir"
+    },
+    {
+      "label": "Casa Amrod",
+      "target": "09_Politica/Casas Vasallas/Casa Amrod"
+    },
+    {
+      "label": "Casa Anardil",
+      "target": "09_Politica/Casas Vasallas/Casa Anardil"
+    },
+    {
+      "label": "Casa Araphor",
+      "target": "09_Politica/Casas Vasallas/Casa Araphor"
+    },
+    {
+      "label": "Casa Ardamir",
+      "target": "09_Politica/Casas Vasallas/Casa Ardamir"
+    },
+    {
+      "label": "Casa Barahir",
+      "target": "09_Politica/Casas Vasallas/Casa Barahir"
+    },
+    {
+      "label": "Casa Belegund",
+      "target": "09_Politica/Casas Vasallas/Casa Belegund"
+    },
+    {
+      "label": "Casa Brandir",
+      "target": "09_Politica/Casas Vasallas/Casa Brandir"
+    },
+    {
+      "label": "Casa Calenard",
+      "target": "09_Politica/Casas Vasallas/Casa Calenard"
+    },
+    {
+      "label": "Casa Dírhael",
+      "target": "09_Politica/Casas Vasallas/Casa Dírhael"
+    },
+    {
+      "label": "Casa Ecthelion",
+      "target": "09_Politica/Casas Vasallas/Casa Ecthelion"
+    },
+    {
+      "label": "Casa Erchirion",
+      "target": "09_Politica/Casas Vasallas/Casa Erchirion"
+    },
+    {
+      "label": "Casa Erellont",
+      "target": "09_Politica/Casas Vasallas/Casa Erellont"
+    },
+    {
+      "label": "Casa Estelmo",
+      "target": "09_Politica/Casas Vasallas/Casa Estelmo"
+    },
+    {
+      "label": "Casa Findegil",
+      "target": "09_Politica/Casas Vasallas/Casa Findegil"
+    },
+    {
+      "label": "Casa Folcred",
+      "target": "09_Politica/Casas Vasallas/Casa Folcred"
+    },
+    {
+      "label": "Casa Forlong",
+      "target": "09_Politica/Casas Vasallas/Casa Forlong"
+    },
+    {
+      "label": "Casa Galdor",
+      "target": "09_Politica/Casas Vasallas/Casa Galdor"
+    },
+    {
+      "label": "Casa Hador",
+      "target": "09_Politica/Casas Vasallas/Casa Hador"
+    },
+    {
+      "label": "Casa Hareth",
+      "target": "09_Politica/Casas Vasallas/Casa Hareth"
+    },
+    {
+      "label": "Casa Harlind",
+      "target": "09_Politica/Casas Vasallas/Casa Harlind"
+    },
+    {
+      "label": "Casa Imrahil",
+      "target": "09_Politica/Casas Vasallas/Casa Imrahil"
+    },
+    {
+      "label": "Casa Iorlas",
+      "target": "09_Politica/Casas Vasallas/Casa Iorlas"
+    },
+    {
+      "label": "Casa Malbeth",
+      "target": "09_Politica/Casas Vasallas/Casa Malbeth"
+    },
+    {
+      "label": "Casa Ohtar",
+      "target": "09_Politica/Casas Vasallas/Casa Ohtar"
+    },
+    {
+      "label": "Casa Oropher",
+      "target": "09_Politica/Casas Vasallas/Casa Oropher"
+    },
+    {
+      "label": "Casa Rúmilion",
+      "target": "09_Politica/Casas Vasallas/Casa Rúmilion"
+    },
+    {
+      "label": "Casa Saeros",
+      "target": "09_Politica/Casas Vasallas/Casa Saeros"
+    },
+    {
+      "label": "Casa Targon",
+      "target": "09_Politica/Casas Vasallas/Casa Targon"
+    },
+    {
+      "label": "Casa Tuor",
+      "target": "09_Politica/Casas Vasallas/Casa Tuor"
+    },
+    {
+      "label": "Casa Vorondil",
+      "target": "09_Politica/Casas Vasallas/Casa Vorondil"
+    },
+    {
+      "label": "Casa Wídfara",
+      "target": "09_Politica/Casas Vasallas/Casa Wídfara"
+    },
+    {
+      "label": "Casa Yavannor",
+      "target": "09_Politica/Casas Vasallas/Casa Yavannor"
+    },
+    {
+      "label": "Casa Zirin",
+      "target": "09_Politica/Casas Vasallas/Casa Zirin"
+    },
+    {
+      "label": "Casa Harlond",
+      "target": "09_Politica/Casas Mayores/Casa Harlond"
+    },
+    {
+      "label": "Casa Harnost",
+      "target": "09_Politica/Casas Mayores/Casa Harnost"
+    },
+    {
+      "label": "Casa Minas Anor",
+      "target": "09_Politica/Casas Mayores/Casa Minas Anor"
+    },
+    {
+      "label": "Casa Mithlond",
+      "target": "09_Politica/Casas Mayores/Casa Mithlond"
+    },
+    {
+      "label": "Casa Pelargir",
+      "target": "09_Politica/Casas Mayores/Casa Pelargir"
+    },
+    {
+      "label": "Casa Rhunost",
+      "target": "09_Politica/Casas Mayores/Casa Rhunost"
+    },
+    {
+      "label": "Casa Taur-en-Mor",
+      "target": "09_Politica/Casas Mayores/Casa Taur-en-Mor"
+    },
+    {
+      "label": "Casa Teleri",
+      "target": "09_Politica/Casas Mayores/Casa Teleri"
+    },
+    {
+      "label": "Casa Vanyar",
+      "target": "09_Politica/Casas Mayores/Casa Vanyar"
+    },
+    {
+      "label": "Casa Aerandir",
+      "target": "09_Politica/Casas Menores/Casa Aerandir"
+    },
+    {
+      "label": "Casa Aglaran",
+      "target": "09_Politica/Casas Menores/Casa Aglaran"
+    },
+    {
+      "label": "Casa Angren",
+      "target": "09_Politica/Casas Menores/Casa Angren"
+    },
+    {
+      "label": "Casa Baranor",
+      "target": "09_Politica/Casas Menores/Casa Baranor"
+    },
+    {
+      "label": "Casa Belegor",
+      "target": "09_Politica/Casas Menores/Casa Belegor"
+    },
+    {
+      "label": "Casa Celepharn",
+      "target": "09_Politica/Casas Menores/Casa Celepharn"
+    },
+    {
+      "label": "Casa Círdanir",
+      "target": "09_Politica/Casas Menores/Casa Círdanir"
+    },
+    {
+      "label": "Casa Duilin",
+      "target": "09_Politica/Casas Menores/Casa Duilin"
+    },
+    {
+      "label": "Casa Elentir",
+      "target": "09_Politica/Casas Menores/Casa Elentir"
+    },
+    {
+      "label": "Casa Erestor",
+      "target": "09_Politica/Casas Menores/Casa Erestor"
+    },
+    {
+      "label": "Casa Eärond",
+      "target": "09_Politica/Casas Menores/Casa Eärond"
+    },
+    {
+      "label": "Casa Falastur",
+      "target": "09_Politica/Casas Menores/Casa Falastur"
+    },
+    {
+      "label": "Casa Falathar",
+      "target": "09_Politica/Casas Menores/Casa Falathar"
+    },
+    {
+      "label": "Casa Gwindor",
+      "target": "09_Politica/Casas Menores/Casa Gwindor"
+    },
+    {
+      "label": "Casa Hallas",
+      "target": "09_Politica/Casas Menores/Casa Hallas"
+    },
+    {
+      "label": "Casa Lindor",
+      "target": "09_Politica/Casas Menores/Casa Lindor"
+    },
+    {
+      "label": "Casa Maethor",
+      "target": "09_Politica/Casas Menores/Casa Maethor"
+    },
+    {
+      "label": "Casa Meneldir",
+      "target": "09_Politica/Casas Menores/Casa Meneldir"
+    },
+    {
+      "label": "Casa Nimrodel",
+      "target": "09_Politica/Casas Menores/Casa Nimrodel"
+    },
+    {
+      "label": "Casa Ostor",
+      "target": "09_Politica/Casas Menores/Casa Ostor"
+    },
+    {
+      "label": "Casa Tarond",
+      "target": "09_Politica/Casas Menores/Casa Tarond"
+    },
+    {
+      "label": "Casa Thoron",
+      "target": "09_Politica/Casas Menores/Casa Thoron"
+    },
+    {
+      "label": "Casa Tumladen",
+      "target": "09_Politica/Casas Menores/Casa Tumladen"
+    },
+    {
+      "label": "Casa Voronwë",
+      "target": "09_Politica/Casas Menores/Casa Voronwë"
+    },
+    {
+      "label": "Casa Aegnor",
+      "target": "09_Politica/Casas Vasallas/Casa Aegnor"
+    },
+    {
+      "label": "Casa Amdir",
+      "target": "09_Politica/Casas Vasallas/Casa Amdir"
+    },
+    {
+      "label": "Casa Amrod",
+      "target": "09_Politica/Casas Vasallas/Casa Amrod"
+    },
+    {
+      "label": "Casa Anardil",
+      "target": "09_Politica/Casas Vasallas/Casa Anardil"
+    },
+    {
+      "label": "Casa Araphor",
+      "target": "09_Politica/Casas Vasallas/Casa Araphor"
+    },
+    {
+      "label": "Casa Ardamir",
+      "target": "09_Politica/Casas Vasallas/Casa Ardamir"
+    },
+    {
+      "label": "Casa Barahir",
+      "target": "09_Politica/Casas Vasallas/Casa Barahir"
+    },
+    {
+      "label": "Casa Belegund",
+      "target": "09_Politica/Casas Vasallas/Casa Belegund"
+    },
+    {
+      "label": "Casa Brandir",
+      "target": "09_Politica/Casas Vasallas/Casa Brandir"
+    },
+    {
+      "label": "Casa Calenard",
+      "target": "09_Politica/Casas Vasallas/Casa Calenard"
+    },
+    {
+      "label": "Casa Dírhael",
+      "target": "09_Politica/Casas Vasallas/Casa Dírhael"
+    },
+    {
+      "label": "Casa Ecthelion",
+      "target": "09_Politica/Casas Vasallas/Casa Ecthelion"
+    },
+    {
+      "label": "Casa Erchirion",
+      "target": "09_Politica/Casas Vasallas/Casa Erchirion"
+    },
+    {
+      "label": "Casa Erellont",
+      "target": "09_Politica/Casas Vasallas/Casa Erellont"
+    },
+    {
+      "label": "Casa Estelmo",
+      "target": "09_Politica/Casas Vasallas/Casa Estelmo"
+    },
+    {
+      "label": "Casa Findegil",
+      "target": "09_Politica/Casas Vasallas/Casa Findegil"
+    },
+    {
+      "label": "Casa Folcred",
+      "target": "09_Politica/Casas Vasallas/Casa Folcred"
+    },
+    {
+      "label": "Casa Forlong",
+      "target": "09_Politica/Casas Vasallas/Casa Forlong"
+    },
+    {
+      "label": "Casa Galdor",
+      "target": "09_Politica/Casas Vasallas/Casa Galdor"
+    },
+    {
+      "label": "Casa Hador",
+      "target": "09_Politica/Casas Vasallas/Casa Hador"
+    },
+    {
+      "label": "Casa Hareth",
+      "target": "09_Politica/Casas Vasallas/Casa Hareth"
+    },
+    {
+      "label": "Casa Harlind",
+      "target": "09_Politica/Casas Vasallas/Casa Harlind"
+    },
+    {
+      "label": "Casa Imrahil",
+      "target": "09_Politica/Casas Vasallas/Casa Imrahil"
+    },
+    {
+      "label": "Casa Iorlas",
+      "target": "09_Politica/Casas Vasallas/Casa Iorlas"
+    },
+    {
+      "label": "Casa Malbeth",
+      "target": "09_Politica/Casas Vasallas/Casa Malbeth"
+    },
+    {
+      "label": "Casa Ohtar",
+      "target": "09_Politica/Casas Vasallas/Casa Ohtar"
+    },
+    {
+      "label": "Casa Oropher",
+      "target": "09_Politica/Casas Vasallas/Casa Oropher"
+    },
+    {
+      "label": "Casa Rúmilion",
+      "target": "09_Politica/Casas Vasallas/Casa Rúmilion"
+    },
+    {
+      "label": "Casa Saeros",
+      "target": "09_Politica/Casas Vasallas/Casa Saeros"
+    },
+    {
+      "label": "Casa Targon",
+      "target": "09_Politica/Casas Vasallas/Casa Targon"
+    },
+    {
+      "label": "Casa Tuor",
+      "target": "09_Politica/Casas Vasallas/Casa Tuor"
+    },
+    {
+      "label": "Casa Vorondil",
+      "target": "09_Politica/Casas Vasallas/Casa Vorondil"
+    },
+    {
+      "label": "Casa Wídfara",
+      "target": "09_Politica/Casas Vasallas/Casa Wídfara"
+    },
+    {
+      "label": "Casa Yavannor",
+      "target": "09_Politica/Casas Vasallas/Casa Yavannor"
+    },
+    {
+      "label": "Casa Zirin",
+      "target": "09_Politica/Casas Vasallas/Casa Zirin"
+    },
+    {
+      "label": "12_Militar/Destructores Gil-galad — evolución de la familia",
+      "target": "12_Militar/Destructores Gil-galad — evolución de la familia"
+    },
+    {
+      "label": "AM1 Armada 1875–2026",
+      "target": "12_Militar/AM1 Armada 1875-2026"
+    },
+    {
+      "label": "actualizacion_canon_arnor_poblacion_economia_526ac_2026.md",
+      "target": "10_Archivo/Documentos de trabajo integrados/actualizacion_canon_arnor_poblacion_economia_526ac_2026"
+    },
+    {
+      "label": "Cronología Territorial V16",
+      "target": "01_Cronologia/Cronología Territorial V16"
+    },
+    {
+      "label": "enmienda_canon_ciudades_poblacion_industrial_v12.md",
+      "target": "10_Archivo/Documentos de trabajo integrados/enmienda_canon_ciudades_poblacion_industrial_v12"
+    },
+    {
+      "label": "enmienda_canon_demografia_1850_2026_v12.md",
+      "target": "10_Archivo/Documentos de trabajo integrados/enmienda_canon_demografia_1850_2026_v12"
+    },
+    {
+      "label": "enmienda_canon_distribucion_urbana_historica_v12.md",
+      "target": "10_Archivo/Documentos de trabajo integrados/enmienda_canon_distribucion_urbana_historica_v12"
+    },
+    {
+      "label": "enmienda_canon_enclaves_medio_oriente_v12.md",
+      "target": "10_Archivo/Documentos de trabajo integrados/enmienda_canon_enclaves_medio_oriente_v12"
+    },
+    {
+      "label": "enmienda_canon_industrializacion_1850_2026_v12.md",
+      "target": "10_Archivo/Documentos de trabajo integrados/enmienda_canon_industrializacion_1850_2026_v12"
+    },
+    {
+      "label": "enmienda_canon_nosselie_toliva_canarias_v12.md",
+      "target": "10_Archivo/Documentos de trabajo integrados/enmienda_canon_nosselie_toliva_canarias_v12"
+    },
+    {
+      "label": "enmienda_canon_oceannet_1850_2026_v12.md",
+      "target": "10_Archivo/Documentos de trabajo integrados/enmienda_canon_oceannet_1850_2026_v12"
+    },
+    {
+      "label": "enmienda_canon_poligono_tol_eressea_y_numenor_v12.md",
+      "target": "10_Archivo/Documentos de trabajo integrados/enmienda_canon_poligono_tol_eressea_y_numenor_v12"
+    },
+    {
+      "label": "enmienda_canon_primer_contacto_caribe_150_ac_v12.md",
+      "target": "10_Archivo/Documentos de trabajo integrados/enmienda_canon_primer_contacto_caribe_150_ac_v12"
+    },
+    {
+      "label": "enmienda_canon_provincia_arnor_v12.md",
+      "target": "10_Archivo/Documentos de trabajo integrados/enmienda_canon_provincia_arnor_v12"
+    },
+    {
+      "label": "enmienda_canon_provincia_calendardhon_austral_v12.md",
+      "target": "10_Archivo/Documentos de trabajo integrados/enmienda_canon_provincia_calendardhon_austral_v12"
+    },
+    {
+      "label": "enmienda_canon_recalibracion_poblacion_v12.md",
+      "target": "10_Archivo/Documentos de trabajo integrados/enmienda_canon_recalibracion_poblacion_v12"
+    },
+    {
+      "label": "enmienda_canon_secuencia_atlantica_tol_terranova_valinor_v12.md",
+      "target": "10_Archivo/Documentos de trabajo integrados/enmienda_canon_secuencia_atlantica_tol_terranova_valinor_v12"
+    },
+    {
+      "label": "enmienda_canon_sirenande_poblacion_v12.md",
+      "target": "10_Archivo/Documentos de trabajo integrados/enmienda_canon_sirenande_poblacion_v12"
+    },
+    {
+      "label": "enmienda_canon_sirenande_v12.md",
+      "target": "10_Archivo/Documentos de trabajo integrados/enmienda_canon_sirenande_v12"
+    },
+    {
+      "label": "regla_primordial_nomenclatura_urbana_v12.md",
+      "target": "10_Archivo/Documentos de trabajo integrados/regla_primordial_nomenclatura_urbana_v12"
+    },
+    {
+      "label": "AM1 Armada 1875–2026",
+      "target": "12_Militar/AM1 Armada 1875-2026"
+    },
+    {
+      "label": "Clases navales de referencia 1980",
+      "target": "12_Militar/Clases navales 1980"
+    },
+    {
+      "label": "Clases navales de referencia 2026",
+      "target": "12_Militar/Clases navales 2026"
+    },
+    {
+      "label": "11_Ciencia y Tecnologia/Tercera Revolución Industrial 1950-2026",
+      "target": "11_Ciencia y Tecnologia/Tercera Revolución Industrial 1950-2026"
+    },
+    {
+      "label": "12_Militar/AM1 Armada 1973 — reconstrucción y turbinas",
+      "target": "12_Militar/AM1 Armada 1973 — reconstrucción y turbinas"
+    },
+    {
+      "label": "12_Militar/Destructores Gil-galad — evolución de la familia",
+      "target": "12_Militar/Destructores Gil-galad — evolución de la familia"
+    },
+    {
+      "label": "12_Militar/Destructores Gil-galad — evolución de la familia",
+      "target": "12_Militar/Destructores Gil-galad — evolución de la familia"
+    }
+  ]
+}
