@@ -11,6 +11,12 @@ coordenadas: 30.10 N, 38.00 O
 
 Nueva Tirion es la capital de Valinor y la principal sede política del núcleo [[02_Geografia/Valinor a Tyl|Valinor a Tyl]]. Forma parte de [[02_Geografia/Aranath Valinor|Aranath Valinor]], el Reino constituyente.
 
+## Nueva Tirion hacia 1300 d C
+
+![[07_Imagenes/Nueva_Tirion_1300.png]]
+
+Interpretación artística de la capital hacia 1300 d. C., con arquitectura de inspiración élfica y urbanismo avanzado.
+
 ## Datos canónicos
 
 - Coordenadas: 30,10° N, 38,00° O.

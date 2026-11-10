@@ -7,6 +7,12 @@ canon: V16
 
 Capital de Valinor. Población: 6,50 millones. Coordenadas: 30,10° N, 38,00° O.
 
+## Nueva Tirion hacia 1300 d C
+
+![[07_Imagenes/Nueva_Tirion_1300.png]]
+
+Interpretación artística de la capital hacia 1300 d. C., con arquitectura de inspiración élfica y urbanismo avanzado.
+
 ## Datos territoriales normalizados
 
 - **Población:** 
