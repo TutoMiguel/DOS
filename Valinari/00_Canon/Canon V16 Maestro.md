@@ -1,12 +1,12 @@
-# Canon V16 Maestro de la Unión Valinoriana
+# Canon V17 Maestro de la Unión Valinoriana
 
 Estado: CANON VIGENTE
 
 Integración editorial: 2026-11-10
 
-Revisión editorial: V16.5 con acumulativas A092 y A093
+Revisión editorial: V17.5 A103 con clase Vëantur y relevo de Círdan I
 
-Canon consolidado con A092 y A093, conciliación territorial, catálogo terrestre y desarrollo naval en red. Se conservan originales, antecedentes y escenarios con su estado. Las resoluciones posteriores prevalecen únicamente en las materias que sustituyen.
+Canon consolidado desde V17.4 A102 con nueva clase Vëantur y relevo gradual de Círdan I mediante A103. Se conservan A101 E1, A102, originales y niveles de evidencia. Los calendarios nuevos son decisiones narrativas; las reservas documentales y resoluciones posteriores conservan su alcance.
 
 ## Acumulativa A092 de conciliación del Canon V16
 
@@ -320,7 +320,7 @@ Las decisiones rectoras son las siete anotaciones del autor posteriores a V16.3.
 
 El paquete incluye cotejo por sección y bloque, sustituciones, matriz territorial, cuentas sectoriales, inventario de 615 unidades, serie de 152 años, relación de protectorados y aliados y originales anteriores. Las huellas permiten verificar fuentes y publicación local. La ubicación en OneDrive no demuestra que haya terminado la sincronización remota.
 
-[[Acumulativa A092 V16.4]]
+Acumulativa A092 V16.4
 
 ## Índice
 
@@ -2147,9 +2147,9 @@ La Casa Telcontar inicia su reinado en 560 a. C. El Pacto de la Corona Telcontar
 
 En 833 d. C., Thalion IV Telcontar ocupa la Corona en Nueva Tirion. La Casa Real conserva el número 25 y no obtiene un voto adicional en el Consejo.
 
-Hacia 826 d. C., Thalion IV, entonces heredero, contrajo matrimonio dinástico con Gilwen, nacida hacia 800 d. C. en la [[09_Politica/Casas Mayores/Casa Mithlond|Casa Mithlond]]. Tras la coronación de Thalion en 833, Gilwen fue reconocida como reina consorte. La unión reforzó los vínculos de la Corona con las rutas marítimas septentrionales y la [[09_Politica/Casas Mayores/Casa Mithlond|Casa Mithlond]].
+Hacia 826 d. C., Thalion IV, entonces heredero, contrajo matrimonio dinástico con Gilwen, nacida hacia 800 d. C. en la Casa Mithlond. Tras la coronación de Thalion en 833, Gilwen fue reconocida como reina consorte. La unión reforzó los vínculos de la Corona con las rutas marítimas septentrionales y la Casa Mithlond.
 
-La reina consorte ejerce patronazgo y funciones ceremoniales, pero no recibe soberanía independiente ni un voto adicional en el Consejo. La [[09_Politica/Casas Mayores/Casa Mithlond|Casa Mithlond]] conserva su asiento propio como una de las 24 Casas Mayores. Las fechas de nacimiento y matrimonio de Gilwen son aproximadas. Véase su ficha.
+La reina consorte ejerce patronazgo y funciones ceremoniales, pero no recibe soberanía independiente ni un voto adicional en el Consejo. La Casa Mithlond conserva su asiento propio como una de las 24 Casas Mayores. Las fechas de nacimiento y matrimonio de Gilwen son aproximadas. Véase su ficha.
 
 ### Historia constitucional de las Casas y la Corona
 
@@ -3144,15 +3144,15 @@ La nobleza de Valinari queda organizada en 24 Casas Mayores, 24 Casas Menores, 3
 
 1. Casa Noldor.
 
-2. [[09_Politica/Casas Mayores/Casa Vanyar|Casa Vanyar]].
+2. Casa Vanyar.
 
-3. [[09_Politica/Casas Mayores/Casa Teleri|Casa Teleri]].
+3. Casa Teleri.
 
 4. Casa Elwing.
 
 5. Casa Círdan.
 
-6. [[09_Politica/Casas Mayores/Casa Mithlond|Casa Mithlond]].
+6. Casa Mithlond.
 
 7. Casa Esgal.
 
@@ -3168,23 +3168,23 @@ La nobleza de Valinari queda organizada en 24 Casas Mayores, 24 Casas Menores, 3
 
 13. Casa Eldalondë.
 
-14. [[09_Politica/Casas Mayores/Casa Taur-en-Mor|Casa Taur-en-Mor]].
+14. Casa Taur-en-Mor.
 
 15. Casa Barad Calen.
 
 16. Casa Dol Amroth.
 
-17. [[09_Politica/Casas Mayores/Casa Pelargir|Casa Pelargir]].
+17. Casa Pelargir.
 
-18. [[09_Politica/Casas Mayores/Casa Harlond|Casa Harlond]].
+18. Casa Harlond.
 
-19. [[09_Politica/Casas Mayores/Casa Minas Anor|Casa Minas Anor]].
+19. Casa Minas Anor.
 
 20. Casa Eryn Lasgalen.
 
-21. [[09_Politica/Casas Mayores/Casa Rhunost|Casa Rhunost]].
+21. Casa Rhunost.
 
-22. [[09_Politica/Casas Mayores/Casa Harnost|Casa Harnost]].
+22. Casa Harnost.
 
 23. Casa Eressëa Menel.
 
@@ -3246,7 +3246,7 @@ La escena muestra una ciudadela montañosa de torres blancas, rodeada de bosques
 
 El estandarte incorpora el nombre de la Casa y el lema registrado, cuya glosa es «El heredero sirve al reino», en escritura tengwar integrada en la tela. La forma latina conservada en la ficha es «I thain aran»; la composición gráfica debe revisarse a partir del lema registrado antes de considerarse validada. El prompt individual del catálogo de las 84 Casas desarrolla composición, escala corporal, materiales, iluminación, heráldica y rasgos físicos con calidad de ilustración de gran formato. Esta directriz es editorial e iconográfica y no modifica fechas de la cronología histórica.
 
-Referencias de Obsidian: [[09_Politica/Prompts Visuales de las 84 Casas|Prompt individual de Casa Telcontar]] y [[09_Politica/Casa Real/Casa Telcontar|Ficha de Casa Telcontar]].
+Referencias de Obsidian: Prompt individual de Casa Telcontar y Ficha de Casa Telcontar.
 
 ### Variación fenotípica y representantes de las Casas
 
@@ -3260,84 +3260,84 @@ Los perfiles familiares de Hallas, Thoron y Angren mantienen su referencia casta
 
 | Casa | Cabello del hombre | Cabello de la mujer |
 | --- | --- | --- |
-| [[09_Politica/Casas Mayores/Casa Harlond\|Casa Harlond]] | pelirrojo | rubio muy claro |
-| [[09_Politica/Casas Mayores/Casa Harnost\|Casa Harnost]] | rubio dorado | rubio claro |
-| [[09_Politica/Casas Mayores/Casa Minas Anor\|Casa Minas Anor]] | rubio ceniza | rubio ceniza |
-| [[09_Politica/Casas Mayores/Casa Mithlond\|Casa Mithlond]] | rubio oscuro | rubio dorado |
-| [[09_Politica/Casas Mayores/Casa Pelargir\|Casa Pelargir]] | rubio ceniza | pelirrojo |
-| [[09_Politica/Casas Mayores/Casa Rhunost\|Casa Rhunost]] | pelirrojo | rubio ceniza |
-| [[09_Politica/Casas Mayores/Casa Taur-en-Mor\|Casa Taur-en-Mor]] | rubio claro | pelirrojo |
-| [[09_Politica/Casas Mayores/Casa Teleri\|Casa Teleri]] | rubio platino | rubio oscuro |
-| [[09_Politica/Casas Mayores/Casa Vanyar\|Casa Vanyar]] | rubio muy claro | rubio platino |
+| Casa Harlond | pelirrojo | rubio muy claro |
+| Casa Harnost | rubio dorado | rubio claro |
+| Casa Minas Anor | rubio ceniza | rubio ceniza |
+| Casa Mithlond | rubio oscuro | rubio dorado |
+| Casa Pelargir | rubio ceniza | pelirrojo |
+| Casa Rhunost | pelirrojo | rubio ceniza |
+| Casa Taur-en-Mor | rubio claro | pelirrojo |
+| Casa Teleri | rubio platino | rubio oscuro |
+| Casa Vanyar | rubio muy claro | rubio platino |
 
 ##### Casas Menores
 
 | Casa | Cabello del hombre | Cabello de la mujer |
 | --- | --- | --- |
-| [[09_Politica/Casas Menores/Casa Aerandir\|Casa Aerandir]] | rubio claro | castaño claro |
-| [[09_Politica/Casas Menores/Casa Aglaran\|Casa Aglaran]] | rubio ceniza | rubio ceniza |
-| [[09_Politica/Casas Menores/Casa Angren\|Casa Angren]] | rubio dorado | rubio ceniza |
-| [[09_Politica/Casas Menores/Casa Baranor\|Casa Baranor]] | rubio platino | rubio claro |
-| [[09_Politica/Casas Menores/Casa Belegor\|Casa Belegor]] | rubio dorado | pelirrojo |
-| [[09_Politica/Casas Menores/Casa Celepharn\|Casa Celepharn]] | rubio dorado | rubio platino |
-| [[09_Politica/Casas Menores/Casa Círdanir\|Casa Círdanir]] | rubio muy claro | castaño claro |
-| [[09_Politica/Casas Menores/Casa Duilin\|Casa Duilin]] | pelirrojo | rubio dorado |
-| [[09_Politica/Casas Menores/Casa Elentir\|Casa Elentir]] | rubio ceniza | rubio muy claro |
-| [[09_Politica/Casas Menores/Casa Erestor\|Casa Erestor]] | rubio ceniza | rubio ceniza |
-| [[09_Politica/Casas Menores/Casa Eärond\|Casa Eärond]] | rubio oscuro | rubio claro |
-| [[09_Politica/Casas Menores/Casa Falastur\|Casa Falastur]] | rubio oscuro | rubio platino |
-| [[09_Politica/Casas Menores/Casa Falathar\|Casa Falathar]] | pelirrojo | rubio oscuro |
-| [[09_Politica/Casas Menores/Casa Gwindor\|Casa Gwindor]] | rubio claro | rubio dorado |
-| [[09_Politica/Casas Menores/Casa Hallas\|Casa Hallas]] | rubio claro | pelirrojo |
-| [[09_Politica/Casas Menores/Casa Lindor\|Casa Lindor]] | rubio muy claro | rubio claro |
-| [[09_Politica/Casas Menores/Casa Maethor\|Casa Maethor]] | rubio ceniza | pelirrojo |
-| [[09_Politica/Casas Menores/Casa Meneldir\|Casa Meneldir]] | castaño claro | castaño claro |
-| [[09_Politica/Casas Menores/Casa Nimrodel\|Casa Nimrodel]] | rubio claro | rubio claro |
-| [[09_Politica/Casas Menores/Casa Ostor\|Casa Ostor]] | rubio dorado | rubio claro |
-| [[09_Politica/Casas Menores/Casa Tarond\|Casa Tarond]] | rubio platino | rubio claro |
-| [[09_Politica/Casas Menores/Casa Thoron\|Casa Thoron]] | rubio claro | rubio oscuro |
-| [[09_Politica/Casas Menores/Casa Tumladen\|Casa Tumladen]] | rubio claro | rubio dorado |
-| [[09_Politica/Casas Menores/Casa Voronwë\|Casa Voronwë]] | rubio ceniza | rubio muy claro |
+| Casa Aerandir | rubio claro | castaño claro |
+| Casa Aglaran | rubio ceniza | rubio ceniza |
+| Casa Angren | rubio dorado | rubio ceniza |
+| Casa Baranor | rubio platino | rubio claro |
+| Casa Belegor | rubio dorado | pelirrojo |
+| Casa Celepharn | rubio dorado | rubio platino |
+| Casa Círdanir | rubio muy claro | castaño claro |
+| Casa Duilin | pelirrojo | rubio dorado |
+| Casa Elentir | rubio ceniza | rubio muy claro |
+| Casa Erestor | rubio ceniza | rubio ceniza |
+| Casa Eärond | rubio oscuro | rubio claro |
+| Casa Falastur | rubio oscuro | rubio platino |
+| Casa Falathar | pelirrojo | rubio oscuro |
+| Casa Gwindor | rubio claro | rubio dorado |
+| Casa Hallas | rubio claro | pelirrojo |
+| Casa Lindor | rubio muy claro | rubio claro |
+| Casa Maethor | rubio ceniza | pelirrojo |
+| Casa Meneldir | castaño claro | castaño claro |
+| Casa Nimrodel | rubio claro | rubio claro |
+| Casa Ostor | rubio dorado | rubio claro |
+| Casa Tarond | rubio platino | rubio claro |
+| Casa Thoron | rubio claro | rubio oscuro |
+| Casa Tumladen | rubio claro | rubio dorado |
+| Casa Voronwë | rubio ceniza | rubio muy claro |
 
 ##### Casas Vasallas
 
 | Casa | Cabello del hombre | Cabello de la mujer |
 | --- | --- | --- |
-| [[09_Politica/Casas Vasallas/Casa Aegnor\|Casa Aegnor]] | rubio dorado | rubio oscuro |
-| [[09_Politica/Casas Vasallas/Casa Amdir\|Casa Amdir]] | rubio ceniza | rubio ceniza |
-| [[09_Politica/Casas Vasallas/Casa Amrod\|Casa Amrod]] | rubio ceniza | rubio dorado |
-| [[09_Politica/Casas Vasallas/Casa Anardil\|Casa Anardil]] | rubio dorado | castaño claro |
-| [[09_Politica/Casas Vasallas/Casa Araphor\|Casa Araphor]] | rubio muy claro | rubio claro |
-| [[09_Politica/Casas Vasallas/Casa Ardamir\|Casa Ardamir]] | rubio oscuro | pelirrojo |
-| [[09_Politica/Casas Vasallas/Casa Barahir\|Casa Barahir]] | rubio ceniza | rubio muy claro |
-| [[09_Politica/Casas Vasallas/Casa Belegund\|Casa Belegund]] | rubio muy claro | rubio muy claro |
-| [[09_Politica/Casas Vasallas/Casa Brandir\|Casa Brandir]] | rubio dorado | rubio claro |
-| [[09_Politica/Casas Vasallas/Casa Calenard\|Casa Calenard]] | pelirrojo | rubio ceniza |
-| [[09_Politica/Casas Vasallas/Casa Dírhael\|Casa Dírhael]] | rubio platinado blanco | rubio claro |
-| [[09_Politica/Casas Vasallas/Casa Ecthelion\|Casa Ecthelion]] | rubio oscuro | rubio claro |
-| [[09_Politica/Casas Vasallas/Casa Erchirion\|Casa Erchirion]] | rubio dorado | rubio dorado |
-| [[09_Politica/Casas Vasallas/Casa Erellont\|Casa Erellont]] | rubio oscuro | rubio muy claro |
-| [[09_Politica/Casas Vasallas/Casa Estelmo\|Casa Estelmo]] | rubio claro | castaño claro |
-| [[09_Politica/Casas Vasallas/Casa Findegil\|Casa Findegil]] | rubio claro | rubio oscuro |
-| [[09_Politica/Casas Vasallas/Casa Folcred\|Casa Folcred]] | rubio claro | rubio oscuro |
-| [[09_Politica/Casas Vasallas/Casa Forlong\|Casa Forlong]] | rubio ceniza | rubio muy claro |
-| [[09_Politica/Casas Vasallas/Casa Galdor\|Casa Galdor]] | rubio oscuro | rubio claro |
-| [[09_Politica/Casas Vasallas/Casa Hador\|Casa Hador]] | rubio ceniza | rubio oscuro |
-| [[09_Politica/Casas Vasallas/Casa Hareth\|Casa Hareth]] | rubio claro | rubio ceniza |
-| [[09_Politica/Casas Vasallas/Casa Harlind\|Casa Harlind]] | pelirrojo | rubio oscuro |
-| [[09_Politica/Casas Vasallas/Casa Imrahil\|Casa Imrahil]] | rubio claro | rubio claro |
-| [[09_Politica/Casas Vasallas/Casa Iorlas\|Casa Iorlas]] | rubio muy claro | castaño claro |
-| [[09_Politica/Casas Vasallas/Casa Malbeth\|Casa Malbeth]] | rubio dorado | pelirrojo |
-| [[09_Politica/Casas Vasallas/Casa Ohtar\|Casa Ohtar]] | castaño oscuro | rubio platinado blanco |
-| [[09_Politica/Casas Vasallas/Casa Oropher\|Casa Oropher]] | rubio ceniza | rubio ceniza |
-| [[09_Politica/Casas Vasallas/Casa Rúmilion\|Casa Rúmilion]] | rubio muy claro | rubio dorado |
-| [[09_Politica/Casas Vasallas/Casa Saeros\|Casa Saeros]] | rubio claro | rubio muy claro |
-| [[09_Politica/Casas Vasallas/Casa Targon\|Casa Targon]] | rubio claro | pelirrojo |
-| [[09_Politica/Casas Vasallas/Casa Tuor\|Casa Tuor]] | rubio muy claro | pelirrojo |
-| [[09_Politica/Casas Vasallas/Casa Vorondil\|Casa Vorondil]] | rubio muy claro | rubio platinado blanco |
-| [[09_Politica/Casas Vasallas/Casa Wídfara\|Casa Wídfara]] | rubio dorado | rubio dorado |
-| [[09_Politica/Casas Vasallas/Casa Yavannor\|Casa Yavannor]] | rubio oscuro | rubio ceniza |
-| [[09_Politica/Casas Vasallas/Casa Zirin\|Casa Zirin]] | rubio oscuro | rubio dorado |
+| Casa Aegnor | rubio dorado | rubio oscuro |
+| Casa Amdir | rubio ceniza | rubio ceniza |
+| Casa Amrod | rubio ceniza | rubio dorado |
+| Casa Anardil | rubio dorado | castaño claro |
+| Casa Araphor | rubio muy claro | rubio claro |
+| Casa Ardamir | rubio oscuro | pelirrojo |
+| Casa Barahir | rubio ceniza | rubio muy claro |
+| Casa Belegund | rubio muy claro | rubio muy claro |
+| Casa Brandir | rubio dorado | rubio claro |
+| Casa Calenard | pelirrojo | rubio ceniza |
+| Casa Dírhael | rubio platinado blanco | rubio claro |
+| Casa Ecthelion | rubio oscuro | rubio claro |
+| Casa Erchirion | rubio dorado | rubio dorado |
+| Casa Erellont | rubio oscuro | rubio muy claro |
+| Casa Estelmo | rubio claro | castaño claro |
+| Casa Findegil | rubio claro | rubio oscuro |
+| Casa Folcred | rubio claro | rubio oscuro |
+| Casa Forlong | rubio ceniza | rubio muy claro |
+| Casa Galdor | rubio oscuro | rubio claro |
+| Casa Hador | rubio ceniza | rubio oscuro |
+| Casa Hareth | rubio claro | rubio ceniza |
+| Casa Harlind | pelirrojo | rubio oscuro |
+| Casa Imrahil | rubio claro | rubio claro |
+| Casa Iorlas | rubio muy claro | castaño claro |
+| Casa Malbeth | rubio dorado | pelirrojo |
+| Casa Ohtar | castaño oscuro | rubio platinado blanco |
+| Casa Oropher | rubio ceniza | rubio ceniza |
+| Casa Rúmilion | rubio muy claro | rubio dorado |
+| Casa Saeros | rubio claro | rubio muy claro |
+| Casa Targon | rubio claro | pelirrojo |
+| Casa Tuor | rubio muy claro | pelirrojo |
+| Casa Vorondil | rubio muy claro | rubio platinado blanco |
+| Casa Wídfara | rubio dorado | rubio dorado |
+| Casa Yavannor | rubio oscuro | rubio ceniza |
+| Casa Zirin | rubio oscuro | rubio dorado |
 
 ### Alturas consolidadas de representación visual de las 84 Casas
 
@@ -3359,75 +3359,75 @@ Estas alturas pertenecen a la dirección artística de los prompts de imagen y n
 | Casa Eryn Lasgalen | 1,80 m | 1,84 m |
 | Casa Esgal | 1,93 m | 1,79 m |
 | Casa Fornost | 1,81 m | 1,77 m |
-| [[09_Politica/Casas Mayores/Casa Harlond\|Casa Harlond]] | 1,92 m | 1,74 m |
-| [[09_Politica/Casas Mayores/Casa Harnost\|Casa Harnost]] | 1,94 m | 1,82 m |
-| [[09_Politica/Casas Mayores/Casa Minas Anor\|Casa Minas Anor]] | 1,99 m | 1,79 m |
-| [[09_Politica/Casas Mayores/Casa Mithlond\|Casa Mithlond]] | 1,86 m | 1,74 m |
+| Casa Harlond | 1,92 m | 1,74 m |
+| Casa Harnost | 1,94 m | 1,82 m |
+| Casa Minas Anor | 1,99 m | 1,79 m |
+| Casa Mithlond | 1,86 m | 1,74 m |
 | Casa Noldor | 1,77 m | 1,73 m |
-| [[09_Politica/Casas Mayores/Casa Pelargir\|Casa Pelargir]] | 1,85 m | 1,81 m |
-| [[09_Politica/Casas Mayores/Casa Rhunost\|Casa Rhunost]] | 1,87 m | 1,77 m |
-| [[09_Politica/Casas Mayores/Casa Taur-en-Mor\|Casa Taur-en-Mor]] | 1,90 m | 1,78 m |
-| [[09_Politica/Casas Mayores/Casa Teleri\|Casa Teleri]] | 1,91 m | 1,83 m |
-| [[09_Politica/Casas Mayores/Casa Vanyar\|Casa Vanyar]] | 1,84 m | 1,78 m |
-| [[09_Politica/Casas Menores/Casa Aerandir\|Casa Aerandir]] | 1,94 m | 1,80 m |
-| [[09_Politica/Casas Menores/Casa Aglaran\|Casa Aglaran]] | 1,88 m | 1,80 m |
-| [[09_Politica/Casas Menores/Casa Angren\|Casa Angren]] | 1,92 m | 1,84 m |
-| [[09_Politica/Casas Menores/Casa Baranor\|Casa Baranor]] | 2,02 m | 1,78 m |
-| [[09_Politica/Casas Menores/Casa Belegor\|Casa Belegor]] | 1,97 m | 1,81 m |
-| [[09_Politica/Casas Menores/Casa Celepharn\|Casa Celepharn]] | 1,83 m | 1,84 m |
-| [[09_Politica/Casas Menores/Casa Círdanir\|Casa Círdanir]] | 1,96 m | 1,78 m |
-| [[09_Politica/Casas Menores/Casa Duilin\|Casa Duilin]] | 1,78 m | 1,74 m |
-| [[09_Politica/Casas Menores/Casa Elentir\|Casa Elentir]] | 1,86 m | 1,84 m |
-| [[09_Politica/Casas Menores/Casa Erestor\|Casa Erestor]] | 1,99 m | 1,77 m |
-| [[09_Politica/Casas Menores/Casa Eärond\|Casa Eärond]] | 1,84 m | 1,76 m |
-| [[09_Politica/Casas Menores/Casa Falastur\|Casa Falastur]] | 1,89 m | 1,73 m |
-| [[09_Politica/Casas Menores/Casa Falathar\|Casa Falathar]] | 1,87 m | 1,75 m |
-| [[09_Politica/Casas Menores/Casa Gwindor\|Casa Gwindor]] | 1,81 m | 1,75 m |
-| [[09_Politica/Casas Menores/Casa Hallas\|Casa Hallas]] | 2,00 m | 1,82 m |
-| [[09_Politica/Casas Menores/Casa Lindor\|Casa Lindor]] | 1,93 m | 1,77 m |
-| [[09_Politica/Casas Menores/Casa Maethor\|Casa Maethor]] | 1,90 m | 1,76 m |
-| [[09_Politica/Casas Menores/Casa Meneldir\|Casa Meneldir]] | 1,98 m | 1,74 m |
-| [[09_Politica/Casas Menores/Casa Nimrodel\|Casa Nimrodel]] | 1,80 m | 1,82 m |
-| [[09_Politica/Casas Menores/Casa Ostor\|Casa Ostor]] | 1,77 m | 1,83 m |
-| [[09_Politica/Casas Menores/Casa Tarond\|Casa Tarond]] | 1,95 m | 1,73 m |
-| [[09_Politica/Casas Menores/Casa Thoron\|Casa Thoron]] | 1,79 m | 1,80 m |
-| [[09_Politica/Casas Menores/Casa Tumladen\|Casa Tumladen]] | 1,85 m | 1,79 m |
-| [[09_Politica/Casas Menores/Casa Voronwë\|Casa Voronwë]] | 1,91 m | 1,81 m |
-| [[09_Politica/Casas Vasallas/Casa Aegnor\|Casa Aegnor]] | 1,77 m | 1,81 m |
-| [[09_Politica/Casas Vasallas/Casa Amdir\|Casa Amdir]] | 1,84 m | 1,74 m |
-| [[09_Politica/Casas Vasallas/Casa Amrod\|Casa Amrod]] | 1,91 m | 1,79 m |
-| [[09_Politica/Casas Vasallas/Casa Anardil\|Casa Anardil]] | 1,98 m | 1,84 m |
-| [[09_Politica/Casas Vasallas/Casa Araphor\|Casa Araphor]] | 1,86 m | 1,82 m |
-| [[09_Politica/Casas Vasallas/Casa Ardamir\|Casa Ardamir]] | 1,79 m | 1,77 m |
-| [[09_Politica/Casas Vasallas/Casa Barahir\|Casa Barahir]] | 1,93 m | 1,75 m |
-| [[09_Politica/Casas Vasallas/Casa Belegund\|Casa Belegund]] | 2,00 m | 1,80 m |
-| [[09_Politica/Casas Vasallas/Casa Brandir\|Casa Brandir]] | 1,81 m | 1,73 m |
-| [[09_Politica/Casas Vasallas/Casa Calenard\|Casa Calenard]] | 2,01 m | 1,73 m |
-| [[09_Politica/Casas Vasallas/Casa Dírhael\|Casa Dírhael]] | 1,88 m | 1,78 m |
-| [[09_Politica/Casas Vasallas/Casa Ecthelion\|Casa Ecthelion]] | 1,95 m | 1,83 m |
-| [[09_Politica/Casas Vasallas/Casa Erchirion\|Casa Erchirion]] | 2,02 m | 1,76 m |
-| [[09_Politica/Casas Vasallas/Casa Erellont\|Casa Erellont]] | 1,96 m | 1,76 m |
-| [[09_Politica/Casas Vasallas/Casa Estelmo\|Casa Estelmo]] | 1,83 m | 1,81 m |
-| [[09_Politica/Casas Vasallas/Casa Findegil\|Casa Findegil]] | 1,90 m | 1,74 m |
-| [[09_Politica/Casas Vasallas/Casa Folcred\|Casa Folcred]] | 1,97 m | 1,79 m |
-| [[09_Politica/Casas Vasallas/Casa Forlong\|Casa Forlong]] | 1,78 m | 1,84 m |
-| [[09_Politica/Casas Vasallas/Casa Galdor\|Casa Galdor]] | 1,85 m | 1,77 m |
-| [[09_Politica/Casas Vasallas/Casa Hador\|Casa Hador]] | 1,92 m | 1,82 m |
-| [[09_Politica/Casas Vasallas/Casa Hareth\|Casa Hareth]] | 1,99 m | 1,75 m |
-| [[09_Politica/Casas Vasallas/Casa Harlind\|Casa Harlind]] | 1,89 m | 1,83 m |
-| [[09_Politica/Casas Vasallas/Casa Imrahil\|Casa Imrahil]] | 1,80 m | 1,81 m |
-| [[09_Politica/Casas Vasallas/Casa Iorlas\|Casa Iorlas]] | 1,87 m | 1,73 m |
-| [[09_Politica/Casas Vasallas/Casa Malbeth\|Casa Malbeth]] | 1,94 m | 1,78 m |
-| [[09_Politica/Casas Vasallas/Casa Ohtar\|Casa Ohtar]] | 2,01 m | 1,83 m |
-| [[09_Politica/Casas Vasallas/Casa Oropher\|Casa Oropher]] | 1,82 m | 1,76 m |
-| [[09_Politica/Casas Vasallas/Casa Rúmilion\|Casa Rúmilion]] | 1,82 m | 1,78 m |
-| [[09_Politica/Casas Vasallas/Casa Saeros\|Casa Saeros]] | 1,89 m | 1,81 m |
-| [[09_Politica/Casas Vasallas/Casa Targon\|Casa Targon]] | 1,96 m | 1,74 m |
-| [[09_Politica/Casas Vasallas/Casa Tuor\|Casa Tuor]] | 1,77 m | 1,79 m |
-| [[09_Politica/Casas Vasallas/Casa Vorondil\|Casa Vorondil]] | 1,84 m | 1,73 m |
-| [[09_Politica/Casas Vasallas/Casa Wídfara\|Casa Wídfara]] | 1,91 m | 1,77 m |
-| [[09_Politica/Casas Vasallas/Casa Yavannor\|Casa Yavannor]] | 1,98 m | 1,82 m |
-| [[09_Politica/Casas Vasallas/Casa Zirin\|Casa Zirin]] | 1,79 m | 1,75 m |
+| Casa Pelargir | 1,85 m | 1,81 m |
+| Casa Rhunost | 1,87 m | 1,77 m |
+| Casa Taur-en-Mor | 1,90 m | 1,78 m |
+| Casa Teleri | 1,91 m | 1,83 m |
+| Casa Vanyar | 1,84 m | 1,78 m |
+| Casa Aerandir | 1,94 m | 1,80 m |
+| Casa Aglaran | 1,88 m | 1,80 m |
+| Casa Angren | 1,92 m | 1,84 m |
+| Casa Baranor | 2,02 m | 1,78 m |
+| Casa Belegor | 1,97 m | 1,81 m |
+| Casa Celepharn | 1,83 m | 1,84 m |
+| Casa Círdanir | 1,96 m | 1,78 m |
+| Casa Duilin | 1,78 m | 1,74 m |
+| Casa Elentir | 1,86 m | 1,84 m |
+| Casa Erestor | 1,99 m | 1,77 m |
+| Casa Eärond | 1,84 m | 1,76 m |
+| Casa Falastur | 1,89 m | 1,73 m |
+| Casa Falathar | 1,87 m | 1,75 m |
+| Casa Gwindor | 1,81 m | 1,75 m |
+| Casa Hallas | 2,00 m | 1,82 m |
+| Casa Lindor | 1,93 m | 1,77 m |
+| Casa Maethor | 1,90 m | 1,76 m |
+| Casa Meneldir | 1,98 m | 1,74 m |
+| Casa Nimrodel | 1,80 m | 1,82 m |
+| Casa Ostor | 1,77 m | 1,83 m |
+| Casa Tarond | 1,95 m | 1,73 m |
+| Casa Thoron | 1,79 m | 1,80 m |
+| Casa Tumladen | 1,85 m | 1,79 m |
+| Casa Voronwë | 1,91 m | 1,81 m |
+| Casa Aegnor | 1,77 m | 1,81 m |
+| Casa Amdir | 1,84 m | 1,74 m |
+| Casa Amrod | 1,91 m | 1,79 m |
+| Casa Anardil | 1,98 m | 1,84 m |
+| Casa Araphor | 1,86 m | 1,82 m |
+| Casa Ardamir | 1,79 m | 1,77 m |
+| Casa Barahir | 1,93 m | 1,75 m |
+| Casa Belegund | 2,00 m | 1,80 m |
+| Casa Brandir | 1,81 m | 1,73 m |
+| Casa Calenard | 2,01 m | 1,73 m |
+| Casa Dírhael | 1,88 m | 1,78 m |
+| Casa Ecthelion | 1,95 m | 1,83 m |
+| Casa Erchirion | 2,02 m | 1,76 m |
+| Casa Erellont | 1,96 m | 1,76 m |
+| Casa Estelmo | 1,83 m | 1,81 m |
+| Casa Findegil | 1,90 m | 1,74 m |
+| Casa Folcred | 1,97 m | 1,79 m |
+| Casa Forlong | 1,78 m | 1,84 m |
+| Casa Galdor | 1,85 m | 1,77 m |
+| Casa Hador | 1,92 m | 1,82 m |
+| Casa Hareth | 1,99 m | 1,75 m |
+| Casa Harlind | 1,89 m | 1,83 m |
+| Casa Imrahil | 1,80 m | 1,81 m |
+| Casa Iorlas | 1,87 m | 1,73 m |
+| Casa Malbeth | 1,94 m | 1,78 m |
+| Casa Ohtar | 2,01 m | 1,83 m |
+| Casa Oropher | 1,82 m | 1,76 m |
+| Casa Rúmilion | 1,82 m | 1,78 m |
+| Casa Saeros | 1,89 m | 1,81 m |
+| Casa Targon | 1,96 m | 1,74 m |
+| Casa Tuor | 1,77 m | 1,79 m |
+| Casa Vorondil | 1,84 m | 1,73 m |
+| Casa Wídfara | 1,91 m | 1,77 m |
+| Casa Yavannor | 1,98 m | 1,82 m |
+| Casa Zirin | 1,79 m | 1,75 m |
 | Casa Telcontar | 1,97 m | 1,88 m |
 
 ### Evolución económica e institucional de las Casas
@@ -13124,7 +13124,7 @@ La regla de ciclo es una modernización integral de media vida por casco, ademá
 
 En la historia real, HMS Exmouth probó propulsión íntegra de turbinas de gas en 1967 y USS Spruance, primer destructor de turbina de gas de la Marina estadounidense, entró en servicio en 1975. La cronología valinari adelanta la decisión de serie mediante inversión industrial y técnica; no supone que desaparezcan el consumo elevado a máxima potencia, la corrosión salina o la necesidad de módulos de repuesto.
 
-Ficha de Obsidian: [[12_Militar/03_Armada/Destructores Gil-galad — evolución de la familia|12_Militar/Destructores Gil-galad — evolución de la familia]].md
+Ficha de Obsidian: 12_Militar/Destructores Gil-galad — evolución de la familia.md
 
 ## Complementos recuperados del Canon Markdown
 
@@ -13146,7 +13146,7 @@ Los Maiar son intermediarios de la tradición religiosa: profetisas, guardianas 
 
 Estado del material recuperado: VIGENTE. Fuente: Canon Markdown anterior a V16.4. Precedencia A092.
 
-En 2026 el inventario canónico de referencia comprende 615 plataformas navales: 595 buques tripulados y 20 vehículos navales no tripulados. Se distribuye en 11 portaaviones, 54 submarinos, 190 escoltas y combatientes de superficie, 34 anfibios, 220 plataformas de patrulla/vigilancia/servicio y 106 auxiliares. La estimación de 449 unidades disponibles en un ciclo ordinario es una hipótesis de planificación, no una tasa observada. El desglose funcional y técnico se encuentra en [[12_Militar/03_Armada/AM1 Armada 1875-2026|AM1 Armada 1875–2026]].
+En 2026 el inventario canónico de referencia comprende 615 plataformas navales: 595 buques tripulados y 20 vehículos navales no tripulados. Se distribuye en 11 portaaviones, 54 submarinos, 190 escoltas y combatientes de superficie, 34 anfibios, 220 plataformas de patrulla/vigilancia/servicio y 106 auxiliares. La estimación de 449 unidades disponibles en un ciclo ordinario es una hipótesis de planificación, no una tasa observada. El desglose funcional y técnico se encuentra en AM1 Armada 1875–2026.
 
 ### Precedencia canónica
 
@@ -13166,43 +13166,43 @@ Los anexos no reactivan cifras o reglas sustituidas cuando contradicen la secci�
 
 Estado del material recuperado: VIGENTE. Fuente: Canon Markdown anterior a V16.4. Precedencia A092.
 
-[[10_Archivo/Documentos de trabajo integrados/actualizacion_canon_arnor_poblacion_economia_526ac_2026|actualizacion_canon_arnor_poblacion_economia_526ac_2026.md]]
+actualizacion_canon_arnor_poblacion_economia_526ac_2026.md
 
-[[01_Cronologia/Cronología Territorial V16|Cronología Territorial V16]]
+Cronología Territorial V16
 
-[[10_Archivo/Documentos de trabajo integrados/enmienda_canon_ciudades_poblacion_industrial_v12|enmienda_canon_ciudades_poblacion_industrial_v12.md]]
+enmienda_canon_ciudades_poblacion_industrial_v12.md
 
-[[10_Archivo/Documentos de trabajo integrados/enmienda_canon_demografia_1850_2026_v12|enmienda_canon_demografia_1850_2026_v12.md]]
+enmienda_canon_demografia_1850_2026_v12.md
 
-[[10_Archivo/Documentos de trabajo integrados/enmienda_canon_distribucion_urbana_historica_v12|enmienda_canon_distribucion_urbana_historica_v12.md]]
+enmienda_canon_distribucion_urbana_historica_v12.md
 
-[[10_Archivo/Documentos de trabajo integrados/enmienda_canon_enclaves_medio_oriente_v12|enmienda_canon_enclaves_medio_oriente_v12.md]]
+enmienda_canon_enclaves_medio_oriente_v12.md
 
-[[10_Archivo/Documentos de trabajo integrados/enmienda_canon_industrializacion_1850_2026_v12|enmienda_canon_industrializacion_1850_2026_v12.md]]
+enmienda_canon_industrializacion_1850_2026_v12.md
 
-[[10_Archivo/Documentos de trabajo integrados/enmienda_canon_nosselie_toliva_canarias_v12|enmienda_canon_nosselie_toliva_canarias_v12.md]]
+enmienda_canon_nosselie_toliva_canarias_v12.md
 
-[[10_Archivo/Documentos de trabajo integrados/enmienda_canon_oceannet_1850_2026_v12|enmienda_canon_oceannet_1850_2026_v12.md]]
+enmienda_canon_oceannet_1850_2026_v12.md
 
-[[10_Archivo/Documentos de trabajo integrados/enmienda_canon_poligono_tol_eressea_y_numenor_v12|enmienda_canon_poligono_tol_eressea_y_numenor_v12.md]]
+enmienda_canon_poligono_tol_eressea_y_numenor_v12.md
 
-[[10_Archivo/Documentos de trabajo integrados/enmienda_canon_primer_contacto_caribe_150_ac_v12|enmienda_canon_primer_contacto_caribe_150_ac_v12.md]]
+enmienda_canon_primer_contacto_caribe_150_ac_v12.md
 
-[[10_Archivo/Documentos de trabajo integrados/enmienda_canon_provincia_arnor_v12|enmienda_canon_provincia_arnor_v12.md]]
+enmienda_canon_provincia_arnor_v12.md
 
-[[10_Archivo/Documentos de trabajo integrados/enmienda_canon_provincia_calendardhon_austral_v12|enmienda_canon_provincia_calendardhon_austral_v12.md]]
+enmienda_canon_provincia_calendardhon_austral_v12.md
 
-[[10_Archivo/Documentos de trabajo integrados/enmienda_canon_recalibracion_poblacion_v12|enmienda_canon_recalibracion_poblacion_v12.md]]
+enmienda_canon_recalibracion_poblacion_v12.md
 
-[[10_Archivo/Documentos de trabajo integrados/enmienda_canon_secuencia_atlantica_tol_terranova_valinor_v12|enmienda_canon_secuencia_atlantica_tol_terranova_valinor_v12.md]]
+enmienda_canon_secuencia_atlantica_tol_terranova_valinor_v12.md
 
-[[10_Archivo/Documentos de trabajo integrados/enmienda_canon_sirenande_poblacion_v12|enmienda_canon_sirenande_poblacion_v12.md]]
+enmienda_canon_sirenande_poblacion_v12.md
 
-[[10_Archivo/Documentos de trabajo integrados/enmienda_canon_sirenande_v12|enmienda_canon_sirenande_v12.md]]
+enmienda_canon_sirenande_v12.md
 
 informe_comparacion_v11.md
 
-[[10_Archivo/Documentos de trabajo integrados/regla_primordial_nomenclatura_urbana_v12|regla_primordial_nomenclatura_urbana_v12.md]]
+regla_primordial_nomenclatura_urbana_v12.md
 
 ### Actualizaciones acumulativas del canon valinoriano
 
@@ -13676,7 +13676,7 @@ La industria naval evoluciona desde los arsenales de vapor y siderurgia de 1750�
 
 La planificación presupuestaria adopta como regla comparativa la misma proporción del PIB estadounidense dedicada al Department of the Navy, contando Navy y Marine Corps de forma homogénea. Para 2026 la referencia de AM1 es aproximadamente 0,9 % del PIB, equivalente a unos 589,5 mil millones PPA sobre el PIB federal canónico de 65,50 billones PPA. Es una equivalencia de planificación: PPA no es presupuesto nominal y la serie histórica, especialmente 1980, requiere armonizar apropiaciones, gasto ejecutado y perímetro institucional antes de fijar montos canónicos comparables.
 
-La infantería de Marina mantiene una fuerza expedicionaria para evacuación, respuesta rápida, defensa de puertos y apoyo a territorios; el rango de 150.000–190.000 activos y 80.000–120.000 reservistas se trata como objetivo de planificación, no como censo de personal verificado. Las fichas de clase y los perfiles técnicos completos se encuentran en [[12_Militar/03_Armada/AM1 Armada 1875-2026|AM1 Armada 1875–2026]], [[12_Militar/03_Armada/Clases navales 1980|Clases navales de referencia 1980]] y [[12_Militar/03_Armada/Clases navales 2026|Clases navales de referencia 2026]].
+La infantería de Marina mantiene una fuerza expedicionaria para evacuación, respuesta rápida, defensa de puertos y apoyo a territorios; el rango de 150.000–190.000 activos y 80.000–120.000 reservistas se trata como objetivo de planificación, no como censo de personal verificado. Las fichas de clase y los perfiles técnicos completos se encuentran en AM1 Armada 1875–2026, Clases navales de referencia 1980 y Clases navales de referencia 2026.
 
 ### 24. Integración total de actualizaciones acumulativas
 
@@ -14405,7 +14405,7 @@ La política protege continuidad de servicios, privacidad, accesibilidad, derech
 
 Estado del material recuperado: VIGENTE. Fuente: Canon Markdown anterior a V16.4. Precedencia A092.
 
-La transformación digital valinari enlaza electrónica, computación, telecomunicaciones, automatización y redes con la producción, la ciencia, el Estado y la vida civil. Su despliegue es acumulativo y desigual: investigación, demostración, prototipo, servicio limitado, adopción amplia, fabricación y mantenimiento son etapas distintas. El desarrollo temático, los efectos económicos y sociales, la gobernanza, los indicadores y los asuntos abiertos se reúnen en [[11_Ciencia y Tecnologia/Tercera Revolución Industrial 1950-2026|11_Ciencia y Tecnologia/Tercera Revolución Industrial 1950-2026]].
+La transformación digital valinari enlaza electrónica, computación, telecomunicaciones, automatización y redes con la producción, la ciencia, el Estado y la vida civil. Su despliegue es acumulativo y desigual: investigación, demostración, prototipo, servicio limitado, adopción amplia, fabricación y mantenimiento son etapas distintas. El desarrollo temático, los efectos económicos y sociales, la gobernanza, los indicadores y los asuntos abiertos se reúnen en 11_Ciencia y Tecnologia/Tercera Revolución Industrial 1950-2026.
 
 La secuencia conserva los hitos establecidos: preparación y redes precursoras de OceanNet en 1954–1958; Programa OceanNet en 1958; operación institucional limitada desde 1959; estatuto federal en 1968; consolidación institucional en 1969; protocolo federal común en 1983; apertura civil y comercial durante 1990–2000; expansión de banda ancha, centros de datos, plataformas y automatización hasta 2026. La cronología no confunde pruebas precursoras con operación, ni consolidación institucional con el inicio del servicio.
 
@@ -14642,7 +14642,7 @@ Se incorpora como reconstrucción AM1 una fuerza naval de referencia de 1973 de 
 
 Se fija la trayectoria de turbinas de gas: ensayos valinari en 1952–1958; primeras series en lanchas y escoltas ligeros en 1958–1965; adopción masiva en destructores, fragatas, corbetas y buques rápidos en 1965–1970; perfeccionamiento de plantas combinadas, protección salina, control automático y mantenimiento modular en 1970–1979. En 1973 predomina gas en destructores modernos, buena parte de fragatas/escoltas y la mayoría de corbetas y lanchas rápidas. Portaaviones convencionales conservan vapor; los nucleares producen vapor desde reactores; submarinos nucleares usan ciclo de vapor; patrulleros de permanencia, anfibios y auxiliares favorecen diésel por autonomía y consumo.
 
-Las fechas de botadura, entrada en servicio y retiro por generación, así como velocidades, dotaciones, armas, sensores y variantes, constan en [[12_Militar/03_Armada/AM1 Armada 1973 — reconstrucción y turbinas|12_Militar/AM1 Armada 1973 — reconstrucción y turbinas]]. Los nombres Nénar y Míriel para misiles de la propuesta de 1973 quedan identificados como denominaciones de trabajo de esta reconstrucción.
+Las fechas de botadura, entrada en servicio y retiro por generación, así como velocidades, dotaciones, armas, sensores y variantes, constan en 12_Militar/AM1 Armada 1973 — reconstrucción y turbinas. Los nombres Nénar y Míriel para misiles de la propuesta de 1973 quedan identificados como denominaciones de trabajo de esta reconstrucción.
 
 ### Familia de destructores Gil-galad — secuencia generacional
 
@@ -14652,9 +14652,9 @@ Se fija una convención única para la familia: Gil-galad I designa la generaci�
 
 La reconstrucción de 1973 contabiliza 12 Gil-galad II de posguerra. La generación III comienza a entrar en servicio desde 1978. La cifra AM1 de 1980 para la familia es agregada durante el reemplazo II–III; no autoriza a sumar dos veces los cascos ni a asignar doce buques a cada generación. Para 2026 se registran 24 destructores de generaciones IV y V; la VI no se cuenta como operativa antes de su fecha prevista de entrada en servicio.
 
-La ficha técnica con misiones, prestaciones, armamento, sensores, propulsión y ciclos de casco se encuentra en [[12_Militar/03_Armada/Destructores Gil-galad — evolución de la familia|12_Militar/Destructores Gil-galad — evolución de la familia]]. Esta secuencia prevalece sobre numeraciones anteriores que asignaban el mismo ordinal a generaciones distintas.
+La ficha técnica con misiones, prestaciones, armamento, sensores, propulsión y ciclos de casco se encuentra en 12_Militar/Destructores Gil-galad — evolución de la familia. Esta secuencia prevalece sobre numeraciones anteriores que asignaban el mismo ordinal a generaciones distintas.
 
-La secuencia generacional Gil-galad se normaliza en la ficha [[12_Militar/03_Armada/Destructores Gil-galad — evolución de la familia|12_Militar/Destructores Gil-galad — evolución de la familia]]; sus fechas de familia no equivalen a la vida de un casco individual.
+La secuencia generacional Gil-galad se normaliza en la ficha 12_Militar/Destructores Gil-galad — evolución de la familia; sus fechas de familia no equivalen a la vida de un casco individual.
 
 ## Anexos cuantitativos A092
 
@@ -15230,7 +15230,7 @@ Arnor concentra integración de motores, transmisiones, electrónica y blindados
 
 #### Catálogo por familias
 
-[[12_Militar/02_Ejército/Blindados/Índice de blindados|Fichas de carros, VCI, transportes y artillería]].
+Fichas de carros, VCI, transportes y artillería.
 
 #### Desarrollo de los VCI y TBP por familias
 
@@ -15282,8 +15282,7 @@ Las fichas proceden de la ampliación A092 R07 y R08 incorporada por instrucció
 
 La revisión V16.5 integra esta colección y su desarrollo en el cuerpo del Canon Maestro y en la acumulativa A092 y A093. La cronología maestra recibe los hitos terrestres y navales, distinguiendo las fechas narrativas de los programas propuestos.
 
-
-[[00_Canon/Integraciones V16/Acumulativa A092 V16.4|Acumulativa A092]]
+Acumulativa A092
 
 ### 19 Fichas de blindados y propiedades de clasificación
 
@@ -15308,7 +15307,6 @@ Desarrollo narrativo incorporado en A092 R07 y R08. Las cifras son estimaciones 
 | Velocidad carretera y terreno | 45 / 15 km/h |
 | Autonomía | 160 km |
 | Blindaje | 9 / 6 mm |
-
 
 ##### Origen y función histórica
 
@@ -15336,7 +15334,6 @@ No hay variantes cuantificadas. Vehículos de enlace o mando sobre el mismo casc
 
 Para Hador faltan la distribución interior definitiva, los medios de comunicación por lote y el registro de cambios de carrocería. No se fija una velocidad de marcha prolongada a partir del máximo.
 
-
 #### CP-17 Belegost
 
 Tipo de blindado: carro de combate pesado. Familia: Belegost. Movilidad: orugas. Función principal: apoyo pesado temprano.
@@ -15356,7 +15353,6 @@ Desarrollo narrativo incorporado en A092 R07 y R08. Las cifras son estimaciones 
 | Velocidad carretera y terreno | 8 / 4 km/h |
 | Autonomía | 65 km |
 | Blindaje | 16 / 12 mm |
-
 
 ##### Origen y función histórica
 
@@ -15384,7 +15380,6 @@ Se conservan 420 vehículos nuevos. Reparaciones y recuperación de componentes 
 
 En Belegost quedan por precisar disposición de puestos, comunicaciones interiores y lotes de transmisión. La cifra construida necesita un registro de bajas y reparaciones sin equiparar reparación y fabricación.
 
-
 #### CL-26 Duilin
 
 Tipo de blindado: carro de combate ligero. Familia: Duilin. Movilidad: orugas. Función principal: mecanización ligera.
@@ -15404,7 +15399,6 @@ Desarrollo narrativo incorporado en A092 R07 y R08. Las cifras son estimaciones 
 | Velocidad carretera y terreno | 32 / 18 km/h |
 | Autonomía | 180 km |
 | Blindaje | 22 casco y 25 torre / 10–15 mm |
-
 
 ##### Origen y función histórica
 
@@ -15432,7 +15426,6 @@ No se fijan subseries numéricas. La producción de 1350 termina en 1936; entren
 
 Duilin necesita identificar los lotes iniciales de diésel y las revisiones de torre. La reducción de tripulación se conserva, pero no acredita una distribución interior única para toda la serie.
 
-
 #### TP-32 Barahir
 
 Tipo de blindado: transporte blindado de personal. Familia: Barahir. Movilidad: ruedas 4×2. Función principal: transporte protegido temprano.
@@ -15452,7 +15445,6 @@ Desarrollo narrativo incorporado en A092 R07 y R08. Las cifras son estimaciones 
 | Velocidad carretera y terreno | 45 / 12 km/h |
 | Autonomía | 220 km |
 | Blindaje | Acero 6–8 mm; techo abierto |
-
 
 ##### Origen y función histórica
 
@@ -15480,7 +15472,6 @@ Se fijan 600 construidos. Haleth desarrolla después el transporte de mayor movi
 
 Barahir necesita precisar distribución de asientos y servicio de ametralladora, sin convertir los diez soldados en dotación permanente. La protección de techo se conserva como abierta.
 
-
 #### CM-34 Gondolin
 
 Tipo de blindado: carro de combate medio. Familia: Gondolin. Movilidad: orugas. Función principal: apoyo y maniobra de fuerzas mecanizadas.
@@ -15500,7 +15491,6 @@ Desarrollo narrativo incorporado en A092 R07 y R08. Las cifras son estimaciones 
 | Velocidad carretera y terreno | 38 / 22 km/h |
 | Autonomía | 250 km |
 | Blindaje | 45 casco y 55 torre / 25 mm |
-
 
 ##### Origen y función histórica
 
@@ -15528,7 +15518,6 @@ El Anárion posterior desarrolla el concepto de carro medio. No se declara que l
 
 En Gondolin se mantienen pendientes los lotes de radio, disposición del quinto puesto y cambios de transmisión. Su continuidad con Anárion es funcional hasta documentar componentes o cascos compartidos.
 
-
 #### CL-38 Nimrodel
 
 Tipo de blindado: carro de combate ligero. Familia: Nimrodel. Movilidad: orugas. Función principal: reconocimiento y apoyo ligero.
@@ -15548,7 +15537,6 @@ Desarrollo narrativo incorporado en A092 R07 y R08. Las cifras son estimaciones 
 | Velocidad carretera y terreno | 48 / 28 km/h |
 | Autonomía | 300 km |
 | Blindaje | 25 / 12–16 mm |
-
 
 ##### Origen y función histórica
 
@@ -15576,7 +15564,6 @@ Se construyen 2800 entre 1938 y 1947. El uso posterior en instrucción o cometid
 
 Para Nimrodel faltan las funciones exactas de los cuatro puestos, lotes de observación y destino de los vehículos retirados. No se introduce una variante anfibia en ausencia de desarrollo propio.
 
-
 #### CM-41 Anárion
 
 Tipo de blindado: carro de combate medio. Familia: Anárion. Movilidad: orugas. Función principal: núcleo mecanizado de producción masiva.
@@ -15596,7 +15583,6 @@ Desarrollo narrativo incorporado en A092 R07 y R08. Las cifras son estimaciones 
 | Velocidad carretera y terreno | 46 / 25 km/h |
 | Autonomía | 300 km |
 | Blindaje | 60 casco y 80 torre / 35–45 mm |
-
 
 ##### Origen y función histórica
 
@@ -15624,7 +15610,6 @@ Las versiones de recuperación o mando no tienen reparto numérico fijado. Cualq
 
 Anárion requiere una serie anual de entregas y un catálogo de lotes para asociar cambios de fabricación a cascos concretos. La producción masiva no acredita una configuración idéntica durante catorce años.
 
-
 #### TP-42 Haleth
 
 Tipo de blindado: transporte blindado de personal. Familia: Haleth. Movilidad: semioruga. Función principal: acompañamiento mecanizado temprano.
@@ -15644,7 +15629,6 @@ Desarrollo narrativo incorporado en A092 R07 y R08. Las cifras son estimaciones 
 | Velocidad carretera y terreno | 55 / 25 km/h |
 | Autonomía | 280 km |
 | Blindaje | Frente 12 y laterales 8 mm; techo abierto |
-
 
 ##### Origen y función histórica
 
@@ -15672,7 +15656,6 @@ Los 3600 nuevos no se suman a los camiones y medios de apoyo que los abastecen. 
 
 Haleth requiere registrar los lotes con secundaria de 7,7 mm y las adaptaciones de transporte. La clasificación semioruga no implica que comparta componentes de rodaje con los carros medios.
 
-
 #### CP-44 Beleg
 
 Tipo de blindado: carro de combate pesado. Familia: Beleg. Movilidad: orugas. Función principal: apoyo pesado a fuerzas mecanizadas.
@@ -15692,7 +15675,6 @@ Desarrollo narrativo incorporado en A092 R07 y R08. Las cifras son estimaciones 
 | Velocidad carretera y terreno | 38 / 20 km/h |
 | Autonomía | 220 km |
 | Blindaje | 120 casco y 150 torre / 70–80 mm |
-
 
 ##### Origen y función histórica
 
@@ -15720,7 +15702,6 @@ Se conservan 1050 construidos. La posterior adopción del carro universal reduce
 
 Beleg necesita un balance de recuperación, transportes pesados y retiradas antes de cerrar su presencia histórica. Las dimensiones y cargas sobre infraestructura no se deducen únicamente de sus 48 t.
 
-
 #### CU-52 Elendil
 
 Tipo de blindado: carro de combate universal. Familia: Elendil. Movilidad: orugas. Función principal: unificación de funciones del carro medio y pesado.
@@ -15740,7 +15721,6 @@ Desarrollo narrativo incorporado en A092 R07 y R08. Las cifras son estimaciones 
 | Velocidad carretera y terreno | 48 / 28 km/h |
 | Autonomía | 420 km |
 | Blindaje | 110 casco y 180 torre / 50–65 mm |
-
 
 ##### Origen y función histórica
 
@@ -15768,7 +15748,6 @@ Su sucesor de concepto es Elendil II. Los 3600 vehículos conservan sus cascos y
 
 Para el primer Elendil faltan los lotes de control de tiro y el calendario de sustitución territorial. La denominación universal describe su etapa doctrinal, no un conjunto mecánico común con todos los sucesores.
 
-
 #### TP-55 Bregor
 
 Tipo de blindado: transporte blindado de personal. Familia: Bregor. Movilidad: orugas. Función principal: transporte cerrado de infantería.
@@ -15788,7 +15767,6 @@ Desarrollo narrativo incorporado en A092 R07 y R08. Las cifras son estimaciones 
 | Velocidad carretera y terreno | 55 / 28 km/h |
 | Autonomía | 400 km |
 | Blindaje | Acero cerrado 12–25 mm |
-
 
 ##### Origen y función histórica
 
@@ -15816,7 +15794,6 @@ La familia suma 5200 construidos. No existe reparto numérico de derivados: mand
 
 Bregor necesita distribución interior y registro de derivados antes de asignar capacidades sanitarias o de mando. Se conserva como transporte cerrado de cadenas sin capacidad acuática declarada.
 
-
 #### CB-63 Elendil II
 
 Tipo de blindado: carro de batalla principal. Familia: Elendil. Movilidad: orugas. Función principal: carro principal de brigadas mecanizadas.
@@ -15836,7 +15813,6 @@ Desarrollo narrativo incorporado en A092 R07 y R08. Las cifras son estimaciones 
 | Velocidad carretera y terreno | 52 / 30 km/h |
 | Autonomía | 480 km |
 | Blindaje | 120 casco y 240 torre / 60–75 mm |
-
 
 ##### Origen y función histórica
 
@@ -15864,7 +15840,6 @@ Los 4200 construidos no incluyen fabricar nuevamente vehículos modernizados. La
 
 Elendil II requiere distinguir carros nuevos de modernizados, identificar configuraciones de radio y registrar exportaciones. Su producción termina en 1981 sin que ello fije la baja de la última unidad.
 
-
 #### TP-65 Círdan
 
 Tipo de blindado: transporte blindado de personal. Familia: Círdan. Movilidad: ruedas 6×6 y propulsión acuática. Función principal: transporte regional con cruce de agua preparado.
@@ -15884,7 +15859,6 @@ Desarrollo narrativo incorporado en A092 R07 y R08. Las cifras son estimaciones 
 | Velocidad carretera y terreno | 80 / 30; agua 8 km/h |
 | Autonomía | 600 terrestre km |
 | Blindaje | Acero 8–16 mm |
-
 
 ##### Origen y función histórica
 
@@ -15912,7 +15886,6 @@ El total de 4200 no incluye una flota de fragatas del mismo nombre. Las variante
 
 Círdan requiere condiciones de preparación acuática, límites de carga y variantes de misión. Las cifras terrestres y navales del mismo nombre deben permanecer en inventarios separados.
 
-
 #### CA-69 Falathar
 
 Tipo de blindado: carro de combate ligero anfibio. Familia: Falathar. Movilidad: orugas y propulsión acuática. Función principal: reconocimiento y apoyo anfibio ligero.
@@ -15934,7 +15907,6 @@ Desarrollo narrativo incorporado en A092 R07 y R08. Las cifras son estimaciones 
 | Velocidad carretera y terreno | 60 / 30; agua 10 km/h |
 | Autonomía | 400 terrestre km |
 | Blindaje | 25 casco y 30 torre / 12–18 mm |
-
 
 ##### Origen y función histórica
 
@@ -15962,7 +15934,6 @@ No se añaden variantes portatropas. Se distingue expresamente de la clase naval
 
 Falathar necesita límites de carga y condiciones de agua, disposición de tripulación y alcance acuático. Su velocidad de natación no acredita una capacidad de navegación oceánica ni transporte de tropas.
 
-
 #### AAP-72 Aulë
 
 Tipo de blindado: artillería autopropulsada blindada. Familia: Aulë. Movilidad: orugas. Función principal: apoyo artillero móvil.
@@ -15984,7 +15955,6 @@ Desarrollo narrativo incorporado en A092 R07 y R08. Las cifras son estimaciones 
 | Blindaje | Acero 12–30 mm |
 
 Es artillería autopropulsada; se mantiene fuera del total de carros y del universo de VCI y transportes.
-
 
 ##### Origen y función histórica
 
@@ -16012,7 +15982,6 @@ Los 1600 construidos constituyen plataformas de la familia. Versiones de mando o
 
 En Aulë faltan dotación funcional exacta, equipo de carga, medios de observación y vehículos de municionamiento asociados. No se fijan alcance de tiro o cadencia sin desarrollar antes la pieza y sus variantes.
 
-
 #### VT-74 Mablung
 
 Tipo de blindado: vehículo de combate de infantería. Familia: Mablung. Movilidad: orugas. Función principal: transporte y apoyo de infantería mecanizada.
@@ -16035,8 +16004,7 @@ Desarrollo narrativo incorporado en A092 R07 y R08. Las cifras son estimaciones 
 | Autonomía | 500 km |
 | Blindaje | Acero 8–30 mm |
 
-El total de VT-74 Mablung corresponde a toda su familia. Para el equipo y las plazas de sus derivados de transporte, mando, sanidad e ingeniería, véase [[12_Militar/02_Ejército/Blindados/Historia y criterios de los blindados.md#Desarrollo de los VCI y TBP por familias|desarrollo por familias]]. El reparto está en [[12_Militar/02_Ejército/Blindados/Historia y criterios de los blindados.md#Producción por variante sin duplicación|producción por variante]].
-
+El total de VT-74 Mablung corresponde a toda su familia. Para el equipo y las plazas de sus derivados de transporte, mando, sanidad e ingeniería, véase desarrollo por familias. El reparto está en producción por variante.
 
 ##### Origen y función histórica
 
@@ -16064,7 +16032,6 @@ Reparto editorial: 3400 VCI, 700 TBP, 300 mando, 250 sanidad y 150 ingeniería y
 
 Mablung necesita identificar qué cascos conservan torre de 20 mm y cuáles fueron convertidos. El reparto de fabricación es una estimación editorial y no describe por sí mismo el reparto activo actual.
 
-
 #### CB-78 Elendil III
 
 Tipo de blindado: carro de batalla principal. Familia: Elendil. Movilidad: orugas. Función principal: carro principal de nueva generación.
@@ -16084,7 +16051,6 @@ Desarrollo narrativo incorporado en A092 R07 y R08. Las cifras son estimaciones 
 | Velocidad carretera y terreno | 65 / 35 km/h |
 | Autonomía | 450 km |
 | Blindaje | Frontal compuesto 450–650 mm físicos; lateral estructural 40–70 mm y módulos |
-
 
 ##### Origen y función histórica
 
@@ -16112,7 +16078,6 @@ Las mejoras de comunicaciones y visión pueden formar lotes de modernización, t
 
 Para Elendil III faltan masas por paquete de protección y configuración de sensores por lote. El frontal compuesto no permite calcular una equivalencia uniforme frente a proyectiles.
 
-
 #### TP-84 Beregond
 
 Tipo de blindado: transporte blindado de personal. Familia: Beregond. Movilidad: ruedas 6×6. Función principal: transporte protegido regional.
@@ -16132,7 +16097,6 @@ Desarrollo narrativo incorporado en A092 R07 y R08. Las cifras son estimaciones 
 | Velocidad carretera y terreno | 95 / 35 km/h |
 | Autonomía | 700 km |
 | Blindaje | Acero 10–25 mm y revestimiento interior |
-
 
 ##### Origen y función histórica
 
@@ -16160,7 +16124,6 @@ Los 3600 construidos incluyen el total familiar sin reparto de variantes fijado.
 
 Para Beregond faltan lotes de cúpula y secundaria opcional, así como destino de los retirados. La continuidad de uso con Hirgon no demuestra compatibilidad de repuestos entre ambas familias.
 
-
 #### VC-88 Galdor
 
 Tipo de blindado: vehículo de combate de infantería. Familia: Galdor. Movilidad: orugas. Función principal: renovación del VCI de cadenas.
@@ -16183,8 +16146,7 @@ Desarrollo narrativo incorporado en A092 R07 y R08. Las cifras son estimaciones 
 | Autonomía | 500 km |
 | Blindaje | Acero 12–35 mm y módulos frontales por lote |
 
-El total de VC-88 Galdor corresponde a toda su familia. Para el equipo y las plazas de sus derivados de transporte, mando, sanidad e ingeniería, véase [[12_Militar/02_Ejército/Blindados/Historia y criterios de los blindados.md#Desarrollo de los VCI y TBP por familias|desarrollo por familias]]. El reparto está en [[12_Militar/02_Ejército/Blindados/Historia y criterios de los blindados.md#Producción por variante sin duplicación|producción por variante]].
-
+El total de VC-88 Galdor corresponde a toda su familia. Para el equipo y las plazas de sus derivados de transporte, mando, sanidad e ingeniería, véase desarrollo por familias. El reparto está en producción por variante.
 
 ##### Origen y función histórica
 
@@ -16212,7 +16174,6 @@ La familia comprende 2400: 1800 VCI, 250 TBP, 150 mando, 120 sanidad y 80 ingeni
 
 Galdor necesita registrar módulos frontales instalados y cambios de función por casco. Las cantidades de fabricación de VCI y TBP no bastan para conocer el estado de las conversiones posteriores.
 
-
 #### CB-91 Elendil IV
 
 Tipo de blindado: carro de batalla principal. Familia: Elendil. Movilidad: orugas. Función principal: renovación del núcleo de carros principales.
@@ -16232,7 +16193,6 @@ Desarrollo narrativo incorporado en A092 R07 y R08. Las cifras son estimaciones 
 | Velocidad carretera y terreno | 68 / 38 km/h |
 | Autonomía | 500 km |
 | Blindaje | Frontal compuesto 550–800 mm físicos; lateral 50–80 mm y módulos |
-
 
 ##### Origen y función histórica
 
@@ -16260,7 +16220,6 @@ El catálogo contempla su posible función posterior de reserva o instrucción s
 
 Elendil IV necesita un inventario de modernizaciones y destinos de reserva para sostener cualquier cifra operativa de 2026. La potencia nominal y la autonomía no sustituyen una curva de consumo.
 
-
 #### TP-03 Erkenbrand
 
 Tipo de blindado: transporte blindado de personal. Familia: Erkenbrand. Movilidad: ruedas 4×4. Función principal: escolta y patrulla con transporte protegido.
@@ -16280,7 +16239,6 @@ Desarrollo narrativo incorporado en A092 R07 y R08. Las cifras son estimaciones 
 | Velocidad carretera y terreno | 100 / 35 km/h |
 | Autonomía | 650 km |
 | Blindaje | Acero 8–20 mm; módulos y piso reforzado |
-
 
 ##### Origen y función histórica
 
@@ -16308,7 +16266,6 @@ Los 3200 construidos no equivalen al parque de patrulla activo en 2026. Derivado
 
 Erkenbrand requiere clasificar adaptaciones de misión, plazas efectivas y documentación de ensayos de protección inferior. El piso reforzado no se convierte en una certificación contra minas.
 
-
 #### CB-06 Elendil V
 
 Tipo de blindado: carro de batalla principal. Familia: Elendil. Movilidad: orugas. Función principal: núcleo pesado contemporáneo.
@@ -16329,8 +16286,7 @@ Desarrollo narrativo incorporado en A092 R07 y R08. Las cifras son estimaciones 
 | Autonomía | 550 km |
 | Blindaje | Frontal compuesto 650–950 mm físicos; módulos laterales y refuerzo de techo por lote |
 
-La configuración de referencia sigue siendo diésel. El [[12_Militar/02_Ejército/Blindados/CBT-16 Elendil V Turbina|CBT-16 de turbina]] es una propuesta de rama alternativa, con producción pendiente.
-
+La configuración de referencia sigue siendo diésel. El CBT-16 de turbina es una propuesta de rama alternativa, con producción pendiente.
 
 ##### Origen y función histórica
 
@@ -16358,7 +16314,6 @@ El CBT-16 es una propuesta de configuración alternativa. Hasta decidir cascos n
 
 En Elendil V debe definirse el suministro eléctrico auxiliar de la versión diésel y su configuración por lote. Los parámetros de la APU propuesta para CBT-16 no se trasladan automáticamente a esta serie.
 
-
 #### VC-09 Haldir
 
 Tipo de blindado: vehículo de combate de infantería. Familia: Haldir. Movilidad: orugas. Función principal: acompañamiento de infantería en formaciones pesadas.
@@ -16381,8 +16336,7 @@ Desarrollo narrativo incorporado en A092 R07 y R08. Las cifras son estimaciones 
 | Autonomía | 600 km |
 | Blindaje | Estructura 15–45 mm y módulos compuestos |
 
-El total de VC-09 Haldir corresponde a toda su familia. Para el equipo y las plazas de sus derivados de transporte, mando, sanidad e ingeniería, véase [[12_Militar/02_Ejército/Blindados/Historia y criterios de los blindados.md#Desarrollo de los VCI y TBP por familias|desarrollo por familias]]. El reparto está en [[12_Militar/02_Ejército/Blindados/Historia y criterios de los blindados.md#Producción por variante sin duplicación|producción por variante]].
-
+El total de VC-09 Haldir corresponde a toda su familia. Para el equipo y las plazas de sus derivados de transporte, mando, sanidad e ingeniería, véase desarrollo por familias. El reparto está en producción por variante.
 
 ##### Origen y función histórica
 
@@ -16410,7 +16364,6 @@ La producción total es 2600: 2000 VCI, 250 TBP, 150 mando, 120 sanidad y 80 ing
 
 Haldir requiere identificar módulos y sensores por lote y cargas reales de los derivados. La capacidad de siete soldados pertenece al VCI y no permite calcular las plazas de una ambulancia.
 
-
 #### VBR-12 Hirgon
 
 Tipo de blindado: vehículo de combate de infantería. Familia: Hirgon. Movilidad: ruedas 8×8. Función principal: familia de infantería de ruedas.
@@ -16433,8 +16386,7 @@ Desarrollo narrativo incorporado en A092 R07 y R08. Las cifras son estimaciones 
 | Autonomía | 800 km |
 | Blindaje | Estructura 12–30 mm; módulos compuestos y protección inferior |
 
-El total de VBR-12 Hirgon corresponde a toda su familia. Para el equipo y las plazas de sus derivados de transporte, mando, sanidad e ingeniería, véase [[12_Militar/02_Ejército/Blindados/Historia y criterios de los blindados.md#Desarrollo de los VCI y TBP por familias|desarrollo por familias]]. El reparto está en [[12_Militar/02_Ejército/Blindados/Historia y criterios de los blindados.md#Producción por variante sin duplicación|producción por variante]].
-
+El total de VBR-12 Hirgon corresponde a toda su familia. Para el equipo y las plazas de sus derivados de transporte, mando, sanidad e ingeniería, véase desarrollo por familias. El reparto está en producción por variante.
 
 ##### Origen y función histórica
 
@@ -16462,7 +16414,6 @@ Los 2800 nuevos se distribuyen en 1200 VCI, 1000 TBP, 250 mando, 200 sanidad y 1
 
 Hirgon necesita masas, plazas y armamento propios para cada configuración de mando, sanidad e ingeniería. Los valores del VCI de 30 mm no se asignan al total familiar de 2800.
 
-
 #### CE-15 Ecthelion
 
 Tipo de blindado: carro de combate medio expedicionario. Familia: Ecthelion. Movilidad: orugas. Función principal: apoyo blindado expedicionario.
@@ -16484,7 +16435,6 @@ Desarrollo narrativo incorporado en A092 R07 y R08. Las cifras son estimaciones 
 | Velocidad carretera y terreno | 72 / 40 km/h |
 | Autonomía | 550 km |
 | Blindaje | Estructura 20–45 mm; frontal modular 250–400 mm físicos |
-
 
 ##### Origen y función histórica
 
@@ -16512,7 +16462,6 @@ Los 720 vehículos terminados hasta el corte no son una plantilla desplegada. La
 
 Ecthelion requiere pesos por configuración, requisitos de transporte y distribución del cargador automático. La designación expedicionaria no demuestra que pueda transportarse en cualquier aeronave o buque.
 
-
 #### TP-19 Voronwë
 
 Tipo de blindado: transporte blindado de personal. Familia: Voronwë. Movilidad: orugas y chorros de agua. Función principal: transporte anfibio de asalto.
@@ -16534,7 +16483,6 @@ Desarrollo narrativo incorporado en A092 R07 y R08. Las cifras son estimaciones 
 | Velocidad carretera y terreno | 65 / 30; agua 12 km/h |
 | Autonomía | 450 terrestre km |
 | Blindaje | Estructura 10–30 mm y módulos desmontables |
-
 
 ##### Origen y función histórica
 
@@ -16562,7 +16510,6 @@ Se fijan 480 terminados hasta el corte, sin mezclarlos con las fragatas Voronwë
 
 Voronwë necesita condiciones de mar, carga de configuración acuática y límites de embarque. Su introducción en 2019 pertenece al transporte terrestre anfibio y no a las fragatas homónimas.
 
-
 #### CB-23 Elendil VI
 
 Tipo de blindado: carro de batalla principal. Familia: Elendil. Movilidad: orugas. Función principal: renovación contemporánea del carro principal.
@@ -16582,7 +16529,6 @@ Desarrollo narrativo incorporado en A092 R07 y R08. Las cifras son estimaciones 
 | Velocidad carretera y terreno | 70 / 40 km/h |
 | Autonomía | 600 km |
 | Blindaje | Frontal compuesto 700–1000 mm físicos; módulos laterales y protección activa |
-
 
 ##### Origen y función histórica
 
@@ -16609,7 +16555,6 @@ La propuesta CBT-16 no sustituye esta motorización. Futuras variantes o pedidos
 ##### Configuración y datos por completar
 
 Para Elendil VI quedan entregas anuales, configuración de protección activa y balance de tareas de la tripulación reducida. Los 240 construidos son un corte del programa, no el pedido final.
-
 
 #### CBT-16 Elendil V Turbina
 
@@ -16651,17 +16596,17 @@ La combinación básica de turbina y APU es plausible antes que el objetivo del 
 
 El presupuesto del Ejército estadounidense de 1998 describe una APU para evitar mantener la turbina del Abrams funcionando durante paradas. En 2011 el Departamento de Energía respaldaba una microturbina estacionaria con objetivo del 42 % eléctrico neto. Este segundo referente demuestra un objetivo de investigación; no certifica una turbina de carro ni permite equiparar sin balance eficiencia eléctrica y eficiencia al eje.
 
-- [Ejército de Estados Unidos, presupuesto de 1998](https://www.asafm.army.mil/Portals/72/Documents/BudgetMaterial/1999/base%20budget/justification%20book/wtcv.pdf)
-- [Departamento de Energía, programa de microturbinas](https://www.energy.gov/cmei/success-stories/articles/eere-success-story-california-microturbine-protects-environment)
+- Ejército de Estados Unidos, presupuesto de 1998
+
+- Departamento de Energía, programa de microturbinas
 
 ##### Conciliación con el catálogo
 
 No se añaden vehículos a los 1680 Elendil V diésel ni al total de las 27 familias. Antes de fijar producción deberá decidirse si los CBT-16 son cascos nuevos o conversiones. Una conversión mantiene el casco original y no incrementa el total construido. El Elendil VI de 2023 conserva su configuración diésel.
 
+Elendil V diésel
 
-[[12_Militar/02_Ejército/Blindados/Carros y exploradores/CB-06 Elendil V|Elendil V diésel]]
-
-[[12_Militar/02_Ejército/Blindados/Historia y criterios de los blindados|Criterios del catálogo]]
+Criterios del catálogo
 
 ##### Identidad y relación con la familia Elendil
 
@@ -16708,9 +16653,9 @@ Para la geografía dispersa de Valinor, las fragatas multipropósito sostienen e
 
 El coste no es proporcional al desplazamiento. Sensores, sistema de combate, guerra electrónica, armas e integración pueden reducir mucho la diferencia entre corbeta y fragata ligera. Exigir más funciones en poco volumen también puede encarecer el diseño. La menor dotación puede trasladar trabajo al apoyo en tierra y aumentar averías si queda por debajo de las necesidades reales.
 
-Se distinguen compra, operación y vida completa. No se introduce una relación universal de precios ni un porcentaje de ahorro valinari sin presupuestos comparables. Como ejemplo histórico externo, el documento original de Squadron 2020 contemplaba hasta 1200 millones de euros para cuatro buques finlandeses; ese promedio de programa no es un precio actual ni una equivalencia directa con las clases de Valinor. [Ministerio de Defensa de Finlandia](https://www.defmin.fi/files/3819/Squadron_2020_The_Finnish_Defence_Forces_strategic_project.pdf).
+Se distinguen compra, operación y vida completa. No se introduce una relación universal de precios ni un porcentaje de ahorro valinari sin presupuestos comparables. Como ejemplo histórico externo, el documento original de Squadron 2020 contemplaba hasta 1200 millones de euros para cuatro buques finlandeses; ese promedio de programa no es un precio actual ni una equivalencia directa con las clases de Valinor. Ministerio de Defensa de Finlandia.
 
-La evaluación de sostenimiento considera personal, mantenimiento y modernizaciones además de construcción. La documentación estadounidense muestra que reducir dotaciones puede producir costes de mantenimiento y disponibilidad no previstos. Estas referencias son comparativas, no cuentas presupuestarias de Valinor. [CBO sobre costes de fragatas](https://www.cbo.gov/publication/56675), [GAO sobre dotaciones](https://www.gao.gov/products/gao-17-413).
+La evaluación de sostenimiento considera personal, mantenimiento y modernizaciones además de construcción. La documentación estadounidense muestra que reducir dotaciones puede producir costes de mantenimiento y disponibilidad no previstos. Estas referencias son comparativas, no cuentas presupuestarias de Valinor. CBO sobre costes de fragatas, GAO sobre dotaciones.
 
 #### Persistencia supervivencia y recuperación
 
@@ -16786,7 +16731,7 @@ La red facilita alertas, identificación, coordinación de presencia y relevos, 
 | 2000–2019 | Integración progresiva de sensores y sistemas; cooperación avanzada donde se valide | No universal por denominación del buque |
 | Desde 2020 | Buques que controlan drones de ataque, por decisión expresa del autor | Clases cantidades y asignación pendientes |
 
-Link 11, basado en tecnología de los años sesenta, constituye un referente histórico externo para el intercambio táctico. CEC es un ejemplo posterior de integración de sensores y control de fuego que exige equipos compatibles. No se identifica la red valinari con esos productos ni se traslada su rendimiento sin desarrollo propio. [NAVSEA sobre enlaces tácticos](https://www.navsea.navy.mil/Portals/103/Documents/NSWC_Dahlgren/LeadingEdge/CSEI/CombSys.pdf), [Marina de Estados Unidos sobre CEC](https://www.navy.mil/DesktopModules/ArticleCS/Print.aspx?Article=2166802&ModuleId=724&PortalId=1).
+Link 11, basado en tecnología de los años sesenta, constituye un referente histórico externo para el intercambio táctico. CEC es un ejemplo posterior de integración de sensores y control de fuego que exige equipos compatibles. No se identifica la red valinari con esos productos ni se traslada su rendimiento sin desarrollo propio. NAVSEA sobre enlaces tácticos, Marina de Estados Unidos sobre CEC.
 
 #### Transición a buques controladores de drones desde 2020
 
@@ -16796,7 +16741,7 @@ La denominación drones de ataque no determina aquí si todos son aéreos o de s
 
 ### 21 Clasificación y propiedades de Obsidian
 
-Las 28 fichas de vehículos tienen la propiedad de texto `tipo_blindado`, visible en Propiedades de Obsidian. La propiedad `tipo` conserva la clase de documento; no reemplaza la clasificación del vehículo. Los índices y la historia general no reciben un tipo de vehículo ficticio.
+Las 28 fichas de vehículos tienen la propiedad de texto tipo_blindado, visible en Propiedades de Obsidian. La propiedad tipo conserva la clase de documento; no reemplaza la clasificación del vehículo. Los índices y la historia general no reciben un tipo de vehículo ficticio.
 
 #### Vocabulario de clasificación
 
@@ -16816,21 +16761,21 @@ Las 28 fichas de vehículos tienen la propiedad de texto `tipo_blindado`, visibl
 
 #### Familias mixtas
 
-Mablung, Galdor, Haldir e Hirgon se clasifican por su configuración de referencia VCI. `tipos_variantes` registra VCI, TBP, mando, sanidad e ingeniería y apoyo. Esa lista no afirma que cada casco tenga todas las funciones ni que todas las variantes monten cañón. Las cifras `tripulantes` e `infantes_transportados` corresponden a la variante de referencia, no a cada derivado.
+Mablung, Galdor, Haldir e Hirgon se clasifican por su configuración de referencia VCI. tipos_variantes registra VCI, TBP, mando, sanidad e ingeniería y apoyo. Esa lista no afirma que cada casco tenga todas las funciones ni que todas las variantes monten cañón. Las cifras tripulantes e infantes_transportados corresponden a la variante de referencia, no a cada derivado.
 
 #### Lectura de los valores
 
-`movilidad` separa ruedas, cadenas, semiorugas y los medios acuáticos declarados. `familia` permite agrupar las generaciones Elendil sin confundirlas con un mismo modelo. `introduccion` expresa el año del catálogo; el CBT-16 emplea `introduccion_propuesta` para conservar su estado pendiente.
+movilidad separa ruedas, cadenas, semiorugas y los medios acuáticos declarados. familia permite agrupar las generaciones Elendil sin confundirlas con un mismo modelo. introduccion expresa el año del catálogo; el CBT-16 emplea introduccion_propuesta para conservar su estado pendiente.
 
-`produccion_acumulada` cuenta vehículos nuevos históricos de familia hasta el corte, no existencias activas. El CBT-16 no tiene esa propiedad porque su producción está pendiente; `produccion_definida` es falso y no significa cero vehículos certificados.
+produccion_acumulada cuenta vehículos nuevos históricos de familia hasta el corte, no existencias activas. El CBT-16 no tiene esa propiedad porque su producción está pendiente; produccion_definida es falso y no significa cero vehículos certificados.
 
-`potencia_especifica_cv_t` es un cálculo de potencia nominal dividido por masa de referencia. No mide rendimiento energético. La propiedad no se asigna al CBT-16 porque su masa se expresa como intervalo y el programa sigue propuesto. En este último, `eficiencia_objetivo_porcentaje` y `validacion_rendimiento` mantienen separados requisito y demostración.
+potencia_especifica_cv_t es un cálculo de potencia nominal dividido por masa de referencia. No mide rendimiento energético. La propiedad no se asigna al CBT-16 porque su masa se expresa como intervalo y el programa sigue propuesto. En este último, eficiencia_objetivo_porcentaje y validacion_rendimiento mantienen separados requisito y demostración.
 
 #### Consulta por clasificación
 
-La tabla del índice permite navegar sin Dataview ni complementos. También puede usarse la búsqueda nativa de Obsidian con una propiedad, por ejemplo `[tipo_blindado:"vehículo de combate de infantería"]`. El valor se muestra y puede editarse en las Propiedades de cada nota.
+La tabla del índice permite navegar sin Dataview ni complementos. También puede usarse la búsqueda nativa de Obsidian con una propiedad, por ejemplo [tipo_blindado:"vehículo de combate de infantería"]. El valor se muestra y puede editarse en las Propiedades de cada nota.
 
-Las propiedades se guardan como YAML al inicio de la nota, de acuerdo con la [documentación de Propiedades de Obsidian](https://obsidian.md/help/properties). La consulta usa su [búsqueda por propiedades](https://obsidian.md/help/Plugins/Search).
+Las propiedades se guardan como YAML al inicio de la nota, de acuerdo con la documentación de Propiedades de Obsidian. La consulta usa su búsqueda por propiedades.
 
 ### 22 Trazabilidad y alcance de la integración
 
@@ -16839,3 +16784,1320 @@ El original V16.4 y la acumulativa ampliada anterior se conservan en el respaldo
 El paquete incorpora la secuencia de resoluciones, el cotejo del texto completo por bloques y tablas, la relación de fuentes y sus huellas, la cronología y las notas navales de consulta. Las copias vigentes se publican en las ubicaciones verificadas de Word, Obsidian y el centro editorial. La verificación local no acredita la sincronización remota de OneDrive.
 
 La fecha de integración editorial no se convierte en fecha histórica de producción o de servicio. La composición alternativa, el despliegue regional y la turbina del CBT-16 mantienen sus condiciones pendientes. Las cuentas demográficas y económicas A092 permanecen sin cambios.
+
+## Acumulativa A094 — Industria de defensa y evolución AAW (1880–2025)
+
+Integración editorial: 10 de noviembre de 2026. Estado: DESARROLLO CANÓNICO APROBADO, con hipótesis técnicas expresamente identificadas. Precedencia: posterior a A093; no sustituye inventarios, fechas o denominaciones vigentes salvo decisión explícita.
+
+### A094-R01 — Principio de continuidad industrial
+
+La defensa antiaérea valinoriana surge de la artillería, óptica, siderurgia, construcción naval y telecomunicaciones del siglo XIX. Evoluciona hacia radar, aviación, electrónica, misiles y defensa integrada. La adopción de una tecnología exige investigación, pruebas, industrialización, personal, logística y mantenimiento; no se atribuye capacidad plena por mera existencia de prototipos.
+
+### A094-R02 — 1880–1914: artillería, óptica y defensa embrionaria
+
+1880–1900: consolidación de acero, blindaje, calderas, cañones, telémetros y comunicaciones. 1890–1914: estudio de tiro contra globos y aeronaves, montajes de gran elevación y baterías experimentales de defensa de puertos. La Oficina Federal de Artillería y Óptica (1885) es propuesta institucional, pendiente de verificar contra organismos ya existentes. Los calibres 37–47 y 65–76 mm son familias orientativas, no inventario aprobado.
+
+### A094-R03 — 1914–1930: artillería antiaérea organizada
+
+Se consolidan baterías AA terrestres y embarcadas, dirección óptica y mecánica, comunicaciones de radio, observación costera y cazas de defensa territorial. El Servicio Federal de Defensa Antiaérea (1918) es propuesta organizativa. Las etiquetas AA-20, AA-40, AA-76 y AA-90 son nomenclatura provisional y no deben confundirse con sistemas vigentes.
+
+### A094-R04 — 1930–1945: radar y control de tiro
+
+La electrónica de válvulas, el cálculo analógico y la radiodetección permiten alerta aérea, vigilancia costera y dirección de tiro. Se propone una secuencia experimental Palantír-R1 (1938), R2 (1940), R3 (1942) y T1 (1943), sujeta a conciliación de nombres y fechas. En 1945 coexisten cañones de doble propósito, AA automática, directores radar/ópticos, cazas y centros de información de combate. Las espoletas de proximidad requieren demostrar cadena electrónica propia.
+
+### A094-R05 — 1945–1969: reactores, misiles y computación
+
+La llegada de aeronaves a reacción exige misiles guiados, radar de seguimiento, propulsión, electrónica y ensayos. La familia Aeglos-I a IV, con hitos propuestos en 1953, 1959, 1966 y 1975, queda como hipótesis de nomenclatura y generaciones, no como certificación de servicio. OceanNet mantiene la secuencia vigente: precursores 1954–1958, funcionamiento inicial en 1959 e integración militar progresiva desde 1969; no se le atribuye dirección táctica universal en 1959.
+
+### A094-R06 — 1969–1985: defensa de flota coordinada
+
+Se desarrolla la coordinación de vigilancia, aviación embarcada, misiles de área y defensa local. Palantír-C1 (1970–1975), C2 (1976–1980) y C3 (1981–1985) son nombres provisionales para generaciones de integración, no radares Palantír-4D. El inventario de referencia de 1980 conserva 7 portaaviones, 14 cruceros, 36 destructores y 56 fragatas; 50 cruceros y destructores no equivalen a 50 plataformas AAW dedicadas.
+
+### A094-R07 — 1985–2005: digitalización, AESA y guerra electrónica
+
+La transición entre radar mecánico tridimensional, barrido electrónico y AESA es gradual y depende de cada casco y bloque. Se expanden software de combate, lanzadores modernos, guerra electrónica, señuelos y mantenimiento digital. Aeglos-N1 (1988), N2 (1993), N3 (2000) y N4 (2005) son hipótesis de familia; no se incorporan automáticamente al inventario. Se proponen centros de integración naval en Arnor y Nueva Tirion sujetos a compatibilidad institucional.
+
+### A094-R08 — 2005–2025: defensa aérea y antimisiles en red
+
+Se articula vigilancia estratégica, aviación de interceptación, defensa de área, defensa local y autoprotección. Palantír-4D conserva su estatus canónico de radar AESA 3D con procesamiento 4D desplegado durante 2015–2026. Palantír Aeglos continúa como investigación y modernización progresiva hasta 2045; ninguna capacidad futura se retrotrae a 2025. El intercambio de datos no implica que todos los buques puedan guiar todos los interceptores.
+
+### A094-R09 — Geografía industrial y autonomía
+
+Valinor a Tyl: arquitectura informática, criptografía y mando; Arnor: microelectrónica, radares y aeronáutica; Calenardhon Austral: turbinas y potencia; Sírënandë y Orinoco: metalurgia, recursos y energía; Colombia Costera y Panamá: manufactura y logística; Malaca: electrónica y ensamblaje; Hawái: sensores y espacio; Islandia y Groenlandia: vigilancia septentrional. Se distingue diseño, fabricación de componentes, integración, reparación y capacidad de reposición. No se declara fabricación nacional automática de cada insumo.
+
+### A094-R10 — Organización industrial propuesta
+
+Se estudian cinco consorcios funcionales: naval; aeroespacial; electrónica y sensores; armamento y defensa aérea; materiales estratégicos. Son agrupaciones de planificación, no entidades jurídicas vigentes. La industria de defensa permanece contabilizada dentro de las ramas ECON-03; no crea PIB adicional ni modifica los cierres territoriales.
+
+### A094-R11 — Compatibilidad con inventarios y presupuesto
+
+Se preserva el inventario naval rector de 615 plataformas de 2026 y su carácter de referencia, así como las categorías 24 destructores, 64 fragatas, 72 corbetas, 30 escoltas ASW/AAW y 80 OPV. No se atribuye a las 30 escoltas especialización AAW universal sin desglose. La cifra de 449 disponibles continúa siendo simulación. Producción acumulada, unidades activas, reserva y exportaciones deben contabilizarse por separado. Los porcentajes de PIB ensayados son escenarios, no gasto ejecutado; PPA no equivale a dólares presupuestarios nominales.
+
+### A094-R12 — Registro de pendientes y reglas de validación
+
+Antes de fijar fichas definitivas: verificar nombres Aeglos y Palantír contra el catálogo existente; documentar fecha de prototipo, producción, aceptación y retirada; vincular sensores y armas a cada clase y casco; verificar capacidad industrial y cadena de suministros; definir interoperabilidad por generación; y registrar fuentes, hipótesis y decisiones expresas. Los nombres y años orientativos de A094-R02 a R07 conservan etiqueta PROVISIONAL hasta conciliación.
+
+### Matriz temporal de referencia
+
+- 1880–1914: Acero, óptica, artillería y primeros estudios AA
+
+- 1914–1930: AA especializada, observación y aviación defensiva
+
+- 1930–1945: Radar, cálculo analógico y control de tiro
+
+- 1945–1969: Reactores, misiles, computación y OceanNet inicial
+
+- 1969–1985: Defensa aérea coordinada y mando digital
+
+- 1985–2005: AESA, integración de combate y guerra electrónica
+
+- 2005–2025: Palantír-4D, sensores distribuidos y defensa multicapa
+
+## Acumulativa A095 — Guerra antibuque e industria militar 1880–2026
+
+Estado: DESARROLLO AUTORIZADO E INTEGRADO; denominaciones, fechas exactas y cantidades nuevas son PROPUESTAS DE PLANIFICACIÓN, sujetas a conciliación por casco y programa.
+
+Precedencia: posterior a A094. No sustituye A092–A094 ni altera los 615 medios navales de referencia 2026, las 24 lanchas Nosselië de 1980 ni la cronología de OceanNet. Aeglos es denominación ocupada por submarinos especiales; no se reutiliza para armamento antibuque.
+
+### A095-R01 — Arquitectura histórica e industrial
+
+1880–1900: artillería naval, torpedos autopropulsados, talleres de precisión y torpederos. 1900–1918: submarinos costeros y oceánicos, dirección de tiro y estandarización. 1918–1945: torpedos aéreos, aviación naval, radares y armas guiadas experimentales. 1945–1965: cohetes, electrónica y primeros misiles antibuque. 1965–1985: compactación, integración en lanchas, fragatas y aeronaves. 1985–2005: guiado digital, sistemas de combate y producción modular. 2005–2026: familias multiservicio, vigilancia distribuida, plataformas autónomas y programas de alta velocidad.
+
+### A095-R02 — Catálogo de torpedos (propuesta)
+
+| Familia | Desarrollo / servicio estimado | Plataforma | Evolución industrial | Producción acumulada indicativa |
+| --- | --- | --- | --- | --- |
+| T-80 Náro | 1882 / 1888–1908 | torpederos y buques | mecanismos, aire comprimido, control mecánico | 900–1.500 |
+| T-05 Náro II | 1901 / 1907–1930 | destructores y submarinos | normalización dimensional, seguridad de almacenamiento | 2.000–3.400 |
+| T-24 Falathar | 1919 / 1926–1948 | submarinos, buques y aviación (variantes) | fabricación seriada, adaptación aeronaval | 3.500–5.500 |
+| T-42 Falathar II | 1938 / 1944–1968 | submarinos y buques | control mejorado, mayor fiabilidad | 4.000–6.000 |
+| T-61 Ossë | 1955 / 1963–1985 | submarinos y buques | electrónica y nuevos sensores | 2.800–4.500 |
+| T-78 Ossë II | 1970 / 1980–2005 | submarinos | procesamiento digital y mantenimiento modular | 3.000–4.800 |
+| T-96 Ulmo | 1988 / 1999–2026 | submarinos y superficie | electrónica de nueva generación | 2.500–4.000 |
+| T-18 Ulmo II | 2010 / 2021–2026 | submarinos y superficie | sensores y soporte digital | 350–900 |
+
+Los nombres Náro, Falathar, Ossë y Ulmo son etiquetas de catálogo propuestas; revisar colisiones con clases existentes antes de declararlos denominaciones oficiales. Las cifras representan fabricación total hipotética durante décadas, incluidas pruebas, exportaciones, reservas y bajas; no equivalen a existencias 2026.
+
+### A095-R03 — Catálogo de misiles antibuque Falmar (propuesta)
+
+| Familia | Desarrollo / servicio estimado | Plataformas previstas | Rasgo histórico | Producción acumulada indicativa |
+| --- | --- | --- | --- | --- |
+| Falmar-I | 1952 / 1963–1979 | costa y grandes buques | primera generación guiada, lotes reducidos | 150–350 |
+| Falmar-II | 1965 / 1972–1993 | lanchas, corbetas y costa | compactación y producción seriada | 1.200–2.000 |
+| Falmar-III | 1971 / 1979–2001 | buques y aviación (variantes) | familia de uso más amplio | 2.000–3.200 |
+| Falmar-IV | 1982 / 1990–2012 | fragatas, destructores y costa | electrónica digital y mejor mantenibilidad | 2.600–4.200 |
+| Falmar-V | 1998 / 2007–2026 | superficie, aviación y costa (variantes) | integración digital y logística común | 3.200–5.200 |
+| Falmar-VI | 2010 / 2019–2026 | buques, aeronaves y costa | nueva generación de sensores y soporte | 1.100–2.200 |
+| Falmar-H | 2014 / ensayos 2020–2026 | banco de pruebas y plataformas de evaluación | investigación de alta velocidad; no despliegue generalizado demostrado | 20–80 prototipos y unidades de ensayo |
+| Falmar-U | 2016 / integración 2021–2026 | sistemas no tripulados seleccionados | integración de control y seguridad, sin inventario separado | 60–180 kits de integración, no misiles adicionales |
+
+Las cifras son rangos narrativos preliminares, NO compras aprobadas ni existencias activas. Falmar-U cuenta kits, por lo que no debe sumarse a los misiles Falmar-V/VI. El hito de 1963 para Falmar-I sustituye la propuesta informal de 1965 como fecha de servicio de primera generación; 1965 queda como fecha de expansión industrial. Falmar-IV se fija provisionalmente en 1990 (no 1988) para separar pruebas de servicio.
+
+### A095-R04 — Artillería naval y defensa costera
+
+1880–1910: artillería naval y de costa de 76–305 mm, con familias y calibres por normalizar. 1910–1945: dirección de tiro centralizada, munición y óptica mejoradas. 1945–1970: reducción relativa del papel de grandes baterías fijas; incorporación gradual de sensores y armamento guiado. 1970–2000: baterías costeras móviles y centros de vigilancia. 2000–2026: redes de vigilancia y sistemas costeros con logística y mando conjuntos. No se fijan calibres por buque ni cantidades de baterías hasta disponer de tablas de clase.
+
+### A095-R05 — Aviación antibuque
+
+AV-1 (1922–1945): torpederos y bombarderos navales, adaptación industrial de aeronaves existentes. AV-2 (1945–1970): reactores, primeras armas guiadas y aviones de patrulla. AV-3 (1970–2000): integración de Falmar-III/IV en variantes homologadas. AV-4 (2000–2026): integración de Falmar-V/VI, sensores digitales y cooperación con vigilancia marítima. No se crean clases ni cifras de aeronaves por este documento; la homologación se determina por tipo y bloque.
+
+### A095-R06 — Astilleros y cadena territorial
+
+Nueva Tirion/Armenelos: arquitectura naval, grandes astilleros e integración. Númenor: submarinos, torpedos y mantenimiento. Arnor: sensores, electrónica, circuitos y ensayos. Calenardhon Austral: turbinas, motores y energía. Sírënandë/Orinoco: metales, materiales y refinación. Malaca: electrónica, encapsulado y ensamblaje. Panamá Federal: logística, reparación y puertos. Colombia Costera: manufactura y componentes. Hawái: sensores oceánicos y aeroespaciales. Esta especialización no implica autarquía absoluta de todos los insumos.
+
+### A095-R07 — Organización industrial propuesta
+
+Consorcio de Arsenales Navales: artillería y torpedos. Dirección Federal de Misiles Marítimos: programa Falmar y certificación. Instituto de Sistemas de Combate: integración de sensores, CMS y OceanNet. Agencia Federal de Materiales: calidad y suministro. Estos nombres son provisionales; requieren cotejo con instituciones existentes antes de su adopción nominal.
+
+### A095-R08 — Distribución por plataforma y coherencia
+
+1980: 14 cruceros, 36 destructores, 56 fragatas, 50 corbetas (solo parte con misiles), 24 lanchas lanzamisiles Nosselië. Las 24 Nosselië no se suman de nuevo a la flota 2026. 2026: 24 destructores Gil-galad, 64 fragatas Círdan/Voronwë, 72 corbetas Calenport, 30 escoltas ASW/AAW y 80 OPV Sírënandë, dentro de las 615 plataformas de referencia. No se presume que todos porten misiles antibuque; los OPV son prioritariamente de vigilancia. El escenario alternativo 80 fragatas/40 corbetas/96 OPV sigue siendo hipótesis y no reemplaza la referencia.
+
+### A095-R09 — OceanNet, inteligencia y plataformas no tripuladas
+
+1954–1958 redes precursoras; 1959 funcionamiento inicial de OceanNet científico/comunicaciones; 1969–1980 integración digital progresiva; 1980–2000 ampliación táctica; 2000–2026 coordinación de sensores y logística. La disponibilidad de información no implica control universal de armas. Buques controladores de drones de ataque en uso desde 2020: decisión previa vigente; clase, cantidades y armamento por casco pendientes. No duplicar vehículos no tripulados existentes.
+
+### A095-R10 — Criterios económicos y de inventario
+
+Registrar por separado: prototipos, fabricados, entregados, exportados, consumidos en ensayos, retirados, reservas y activos. Las cantidades de catálogo son hipótesis amplias de producción histórica, NO cierre contable. Industria de defensa contabilizada dentro de sectores económicos existentes (ECON-03), sin añadir PIB. Los programas hipersónicos son capacidad avanzada de investigación/pruebas en 2026, sin atribución automática de despliegue universal.
+
+### A095-R11 — Dependencias y pendientes
+
+Pendientes: cotejo de nombres con catálogo maestro; asignación de fabricantes reales o ficticios aprobados; ficha por clase/bloque; inventario anual 1880–2026; plantas por territorio; estimaciones de coste nominal y PPA; exportaciones y aliados; validación de rangos productivos; conciliación de Falmar con A094 y OceanNet. Esta acumulativa no modifica cifras económicas ni territoriales.
+
+### A095-R12 — Cronología maestra / Obsidian
+
+Hitos: 1882 talleres de torpedos (propuesto); 1907 torpedos normalizados; 1926 torpedo aeronaval; 1944 nueva generación; 1948 programa de armamento guiado; 1959 OceanNet inicial; 1963 Falmar-I; 1972 Falmar-II; 1979 Falmar-III; 1980 lanchas Nosselië 24 (vigente); 1990 Falmar-IV; 2007 Falmar-V; 2019 Falmar-VI; 2020 controladores de drones (vigente); 2020–2026 ensayos Falmar-H; 2026 cierre de referencia. Registrar los hitos propuestos como tales en cronología.
+
+## ACUMULATIVA A096 — ASIGNACIÓN ANTIBUQUE POR CLASES Y AVIACIÓN
+
+Estado: ampliación de desarrollo para incorporar después de A095. Las clases y cifras de plataformas que se identifican como «base canónica» proceden de V16.7/A095; la correspondencia concreta de familias de armas, sublotes, configuraciones y períodos de modernización es propuesta de integración, no inventario por casco certificado.
+
+Reglas de precedencia: no modificar las 615 plataformas de 2026 (595 tripuladas y 20 no tripuladas); no añadir las 24 lanchas Nosselië de 1980 a la flota 2026; no convertir los 30 escoltas ASW/AAW en 30 unidades de ataque antibuque; no equipar automáticamente los 80 OPV con misiles; no contar Falmar-U como misil; no afirmar despliegue general de Falmar-H. Mantener OceanNet inicial de 1959 como red de comunicaciones/ciencia, con integración militar progresiva desde 1969. Aeglos permanece ocupado por denominaciones preexistentes.
+
+### A096-R01. Lógica de homologación
+
+Una familia de arma solo se considera compatible en catálogo si su período de servicio coincide con el de la plataforma y la misión de esta lo permite. La homologación de clase exige comprobar interfaces, integración en CMS, seguridad de almacenamiento, ensayos y mantenimiento; la homologación por bloque exige identificar el lote o modernización; y la instalación efectiva por casco exige número de serie y fecha. Ninguna compatibilidad genérica demuestra instalación efectiva ni disponibilidad operativa. «P» = propuesta plausible; «C» = armamento antibuque genérico confirmado en el canon, pero modelo Falmar sin confirmar; «N» = no se asigna de forma ordinaria.
+
+### A096-R02. Matriz histórica de superficie 1880–1945
+
+| Período/plataforma | Armamento de referencia | Asignación de familia | Naturaleza |
+| --- | --- | --- | --- |
+| 1880–1908 torpederos iniciales | torpedo autopropulsado, artillería ligera | T-80 Náro (1888–1908) | P; clase y número sin fijar |
+| 1907–1930 torpederos y destructores tempranos | torpedos y artillería | T-05 Náro II | P; no sumar unidades |
+| 1926–1945 destructores y submarinos tempranos | torpedos | T-24 Falathar | P; distinguir variante de superficie/submarina |
+| 1944–1968 destructores y submarinos de transición | torpedos y artillería | T-42 Falathar II | P; sustitución gradual, no universal |
+| 1880–1945 cruceros, acorazados y defensa litoral | artillería principal y secundaria | calibres históricos por clase aún no homologados | P; no crear cifras de baterías |
+
+### A096-R03. Matriz naval de 1980 — base canónica y propuesta de integración
+
+Base canónica 1980: 7 portaaviones Aulë II/Anárion I/Varda I; 14 cruceros Turgon/Eärendil/Noldor (4/6/4); 36 destructores Gil-galad/Beleg/Ossë (12/16/8); 56 fragatas Círdan/Mithlond/Nimrodel (36/12/8); 50 corbetas Calenport/Eglarest (30/20); 24 lanchas Nosselië. Los buques pueden solaparse históricamente con los de 2026: estas cifras son cortes temporales, no producción acumulada.
+
+| Clase / total 1980 | Evidencia canónica | Familias asignadas para estudiar | Alcance y restricción |
+| --- | --- | --- | --- |
+| Cruceros Turgon (4) | misiles antibuque genéricos (C) | Falmar-I tardío / II / III inicial | P por bloque; I puede estar en retirada, III solo unidades modernizadas |
+| Cruceros Eärendil (6) | misiles antibuque genéricos (C) | Falmar-II y III inicial | P; sin afirmar número de lanzadores |
+| Cruceros Noldor (4) | misiles antibuque genéricos (C) | Falmar-II y III inicial | P; compatibilidad depende del CMS |
+| Destructores Gil-galad (12) | misiles antibuque genéricos (C) | Falmar-II / III inicial; T-61 en funciones antisubmarinas según configuración | P; distinguir antibuque de torpedo ASW |
+| Destructores Beleg (16) | misiles antibuque genéricos (C) | Falmar-II / III inicial | P; no todos necesariamente idénticos |
+| Destructores Ossë (8) | misiles antibuque genéricos (C) | Falmar-II / III inicial | P; sin homologación por casco |
+| Fragatas Círdan (36) | misiles antibuque genéricos (C) | Falmar-II / III inicial | P; modernización según lote |
+| Fragatas Mithlond (12) | misiles antibuque genéricos (C) | Falmar-II | P; III sujeto a modernización |
+| Fragatas Nimrodel (8) | misiles antibuque genéricos (C) | Falmar-II | P; III sujeto a modernización |
+| Corbetas Calenport (30) | solo parte de las corbetas tiene misiles (C) | Falmar-II; III en sublotes posteriores | P; no atribuir misiles a las 30 |
+| Corbetas Eglarest (20) | solo parte de las corbetas tiene misiles (C) | Falmar-II | P; no atribuir misiles a las 20 |
+| Lanchas Nosselië (24) | misiles antibuque confirmados genéricamente (C) | Falmar-II; Falmar-III tras modernización | P para modelo; no aumentar el número 24 |
+| Portaaviones Aulë II (2), Anárion I (3), Varda I (2) | capacidad ofensiva principalmente aérea | misiles de la aviación embarcada según aeronave | N para asignación de Falmar naval al casco sin evidencia |
+
+Nota de fechas: Falmar-I entra provisionalmente en servicio en 1963, Falmar-II en 1972 y Falmar-III en 1979. Por tanto, Falmar-III solo puede figurar en una fracción de las unidades al cierre de 1980, nunca en toda la flota retrospectivamente. La artillería de los cruceros (127–152 mm), destructores (127 mm), fragatas (76–127 mm) y corbetas (57–76 mm) se conserva según clases históricas sin reasignación arbitraria.
+
+### A096-R04. Submarinos históricos y torpedos
+
+Base canónica 1980: 42 submarinos Arnor/Eärendil/Tolfalas/Ossë (6/12/18/6), de funciones estratégicas, ataque, convencionales y especiales. Esta agrupación no autoriza afirmar que los 42 sean submarinos antibuque. La asignación es por misión y período: T-42 (1944–1968) en cascos de transición; T-61 Ossë (1963–1985) en plataformas compatibles; T-78 Ossë II (1980–2005) solo en unidades certificadas al final del período. Los misiles Falmar de superficie no se consideran automáticamente lanzables desde tubos submarinos: cualquier variante sumergible requiere programa y homologación independientes.
+
+### A096-R05. Matriz naval 2026 — sin modificar inventario
+
+Base canónica 2026: 24 destructores Gil-galad, 64 fragatas Círdan/Voronwë, 72 corbetas Calenport, 30 escoltas especializados ASW/AAW y 80 OPV Sírënandë. Son parte del inventario total de 615 plataformas, no una fuerza adicional.
+
+| Clase / total 2026 | Función canónica | Asignación antibuque propuesta | Estado de conciliación |
+| --- | --- | --- | --- |
+| Gil-galad (24) | AAW/multimisión, misiles antibuque genéricos (C) | Falmar-V en bloques anteriores; Falmar-VI en modernizaciones 2019–26 | P: distribución V/VI y cascos por determinar; no instalar Falmar-H por defecto |
+| Círdan/Voronwë (64) | multipropósito, misiles antibuque genéricos (C) | Falmar-V y VI según bloque; Voronwë desde 2022 en reemplazo gradual hasta 2033 | P: no tratar los 64 como Voronwë ni como VI |
+| Calenport (72) | corbeta oceánica; misiles antibuque según misión | Falmar-V en variantes antibuque; VI en sublotes certificados | P: no atribuir misiles a las 72 |
+| Escoltas ASW/AAW (30) | función especializada heterogénea | Falmar-V solo en subtipos multipropósito homologados | P: sin número de unidades antibuque definido |
+| OPV Sírënandë (80) | patrulla y vigilancia | ninguna familia Falmar asignada como estándar | N: posible estudio de variantes excepcionales, no canon |
+| Portaaviones (11) | proyección aérea | armamento antibuque de aeronaves embarcadas homologadas | N: no convertir portaaviones en buques lanzamisiles antibuque |
+| Submarinos (54, diversas funciones) | ataque, disuasión, especiales y convencionales | T-96 Ulmo / T-18 Ulmo II solo en submarinos de ataque compatibles; posibles misiles específicos pendientes | P: sin asignación universal; no sumar armamento a unidades estratégicas/especiales |
+| Buques controladores de drones de ataque (en uso desde 2020) | mando/control de sistemas no tripulados | integración Falmar-U solo si se certifica plataforma y carga | P: clase, número y dotación pendientes; kits U no son misiles |
+
+Importante: el inventario naval de 2026 no acredita cantidades de lanzadores, salvas, misiles almacenados ni cascos modernizados. La tabla asigna rutas de homologación, no dotaciones comprobadas.
+
+### A096-R06. Generaciones aeronavales y plataformas existentes
+
+El canon y A095 acreditan categorías funcionales y generaciones AV-1 a AV-4, pero el material revisado no aporta una nómina completa, verificable y vinculada de modelos concretos de aeronaves navales con bloques, cantidades y armamento. Por ello no se inventan nombres de aviones ni se asignan misiles a modelos no documentados. Se define la siguiente matriz por categoría y período:
+
+| Generación | Aeronaves existentes como categoría, sin nuevo inventario | Armamento asignable | Condiciones |
+| --- | --- | --- | --- |
+| AV-1 (1922–1945) | torpederos y bombarderos navales embarcados/terrestres | T-24 variante aérea (1926–1945), bombas navales; T-42 aéreo solo si se acredita variante | certificación de empleo aéreo; no equiparar torpedo naval con aéreo |
+| AV-2 (1945–1970) | reactores navales iniciales, patrulla marítima y bombarderos adaptados | bombas/armas guiadas tempranas; Falmar-I solo variante aérea hipotética no certificada | Falmar-I original es costero/naval; evitar retroasignación automática |
+| AV-3 (1970–2000) | aeronaves de ataque naval y patrulla armada; embarcadas y basadas en tierra | Falmar-III variante aérea desde 1979; Falmar-IV variante aérea solo si se desarrolla/homologa | Falmar-II no se presupone aeronáutico; separar integración en aeronaves de combate y patrulla |
+| AV-4 (2000–2026) | aeronaves de combate naval, patrulla marítima y plataformas no tripuladas seleccionadas | Falmar-V aéreo desde 2007; Falmar-VI aéreo desde 2019; Falmar-U como kit de integración | homologación individual; restricciones de masa, CMS y misión; H solo experimental |
+
+Aviación embarcada y terrestre: ambas pueden compartir familia industrial, pero no se presumen versiones idénticas, cantidades ni compatibilidad universal. Los portaaviones de 1980 (7) y 2026 (11) son inventarios de cascos; no permiten inferir el número de aeronaves antibuque embarcadas. Para cerrar esta matriz hacen falta las tablas de alas aéreas por clase y año.
+
+### A096-R07. Catálogo industrial por líneas y centros de competencia
+
+| Línea | Familias | Centro líder propuesto | Dependencias y control de calidad |
+| --- | --- | --- | --- |
+| Torpedos pesados e históricos | T-80/T-05/T-24/T-42/T-61/T-78/T-96/T-18 | Númenor y arsenales navales | metalurgia Sírënandë, mecanismos, sensores Arnor; ensayo y mantenimiento |
+| Misiles navales | Falmar-I a VI | integración Nueva Tirion/Armenelos | electrónica Arnor/Malaca; motores Calenardhon; materiales Sírënandë/Orinoco |
+| Misiles aeronavales | variantes III/IV/V/VI | integración aeronáutica y naval conjunta | certificación por tipo de aeronave; bancos de prueba |
+| Defensa costera | variantes II/IV/V/VI | arsenales navales y logística Panamá Federal | radares costeros, vehículos, comunicaciones y mantenimiento |
+| Sistemas autónomos | Falmar-U (kits) | Arnor/Malaca/Hawái | software, seguridad, sensores; contabilizar kits por separado |
+| Alta velocidad experimental | Falmar-H | consorcio I+D federal por designar | programa de ensayos; no atribuir producción industrial madura |
+
+Estas sedes son distribución funcional propuesta, no actas de fundación ni adjudicación contractual. Se preservan las especializaciones de A094–A095 y el principio de no sumar el VAB de defensa por segunda vez al PIB ECON-03.
+
+### A096-R08. Evolución de torpedos por empleo
+
+- 1888–1930: T-80 y T-05 en torpederos, destructores y primeras plataformas submarinas; transición gradual.
+
+- 1926–1948: T-24 con variantes navales/submarinas y aérea; cada variante exige certificación propia.
+
+- 1944–1968: T-42 para transición de posguerra; coexistencia con T-24 en cascos antiguos.
+
+- 1963–1985: T-61 en buques y submarinos homologados; no presumir que todo torpedo de escolta sea arma antibuque, porque existen misiones antisubmarinas.
+
+- 1980–2005: T-78 principalmente submarino; transición al procesamiento digital.
+
+- 1999–2026: T-96 para unidades compatibles; T-18 desde 2021 en sublotes modernos. No sustituir toda la reserva en cinco años.
+
+### A096-R09. Evolución Falmar por función y década
+
+| Familia | Servicio propuesto | Buques | Costa | Aeronaves | Submarinos | Drones |
+| --- | --- | --- | --- | --- | --- | --- |
+| I | 1963–1979 | grandes unidades seleccionadas | sí | no confirmado | no | no |
+| II | 1972–1993 | lanchas, corbetas, fragatas, destructores | sí | no confirmado | no | no |
+| III | 1979–2001 | escoltas y modernizaciones | variante posible | variante aérea propuesta | no | no |
+| IV | 1990–2012 | fragatas, destructores y modernizaciones | sí | variante aérea pendiente | no | no |
+| V | 2007–2026 | escoltas y corbetas seleccionadas | sí | variante aérea propuesta | no automático | integración U seleccionada |
+| VI | 2019–2026 | buques y sublotes recientes | sí | variante aérea propuesta | no automático | integración U seleccionada |
+| H | ensayos 2020–2026 | bancos/plataformas de ensayo | sin despliegue estándar | sin homologación operativa | no | no |
+| U | integración 2021–2026 | no es misil | no es misil | no es misil | no es misil | kit para sistemas seleccionados |
+
+### A096-R10. Capacidad industrial, producción y reservas
+
+Se mantienen los rangos acumulados e indicativos de A095, sin inventar un desglose por clase o año: T-80 900–1.500; T-05 2.000–3.400; T-24 3.500–5.500; T-42 4.000–6.000; T-61 2.800–4.500; T-78 3.000–4.800; T-96 2.500–4.000; T-18 350–900; Falmar-I 150–350; II 1.200–2.000; III 2.000–3.200; IV 2.600–4.200; V 3.200–5.200; VI 1.100–2.200; H 20–80 prototipos; U 60–180 kits. Son intervalos hipotéticos de fabricación histórica, no existencias ni contratos aprobados.
+
+Para una contabilidad defendible, abrir registros separados por familia → variante → lote → año → receptor → condición. Fórmula de conciliación por familia: fabricados + importados - exportados - consumidos en pruebas - gastados en servicio - destruidos - desguazados = activos + reserva + almacenamiento pendiente de clasificación (con ajustes por inventario inicial y transferencias internas). No sumar kits U como municiones ni contar un misil transferido entre servicios dos veces.
+
+### A096-R11. Compatibilidad con defensa AAW y mando
+
+AAW (A094) y guerra antibuque (A095/A096) comparten radares, comunicaciones, CMS, guerra electrónica, microelectrónica y astilleros, pero no comparten automáticamente misiles ni denominaciones. Palantír-4D opera en 2015–2026 como radar AESA 3D con procesamiento temporal 4D; Palantír Aeglos sigue experimental/progresivo hasta 2045. El enlace OceanNet apoya intercambio de información según generación, pero no sustituye la homologación de armamento. No convertir plataformas especializadas AAW/ASW en plataformas antibuque por analogía.
+
+### A096-R12. Fichas de homologación pendientes y prioridades
+
+Para cerrar el catálogo sin inventar datos se requieren: (1) lista de aeronaves y alas embarcadas por período; (2) relación de subclases/bloques de Gil-galad, Círdan y Voronwë; (3) relación de corbetas con capacidad antibuque real; (4) número y tipo de escoltas ASW/AAW que incorporan ataque antibuque; (5) clases de submarinos de ataque con tubos y armas compatibles; (6) cantidad de baterías costeras y fecha de alta; (7) empresas y fábricas nominales aprobadas; (8) inventario de municiones activas y de reserva; (9) exportaciones, pérdidas y pruebas; (10) criterios de denominación para nombres compartidos con clases navales.
+
+Resultado editorial: se fija una matriz de compatibilidad temporal y funcional, no un inventario instalado por casco. No se modifican cantidades de buques, aeronaves, plataformas no tripuladas ni PIB. Esta A096 complementa A095 y deja identificados los campos necesarios para un futuro cierre cuantitativo.
+
+## ACUMULATIVA A097 — EXPORTACIONES DE DEFENSA Y GUERRA ANTIBUQUE (1880–2026)
+
+Estado: desarrollo adoptado como marco histórico-industrial; compradores, contratos, cantidades y precios nuevos son escenarios de planificación y no hechos canónicos certificados. Precedencia: posterior a A096; no modifica inventarios de 1980/2026, ni los rangos de producción de A095, ni el PIB ECON-03.
+
+### A097-R01 — Naturaleza de la exportación
+
+La industria exterior comprende material terminado, repuestos, soporte de ciclo de vida, modernización, transferencia de tecnología, fabricación licenciada, sensores, sistemas de combate, servicios portuarios, capacitación y municiones. Una venta de buque y su armamento se registra en componentes diferenciados para evitar duplicación del valor. Se distingue exportación directa de fabricación extranjera bajo licencia y de transferencias dentro de la Unión.
+
+### A097-R02 — Etapas históricas
+
+1880–1914: exportación regional potencial de artillería, torpederos, munición y mantenimiento; la prioridad es atender la flota propia. 1914–1945: reparación, artillería, torpedos y formación naval; ventas sujetas a neutralidad, conflicto y disponibilidad. 1945–1965: radares, repuestos, reconstrucción de flotas, primeros equipos guiados en contratos limitados. 1965–1985: lanchas y corbetas, Falmar-II/III en versiones exportables, torpedos T-61, formación y centros de mantenimiento. 1985–2005: modernización de fragatas, CMS, sensores, Falmar-IV, T-78 y coproducción. 2005–2026: sistemas modulares, sensores, Falmar-V y variantes VI selectivas, T-96, soporte digital y servicios; Falmar-H permanece fuera de exportación operativa por ser experimental.
+
+### A097-R03 — Segmentación de compradores y prueba documental
+
+Grupo A: fuerzas de unidades federales — transferencias internas, NO exportaciones. Grupo B: aliados con acuerdos históricos explícitos — mercado potencial, no compra confirmada; Chile es caso de cooperación naval desde Tratado de Valparaíso (1848) y Pacto del Pacífico Austral (1876), sin que ello demuestre contratos. Grupo C: otros estados socios o clientes hipotéticos — adjudicación pendiente. Grupo D: destinos sujetos a embargo, riesgo de desvío o incompatibilidad diplomática — no elegibles sin evaluación. Harnen, protectorados y socios Gwaith Aear se clasifican según su condición jurídica y régimen aduanero en la fecha; no se presumen parte del mercado interno ni clientes automáticos.
+
+### A097-R04 — Catálogo exportable por generación
+
+1880–1945: piezas navales, sistemas ópticos, municiones y servicios; torpedos T-80/T-05/T-24/T-42 solo mediante contrato, variante y licencia. 1945–1985: T-42/T-61; Falmar-I solo lotes históricos limitados; Falmar-II y Falmar-III con variantes de exportación y mantenimiento. 1985–2005: T-61/T-78, Falmar-III/IV y paquetes de modernización. 2005–2026: T-78/T-96, Falmar-IV/V y Falmar-VI en clientes autorizados y con homologación; T-18 sujeto a aprobación especial. Falmar-H: no exportable como arma de servicio en 2026. Falmar-U: kit de integración, no misil; exportación solo con plataforma y control autorizados. No afirmar que todas las familias tuvieron ventas.
+
+### A097-R05 — Productos y paquetes de valor
+
+Paquete Litoral: sensores costeros, comunicaciones, vigilancia y soporte; misil opcional según autorización. Paquete Lancha: casco rápido, CMS, formación y armamento certificado. Paquete Corbeta: buque, radar, CMS, mantenimiento y opción antibuque. Paquete Fragata: construcción nueva o modernización de casco existente, integración AAW/ASW/ASuW según contrato. Paquete Submarino: asistencia industrial, mantenimiento y torpedos certificados, sin presumir exportación de propulsión nuclear. Paquete AeroNaval: integración certificada de armas en aeronaves del cliente, sin atribuir homologación automática. Paquete Sostenimiento: repuestos, reacondicionamiento, actualización de software, pruebas, capacitación y retiro responsable.
+
+### A097-R06 — Geografía industrial y rutas comerciales
+
+Nueva Tirion/Armenelos: ingeniería contractual y buques mayores. Calenport/Pelargir Austral: corbetas, fragatas y modernizaciones. Númenor: torpedos y soporte submarino. Arnor: radares, electrónica y pruebas. Malaca: componentes y ensamblaje; logística para mercados asiáticos. Panamá Federal: tránsito, reparación y formación. Colombia Costera: componentes y soporte americano. Calenardhon Austral: motores y turbinas. Sírënandë/Orinoco: materiales. Hawái: sensores oceánicos. Estos son roles industriales propuestos, no nuevas fábricas confirmadas.
+
+### A097-R07 — Modelo de ventas y licencia
+
+Contrato marco -> evaluación de usuario final -> configuración exportable -> aprobación política -> licencia -> fabricación o modernización -> aceptación -> entrega -> mantenimiento -> auditoría y cierre. Se distinguen: exportación directa de fábrica; segunda mano procedente de inventario propio (con baja del inventario en fecha); fabricación licenciada en destino (no sumar unidades al total fabricado en Valinor); joint venture; modernización de buques extranjeros; soporte sin transferencia de propiedad.
+
+### A097-R08 — Política de control y soberanía tecnológica
+
+Niveles de acceso propuestos: E1 equipos convencionales; E2 sensores/CMS y misiles de generaciones anteriores; E3 misiles recientes y software protegido; E4 tecnología estratégica o experimental restringida. Exportación condicionada a usuario final, no reexportación sin autorización, protección de propiedad intelectual, formación, seguridad de datos, inspección y gestión de componentes críticos. No equiparar la versión de exportación con la versión de máxima capacidad de la Unión.
+
+### A097-R09 — Conciliación de producción y exportación
+
+Para cada familia, variante, lote y año: producción en territorio valinoriano = entregas domésticas + exportaciones directas + ensayos/consumos + reservas o existencias de fábrica + pérdidas/bajas previas a entrega, con ajustes por inventario inicial. Licencias extranjeras se registran aparte. Los rangos A095 de torpedos y Falmar son producción acumulada hipotética TOTAL, por lo que cualquier exportación propuesta debe caber dentro de ellos y no agregarse por encima. Falmar-U cuenta kits, Falmar-H prototipos. No contar el mismo misil al venderlo, modernizarlo y reexportarlo.
+
+### A097-R10 — Escenarios ilustrativos de participación exportadora
+
+Para análisis económico, se ensayan participaciones de exportación de 5%, 15% y 30% de la producción histórica hipotética de cada familia; NO son cuotas reales, ni contratos ni valores monetarios. Ejemplo Falmar-IV, producción total 2.600–4.200: escenario 5% = 130–210 unidades; 15% = 390–630; 30% = 780–1.260. Ejemplo T-96, producción total 2.500–4.000: 5% = 125–200; 15% = 375–600; 30% = 750–1.200. Estos escenarios no pueden simultáneamente considerarse entregas reales; son alternativas para comprobar escala industrial. La exportación de buques, servicios y licencias no puede deducirse de esos porcentajes.
+
+### A097-R11 — Economía y sostenibilidad
+
+Diferenciar valor de contrato, ingresos efectivamente devengados, contenido industrial doméstico, importaciones incorporadas, valor añadido, soporte multianual y compensaciones industriales. Usar moneda nominal del año y tipo de cambio de la época; PIB PPA no es presupuesto de adquisiciones ni ingreso de exportación. Exportaciones cuentan dentro de manufactura/servicios ECON-03, no como PIB adicional. Evaluar riesgos: demanda cíclica, dependencia de clientes, costos de garantías, obsolescencia, sanciones y control de calidad.
+
+### A097-R12 — Relaciones internacionales y neutralidad de datos
+
+El Tratado de Valparaíso (1848) y Pacto del Pacífico Austral (1876) sustentan cooperación histórica con Chile, no acreditan que Chile haya comprado Falmar, torpedos, corbetas o fragatas. No adjudicar ventas a Estados Unidos, estados europeos, países asiáticos ni Gwaith Aear sin fichas de contrato. Una exportación a país aliado no implica integración política o militar automática.
+
+### A097-R13 — Matriz de programas exportables (estado 2026)
+
+Artillería y soporte histórico: exportabilidad técnica plausible; ventas no certificadas. T-96: candidato de exportación con homologación; T-18: restringido/propuesto. Falmar-IV/V: candidatos principales para modernización de clientes; Falmar-VI: acceso selectivo; Falmar-H: investigación sin oferta de serie; Falmar-U: licencia de kit y software condicionado. Corbetas y fragatas: construcción y refit plausibles sin número de cascos exportados aprobado. Sistemas Palantír-4D: exportación de variantes degradadas o modulares solo como estudio; Palantír Aeglos no se ofrece como capacidad operativa en 2026.
+
+### A097-R14 — Cronología maestra, Obsidian y pendientes
+
+1880–1914: nacimiento de talleres y exportación potencial de servicios; 1914–1945: expansión del soporte naval; 1945–1965: electrónica y reconstrucción; 1965–1985: oferta de lanchas/corbetas y misiles tempranos; 1985–2005: coproducción y modernización; 2005–2026: exportación de sistemas y servicios de ciclo de vida. Pendientes para canonización cuantitativa: nombres de empresas; contratos, destinatarios, año, unidad, precio y versión; legislación exportadora; buques exportados por casco; producción licenciada exterior; facturación por década; inventario de retornos, reexportaciones y embargos. Ninguna cifra del inventario naval propio cambia por esta acumulativa.
+
+## Acumulativa A098 — Registro exportador por país y década (1880–2026)
+
+### A098-R01 — Registro obligatorio
+
+Cada expediente exportador tendrá identificador EXP-año-cliente-secuencia, comprador jurídico, país de destino, vendedor y centro industrial, contrato y fecha, modalidad (nuevo, segunda mano, licencia, refit, soporte), producto/variante, lote, unidades contratadas, producidas en Valinor, producidas bajo licencia exterior, entregadas por año, anuladas, perdidas, devueltas, reexportadas, precio nominal y divisa, contenido nacional, servicios, estado documental y fuente. Una ausencia de datos se registra «no determinado», nunca cero.
+
+### A098-R02 — Escala de evidencia
+
+C0: idea de mercado; C1: negociación o estudio hipotético; C2: contrato narrativo propuesto pero no adoptado; C3: contrato aprobado expresamente en canon; C4: entrega documentada y conciliada; C5: historial de servicio y bajas trazable. Solo C4 cuenta como exportación histórica confirmada. No inferir C3/C4 de cooperación diplomática.
+
+### A098-R03 — Mercados por período
+
+1880–1919: servicios portuarios, arsenales, artillería, torpederos y formación, especialmente entorno Pacífico Austral como mercado plausible. 1920–1949: reparación, torpedos, instrumentación y aviación naval; restricciones por conflictos. 1950–1969: reconstrucción de flotas, radar, soporte y armamento guiado temprano. 1970–1989: lanchas/corbetas, T-61, Falmar-II/III y mantenimiento. 1990–2009: refit de fragatas, CMS, T-78, Falmar-IV y licencias. 2010–2026: servicios de ciclo de vida, sensores, T-96, Falmar-V, variantes Falmar-VI selectivas, kits Falmar-U autorizados. Falmar-H no se registra como exportación operativa.
+
+### A098-R04 — Registro por país: Chile
+
+Chile figura como socio diplomático y naval históricamente acreditado por el Tratado de Valparaíso (1848) y Pacto del Pacífico Austral (1876). Expedientes candidatos: CHL-1880 servicios de arsenales; CHL-1920 formación y reparación; CHL-1960 electrónica naval; CHL-1980 modernización de escoltas; CHL-2000 sensores y mantenimiento; CHL-2020 soporte de ciclo de vida. Todos C0–C1: ninguna venta, cantidad ni precio se considera confirmada. No confundir colaboración con exportación.
+
+### A098-R05 — Otros países y regiones
+
+Estados Unidos, Europa, Asia-Pacífico, América Latina y África son categorías de prospección, no compradores adoptados. No adjudicar países específicos ni operaciones sin respaldo del canon. Malaca, Hawái, Panamá Federal y otras unidades constitucionales son transferencias internas, no exportación; Harnen y protectorados requieren análisis de estatus jurídico por fecha.
+
+### A098-R06 — Catálogo y compatibilidad exportadora
+
+1880–1945: artillería, óptica, servicios y torpedos T-80/T-05/T-24/T-42, con elegibilidad por fecha. 1945–1985: T-42/T-61, Falmar-I limitado y Falmar-II/III exportables según licencia. 1985–2005: T-61/T-78, Falmar-III/IV, sensores/CMS y refit. 2005–2026: T-78/T-96, Falmar-IV/V, Falmar-VI selectivo, soporte de buques y aeronaves homologadas. T-18, sistemas sensibles y tecnologías experimentales: autorización especial o no exportables. Los años de introducción de A095 rigen como límites cronológicos.
+
+### A098-R07 — Ejemplos de expedientes simulados, NO ventas históricas
+
+SIM-CHL-1986-01: estudio de modernización de dos escoltas, sensores y soporte; C1, entregas 0 confirmadas, valor no determinado. SIM-EXT-1998-01: hipótesis de licencia de Falmar-IV, 120 unidades fabricadas en país cliente; C1, no sumarlas a producción valinoriana. SIM-EXT-2018-01: estudio de contrato de 24 Falmar-V y soporte; C1, cero entregas certificadas. Estos ejemplos son plantillas para pruebas contables, no eventos de la historia oficial.
+
+### A098-R08 — Cuadro decenal de seguimiento
+
+1880s: arsenales/artillería; 1890s: torpederos; 1900s: artillería/óptica; 1910s: reparación y torpedos; 1920s: aviación y torpedos; 1930s: instrumentos y reparación; 1940s: reconstrucción y radar; 1950s: radar/soporte; 1960s: misiles tempranos; 1970s: lanchas y Falmar-II; 1980s: corbetas/Falmar-III; 1990s: modernización/Falmar-IV; 2000s: sensores/Falmar-V; 2010s: integración/T-96; 2020–2026: soporte digital, Falmar-V/VI selectivo. Todas son oportunidades tecnológicas, no cifras de ventas.
+
+### A098-R09 — Conciliación cuantitativa
+
+Para cada modelo y año: saldo inicial + producción doméstica + importación de retorno − entregas nacionales − exportaciones directas − consumo de ensayos − bajas de fábrica = saldo final (con transferencias internas registradas aparte). Fabricación licenciada extranjera: tabla separada; segunda mano: registrar baja de inventario nacional, no producción nueva. No sumar contratos pendientes ni cuotas hipotéticas de A097 como exportación ejecutada.
+
+### A098-R10 — Valor económico
+
+Tres libros distintos: contratos firmados, ingresos de exportación devengados y valor añadido doméstico. Registrar divisa/año, escalamiento, costos de soporte, compensaciones, importaciones y riesgo de crédito. No usar PIB PPA como ingreso fiscal ni sumar exportaciones otra vez al PIB ECON-03.
+
+### A098-R11 — Gobernanza
+
+Oficina Federal de Control de Exportaciones (nombre funcional provisional) evalúa licencias E1–E4, usuario final, reexportación, propiedad intelectual, seguridad, embargos y seguimiento. Una exportación de CMS no autoriza por defecto código fuente, sensores militares completos ni enlaces OceanNet protegidos.
+
+### A098-R12 — Requisitos de canonización
+
+Antes de convertir un expediente a C3/C4, aprobar país, fecha, contrato, unidades, versión, fabricante, ruta de entrega, estado jurídico del comprador, valor nominal y conciliación con A095–A097. En buques identificar casco exportado y si es nueva construcción o baja de la Armada. En aeronaves identificar modelo y homologación. Pendiente: adjudicar nombres empresariales y facturación real por década.
+
+### Ubicación editorial
+
+Word: después de «Acumulativa A097 — Exportaciones»; Obsidian: nota Acumulativa A098 Registro exportador por país y década.md con enlaces a A095–A097; cronología: incorporar hitos metodológicos y oportunidades como propuestas, no hechos. No sobrescribir la cronología maestra sin cotejar su última versión.
+
+## A099 — Registro canónico de contratos exportadores, 1880–2026
+
+Estado: C3 — aprobado como canon narrativo y contractual por instrucción del usuario (10-11-2026). La aprobación fija los 27 expedientes como contratos o actuaciones comerciales de la historia alternativa, no certifica sus entregas C4, cobros ni resultados industriales. Los cronogramas se conservan como previstos hasta su validación individual. La cifra de cartera es un agregado comparativo en USD constantes de 2026, no ingreso ni exportación efectivamente realizada. Los nombres AFN, ANV, DFMM, ISC y CAN siguen siendo denominaciones funcionales provisionales; no se canonizan razones sociales concretas.
+
+Excepción explícita: EXP-1988-ZAF-01 se adopta solo como expediente de evaluación/estudio sin exportación, sin entrega y sin valor comercial. No se convierte en contrato de suministro. C3 no equivale a C4.
+
+### A099-R01 — Decisión de canonización y alcance
+
+Se aprueban la metodología, los 27 expedientes con sus compradores, objetos, años de firma, cantidades contractuales propuestas y valores de referencia como hechos narrativos contractuales C3, sujetos a la distinción de no entregado/no auditado. La expresión «propuesta» en las columnas de la tabla original se reemplaza por «contractual C3», salvo donde la propia ficha indica estudio sin exportación. Se mantiene abierta la revisión de compatibilidad histórica, export controls, calendarios y denominaciones corporativas.
+
+### A099-R02 — Contabilidad y restricciones
+
+El registro comercial no incrementa por sí solo los 615 buques de 2026, ni altera las fuerzas de 1980, ni la producción A095. Falmar-IV producido bajo licencia en India se registra como producción extranjera; los 120 misiles no se suman a la fabricación nacional. Se preserva la distinción entre construcción nueva para terceros y modernización de cascos del comprador. Los contratos con plazos posteriores a 2026 no se computan íntegramente como entregas a esa fecha.
+
+### A099-R03 — Expedientes contractuales aprobados (C3)
+
+| ID | Firma | País | Fabricante funcional | Objeto | Cantidad contractual | Calendario previsto | Valor MUSD26 | Estado |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| EXP-1887-CHL-01 | 1887 | Chile | AFN | Mantenimiento naval y formación técnica | 1 programa | 1888–1892 | 18 | C3 — entrega no certificada |
+| EXP-1896-PRT-01 | 1896 | Portugal | ANV | Lanchas torpederas costeras | 2 cascos | 1898–1899 | 34 | C3 — entrega no certificada |
+| EXP-1908-CHL-01 | 1908 | Chile | AFN | Dirección óptica de tiro y repuestos | 1 lote | 1909–1912 | 22 | C3 — entrega no certificada |
+| EXP-1913-BRA-01 | 1913 | Brasil | ANV | Reacondicionamiento de destructores | 2 cascos | 1914–1916 | 55 | C3 — entrega no certificada |
+| EXP-1927-CHL-01 | 1927 | Chile | AFN | Taller de torpedos y capacitación | 1 instalación | 1928–1931 | 48 | C3 — entrega no certificada |
+| EXP-1934-PRT-01 | 1934 | Portugal | AFN | Torpedos T-24 Falathar | 36 torpedos | 1935–1937 | 42 | C3 — entrega no certificada |
+| EXP-1948-NZL-01 | 1948 | Nueva Zelanda | ISC | Radar naval y capacitación | 4 sistemas | 1949–1952 | 64 | C3 — entrega no certificada |
+| EXP-1956-CHL-01 | 1956 | Chile | ISC | Modernización de sensores de escoltas | 3 cascos | 1957–1960 | 105 | C3 — entrega no certificada |
+| EXP-1966-PER-01 | 1966 | Perú | AFN | Torpedos T-61 Ossë | 48 torpedos | 1967–1970 | 82 | C3 — entrega no certificada |
+| EXP-1968-PRT-01 | 1968 | Portugal | ISC | Radares y sistema de dirección de tiro | 4 sistemas | 1969–1972 | 115 | C3 — entrega no certificada |
+| EXP-1974-CHL-01 | 1974 | Chile | ANV | Lanchas misileras y soporte, Falmar-II separado | 4 cascos | 1976–1979 | 310 | C3 — entrega no certificada |
+| EXP-1975-CHL-02 | 1975 | Chile | DFMM | Falmar-II para paquete de lanchas | 32 misiles | 1977–1980 | 64 | C3 — entrega no certificada |
+| EXP-1978-IDN-01 | 1978 | Indonesia | ANV | Corbetas de exportación (no Calenport de inventario) | 2 cascos | 1981–1984 | 580 | C3 — entrega no certificada |
+| EXP-1983-PER-01 | 1983 | Perú | DFMM | Falmar-III de exportación | 40 misiles | 1985–1988 | 115 | C3 — entrega no certificada |
+| EXP-1986-CHL-01 | 1986 | Chile | ISC | Modernización de escoltas y CMS | 2 cascos | 1987–1991 | 220 | C3 — entrega no certificada |
+| EXP-1988-ZAF-01 | 1988 | Sudáfrica | ANV | Estudio comercial sin entrega, sujeto a restricciones | 1 estudio | sin entrega | 0 | C3 — estudio, sin exportación |
+| EXP-1993-BRA-01 | 1993 | Brasil | ISC | CMS y sensores para corbetas nacionales | 4 sistemas | 1995–1999 | 260 | C3 — entrega no certificada |
+| EXP-1998-IND-01 | 1998 | India | DFMM | Licencia de Falmar-IV, fabricación extranjera | 120 misiles bajo licencia | 2001–2008 | 210 | C3 — entrega no certificada |
+| EXP-2001-CHL-01 | 2001 | Chile | AFN/ISC | Refit de fragatas y sostenimiento | 3 cascos | 2002–2007 | 480 | C3 — entrega no certificada |
+| EXP-2004-PHL-01 | 2004 | Filipinas | ANV | OPV de exportación, sin misil estándar | 3 cascos | 2006–2010 | 420 | C3 — entrega no certificada |
+| EXP-2009-PRT-01 | 2009 | Portugal | DFMM | Falmar-V y apoyo logístico | 36 misiles | 2011–2014 | 170 | C3 — entrega no certificada |
+| EXP-2012-IDN-01 | 2012 | Indonesia | ISC | Modernización de 2 corbetas y radares | 2 cascos | 2013–2017 | 240 | C3 — entrega no certificada |
+| EXP-2015-CHL-01 | 2015 | Chile | ISC | Sensores, CMS y soporte multianual | 4 sistemas | 2016–2023 | 310 | C3 — entrega no certificada |
+| EXP-2018-NZL-01 | 2018 | Nueva Zelanda | ISC | Vigilancia costera y enlaces no protegidos | 1 red | 2019–2024 | 180 | C3 — entrega no certificada |
+| EXP-2021-PHL-01 | 2021 | Filipinas | DFMM | Falmar-V de exportación | 24 misiles | 2023–2026 | 130 | C3 — entrega no certificada |
+| EXP-2023-CHL-01 | 2023 | Chile | AFN/ISC | Sostenimiento y digitalización de flota | 1 programa | 2024–2029 | 360 | C3 — entrega no certificada |
+| EXP-2025-IND-01 | 2025 | India | ISC | Integración de sensores y formación | 1 programa | 2026–2030 | 275 | C3 — entrega no certificada |
+
+### A099-R04 — Límites del valor económico
+
+Valor de referencia total de la cartera: 4,909 MUSD26. No corresponde a ingresos realizados ni a una cifra anual de exportaciones. El estudio sudafricano de 1988 equivale a cero en esta suma. La cifra de referencia es útil para comparar la escala relativa de los expedientes, pero requiere descontar duplicidades entre paquetes de plataformas, municiones y servicios antes de convertirse en una serie macroeconómica.
+
+### A099-R05 — Armamento y licencias
+
+Exportaciones directas contractuales: T-24 = 36; T-61 = 48; Falmar-II = 32; Falmar-III = 40; Falmar-V = 60. Falmar-IV = 120 unidades bajo licencia en India, fabricación extranjera, sin doble conteo en producción nacional. No se infieren municiones adicionales para cascos exportados. Falmar-H, Falmar-U, T-18, submarinos nucleares y OceanNet protegido quedan excluidos de este registro.
+
+### A099-R06 — Condición de evidencia
+
+Para ascender un expediente a C4, se requerirá identificación del casco o lote, fecha efectiva de entrega, aceptación del comprador, planta fabricante, contabilidad de unidades y, si corresponde, baja, cancelación o retraso. Hasta entonces el cronograma permanece como plan contractual y no como entrega comprobada.
+
+### A099-R07 — Ubicación documental
+
+Word: a continuación de A098. Obsidian: nota Acumulativa A099 Contratos exportadores 1880-2026.md, vinculada a A095–A098. Cronología: anotar firmas como hitos C3 y calendarios de entrega como previsiones no certificadas. La integración física en la cronología maestra de Obsidian sigue pendiente si ese archivo no está disponible.
+
+## ACUMULATIVA A100 — AUDITORÍA DE EJECUCIÓN EXPORTADORA (1880–2026)
+
+Estado: canon metodológico y auditoría de evidencia; NO canoniza entregas no demostradas. A099 conserva 27 expedientes C3, incluido el estudio sin suministro EXP-1988-ZAF-01. Fecha de corte: 31 de diciembre de 2026. No se altera la flota, los inventarios ni los rangos de producción A095.
+
+### A100-R01 — Resultado ejecutivo
+
+- 27 expedientes registrados; 26 tienen objeto contractual de suministro, servicios o licencia y 1 es estudio sudafricano sin exportación.
+
+- 0 expedientes con evidencia C4 documentada en las fuentes A099 examinadas. Esto no significa que no se entregaran: significa que el canon disponible aún no contiene actas, números de casco/lote y fechas de aceptación.
+
+- 25 expedientes tienen horizonte previsto cerrado al corte, incluido el estudio sin entrega; 2 tienen horizonte posterior a 2026 (Chile 2023 e India 2025). El calendario es previsión, no prueba de ejecución.
+
+- 4.909 MUSD26: suma aritmética de valores de referencia de la cartera; no se registra como exportaciones realizadas, ingresos ni flujo anual.
+
+### A100-R02 — Reglas de auditoría y semáforo
+
+C3 = contrato/actuación adoptado narrativamente. C4 = entrega o prestación efectivamente aceptada, con evidencia identificable. C5 = conciliación industrial-financiera final. Estados de auditoría: P (plazo previsto vencido, evidencia C4 ausente), V (plazo contractual vigente al corte), E (estudio sin exportación). Ningún estado P implica incumplimiento o cancelación. El estado V tampoco demuestra avance físico.
+
+### A100-R03 — Matriz íntegra de los 27 expedientes
+
+| ID | País | Objeto resumido | Cantidad contractual | Calendario previsto | Valor MUSD26 | Estado auditoría al 31-12-2026 | Entrega C4 verificable |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| EXP-1887-CHL-01 | Chile | Mantenimiento naval y formación técnica | 1 programa | 1888–1892 | 18 | P — calendario vencido | No documentada |
+| EXP-1896-PRT-01 | Portugal | Lanchas torpederas costeras | 2 cascos | 1898–1899 | 34 | P — calendario vencido | No documentada |
+| EXP-1908-CHL-01 | Chile | Dirección óptica de tiro y repuestos | 1 lote | 1909–1912 | 22 | P — calendario vencido | No documentada |
+| EXP-1913-BRA-01 | Brasil | Reacondicionamiento de destructores | 2 cascos | 1914–1916 | 55 | P — calendario vencido | No documentada |
+| EXP-1927-CHL-01 | Chile | Taller de torpedos y capacitación | 1 instalación | 1928–1931 | 48 | P — calendario vencido | No documentada |
+| EXP-1934-PRT-01 | Portugal | Torpedos T-24 Falathar | 36 torpedos | 1935–1937 | 42 | P — calendario vencido | No documentada |
+| EXP-1948-NZL-01 | Nueva Zelanda | Radar naval y capacitación | 4 sistemas | 1949–1952 | 64 | P — calendario vencido | No documentada |
+| EXP-1956-CHL-01 | Chile | Modernización de sensores de escoltas | 3 cascos | 1957–1960 | 105 | P — calendario vencido | No documentada |
+| EXP-1966-PER-01 | Perú | Torpedos T-61 Ossë | 48 torpedos | 1967–1970 | 82 | P — calendario vencido | No documentada |
+| EXP-1968-PRT-01 | Portugal | Radares y sistema de dirección de tiro | 4 sistemas | 1969–1972 | 115 | P — calendario vencido | No documentada |
+| EXP-1974-CHL-01 | Chile | Lanchas misileras y soporte, Falmar-II separado | 4 cascos | 1976–1979 | 310 | P — calendario vencido | No documentada |
+| EXP-1975-CHL-02 | Chile | Falmar-II para paquete de lanchas | 32 misiles | 1977–1980 | 64 | P — calendario vencido | No documentada |
+| EXP-1978-IDN-01 | Indonesia | Corbetas de exportación (no Calenport de inventario) | 2 cascos | 1981–1984 | 580 | P — calendario vencido | No documentada |
+| EXP-1983-PER-01 | Perú | Falmar-III de exportación | 40 misiles | 1985–1988 | 115 | P — calendario vencido | No documentada |
+| EXP-1986-CHL-01 | Chile | Modernización de escoltas y CMS | 2 cascos | 1987–1991 | 220 | P — calendario vencido | No documentada |
+| EXP-1988-ZAF-01 | Sudáfrica | Estudio comercial sin entrega, sujeto a restricciones | 1 estudio | sin entrega | 0 | E — estudio | No documentada |
+| EXP-1993-BRA-01 | Brasil | CMS y sensores para corbetas nacionales | 4 sistemas | 1995–1999 | 260 | P — calendario vencido | No documentada |
+| EXP-1998-IND-01 | India | Licencia de Falmar-IV, fabricación extranjera | 120 misiles bajo licencia | 2001–2008 | 210 | P — calendario vencido | No documentada |
+| EXP-2001-CHL-01 | Chile | Refit de fragatas y sostenimiento | 3 cascos | 2002–2007 | 480 | P — calendario vencido | No documentada |
+| EXP-2004-PHL-01 | Filipinas | OPV de exportación, sin misil estándar | 3 cascos | 2006–2010 | 420 | P — calendario vencido | No documentada |
+| EXP-2009-PRT-01 | Portugal | Falmar-V y apoyo logístico | 36 misiles | 2011–2014 | 170 | P — calendario vencido | No documentada |
+| EXP-2012-IDN-01 | Indonesia | Modernización de 2 corbetas y radares | 2 cascos | 2013–2017 | 240 | P — calendario vencido | No documentada |
+| EXP-2015-CHL-01 | Chile | Sensores, CMS y soporte multianual | 4 sistemas | 2016–2023 | 310 | P — calendario vencido | No documentada |
+| EXP-2018-NZL-01 | Nueva Zelanda | Vigilancia costera y enlaces no protegidos | 1 red | 2019–2024 | 180 | P — calendario vencido | No documentada |
+| EXP-2021-PHL-01 | Filipinas | Falmar-V de exportación | 24 misiles | 2023–2026 | 130 | P — calendario vencido | No documentada |
+| EXP-2023-CHL-01 | Chile | Sostenimiento y digitalización de flota | 1 programa | 2024–2029 | 360 | V — calendario abierto | No documentada |
+| EXP-2025-IND-01 | India | Integración de sensores y formación | 1 programa | 2026–2030 | 275 | V — calendario abierto | No documentada |
+
+### A100-R04 — Control de cronología
+
+El único criterio para considerar un expediente «vencido» es que su último año de entrega previsto sea igual o anterior a 2026. No es un juicio sobre ejecución real. Los expedientes EXP-2023-CHL-01 (2024–2029) y EXP-2025-IND-01 (2026–2030) siguen con horizonte abierto. EXP-2021-PHL-01 (2023–2026) alcanza el cierre previsto en el año de corte, pero su aceptación sigue no documentada. Corrección del recuento preliminar: son 25 expedientes con horizonte cerrado (incluido el estudio sin entrega) y 2 con horizonte posterior; entre los 26 contratos con objeto exportador, 24 cerrados y 2 abiertos.
+
+### A100-R05 — Control de cascos y sistemas
+
+Los 2 torpederos para Portugal (1896), 4 lanchas para Chile (1974), 2 corbetas para Indonesia (1978) y 3 OPV para Filipinas (2004) se consideran construcción nueva para exportación, no transferencia automática desde la flota valinoriana. Requieren matrículas, astillero, fechas de puesta de quilla, botadura, entrega y aceptación. Los trabajos sobre 2 destructores brasileños (1913), 3 escoltas chilenos (1956), 2 escoltas chilenos (1986), 3 fragatas chilenas (2001), 2 corbetas indonesias (2012) y otros sistemas se auditan como modernizaciones o servicios, no nuevos cascos. El número de sistemas no se transforma automáticamente en número de buques.
+
+### A100-R06 — Control de misiles y torpedos
+
+Los compromisos C3 directos son 36 T-24, 48 T-61, 32 Falmar-II, 40 Falmar-III y 60 Falmar-V. Se necesitan lotes, números de serie y aceptación para mover cantidades a C4. Los 120 Falmar-IV bajo licencia en India son techo de fabricación extranjera contemplada en contrato, no 120 misiles fabricados ni exportados por Valinor. No sumar 32 Falmar-II al valor de las 4 lanchas sin comprobar si los contratos ya se facturaron separadamente. No inventar cargas de armas para corbetas u OPV.
+
+### A100-R07 — Conciliación de producción nacional
+
+Por familia y año: producción nacional = entrega a fuerzas valinorianas + exportación física + ensayos/consumo + reservas/almacenamiento + pérdidas/bajas + variación de trabajo en proceso (con ajustes por importaciones y transferencias). La producción bajo licencia extranjera se registra en cuenta distinta. A095 ofrece rangos de fabricación histórica acumulada, no series anuales ni entregas: no pueden inferirse estas últimas mediante porcentajes.
+
+### A100-R08 — Conciliación financiera
+
+La cartera contractual de 4.909 MUSD26 se mantiene como valor de referencia a precios de 2026. Para series históricas separar: fecha de firma, precio nominal original, moneda, reajustes, anticipo, hitos de facturación, cobros efectivos, contenido local, regalías y valor añadido nacional. Un casco con armamento contratado por separado no debe sumar dos veces el mismo subsistema. Servicios plurianuales se devengan según ejecución, no íntegramente en la firma. No se añade este monto al PIB de 2026 ni se declara balanza comercial positiva sin datos de costos y pagos.
+
+### A100-R09 — Riesgos históricos a resolver
+
+- Chile 1974–1980: confrontar con flota real de la línea temporal alternativa, cronología política y compatibilidad del Falmar-II; no proyectar automáticamente hechos de la historia real.
+
+- Portugal 1934: comprobar homologación naval de T-24 y plataformas receptoras.
+
+- Perú 1966: T-61 en servicio desde 1963 según A095; plausible cronológicamente, pero requiere integración.
+
+- Indonesia 1978: construcción 1981–1984; separar cascos exportados de 50 corbetas valinorianas de 1980.
+
+- India 1998: confirmar titularidad de propiedad intelectual, componentes suministrados y unidades realmente fabricadas.
+
+- Sudáfrica 1988: estudio sin suministro; no registrar ventas, entregas ni cobros.
+
+- Nueva Zelanda 2018: enlaces no protegidos, sin presumir acceso a OceanNet militar.
+
+### A100-R10 — Ficha mínima para pasar a C4
+
+ID de contrato; modificación contractual; fabricante legal (no solo sigla funcional); planta/astillero; modelo/bloque; casco o lote; unidades comprometidas; unidades terminadas; unidades aceptadas; fechas de entrega; documento de aceptación; incidencias, devoluciones y cancelaciones; fuente canónica; relación con contrato de mantenimiento; efecto sobre producción nacional; licencia y regalías, si aplica. Un expediente puede tener C4 parcial por lote, sin que el contrato completo pase a «entregado».
+
+### A100-R11 — Dictamen y tareas abiertas
+
+Se aprueba la estructura de auditoría y se mantiene C3 sin C4 en los 26 expedientes exportadores por falta de evidencia documental en A099. El estudio ZAF permanece sin suministro. Próxima etapa: construir lotes y cronologías de aceptación con documentación narrativa explícita o someter a aprobación un escenario reconstruido C4 propuesto, sin presentarlo como auditoría de hechos ya establecidos.
+
+### A100-R12 — Integración documental
+
+Word: añadir después de A099 en Canon V17.1, generando V17.2. Obsidian: nota Acumulativa A100 Auditoria ejecucion exportadora 1880-2026.md con enlaces A095–A099. Cronología: incorporar hitos de revisión de ejecución, sin convertir los plazos previstos en fechas de entrega reales. La cronología maestra completa no se modifica si no está disponible.
+
+## Acumulativa A101 Reconstrucción de ejecución y entregas exportadoras 1880 a 2026
+
+Estado integrado por instrucción del autor del 10 de noviembre de 2026. Se adopta E1 como reconstrucción narrativa de referencia de los 27 expedientes de A099. E2 y E3 se conservan como alternativas no acumulables y no sustituyen E1. Corte narrativo 31 de diciembre de 2026; los hitos del resto de 2026 son parte de la línea temporal ficticia, no observaciones realizadas a la fecha de integración.
+
+Los dos archivos de propuesta A101 suministrados son idénticos por SHA256 y se incorporan una sola vez. La base es el Maestro V17.2 A100 entregado por el autor; sus capítulos A094 a A100 se regularizan en formato sin alterar cantidades ni restricciones. Los originales se conservan.
+
+### A101 R01 Decisión de integración y niveles de evidencia
+
+La orden actual aprueba incorporar la reconstrucción al canon. Se permite describir aceptación narrativa por lote o hito con identificadores editoriales, manteniendo pendientes matrículas, números de serie, fabricantes legales y plantas no fijados. Estos identificadores no son números de casco ni actas auténticas.
+
+C3 conserva el contrato o actuación comercial. C4 documental exige evidencia identificable y continúa sin acreditación en los 26 expedientes exportadores auditados por A100. C4 narrativo E1 designa las aceptaciones ficticias ahora adoptadas por el autor, con identificación física incompleta. C5 sigue pendiente: aceptar una entrega no demuestra cobro, facturación final ni valor añadido. El resultado documental de A100 no se reescribe retrospectivamente.
+
+| Estado de ejecución E1 al corte | Expedientes | Alcance |
+| --- | --- | --- |
+| C4 narrativo completo | 23 | Incluye bienes y servicios; no equivale a evidencia documental |
+| C4 narrativo parcial | 1 | Chile 2023 con hitos 2025 y 2026; cierre 2027–2029 pendiente |
+| Fabricación licenciada con aceptación final pendiente | 1 | India 1998: 120 unidades extranjeras; transferencia documental en 2001 |
+| Ejecución inicial con aceptación pendiente | 1 | India 2025: diseño y formación inicial en 2026; cierre posterior |
+| Estudio sin suministro | 1 | Sudáfrica 1988: sin exportación ni valor comercial |
+| Total | 27 | No sumar cantidades de naturalezas diferentes |
+
+### A101 R02 Ejecución y aceptación narrativa por expediente
+
+| Contrato | Ejecución E1 adoptada | Estado al corte narrativo | Control específico |
+| --- | --- | --- | --- |
+| EXP-1887-CHL-01 | Cuatro hitos de asistencia aceptados en 1888, 1889, 1891 y 1892 | C4 narrativo completo E1 | Servicios, no cascos |
+| EXP-1896-PRT-01 | 1 lancha aceptada en 1898 y 1 en 1899 | C4 narrativo completo E1 | Identificar matrículas nuevas |
+| EXP-1908-CHL-01 | Óptica y repuestos aceptados en 1910; cierre técnico en 1912 | C4 narrativo completo E1 | No asumir buque receptor |
+| EXP-1913-BRA-01 | Refit 1 aceptado 1915, refit 2 aceptado 1916 | C4 narrativo completo E1 | Sin construir destructores nuevos |
+| EXP-1927-CHL-01 | Instalación aceptada 1930, formación cerrada 1931 | C4 narrativo completo E1 | Sin producción de torpedos inferida |
+| EXP-1934-PRT-01 | 12 T-24 aceptados 1935, 12 en 1936, 12 en 1937 | C4 narrativo completo E1 | Restar de fabricación nacional acumulada A095 |
+| EXP-1948-NZL-01 | 2 radares aceptados 1950, 2 en 1951, formación 1952 | C4 narrativo completo E1 | Sin acceso OceanNet militar |
+| EXP-1956-CHL-01 | 1 escolta aceptada 1958, 1 en 1959, 1 en 1960 | C4 narrativo completo E1 | Sin aumentar flota |
+| EXP-1966-PER-01 | 16 T-61 aceptados 1968, 16 en 1969, 16 en 1970 | C4 narrativo completo E1 | Integración plataforma pendiente |
+| EXP-1968-PRT-01 | 2 sistemas aceptados 1970, 2 en 1972 | C4 narrativo completo E1 | No inferir cuatro cascos nuevos |
+| EXP-1974-CHL-01 | 1 lancha aceptada 1976, 1 en 1977, 1 en 1978, 1 en 1979 | C4 narrativo completo E1 | Misiles facturados por contrato distinto |
+| EXP-1975-CHL-02 | 8 Falmar-II aceptados 1977, 8 en 1978, 8 en 1979, 8 en 1980 | C4 narrativo completo E1 | Evitar doble conteo con lanchas |
+| EXP-1978-IDN-01 | 1 corbeta aceptada 1982, 1 en 1984 | C4 narrativo completo E1 | No descontar de 50 corbetas de 1980 |
+| EXP-1983-PER-01 | 10 Falmar-III aceptados 1985, 10 en 1986, 10 en 1987, 10 en 1988 | C4 narrativo completo E1 | Verificar compatibilidad de lanzadores |
+| EXP-1986-CHL-01 | 1 modernización aceptada 1989, 1 en 1991 | C4 narrativo completo E1 | No nuevos cascos |
+| EXP-1988-ZAF-01 | Evaluación cerrada sin contrato de suministro ni transferencia | estudio sin suministro | Excepción invariable |
+| EXP-1993-BRA-01 | 1 CMS aceptado 1996, 1 en 1997, 2 en 1999 | C4 narrativo completo E1 | Sin fabricar corbetas |
+| EXP-1998-IND-01 | Transferencia documental 2001; producción extranjera de 20 unidades 2003, 30 en 2004, 30 en 2006 y 40 en 2008 | fabricación extranjera E1; aceptación final pendiente | No son exportación física ni fabricación nacional valinoriana |
+| EXP-2001-CHL-01 | Refit 1 aceptado 2004, refit 2 en 2005, refit 3 en 2007 | C4 narrativo completo E1 | Servicios no fragatas nuevas |
+| EXP-2004-PHL-01 | 1 OPV aceptado 2007, 1 en 2008, 1 en 2010 | C4 narrativo completo E1 | Sin misil estándar |
+| EXP-2009-PRT-01 | 12 Falmar-V aceptados 2011, 12 en 2012, 12 en 2014 | C4 narrativo completo E1 | Requiere control de lotes |
+| EXP-2012-IDN-01 | 1 corbeta modernizada aceptada 2015, 1 en 2017 | C4 narrativo completo E1 | Mismos cascos que contrato 1978 solo si se confirma matrícula; no asumirlo |
+| EXP-2015-CHL-01 | 1 sistema aceptado 2017, 1 en 2019, 1 en 2021, 1 en 2023 | C4 narrativo completo E1 | Soporte puede continuar después de instalación |
+| EXP-2018-NZL-01 | Red aceptada por fases 2021, 2022 y cierre 2024 | C4 narrativo completo E1 | Enlaces no protegidos |
+| EXP-2021-PHL-01 | 8 Falmar-V aceptados 2024, 8 en 2025, 8 en 2026 | C4 narrativo completo E1 | Cierre 2026 es hipótesis, no evidencia |
+| EXP-2023-CHL-01 | Hitos de digitalización aceptados 2025 y 2026; otros 2027–2029 pendientes | C4 narrativo parcial | No declarar programa completo |
+| EXP-2025-IND-01 | Diseño y formación inicial 2026; integración y cierre 2027–2030 pendientes | ejecución inicial; aceptación pendiente | No declarar programa completo |
+
+Los textos de control conservan las advertencias de la propuesta. En particular, restar torpedos exportados de fabricación acumulada significa detraerlos del volumen disponible para otros destinos; no reducir el total históricamente fabricado ni añadir otro lote al rango de producción. Para India 1998 solo se narra transferencia documental y fabricación extranjera: la aceptación del usuario final no se presume. India 2025 conserva actividad inicial sin convertirla en aceptación C4.
+
+### A101 R03 Cascos nuevos e intervenciones
+
+| Construcción para terceros | Aceptación narrativa E1 | Cascos nuevos |
+| --- | --- | --- |
+| Portugal lanchas | 1898 y 1899 | 2 |
+| Chile lanchas | 1976 1977 1978 y 1979 | 4 |
+| Indonesia corbetas | 1982 y 1984 | 2 |
+| Filipinas OPV | 2007 2008 y 2010 | 3 |
+| Total | E1 | 11 |
+
+Son construcciones exclusivas para compradores extranjeros, no bajas ni transferencias automáticas desde la Armada valinoriana. No se incluyen en las 50 corbetas de referencia de 1980 ni en las 615 plataformas de 2026. Las doce intervenciones sobre cascos de contratos de Brasil, Chile e Indonesia son operaciones de servicio contadas por contrato, no doce buques únicos demostrados. Los cascos indonesios modernizados en 2015 y 2017 no se identifican automáticamente con los exportados en 1982 y 1984.
+
+### A101 R04 Armas físicas y producción licenciada
+
+| Familia | Aceptación narrativa de contratos directos | Naturaleza |
+| --- | --- | --- |
+| T-24 | 36 | Torpedos de fabricación nacional incluidos en el rango A095 antibuque |
+| T-61 | 48 | Torpedos de fabricación nacional incluidos en el rango A095 antibuque |
+| Falmar-II | 32 | Misiles; contrato separado de las lanchas |
+| Falmar-III | 40 | Misiles; compatibilidad de lanzadores no inferida |
+| Falmar-V | 60 | 36 Portugal y 24 Filipinas |
+| Total directo | 216 | 84 torpedos y 132 misiles |
+| Falmar-IV India | 120 | Fabricación extranjera licenciada en cuenta independiente |
+
+La serie nacional anual continúa sin fijar. El año de aceptación no se utiliza como año exacto de fabricación, exportación física, FAT o SAT. Las 120 unidades indias no se suman a las 216 directas ni a producción doméstica. El origen de componentes exportados, documentación, asistencia y regalías debe registrarse por separado. No se presume derecho de reexportación, cesión de propiedad intelectual o transferencia de enlaces protegidos.
+
+### A101 R05 Conciliación con producción e inventarios
+
+Las exportaciones directas son una parte de los rangos acumulados de fabricación del capítulo A095 antibuque del Maestro A100. Estos rangos son estimaciones narrativas, no series observadas. Las construcciones navales para terceros son actividad adicional fuera del inventario de la Armada; las modernizaciones no construyen automáticamente otro casco.
+
+Para unidades terminadas se separan saldo inicial, fabricación terminada nacional, retornos importados, entregas nacionales, exportación física, consumo de ensayos, bajas y saldo final. El trabajo en proceso se lleva en un libro distinto y no se convierte en unidades terminadas. Un intervalo de fabricación restante no equivale a armas activas de las fuerzas propias.
+
+| Familia | Rango nacional A095 antibuque | Parte exportada E1 | Resto aritmético para otros destinos |
+| --- | --- | --- | --- |
+| T-24 | 3500–5500 | 36 | 3464–5464 |
+| T-61 | 2800–4500 | 48 | 2752–4452 |
+| Falmar-II | 1200–2000 | 32 | 1168–1968 |
+| Falmar-III | 2000–3200 | 40 | 1960–3160 |
+| Falmar-V | 3200–5200 | 60 | 3140–5140 |
+
+El resto incluye potencialmente consumo, almacenamiento, ensayos y entregas nacionales no conciliadas. No es un inventario de 2026 ni una disponibilidad. Se conserva la cifra de 615 plataformas navales y la disponibilidad 449 como simulación previa, sin trasladarla a los compradores.
+
+### A101 R06 Secuencia industrial y registro de lotes
+
+La secuencia distingue ingeniería y autorización, componentes y capacidad, fabricación o refit, pruebas de fábrica FAT, pruebas de mar o integración SAT, transferencia, aceptación narrativa, garantía, repuestos y formación, y conciliación económica C5. Estas etapas no se presumen simultáneas.
+
+Cada hito del registro tiene un identificador editorial A101 y una referencia de contrato. Se permiten lotes narrativos sin matrículas inventadas; la fecha exacta y el documento de aceptación permanecen vacíos cuando solo existe un año propuesto. Los programas de formación, redes e instalación no se multiplican por el número de sus hitos. Las tres fases neozelandesas describen una red, no tres redes.
+
+### A101 R07 Alternativas E2 y E3
+
+E1 es la referencia adoptada. E2 conserva como alternativa un casco indonesio aceptado en 1985 en lugar de 1984, el último OPV filipino en 2011 en lugar de 2010 y ocho Falmar-V filipinos pendientes al corte de 2026. En E2 las armas directas aceptadas serían 208 en vez de 216 dentro de esta cartera; no se añaden a E1.
+
+E3 conserva como alternativa 90 de 120 unidades licenciadas indias fabricadas antes de 2008 y treinta sin fabricar, con regalías y cumplimiento pendientes. No reduce ni aumenta las exportaciones directas de E1. Adoptar E2 o E3 en el futuro requiere una resolución que sustituya los hitos afectados, sin acumular escenarios.
+
+### A101 R08 Valor contractual y conciliación económica
+
+Se mantienen 4909 millones de USD constantes de 2026 como valor de referencia de la cartera de A099, incluidos los programas abiertos y cero para el estudio sudafricano. La cifra no es ingreso percibido, gasto de 2026, balanza comercial ni valor añadido generado. La notación 4.909 MUSD26 se lee aquí como cuatro mil novecientos nueve millones, no 4,909 millones.
+
+Cada contrato debe separar anticipos, pagos por hitos, costes, contenido importado, empleo, garantía, mantenimiento y valor añadido doméstico. La suma de referencias no demuestra cobros. La licencia india distingue producción del cliente, componentes realmente exportados, documentación, asistencia y regalías. No se añade la cartera al PIB ni se duplica armamento ya facturado en paquetes de plataformas.
+
+### A101 R09 Relaciones exteriores y controles pendientes
+
+Chile 1974–1980 conserva revisión de política exterior y cronología alternativa, tripulaciones, infraestructura e integración Falmar-II. No se importan automáticamente hechos de la historia real a Valinor. Para Perú la compra no demuestra integración inmediata; para Portugal se identifican plataformas receptoras; para Indonesia sigue pendiente la continuidad de matrículas entre exportación y refit. Sudáfrica 1988 permanece sin suministro y Nueva Zelanda no recibe acceso automático a OceanNet militar protegido.
+
+La integración adopta una reconstrucción narrativa limitada; no resuelve mediante invención nombres de cascos, astilleros, autorizaciones o certificados ausentes. Las denominaciones AFN, ANV, DFMM, ISC y CAN siguen siendo etiquetas funcionales provisionales, no razones sociales legalmente fijadas.
+
+### A101 R10 Propiedades y fichas de Obsidian
+
+Se crean fichas para los 27 expedientes con ID, comprador, proveedor funcional, producto, cantidad y valor contractual, calendario previsto, escenario E1, estado narrativo y documental separados, efectos sobre producción, licencia extranjera y cobros pendientes. Cada hito enlaza con su contrato; los campos físicos y FAT SAT quedan sin dato donde no constan.
+
+La aprobación narrativa no convierte campos desconocidos en cero. Los ceros de cascos propios o de suministro sudafricano expresan exclusiones explícitas. Los ceros de la serie anual solo indican ausencia de un hito en esta cartera reconstruida, no ausencia de exportaciones nacionales fuera de los 27 expedientes.
+
+### A101 R11 Resolución de condiciones y nomenclaturas
+
+La instrucción del autor se aplica a E1 y a cada expediente de su tabla, con aceptación por lote narrativo y las reservas anteriores. Quedan pendientes las matrículas, las plataformas receptoras concretas, la relación entre corbetas indonesias y las reglas comerciales detalladas de la licencia india. E1 no se presenta como auditoría de documentación inexistente.
+
+En esta línea V17.2 A100, A094 significa industria de defensa y AAW y A095 significa guerra antibuque y rangos de fabricación. Las notas antiguas de este chat A094 Industria automotriz y A095 Fuerza Aérea tienen un alcance diferente y se conservan con sus títulos completos. No se sobrescriben ni se usan como fuente de los rangos de armas. El registro de integración identifica cada ámbito por título y huella, además del número.
+
+### A101 R12 Integración y trazabilidad
+
+Esta revisión genera el Maestro V17.3 A101 desde el Word V17.2 A100 suministrado, actualiza la cronología real del vault y publica las notas y expedientes en Obsidian. Las menciones de A099 y A100 a integración pendiente describen su estado editorial anterior y quedan superadas en ese alcance. Las restricciones económicas, técnicas y de evidencia permanecen.
+
+Las propuestas originales se conservan, incluida la copia idéntica con sufijo 1. El registro diferencia contenido previo, formato regularizado y resolución A101 añadida. Los originales V17.2 y las versiones locales anteriores no se eliminan. La verificación local de publicación no acredita sincronización remota de OneDrive.
+
+## Resolución A102 de integración civil automotriz y aérea
+
+La revisión V17.4 A102 incorpora y desarrolla A094 Industria automotriz y A095 Fuerza Aérea por instrucción del autor del 10 de noviembre de 2026. Continúa el Maestro V17.3 A101 y no sustituye su reconstrucción exportadora E1. La numeración A102 identifica esta integración editorial; A094 automotriz y A095 aérea conservan sus nombres y procedencia, distintos de A094 defensa y A095 antibuque.
+
+Se adopta como historia narrativa la evolución sectorial de ambos capítulos. Se adoptan los seis linajes empresariales con sus años de origen y los doce programas de aeronaves con sus años de introducción inicial. Origen empresarial no equivale a inscripción legal ni a apertura de una fábrica determinada; introducción aeronáutica significa incorporación inicial del programa a su función, no plena capacidad de todos sus escuadrones. Las cifras de producción civil, los emplazamientos candidatos y las capacidades no medidas mantienen su calificación propia.
+
+Se fijan narrativamente el vuelo controlado de 1906, la escuela de 1909, el Servicio Aeronáutico Militar de 1912, la independencia de la Fuerza Aérea de Valinor en 1926 y su reorganización como Fuerza Aérea Federal de Valinor en 1958. El demostrador de reacción de 1946 y el servicio regular del primer caza de reacción en 1952 son fases distintas. Los nombres, números y textos de las normas fundacionales siguen sin dato. La antigua síntesis 1956–1980 describe la expansión de la reacción y no niega el comienzo de servicio de 1952.
+
+El ritmo de 12 millones de vehículos anuales, con banda de 10–14 millones, se adopta exclusivamente como escenario central de planificación de 2026. No se declara producción realizada. No se fijan empleo, parque, exportaciones, gasto aéreo, cantidades de aeronaves ni inventarios a partir de este escenario. Continúan las cuentas federales de 523,5 millones operativos y 65,50 billones PPA, y las 615 plataformas navales de A101. Las 216 armas directas, las 120 licenciadas extranjeras y los 4909 MUSD26 conservan su perímetro y naturaleza.
+
+Las reservas históricas de las acumulativas que anunciaban integración pendiente quedan superadas en ese alcance por esta resolución. Sus originales se conservan como antecedentes. Las incertidumbres materiales se mantienen: no se convierten en hechos medidos por la incorporación editorial. Los capítulos siguientes desarrollan estas decisiones y deben leerse con esta precedencia.
+
+## Historia de la industria automotriz A094
+
+### De los talleres mecánicos al automóvil entre 1880 y 1900
+
+La industria nace de fabricantes de carruajes, talleres ferroviarios, fundiciones y empresas de maquinaria. Al principio su negocio principal continúa siendo reparar y producir equipos industriales; el automóvil aparece como actividad experimental.
+
+En Arnor se desarrollan motores pequeños, transmisiones y vehículos de demostración. Calenardhon Austral aporta talleres de maquinaria y carrocerías de trabajo. Puertos y ciudades industriales ofrecen los primeros compradores: comerciantes, servicios municipales, médicos y administraciones.
+
+| Periodo narrativo | Desarrollo |
+| --- | --- |
+| 1880–1886 | Talleres de vehículos de vapor motores estacionarios y mecanismos de transmisión |
+| 1886–1892 | Primeros automóviles experimentales de combustión |
+| 1892–1897 | Pequeñas series comerciales y automóviles particulares |
+| 1895–1900 | Vehículos eléctricos urbanos y servicios especializados de mantenimiento |
+
+Vapor, electricidad y gasolina compiten durante esta primera etapa. Los eléctricos encuentran aplicaciones en recorridos cortos con instalaciones de recarga: repartos, servicios municipales y desplazamientos urbanos. La existencia temprana de estos vehículos no implica baterías modernas ni autonomía de larga distancia.
+
+La limitación principal es fabricar vehículos repetibles y mantenerlos, además de conseguir ejemplares funcionales. Se necesitan mecanizado preciso, neumáticos, lubricantes, combustible de calidad y operarios capaces de diagnosticar averías. La experiencia industrial anterior facilita esa transición, pero no equivale a disponer de una industria automotriz completa desde 1880.
+
+### Fabricantes y proveedores entre 1900 y 1914
+
+El automóvil deja de depender de un taller que fabrica casi todo artesanalmente. Aparecen especialistas en motores, ejes, carburación, encendido, neumáticos, carrocerías y material eléctrico. La demanda inicial se divide entre automóviles de representación y particulares, taxis y servicios municipales, furgones y pequeños camiones y chasis para autobuses.
+
+Arnor se convierte en el principal centro de ingeniería y fabricación de motores. Calenardhon Austral desarrolla vehículos comerciales y carrocerías. En las islas, el crecimiento depende más de importación, montaje y reparación que de levantar una fábrica completa por territorio.
+
+El automóvil blindado Hador de 1911, ya incorporado al catálogo terrestre, encaja en esta evolución: presupone una base de automoción y talleres suficiente para construirlo. No demuestra producción civil masiva ni un proveedor único de todos sus componentes.
+
+Se normalizan medidas, tornillería, catálogos y reparación. Pedir una pieza por referencia comienza a sustituir la fabricación de un repuesto específico para cada vehículo. Esta normalización admite diversidad empresarial sin convertir todas las marcas en una sola plataforma.
+
+### Producción en serie entre 1914 y 1930
+
+El cambio decisivo consiste en organizar materiales, operaciones e inspección de calidad. La historia adopta líneas móviles durante la década de 1910 y las extiende en los años veinte, sin atribuir a Valinor la invención mundial del sistema.
+
+| Familia de producto | Organización de la oferta |
+| --- | --- |
+| Automóvil económico | Pocas variantes piezas comunes y reparación accesible |
+| Automóvil de turismo | Más comodidad potencia y posibilidades de carrocería |
+| Furgón y camioneta | Componentes reforzados y prioridad a carga y mantenimiento |
+| Camión | Chasis y transmisión para trabajo sostenido |
+| Autobús | Chasis comercial con carrocería especializada |
+
+El ferrocarril abastece plantas y distribuye vehículos terminados. Las carreteras amplían el mercado, complementando la red ferroviaria. La financiación a compradores y empresas gana importancia; las flotas evalúan combustible, averías, disponibilidad y repuestos además del precio de compra.
+
+El diésel se introduce selectivamente hacia los años veinte. Esta secuencia permite conservar el carro Duilin diésel de 1926 como programa temprano y exigente, mientras la adopción comercial amplia tarda en madurar. No se deduce una flota civil enteramente diésel de la existencia de un modelo militar.
+
+### Consolidación del diésel entre 1930 y 1945
+
+Turismos y vehículos comerciales se diferencian con claridad. Los particulares continúan principalmente con gasolina; camiones, autobuses y maquinaria adoptan progresivamente diésel donde el uso intensivo justifica su coste y mantenimiento.
+
+La transición requiere inyección, filtrado, mecanizado y control de calidad. Un fabricante naval no puede trasladar sin adaptación un motor grande a un camión: cambian masa, dimensiones, régimen y fabricación. Mejoran frenos, suspensiones, cabinas comerciales y normalización de motores y transmisiones. Aparecen versiones para climas fríos, tropicales y recorridos difíciles y carroceros de autobuses, ambulancias y carga.
+
+La industria militar utiliza proveedores, motores y experiencia de fabricación; los blindados conservan líneas, materiales y controles propios. Automóvil civil, camión militar y carro de combate no son versiones automáticamente intercambiables.
+
+La multiplicación de variantes y componentes incompatibles crea dificultades de servicio. La respuesta industrial reduce familias de motores y mantiene varios proveedores capaces de abastecerlas. Se distinguen normalización útil y dependencia de un único fabricante.
+
+### Motorización civil entre 1945 y 1965
+
+La expansión urbana, del consumo y de la demanda empresarial permite series mayores. Carrocerías metálicas, soldadura, pintura y componentes alcanzan una escala comparable a la del montaje final.
+
+Se desarrollan vehículos familiares para Arnor y regiones continentales, con capacidad para distancias largas y condiciones variadas, y compactos para ciudades y territorios insulares. Calenardhon Austral se especializa en camiones, autobuses, carrocerías y trabajo; Arnor mantiene el mayor conjunto de ingeniería, motores, transmisiones y turismos.
+
+La expansión exige concesionarios, talleres independientes, formación, inspección y recuperación de vehículos. La garantía se convierte en coste industrial medible: una avería repetida puede obligar a rediseñar una serie.
+
+El empleo cualificado convive con trabajo repetitivo, accidentes y conflictos sobre ritmos de producción. La historia incorpora negociación laboral, formación profesional y seguridad. Un aumento de unidades no demuestra por sí solo mejora de calidad o bienestar laboral.
+
+### Mercado federal entre 1965 y 1980
+
+La diversidad territorial favorece plataformas comunes con configuraciones regionales. Las adaptaciones necesitan ensayos; cambiar la denominación de una versión no demuestra aptitud para cualquier clima.
+
+| Entorno | Adaptación narrativa |
+| --- | --- |
+| Arnor y territorios septentrionales | Arranque en frío calefacción anticorrosión y mantenimiento estacional |
+| Caribe y regiones tropicales | Refrigeración protección frente a humedad y corrosión filtrado y climatización |
+| Islas y ciudades densas | Compactos reparto ligero y transporte colectivo |
+| Corredores industriales continentales | Camiones autobuses y comerciales de uso intensivo |
+
+Malaca consolida montaje, componentes y compactos, ampliando posteriormente electrónica y producción integrada. La política industrial propone homologación común, repuestos compatibles y competencia. COFOVAL puede financiar modernización, formación y proyectos dentro de su mandato; no se convierte en propietario de toda la industria ni en financiación ilimitada.
+
+### Electrónica y fabricación flexible entre 1980 y 1995
+
+La competencia se desplaza del motor aislado al vehículo como sistema. Se incorporan gestión electrónica, inyección más precisa, seguridad electrónica por gamas, diseño y ensayo asistidos por ordenador, robots en operaciones seleccionadas de soldadura y pintura y diagnóstico y trazabilidad.
+
+La adopción no es simultánea. Camiones destinados a entornos con reparación limitada pueden conservar soluciones más sencillas mientras los turismos superiores incorporan nuevos equipos. Arnor desarrolla controladores, sensores y bancos de prueba; Malaca amplía fabricación y montaje electrónico; Calenardhon Austral incorpora potencia eléctrica y automatización al transporte comercial.
+
+La calidad se mide también mediante defectos, devoluciones, duración y repuestos. La automatización necesita mantenimiento y técnicos; no elimina la plantilla industrial ni autoriza atribuir aumentos de productividad sin medición.
+
+### Plataformas compartidas e hibridación entre 1995 y 2010
+
+Los fabricantes comparten estructuras, motores y sistemas entre modelos. Una plataforma puede sostener turismo, familiar y comercial ligero, sin que todos tengan la misma masa, suspensión o carga admisible.
+
+La historia incorpora seguridad y control electrónico, diésel de inyección avanzada donde corresponda y plataformas comunes entre marcas de un grupo. Los híbridos aparecen en ensayos y pequeñas series durante la segunda mitad de los noventa y se expanden comercialmente en los años 2000. La cronología no adelanta por igual todas las tecnologías.
+
+Los primeros mercados híbridos pueden concentrarse en taxis, servicios y automóviles urbanos de uso frecuente. El beneficio depende del recorrido; no se establece un ahorro idéntico para todos los conductores. Los eléctricos mantienen reparto y servicios urbanos y amplían aplicaciones conforme mejoran almacenamiento, electrónica y recarga.
+
+### Electrificación industrial entre 2010 y 2020
+
+| Eslabón | Función |
+| --- | --- |
+| Celdas | Almacenamiento electroquímico |
+| Módulos y paquetes | Integración estructural eléctrica y térmica |
+| Motores eléctricos | Tracción |
+| Inversores y convertidores | Gestión de potencia |
+| Control y diagnóstico | Supervisión y funcionamiento |
+| Recarga | Conexión a la infraestructura eléctrica |
+| Reparación y reciclaje | Continuidad de servicio y recuperación de materiales |
+
+Montar paquetes no equivale a fabricar celdas. Fabricar motores tampoco demuestra origen nacional de materiales, rodamientos o semiconductores. La orientación industrial prioriza autobuses urbanos, servicios municipales y reparto de rutas conocidas junto con automóviles particulares. Las flotas permiten concentrar servicio y recarga, pero exigen red eléctrica y programación adecuadas.
+
+Se mantienen importaciones de determinadas celdas, materiales y componentes mientras crecen capacidades locales selectivas. La fortaleza se basa en integración, escala, reparación y proveedores diversificados. La soberanía industrial no se interpreta como autarquía ni como liderazgo automático en cada tecnología.
+
+### Coexistencia de motorizaciones entre 2020 y 2026
+
+| Segmento | Orientación adoptada |
+| --- | --- |
+| Automóvil urbano | Eléctrico a batería como línea prioritaria |
+| Familiar y uso mixto | Eléctrico híbrido y ciertas versiones de combustión |
+| Reparto urbano | Electrificación donde exista recarga adecuada |
+| Autobús urbano | Electrificación progresiva de flotas |
+| Transporte interurbano | Soluciones según distancia infraestructura y utilización |
+| Camión pesado | Diésel y eléctricos en aplicaciones compatibles |
+| Servicios remotos y especiales | Motorización según autonomía apoyo y condiciones |
+
+La evaluación incluye compra, financiación, energía, mantenimiento, recarga y utilización. El software gana importancia, pero las funciones básicas seguras se conservan ante pérdida de conectividad. Las actualizaciones tienen trazabilidad y el mantenimiento no depende exclusivamente de conexión permanente ni de un único proveedor.
+
+La conducción automatizada se introduce por funciones y entornos definidos; no se declara autonomía general de la flota en 2026. Tampoco se fija una cuota nacional de eléctricos o una retirada general de la combustión que no haya sido aprobada.
+
+### Distribución industrial propuesta
+
+Los perfiles A089 aportan candidatos compatibles; no fijan por sí solos plantas automotrices concretas.
+
+| Territorio | Especialización propuesta |
+| --- | --- |
+| Arnor | Diseño turismos motores transmisiones electrónica y ensayos |
+| Grandes Lagos dentro de Arnor | Herramientas maquinaria mecanizado cableado y proveedores |
+| Calenardhon Austral | Camiones autobuses carrocerías y sistemas eléctricos de transporte |
+| Malaca | Compactos comerciales ligeros montaje electrónica y componentes |
+| Sírënandë | Materiales y componentes condicionados a energía recursos y estudios |
+| Valinor | Diseño de sistemas software certificación e ingeniería |
+| Territorios insulares | Mantenimiento distribución adaptación de flotas y reciclaje a escala viable |
+
+Annúminas, Fornost, Amon Sûl, Pelargir Austral y Calenport son referencias urbanas compatibles, no fábricas ya establecidas. Cada asignación debe definir planta, capacidad, energía, agua, transporte y plantilla. No se requiere una fábrica integral por territorio; talleres, repuestos, reparación de baterías y formación pueden aportar más utilidad.
+
+### Antecedente de los seis linajes empresariales
+
+Las denominaciones y orígenes se adoptan narrativamente por A102. No certifican constitución legal, plantas, cuota de mercado ni producción de cada empresa.
+
+| Empresa | Origen narrativo adoptado | Trayectoria adoptada |
+| --- | --- | --- |
+| Motores de Arnor | 1888 | Motores y transmisiones; después grupos híbridos y componentes de propulsión |
+| Automóviles de Annúminas | 1902 | Turismos familiares y plataformas de volumen |
+| Automóviles Calen | 1911 | Familiares y comerciales ligeros resistentes |
+| Vehículos Industriales Australes | 1918 | Camiones autobuses y chasis especializados |
+| Electromecánica de Valinor | 1896 | Material eléctrico tracción motores convertidores y movilidad |
+| Malaca Movilidad | 1967 | Montaje y compactos; después fabricación integrada y eléctricos urbanos |
+
+Proveedores independientes producen neumáticos, vidrio, asientos, frenos, iluminación y componentes. No todos pertenecen a conglomerados. Las marcas pueden competir y compartir proveedores. Las compras públicas exigen homologación, mantenimiento y coste de vida completa, sin garantizar ventas por el solo origen nacional.
+
+### Escenario de producción de referencia para 2026
+
+Se propone estudiar un ritmo central de 12 millones de vehículos nuevos anuales, con sensibilidad entre 10 y 14 millones. Es una hipótesis para conciliar el sector, no producción observada ni cierre del año 2026.
+
+| Segmento | Millones de vehículos por año |
+| --- | --- |
+| Automóviles de pasajeros | 8,4 |
+| Comerciales ligeros | 2,4 |
+| Camiones medianos y pesados | 1,0 |
+| Autobuses y autocares | 0,2 |
+| Total | 12,0 |
+
+Quedan fuera motocicletas, maquinaria agrícola y de construcción, remolques y blindados militares. Antes de declarar producción realizada se concilian demanda interior, exportaciones, importaciones, empleo, inversión y proveedores. La producción anual no equivale al parque circulante. Las bajas y el comercio exterior se registran por separado.
+
+No se suman precio de vehículos terminados, motores, baterías y componentes como valor añadido independiente: parte de esos componentes ya está incorporada al producto final. El escenario no modifica el PIB de A092 ni crea empleo o exportaciones por inferencia. Tampoco altera los totales acumulados de blindados A093.
+
+### Conflictos industriales y transición laboral
+
+La historia incluye fabricantes tempranos que desaparecen por falta de escala o repuestos, concentración y problemas de competencia, defectos y campañas de reparación, contaminación de fundición, pintura y tratamiento superficial, accidentes y conflictos sobre organización del trabajo.
+
+La dependencia de electrónica y materiales específicos exige diversificar proveedores y mantener capacidad de reparación. La electrificación transforma talleres y ocupaciones y crea diferencias de acceso entre ciudades, islas y regiones remotas. Parte del trabajo pasa de motores y escapes a potencia eléctrica, baterías, diagnóstico y software; requiere formación y recuperación de materiales además de líneas nuevas.
+
+El perfil adoptado es una industria de gran escala especializada en durabilidad, transporte colectivo y comercial, motores y sistemas eléctricos. La base civil sostiene parte de los proveedores de defensa, sin confundir sus producciones. Ferrocarriles, puertos y transporte público conservan funciones esenciales.
+
+## Historia de la Fuerza Aérea A095
+
+### Aerostación y meteorología durante el siglo XIX
+
+Antes del siglo XIX existen observatorios, señales, mensajería y conocimiento del clima. Son antecedentes científicos y organizativos, no fuerzas aéreas. Durante el XIX la meteorología gana importancia para una sociedad marítima: vientos, presión, nubosidad y tormentas orientan investigación y operaciones portuarias.
+
+| Periodo narrativo | Desarrollo |
+| --- | --- |
+| 1820–1850 | Ascensiones experimentales y observación meteorológica |
+| 1850–1880 | Ensayos de observación militar y cooperación con ingenieros |
+| 1880–1900 | Aerostación organizada instrumentos y formación especializada |
+
+Los globos cautivos permiten observar desde altura, pero dependen del viento, del gas y de equipos terrestres. El primer núcleo militar narrativo pertenece a ingenieros y comunicaciones del Ejército y coopera con observatorios y puertos. La Armada estudia reconocimiento y observación costera. El valor de un globo no elimina sus límites ambientales y logísticos.
+
+### Primeros aviadores entre 1900 y 1914
+
+El avión exige motores ligeros, hélices, estructuras, mandos, campos de vuelo y pilotos. Los talleres aeronáuticos se separan gradualmente de la aerostación y la reparación mecánica general.
+
+| Fecha narrativa adoptada | Hito |
+| --- | --- |
+| 1904–1907 | Experimentación con aeroplanos y motores |
+| 1906 | Primer vuelo motorizado controlado reconocido por el programa valinari |
+| 1909 | Escuela militar de vuelo y mantenimiento |
+| 1912 | Servicio Aeronáutico Militar permanente |
+
+Los aparatos realizan observación, fotografía, mensajería y reconocimiento. Su carga es pequeña y sus prestaciones dependen del tiempo. Arnor proporciona talleres, motores y fabricación; Valinor coordina investigación e instituciones; los arsenales navales estudian flotadores y operación sobre agua.
+
+La escuela de mantenimiento tiene importancia comparable a la de pilotos: un aparato reparable únicamente por su constructor ofrece poca continuidad de servicio. La formación incorpora inspección, registro de averías y procedimientos de aceptación.
+
+| Origen profesional | Prioridad |
+| --- | --- |
+| Ejército | Observación y apoyo a fuerzas terrestres |
+| Armada | Reconocimiento marítimo y conexión con bases |
+| Aviación civil y científica | Correo cartografía experimentación y transporte |
+
+La cooperación entre estos grupos impulsa el sector; sus diferencias explican las futuras disputas por mando y presupuesto.
+
+### Del servicio auxiliar al arma aérea entre 1914 y 1926
+
+La expansión de unidades hace insuficiente una pequeña sección de ingenieros. Se diferencian pilotos, observadores, mecánicos de motores y estructuras, fotógrafos, intérpretes de imágenes, operadores de radio, meteorólogos e instructores.
+
+El reconocimiento sigue siendo esencial. Surgen cazas para proteger operaciones aéreas, aparatos de ataque y transportes iniciales. La evolución tecnológica no adjudica automáticamente a Valinor participación en las guerras mundiales reales: puede combinar observación, compras, licencias, investigación y experiencia propia.
+
+El conflicto institucional se centra en quién controla los aviones y sus adquisiciones. El Ejército pide apoyo inmediato; la Armada necesita integración marítima; los aviadores defienden formación, compras y planificación comunes. La resolución narrativa de 1926 establece una Fuerza Aérea de Valinor independiente que mantiene una aviación naval separada. La denominación narrativa queda adoptada; el número y texto de la norma de creación permanecen pendientes.
+
+### Construcción de la fuerza independiente entre 1926 y 1939
+
+La independencia requiere presupuesto, mando y responsabilidades. No equivale a cambiar uniformes ni a absorber automáticamente todas las aeronaves militares.
+
+| Responsabilidad adoptada | Alcance |
+| --- | --- |
+| Defensa aérea territorial | Vigilancia y protección del espacio aéreo |
+| Reconocimiento general | Cartografía observación y fotografía |
+| Transporte militar | Personal correo suministros y evacuación |
+| Formación | Escuelas y estándares profesionales |
+| Ensayo y adquisición | Evaluación y aceptación de aeronaves y equipos |
+| Cooperación terrestre | Apoyo acordado con el Ejército |
+
+La Armada conserva hidroaviones, aviación embarcada y funciones que requieren integración con buques. Durante los años treinta biplanos y monoplanos conviven; estructuras metálicas, cabinas cerradas y comunicaciones se introducen por generaciones.
+
+Transportes y enlaces conectan administraciones y bases con más rapidez que el mar, pero no sustituyen el movimiento marítimo económico de grandes cargas. Se crean depósitos, talleres regionales y campos permanentes.
+
+La expansión tropieza con modelos demasiado diversos, motores importados, accidentes de instrucción, repuestos insuficientes y demandas distintas de continentes e islas. Una reforma de finales de los treinta reduce variedad y distingue prototipo, aeronave aceptada y unidad preparada para operar.
+
+### Aviación industrial entre 1939 y 1945
+
+Los cazas requieren motores, combustible consistente, instrumentos y fabricación precisa. Bombarderos y transportes incorporan estructuras mayores y tripulaciones especializadas. La transformación principal integra observación, comunicaciones, centros de información, aeródromos y unidades.
+
+El radar complementa observadores y comunicaciones. Su primera estación no constituye una red perfecta: identificación, fiabilidad y entrenamiento condicionan la utilidad. La fuerza amplía caza, transporte, evacuación, fotografía, bombardeo convencional, meteorología, navegación y reparación industrial.
+
+La existencia de bombarderos convencionales no establece un componente nuclear aéreo; esa capacidad requiere una decisión específica. Las pruebas incluyen pérdidas, rechazos y programas que no alcanzan objetivos. La historia industrial conserva fracaso y aprendizaje, sin presentar todos los programas como éxitos de serie.
+
+### Transición a la reacción entre 1945 y 1958
+
+| Etapa narrativa adoptada | Fecha |
+| --- | --- |
+| Investigación de motores a reacción | 1940–1945 |
+| Primer demostrador valinari | 1946 |
+| Evaluación y pequeñas series | 1948–1952 |
+| Primer caza de reacción de servicio regular | 1952 |
+| Expansión de unidades y sostenimiento | 1952–1958 |
+
+La separación entre demostración y servicio evita convertir un primer vuelo en fuerza madura. La reacción renueva pistas, combustible, herramientas, formación y mantenimiento. No sustituye de inmediato a todos los aparatos de hélice: transportes, entrenadores y vigilancia conservan pistón o adoptan turbohélice según misión.
+
+Búsqueda y salvamento, transporte sanitario y abastecimiento remoto amplían la importancia pública de la institución durante accidentes, tormentas y desastres. La velocidad máxima no se convierte en criterio único para adquirir aeronaves.
+
+### Federalización e integración entre 1958 y 1969
+
+La reforma de 1958 reorganiza narrativamente la institución como Fuerza Aérea Federal de Valinor. La denominación queda adoptada; el número, nombre y texto del acto jurídico permanecen sin dato.
+
+Se coordinan formación, certificación, mantenimiento, identificación, comunicaciones y transporte entre territorios. La defensa aérea integra aeronaves, radares, centros de mando y sistemas terrestres, conservando funciones específicas.
+
+OceanNet aporta progresivamente intercambio y logística, respetando los hitos ya fijados: programa desde 1958, servicio institucional inicial en 1959 y consolidación en 1969. No se atribuye imagen digital global completa al primer servicio. La vigilancia espacial y los satélites requieren programas propios durante la expansión posterior, sin adjudicar una constelación valinari a 1958.
+
+### Distancia y sostenimiento entre 1969 y 1985
+
+La dispersión territorial demuestra que los cazas no bastan. Se necesitan transportes, apoyo, meteorología y reparación lejos de los centros fabriles.
+
+| Capacidad de desarrollo | Necesidad |
+| --- | --- |
+| Transporte regional y estratégico | Conectar territorios y mover personal y suministros |
+| Reabastecimiento en vuelo | Ampliar traslado y permanencia de aeronaves compatibles |
+| Helicópteros de transporte y rescate | Acceso y evacuación |
+| Reconocimiento especializado | Información meteorológica geográfica y de vigilancia |
+| Mantenimiento mayor | Sostener servicio sin reparación improvisada |
+| Formación avanzada | Operar aeronaves y sistemas complejos |
+
+El reabastecimiento necesita equipos, procedimientos y tripulaciones compatibles, no se asigna a toda aeronave por pertenecer a la fuerza. La doctrina desarrolla distancia, continuidad y recuperación: trasladar una unidad, sostenerla y devolverla a servicio.
+
+La cooperación con la Armada no absorbe sus alas embarcadas ni sus escuadrones marítimos. La distribución administrativa y los acuerdos de misión se registran por separado.
+
+### Electrónica y calidad operativa entre 1985 y 2000
+
+Radares y sistemas de misión requieren operadores, analistas, técnicos y equipos de software. Los centros reúnen información de distintos orígenes. Se desarrollan alerta temprana aerotransportada, reconocimiento electrónico, comunicaciones seguras y planificación informatizada.
+
+La modernización considera disponibilidad, horas de mantenimiento, sensores, comunicaciones, formación, repuestos y actualización. Una aeronave avanzada con baja disponibilidad puede aportar menos presencia que otra mejor sostenida. Se amplía el uso de simuladores y ejercicios conjuntos, sin sustituir toda experiencia de vuelo y mantenimiento.
+
+La compra de plataformas compite con transportes, escuelas, instalaciones y personal. El presupuesto debe mostrar esas decisiones y no deducirse del número de cazas o del PIB.
+
+### Aviación multimisión y sistemas no tripulados entre 2000 y 2020
+
+Las nuevas generaciones integran sensores, navegación, comunicaciones y sistemas de misión. La mejora depende del entrenamiento y software además de la plataforma.
+
+Los drones se introducen por etapas: ensayo y entrenamiento, observación y vigilancia, reconocimiento especializado y otras funciones autorizadas mediante programas propios. Necesitan operadores, mantenimiento, tratamiento de información y coordinación del espacio aéreo. El trabajo humano cambia de distribución, no desaparece.
+
+Las redes operativas conservan separación respecto a los servicios civiles esenciales. Compartir tecnología o infraestructura no subordina la administración civil al mando militar. La fabricación distingue estructuras, sistemas y motores de determinados linajes de la integración de componentes importados. No se presume fabricación nacional completa de cada aeronave.
+
+### Fuerza conjunta entre 2020 y 2026
+
+La decisión A093 conserva buques de la Armada que controlan drones de ataque desde 2020. No implica que todos esos drones pertenezcan a la Fuerza Aérea ni sustituye sus funciones.
+
+| Componente | Responsabilidad adoptada |
+| --- | --- |
+| Fuerza Aérea | Defensa aérea transporte vigilancia y aeronaves de su inventario |
+| Aviación naval | Operación embarcada y funciones marítimas asignadas |
+| Aviación del Ejército | Apoyo orgánico transporte y enlace según organización |
+| Autoridad aeronáutica civil | Seguridad y regulación del tránsito civil |
+| Mando conjunto | Coordinación y prioridades entre componentes |
+
+Los Eärendil MP y Ulmo ASW ya existentes mantienen su contexto aeronaval y no se cuentan otra vez como aeronaves de la Fuerza Aérea por cooperar con ella. Se distingue matrícula, operador, asignación y disponibilidad. La capacidad de 2026 se evalúa mediante continuidad de servicio, transporte, vigilancia, formación y recuperación además de los aparatos más modernos.
+
+### Genealogía inicial de aeronaves adoptada
+
+La tabla adopta narrativamente nombres y años de introducción inicial. No fija cantidades construidas, inventario activo, alcance, velocidad, armamento o prestaciones de firma.
+
+| Programa adoptado | Introducción inicial narrativa | Función histórica |
+| --- | --- | --- |
+| O-12 Meneldir | 1912 | Observación y reconocimiento inicial |
+| C-17 Thorondir | 1917 | Caza biplano de primera generación |
+| C-38 Sorontar | 1938 | Caza monoplano de pistón |
+| T-40 Menelcar | 1940 | Transporte militar de mayor escala |
+| B-43 Beleg | 1943 | Bombardeo convencional; distinto del carro terrestre Beleg |
+| C-52 Thorondor I | 1952 | Caza de reacción de servicio regular |
+| C-66 Thorondor II | 1966 | Generación supersónica y defensa aérea integrada |
+| C-84 Soron I | 1984 | Aviónica digital y modernización por bloques |
+| AE-90 Menelvagor | 1990 | Alerta temprana aerotransportada |
+| C-04 Soron II | 2004 | Plataforma multimisión y sensores por bloques |
+| U-10 Tirmen | 2010 | Sistema no tripulado de vigilancia y reconocimiento |
+| C-18 Soron III | 2018 | Nueva generación con reducción de firma e integración avanzada como orientación de diseño |
+
+Una introducción no retira automáticamente al predecesor. Producción, entrenamiento, reserva, modernización y bajas requieren registros propios. Thorondir y Thorondor son nombres diferentes en el canon y no se funden por semejanza; cualquier cambio posterior exige resolución de nomenclatura.
+
+### Industria escuelas y personal
+
+| Centro | Función general de desarrollo |
+| --- | --- |
+| Arnor | Estructuras motores integración y ensayos |
+| Valinor | Sistemas software formación superior y coordinación |
+| Calenardhon Austral | Fabricación componentes y mantenimiento industrial |
+| Malaca | Electrónica subconjuntos y producción seleccionada |
+| Otros centros canónicos | Participación según capacidades documentadas |
+
+La distribución no asigna fábricas concretas. La institución necesita pilotos, navegantes, operadores, mecánicos, electrónica, control aéreo y salvamento. Un técnico experimentado puede progresar profesionalmente sin convertirse en piloto.
+
+Accidentes, investigaciones, cancelaciones, agotamiento y errores de compra forman parte de la historia. Reformas de seguridad y mantenimiento tienen valor comparable a la llegada de otra generación de aeronaves. El perfil adoptado pasa de observación auxiliar a protección y conexión de territorios, con cooperación naval y competencias diferenciadas.
+
+## Desarrollo de coherencia industrial de A094 automotriz
+
+### De la reparación local a una industria federal
+
+Entre 1880 y 1914 el taller obtiene su continuidad de los servicios que puede prestar incluso cuando el automóvil tiene pocos compradores. La reparación ferroviaria, las bombas, la maquinaria portuaria y los motores estacionarios permiten formar ajustadores y mantener herramientas. Esa base facilita el automóvil, pero los primeros vehículos sufren irregularidad de materiales, acabados y abastecimiento. La red de talleres y repuestos crece antes de que el montaje alcance grandes series.
+
+Durante las décadas de 1910 y 1920 el obstáculo pasa de construir un ejemplar a repetirlo con calidad. La inspección dimensional, la intercambiabilidad y el abastecimiento por lotes acompañan la línea móvil. Un chasis comercial admite carroceros distintos siempre que se respeten carga, frenado y estabilidad. La normalización reduce averías y facilita compras de flota; conserva espacio para proveedores especializados y para pequeñas series regionales.
+
+La expansión de 1930–1965 combina demanda pública, transporte de mercancías y consumo familiar. Los camiones y autobuses requieren turnos prolongados de servicio y talleres de ruta; los turismos necesitan redes de venta, financiación y garantía. Las plantas que no pueden sostener repuestos o renovar utillaje pierden mercado. La concentración empresarial se explica por esas necesidades, sin atribuir fusiones o desapariciones concretas a empresas cuya historia societaria no está fijada.
+
+Entre 1965 y 1995 la homologación federal articula mercados antes fragmentados. La versión tropical, la septentrional y la insular comparten piezas cuando es viable, y conservan ensayos propios de refrigeración, corrosión, arranque y frenado. La circulación entre territorios requiere documentación reconocible y trazabilidad de campañas de reparación. La seguridad y las emisiones se incorporan progresivamente al control de producto; no se inventan números de leyes, fechas de límites técnicos ni resultados de ensayo.
+
+Desde 1995 la integración electrónica vuelve decisivas las interfaces entre motor, transmisión, frenos y diagnóstico. Compartir plataforma reduce costes, pero también extiende un defecto común a varias gamas. La garantía, la recuperación de piezas y las campañas de reparación forman parte de la historia industrial. La transición eléctrica de 2010–2026 exige nuevas competencias sin borrar la obligación de mantener los vehículos anteriores durante su vida útil.
+
+### Los seis linajes empresariales adoptados
+
+| Linaje narrativo | Origen adoptado | Papel y continuidad |
+| --- | --- | --- |
+| Motores de Arnor | 1888 | Taller de motores que evoluciona hacia familias de propulsión y transmisiones; la electrificación incorpora integración híbrida y componentes, sin convertir todos sus motores en aeronáuticos. |
+| Electromecánica de Valinor | 1896 | Material eléctrico y tracción; amplía control, conversión y accionamientos. Su presencia temprana no supone fabricación de celdas modernas en el siglo XIX. |
+| Automóviles de Annúminas | 1902 | Turismos y familiares; normaliza plataformas de volumen y redes de servicio. El topónimo de marca no fija todas sus plantas en una sola ciudad. |
+| Automóviles Calen | 1911 | Vehículos familiares y comerciales ligeros orientados a durabilidad y reparación; no recibe por su nombre contratos de blindados. |
+| Vehículos Industriales Australes | 1918 | Camiones, autobuses y chasis de trabajo; desarrolla carroceros y mantenimiento de flotas junto con proveedores independientes. |
+| Malaca Movilidad | 1967 | Montaje inicial, aprendizaje de proveedores y fabricación integrada posterior; compactos y movilidad urbana con electrónica y electrificación por etapas. |
+
+Estas denominaciones se adoptan como linajes industriales de la ficción, no como un censo exhaustivo. Marcas, filiales, propietarios y proveedores no se confunden. No se fijan cuotas, nacionalizaciones ni propiedad de las Casas sin resolución específica. Las compras públicas comparan seguridad, coste de ciclo de vida, repuestos y capacidad de entrega; el origen nacional no garantiza adjudicación.
+
+### Territorio y capacidad material
+
+Arnor articula motores, herramientas, transmisiones y turismos. Grandes Lagos forma parte de Arnor y no se suma como un territorio económico separado. Calenardhon Austral concentra especialización comercial y de transporte; Malaca conecta montaje y electrónica; Valinor coordina ingeniería de sistemas y certificación. Sírënandë aporta una posibilidad de materiales y transformación condicionada a estudios de energía, recursos y transporte. La especialización territorial no asigna una cifra de producción a cada región.
+
+Annúminas, Fornost, Amon Sûl, Pelargir Austral y Calenport continúan como ciudades candidatas para emplazamientos concretos. Antes de declarar una planta se exige una ficha con propietario u operador, producto, estado del proyecto, capacidad instalada, producción realizada, energía, agua, logística, personal y fecha de referencia. Una oficina de diseño, un taller y una fábrica integral son establecimientos distintos. Las islas pueden participar mediante reparación, adaptación, distribución o reciclaje sin construir una planta completa de automóviles.
+
+La batería se descompone en materiales, celdas, módulos, paquete y sistema térmico; la capacidad de integrar paquetes no acredita fabricación de celdas. La electrónica separa diseño de controladores, fabricación del semiconductor, encapsulado, montaje y software. La demanda automotriz ocupa parte de las capacidades A089 ya planificadas, no una producción adicional gratuita. Toda expansión debe conciliarse con energía, maquinaria, personal y proveedores disponibles.
+
+### Conciliación del escenario de 2026
+
+| Segmento excluyente | Millones de vehículos terminados por año en el escenario central |
+| --- | --- |
+| Pasajeros | 8,4 |
+| Comerciales ligeros | 2,4 |
+| Camiones medianos y pesados | 1,0 |
+| Autobuses y autocares | 0,2 |
+| Total de referencia | 12,0 |
+
+Los segmentos se registran una sola vez según la clasificación del vehículo terminado. Un chasis y su carrocería no son dos vehículos; un kit desmontado y su montaje final no son dos unidades nacionales. Un vehículo reacondicionado no es fabricación nueva. Se excluyen motocicletas, remolques, maquinaria agrícola y de construcción y blindados militares. Las variantes militares de vehículos civiles requieren identificar si están dentro del producto civil de referencia o fuera de él antes de agregarlas.
+
+El cierre de fábrica separa trabajo en proceso y unidades terminadas. El saldo de vehículos terminados equivale a saldo inicial más fabricación terminada e importaciones de vehículos terminados, menos entregas interiores, exportaciones y bajas identificadas. Las matriculaciones no equivalen a salidas de fábrica y las exportaciones no se deducen como diferencia residual desconocida. El parque circulante utiliza saldo inicial, altas y bajas de registro, con comercio de usados separado para evitar duplicación.
+
+El escenario no permite calcular energía, agua, acero, aluminio, celdas o empleo mediante un promedio universal. Se necesitan coeficientes por segmento y tecnología, intensidad de utilización y origen de insumos. El valor añadido descuenta consumos intermedios; sumar ventas de vehículo, batería y motor vuelve a contar partes del mismo producto. COFOVAL conserva su mandato y límite presupuestario; ningún objetivo sectorial crea una apropiación adicional por sí solo.
+
+### Servicio seguridad y transición laboral
+
+La electrificación se despliega primero donde recorridos, retorno a depósito y recarga ofrecen una operación sostenible. Autobuses y reparto exigen coordinar potencia de conexión, turnos y reserva de servicio. Las rutas remotas conservan soluciones que puedan abastecerse y repararse. La coexistencia de tecnologías en 2026 evita retirar por decreto narrativo una flota cuyo parque no está inventariado.
+
+Los talleres incorporan aislamiento eléctrico, diagnóstico, manipulación y almacenamiento de baterías, reparación autorizada y recuperación de materiales. La reconversión incluye formación y protección del trabajador; no se supone que cada empleo de combustión pase automáticamente al mismo puesto eléctrico. Los territorios con menor densidad necesitan repuestos, asistencia y formación adecuados a su escala. El transporte colectivo y el ferrocarril siguen siendo partes centrales de la movilidad.
+
+La seguridad del vehículo conserva funciones esenciales sin conexión permanente. Las actualizaciones requieren identificar versión, compatibilidad y posibilidad de recuperación. OceanNet facilita logística y diagnóstico autorizado; no se convierte en un mando remoto universal de vehículos. La conducción automatizada permanece limitada a funciones y entornos definidos, sin declarar autonomía general del parque en 2026.
+
+## Desarrollo de coherencia institucional de A095 aérea
+
+### Construcción del servicio y continuidad histórica
+
+La aerostación decimonónica reúne observación meteorológica, ingenieros y enlaces con puertos. Entre 1904 y 1907 los ensayos con aeroplanos añaden motores ligeros, estructuras, mandos y formación. El vuelo de 1906 es el hito reconocido dentro del programa valinari; no atribuye prioridad mundial ni convierte los ensayos precedentes en escuadrones operativos. La escuela de 1909 une vuelo y mantenimiento porque la continuidad depende de ambos.
+
+El Servicio Aeronáutico Militar de 1912 proporciona un marco permanente para observación, fotografía, enlace e instrucción. Los mandos terrestres y navales solicitan usos distintos, y esa tensión explica la evolución hacia una fuerza independiente. La fecha de 1926 fija autonomía institucional de la Fuerza Aérea de Valinor, no absorción automática de toda aeronave estatal. La aviación naval mantiene organización propia y la civil conserva sus funciones regulatorias y de transporte.
+
+Entre 1926 y 1939 la nueva fuerza consolida formación, depósitos, adquisición y defensa territorial. El crecimiento de unidades se acompaña de accidentes, falta de repuestos y diversidad de tipos; la normalización profesional responde a esos problemas. La modernización de 1939–1956 se desarrolla en la historia alternativa mediante investigación, compras, observación y ensayos propios. No presupone participación de Valinor en guerras reales ni atribuye fabricantes extranjeros a programas sin procedencia fijada.
+
+La investigación de reacción de 1940–1945 desemboca narrativamente en un demostrador en 1946. La evaluación de 1948–1952 prepara el servicio inicial del C-52 en 1952. Entre 1956 y 1980 se expande la fuerza de reacción, mientras transportes, entrenadores y otras misiones siguen utilizando hélice cuando conviene. La periodización antigua y el nuevo hito son compatibles al distinguir incorporación inicial y generalización.
+
+La reorganización federal de 1958 adopta la denominación Fuerza Aérea Federal de Valinor y coordina estándares, sostenimiento y mando entre territorios. No modifica retroactivamente el régimen político de siglos anteriores. El programa OceanNet de 1958, su servicio inicial de 1959 y su consolidación de 1969 conservan precedencia. El radar y la radio anteriores funcionan mediante sus propias redes; no necesitan que exista ya una red digital federal madura.
+
+### Competencias y coordinación
+
+| Componente | Responsabilidad adoptada | Límite de atribución |
+| --- | --- | --- |
+| Fuerza Aérea Federal | Defensa aérea territorial, transporte, vigilancia y aeronaves asignadas a su inventario | No absorbe aeronaves navales por participar en una misión conjunta. |
+| Aviación naval | Operación embarcada y misiones marítimas asignadas a la Armada | Eärendil MP y Ulmo ASW mantienen su contexto aeronaval. |
+| Aviación del Ejército | Apoyo orgánico, enlace y transporte conforme a su organización | El apoyo coordinado no transfiere automáticamente propiedad ni operador. |
+| Autoridad aeronáutica civil | Seguridad y regulación del tránsito civil | La interoperabilidad no implica subordinación permanente al mando militar. |
+| Coordinación conjunta | Prioridades y cooperación entre componentes | La asignación temporal de misión se distingue del inventario administrativo. |
+
+La defensa territorial relaciona vigilancia, identificación, comunicación y respuesta con instalaciones y personal. La existencia de un radar no acredita cobertura permanente; disponer de un avión de alerta temprana no demuestra una órbita sostenida durante todo el día. El transporte conecta territorios y evacua personas, pero el movimiento de grandes cargas conserva su base marítima. Cada misión debe sostenerse con tripulaciones, combustible, repuestos y aeródromos disponibles.
+
+Los convenios entre componentes definen quién mantiene el aparato, quién autoriza la misión y quién administra sus horas y costes. Una aeronave puede apoyar a otro componente sin contarse dos veces. Los drones controlados desde buques desde 2020 continúan dentro de la decisión A093, sin convertirse por ese hecho en unidades de la Fuerza Aérea. Los enlaces protegidos y OceanNet civil conservan perímetros diferenciados.
+
+### Genealogía aérea adoptada
+
+| Programa | Introducción inicial narrativa | Desarrollo y límite |
+| --- | --- | --- |
+| O-12 Meneldir | 1912 | Observación y reconocimiento; formación de observadores y fotografía. |
+| C-17 Thorondir | 1917 | Caza biplano; motor, estructura e instrucción de la primera generación. |
+| C-38 Sorontar | 1938 | Monoplano de pistón; exige transición de pilotos, herramientas y repuestos. |
+| T-40 Menelcar | 1940 | Transporte militar de mayor escala; prepara la conexión de bases sin reemplazar carga marítima. |
+| B-43 Beleg | 1943 | Bombardeo convencional; homónimo del carro terrestre, con ámbito y registro separados. |
+| C-52 Thorondor I | 1952 | Primer caza de reacción de servicio regular; despliegue inicial limitado por sostenimiento. |
+| C-66 Thorondor II | 1966 | Generación supersónica y coordinación con defensa aérea. |
+| C-84 Soron I | 1984 | Aviónica digital y modernización por bloques; coexistencia con generaciones anteriores. |
+| AE-90 Menelvagor | 1990 | Alerta temprana aerotransportada; su eficacia depende de sensores, enlaces y operadores. |
+| C-04 Soron II | 2004 | Plataforma multimisión y evolución de sensores por bloques. |
+| U-10 Tirmen | 2010 | Sistema no tripulado de vigilancia y reconocimiento; estación terrestre y enlaces forman parte del programa. |
+| C-18 Soron III | 2018 | Generación de integración avanzada y reducción de firma como orientación de diseño; prestaciones concretas pendientes. |
+
+El código del programa se conserva como denominación editorial de la ficción. No constituye matrícula, fabricante legal ni número de contrato. Thorondir y Thorondor son linajes diferentes y no se corrigen como si fueran una errata. Sorontar y Soron tampoco se fusionan por semejanza. La genealogía no es un catálogo completo de helicópteros, entrenadores, transportes o aparatos de apoyo.
+
+No se deducen cantidades, velocidades, alcance, carga, firmas, exportaciones o estado operativo en 2026 de una fecha de introducción. Un modelo puede coexistir con otro, pasar a instrucción o reserva o recibir una modernización. El año incorporado a un código no reemplaza el registro de prototipos, aceptación inicial, producción, formación, servicio, bajas y transferencia de cada aparato. Las prestaciones de reducción de firma de C-18 no equivalen a invisibilidad ni a un parámetro medido.
+
+### Industria y sostenimiento de una fuerza dispersa
+
+La industria aeronáutica aprovecha metalurgia, mecanizado, electrónica y formación comunes con otros sectores, pero mantiene cualificación propia. El fabricante de un motor de carretera no obtiene automáticamente capacidad para un motor de vuelo. Materiales, control de defectos, trazabilidad, vida de componentes y ensayos exigen organización especializada. La fabricación bajo licencia, la producción nacional y la integración de componentes importados se registran separadamente.
+
+Arnor sostiene estructuras, motores, integración y ensayos según capacidades existentes. Valinor aporta sistemas, software y formación superior; Calenardhon Austral participa en componentes y mantenimiento industrial; Malaca en electrónica y subconjuntos seleccionados. Estas funciones no fijan un astillero aéreo ni un fabricante legal por programa. Cada centro necesita definir producto, certificación, personal, energía y logística antes de atribuir capacidad anual.
+
+El mantenimiento se organiza en atención de unidad, talleres intermedios y reparación mayor, con control de configuración compartido. El nivel que puede alcanzarse en una isla remota depende de instalaciones y repuestos; los trabajos mayores pueden requerir traslado a un centro regional. La rotación entre vuelo, inspección, reparación e instrucción evita presentar todo inventario como disponible simultáneamente. Los simuladores amplían formación sin reemplazar todas las horas de vuelo necesarias.
+
+La seguridad investiga accidentes, fatiga, errores de mantenimiento y fallos de procedimiento. Conserva la independencia técnica para inmovilizar una serie cuando corresponde, aunque ello reduzca disponibilidad. Los ascensos profesionales incluyen mecánicos, operadores, controladores, meteorólogos y especialistas de sistemas; la institución no se reduce a pilotos de caza. Las compras se valoran junto con coste de operación, repuestos y capacidad de instrucción.
+
+### Registros e indicadores pendientes
+
+El inventario aéreo deberá identificar aparato o lote, programa, operador administrativo, asignación temporal, estado físico, configuración, localización de referencia y fecha del dato. Los aparatos tripulados, los vehículos no tripulados, las estaciones terrestres y los equipos de misión utilizan unidades distintas. La falta de matrícula no se sustituye por una matrícula inventada; una cantidad desconocida no se registra como cero.
+
+Para evaluar capacidad se separan inventario total, aeronaves asignadas, disponibles, tripulaciones habilitadas y actividad realizada en un periodo definido. Horas de vuelo, mantenimiento, transporte realizado y respuesta de rescate requieren series propias. No se fija una tasa universal de disponibilidad ni se traslada a la Fuerza Aérea la simulación naval de 449 plataformas. Tampoco se calcula su presupuesto como porcentaje automático del PIB o del presupuesto naval.
+
+La integración adopta historia, organización y genealogía; deja abiertas las cantidades, matrículas, fabricantes legales, bases concretas, contratos y prestaciones ausentes. No establece armamento nuclear aéreo ni nuevos compromisos de política exterior. Los proyectos de satélites, alerta espacial y defensa aérea terrestre requieren sus registros específicos y no quedan acreditados por la mera existencia de la fuerza.
+
+## Control común de precedencia y pendientes A102
+
+La historia automotriz y aérea comparte capacidades industriales y demanda de personal. Su expansión compite por maquinaria, electrónica, energía y financiación con el resto de la economía. Los mismos componentes no se atribuyen dos veces a la capacidad A089, y el apoyo mutuo no elimina la necesidad de licencias, ensayos y certificación específicos.
+
+Se cierran las tareas de incorporación editorial de A094 automotriz y A095 aérea al maestro, Word, cronología y Obsidian. Permanecen como aplicación y documentación: plantas y capacidades, balances económicos y ambientales, empleo, inventario aéreo físico, costes, prestaciones y textos jurídicos. Continúan además todos los pendientes de A101. E2 y E3 siguen siendo alternativas exportadoras no acumulables; esta revisión no los adopta ni modifica sus hitos.
+
+## Resolución A103 de relevo de Círdan I y clase Vëantur
+
+La revisión V17.5 A103 adopta por instrucción del autor del 10 de noviembre de 2026 una clase intermedia de acorazados oceánicos, denominada Vëantur, autorizada en 1884 y formada por cuatro cascos de nueva construcción. Sus primeras unidades entran en servicio en 1889 y 1890; las siguientes, en 1892 y 1893. Esta resolución desarrolla el plan de sustitución de 1884 ya presente en AM1 y releva gradualmente a los seis acorazados Círdan I de su función de primera línea principal.
+
+La nueva clase y sus calendarios son una decisión narrativa incorporada ahora, no hechos recuperados de documentación anterior. Se conservan V17.4 A102 y los originales como antecedentes. Los parámetros son especificaciones narrativas de diseño; no se inventan actas auténticas, números de casco, matrículas ni resultados de pruebas. Las identidades individuales siguen pendientes y se utilizan únicamente identificadores editoriales de seguimiento.
+
+Vëantur no es una reconstrucción de Círdan, una subserie de Anárion ni el primer capital de turbina previsto desde 1894. Las tres líneas quedan diferenciadas. Anárion mantiene ocho unidades de referencia, construcción 1892–1902 y servicio inicial aproximado desde 1895; el capital de turbina conserva nombre y número de cascos pendientes. No se presume que Anárion utilice turbinas por coincidir con el desarrollo experimental.
+
+## Necesidad naval y decisión industrial de 1884
+
+Los Círdan I siguen ofreciendo artillería pesada y presencia oceánica, pero la sustitución de todos sus equipos no eliminaría las restricciones del casco, la distribución interna ni la antigüedad de sus instalaciones. El plan de 1884 opta por concentrar el gasto principal en cascos nuevos y limitar las intervenciones en la clase anterior a conservación, reparación y modernizaciones parciales justificadas.
+
+El objetivo de Vëantur es proporcionar una línea oceánica más homogénea, de mayor autonomía y mejor sostenimiento, capaz de acompañar a los cruceros y proteger las rutas principales. El programa adopta triple expansión, defensa contra torpederos y una disposición de artillería pesada más regular. No pretende convertir la escuadra en una fuerza de turbinas antes de madurar esa tecnología en buques mayores.
+
+La serie es corta porque debe coexistir con el siguiente programa Anárion y con la investigación de turbinas. Las cuatro nuevas unidades sustituyen una función de combate de seis buques anteriores; el relevo no es una equivalencia de un casco por otro ni demuestra superioridad automática frente a cualquier adversario. Su eficacia requiere dotaciones, munición, arsenales, carbón y preparación.
+
+## Desarrollo industrial y adopción por lotes
+
+En 1884 se autoriza el programa y se define el diseño. Durante 1884–1885 se desarrolla la integración de casco, artillería, planta de vapor y protección. Se asignan la construcción principal y la integración a los arsenales existentes de Nueva Tirion y Armenelos, sin crear astilleros nuevos ni atribuirles razones sociales o capacidades anuales no fijadas.
+
+Los talleres de calderas y placas ampliados desde 1877, el registro de defectos de 1879 y las instalaciones de reparación de ejes y hélices proporcionan los antecedentes industriales. La triple expansión ya cuenta con una trayectoria canónica desde 1873, pero el salto a esta clase exige integración propia. Los equipos no se consideran intercambiables con motores navales o civiles de cualquier tamaño.
+
+Los dos primeros cascos se construyen con un desfase que permite incorporar observaciones de integración y preparación al segundo lote. Las ventanas posteriores no presuponen un ensayo perfecto: el diseño retiene margen para corregir vibraciones, ventilación, alimentación de calderas, fiabilidad de mecanismos y protección de pañoles. No se fijan averías concretas, pérdidas ni certificados ausentes.
+
+La aceptación narrativa inicial se separa de la construcción, botadura y preparación. Las entradas en servicio se fijan por año; las fechas exactas de botadura y pruebas, y los periodos individuales de disponibilidad, continúan sin dato.
+
+## Clase Vëantur de acorazados oceánicos
+
+| Campo | Especificación narrativa adoptada |
+| --- | --- |
+| Tipo | Acorazado oceánico de nueva construcción, generación intermedia anterior a Anárion |
+| Programa | Autorización 1884; cuatro unidades; primer servicio 1889 |
+| Desplazamiento de referencia | 10.500 t en condición normal de diseño; plena carga sin fijar |
+| Dimensiones de diseño | 120 m de eslora total; 20,5 m de manga; 7,8 m de calado de referencia |
+| Propulsión | Dos máquinas alternativas de triple expansión; dos ejes; calderas cilíndricas de carbón |
+| Potencia de diseño | 11.000 ihp totales; no equivale a potencia medida en cada casco |
+| Velocidad de diseño | 17 nudos en condición de pruebas; sostenimiento en mar y carga real no cuantificado |
+| Autonomía de referencia | 4.000 mn a 10 nudos como objetivo de diseño; consumo real por casco pendiente |
+| Artillería principal | Cuatro piezas de retrocarga de 305 mm en dos montajes dobles a crujía, uno a proa y otro a popa |
+| Montajes principales | Barbetas protegidas con escudos superiores; no se describen como torres cerradas de generaciones posteriores |
+| Artillería secundaria | Ocho piezas de 120 mm, distribuidas por ambas bandas |
+| Defensa contra torpederos | Ocho piezas de 47 mm; sin capacidad antiaérea o antisubmarina madura atribuida |
+| Torpedos | Sin instalación de tubos como equipo estándar adoptado de la clase |
+| Protección de referencia | Cinturón central hasta 280 mm; barbetas hasta 250 mm; cubierta protectora 50–65 mm según zona |
+| Material de protección | Solución mixta; gradiente endurecido de generación 1880–1882 en placas prioritarias que lo admitan, y acero o compuesto en otras zonas |
+| Dotación de referencia | 620 personas; cambios de organización por casco pendientes |
+| Navegación y mando iniciales | Compás, navegación astronómica, óptica de época, señales visuales, mensajería y documentación de escuadra |
+| Construcción | Nueva Tirion y Armenelos; asignación individual de grada pendiente |
+
+Los espesores son valores locales y no un cinturón uniforme que cubra todo el casco. La clase no recibe por defecto el blindaje cementado avanzado de 1900–1902. No se asigna una equivalencia balística numérica frente a otros materiales. La reserva de pesos, estabilidad, francobordo y resistencia requiere una ficha de ingeniería posterior; la integración no presenta las especificaciones como un cálculo hidrostático validado.
+
+El calibre y la disposición fijan la configuración inicial. Longitud de tubo, masa del proyectil, cadencia, alcance, propelente, capacidad exacta de pañoles y mecanismos detallados no se deducen. Tampoco se atribuye al buque un sistema moderno de dirección de tiro por disponer de instrumentos ópticos.
+
+La autonomía y velocidad no son máximos simultáneos. La triple expansión mejora la organización del aprovechamiento del vapor, pero no acredita por sí sola el consumo previsto ni hace innecesarios carboneros y talleres. La clase mantiene generación y servicios auxiliares compatibles con su época sin introducir propulsión eléctrica integrada.
+
+## Registro editorial de los cuatro cascos Vëantur
+
+Los siguientes códigos son referencias de catálogo, no matrículas ni nombres oficiales. Cada fila representa un casco narrativo distinto; no es un lote de varias unidades.
+
+| ID editorial | Inicio de construcción narrativo | Entrada en servicio narrativa | Retiro narrativo | Naturaleza |
+| --- | --- | --- | --- | --- |
+| A103-VEA-01 | 1885 | 1889 | 1907 | Primer casco de nueva construcción |
+| A103-VEA-02 | 1886 | 1890 | 1909 | Segundo casco de nueva construcción |
+| A103-VEA-03 | 1888 | 1892 | 1911 | Segundo lote, primera unidad |
+| A103-VEA-04 | 1889 | 1893 | 1913 | Segundo lote, segunda unidad |
+
+El retiro registra salida de servicio naval activo según esta resolución. Desguace, venta, uso posterior como pontón o transferencia no quedan fijados. No se inventan pérdidas de guerra ni exportaciones. La serie no aumenta las 615 plataformas de 2026: los cuatro cascos están retirados antes de 1914.
+
+En 1891 hay dos Vëantur incorporados y dos en construcción. No se declaran los cuatro operativos por haber sido autorizada toda la serie. La situación de reparación, instrucción o disponibilidad diaria de los dos incorporados no está cuantificada.
+
+## Círdan I conservación y paso a segunda línea
+
+La resolución mantiene los seis cascos Círdan I del ancla histórica y fija su continuidad en inventario en 1891. La configuración de construcción permanece registrada como antecedente: máquinas compound, dos ejes, artillería principal dentro de la banda heredada y protección mixta con frente endurecido temprano en zonas seleccionadas. No se cambia retroactivamente la ficha original.
+
+Se adopta un programa de intervenciones parciales entre 1885 y 1888 centrado en reparaciones de casco y maquinaria, seguridad de pañoles, revisión de montajes y actualización de instrumentos y defensa ligera cuando la configuración lo permita. No se sustituye la planta principal por triple expansión o turbinas en los seis cascos. Los años individuales de obra y los equipos exactos instalados quedan pendientes de la ficha de configuración de cada buque.
+
+Esta decisión sustituye el escenario no adoptado de dos reconstrucciones mayores, dos modernizaciones parciales y dos conservaciones descrito en P01. No se ejecutan esas dos reconstrucciones mayores por defecto. La mejora de lubricantes y calderas de 1891 no prueba que todas las unidades recibieran simultáneamente una caldera nueva.
+
+| ID editorial del casco histórico | Paso de primera línea principal a segunda línea | Retiro narrativo | Lectura al cierre de 1891 |
+| --- | --- | --- | --- |
+| A103-C75-01 | 1889 | 1898 | Segunda línea; disponibilidad no fijada |
+| A103-C75-02 | 1889 | 1900 | Segunda línea; disponibilidad no fijada |
+| A103-C75-03 | 1890 | 1902 | Segunda línea; disponibilidad no fijada |
+| A103-C75-04 | 1890 | 1904 | Segunda línea; disponibilidad no fijada |
+| A103-C75-05 | 1892 | 1906 | Primera línea de transición; disponibilidad no fijada |
+| A103-C75-06 | 1892 | 1908 | Primera línea de transición; disponibilidad no fijada |
+
+Los códigos solo individualizan posiciones históricas del catálogo; no asignan una matrícula auténtica. El paso a segunda línea no es una baja y no retira automáticamente armamento. Las funciones posibles son defensa regional, reserva e instrucción según asignación y estado material; no se fija aquí reparto territorial individual. En 1892 se completa la salida de los seis de la primera línea principal, mientras el cuarto Vëantur continúa en construcción hasta su incorporación de 1893.
+
+La ventana final de servicio Círdan hasta 1908 se conserva. Los seis retiros fijados ahora desarrollan esa ventana, sin extenderla ni declarar la supervivencia operativa de todos hasta su último año. La fecha de retiro no acredita el momento de desguace.
+
+## Estado de transición en 1891
+
+| Componente del programa A103 | Cascos incorporados al cierre de 1891 | Cascos en construcción | Función registrada |
+| --- | --- | --- | --- |
+| Vëantur | 2 | 2 | Nueva primera línea oceánica |
+| Círdan I | 6 | 0 | Cuatro de segunda línea y dos de primera línea transitoria |
+| Total de este perímetro | 8 | 2 | No es el total de la Armada ni su fuerza disponible |
+
+Las cifras anteriores cuentan solo estas dos clases. No incluyen los Eärendil pesados, Gil-galad, monitores, cruceros u otras unidades. Tampoco reconstruyen el inventario total de 1891 a partir de sus ventanas de servicio. La comparación con la Royal Navy necesita configuraciones, fecha y teatro equivalentes; la nueva clase no establece supremacía global por decisión narrativa.
+
+Las entradas y retiros son eventos distintos: en 1891 las incorporaciones nuevas aumentan en dos cascos este perímetro respecto de los seis Círdan, porque los buques relegados permanecen en inventario. No se compensa una entrada con una baja ficticia para conservar un total anterior. Un traslado a reserva o instrucción no equivale a retirar físicamente una unidad.
+
+## Relación con Anárion y el capital de turbina
+
+La construcción de Vëantur 03 y 04 se solapa con el comienzo de Anárion, cuyo diseño posterior desarrolla capacidades propias. El solapamiento forma parte del programa narrativo: no prueba que astilleros, gradas y presupuestos sean ilimitados. La programación detallada por arsenal y el coste requieren conciliación, manteniendo los dos programas en el registro.
+
+En 1900 el catálogo contiene cuatro Vëantur y la referencia de ocho Anárion de AM1, pero los ocho Anárion no se declaran incorporados al corte: su construcción se prolonga hasta 1902 y falta su listado anual. Los cuatro Vëantur son adicionales al número específico de Anárion; no se introducen dentro de esas ocho unidades mediante una renominación.
+
+Las tablas históricas de 1900 que solo citan Anárion son resúmenes incompletos para la línea de batalla después de A103. Sus cifras no se sustituyen ni se suman como un inventario exhaustivo. La totalidad de acorazados disponibles en 1900 sigue pendiente, incluyendo el estado de otros cascos antiguos.
+
+El perfil del capital de turbina de 1894–1905 sigue siendo técnico y sin clase nominal ni cantidad. No se crea un quinto Vëantur de turbina ni se atribuye ese perfil a Anárion. El pendiente correspondiente del catálogo permanece abierto en ese alcance.
+
+## Configuración durante la vida de servicio
+
+La configuración inicial Vëantur no incluye radio como sistema general de escuadra en 1889. Los ensayos de radio de 1893, instalaciones seleccionadas desde 1897 y formación de operadores posterior conservan su cronología. El catálogo no asigna automáticamente una instalación a cada casco ni convierte un ensayo en capacidad táctica de toda la clase.
+
+Las reparaciones posteriores y sustituciones de equipos menores requieren registro propio. No se aplica retrospectivamente al siglo XIX la regla de una modernización integral de media vida para cascos construidos desde 1945. Tampoco se declara una reconstrucción principal adicional de Vëantur sin decisión específica. Radar, sonar, sistemas modernos de control de combate y armamento antisubmarino maduro no forman parte de estas clases en 1891.
+
+## Trazabilidad reservas y continuidad
+
+La incorporación se registra en el catálogo maestro como CMN 2 y en el canon como V17.5 A103. Se conserva CMN 1 y P01 como antecedentes. A103 adopta la clase Vëantur, sus cuatro cascos editoriales, las entradas y retiros de la serie, el paso gradual de seis Círdan a segunda línea y sus retiros individuales. No resuelve las diferencias de parámetros de Eärendil y Gil-galad ni los demás asuntos abiertos del catálogo.
+
+Se mantienen las cuentas económicas y demográficas de A102, los inventarios de referencia de 1980 y 2026 y la reconstrucción exportadora E1 de A101. Las 216 armas directas, las 120 licenciadas extranjeras y los 4909 MUSD26 conservan sus perímetros. E2 y E3 siguen siendo alternativas no acumulables. No se crean contratos de exportación para Vëantur o Círdan.
+
+Permanecen pendientes nombres y matrículas, fechas exactas de botadura y pruebas, disponibilidad, costes, asignaciones territoriales por casco, detalles de reforma individual y balance completo de astilleros. La adopción narrativa no sustituye evidencia documental: las nuevas fechas y códigos se presentan como decisiones del autor desarrolladas en esta integración.

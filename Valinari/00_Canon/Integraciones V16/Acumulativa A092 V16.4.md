@@ -2915,3 +2915,9 @@ Los referentes históricos externos apoyan plausibilidad, no constituyen hechos 
 Los hitos 1912, 1926 y 1958 propuestos se conservan identificados; no se presentan como leyes ya promulgadas en el manuscrito anterior. La incorporación actual se limita a la acumulativa Word y Obsidian. No reescribe el Maestro, la cronología general ni el inventario de la Armada. Se preserva la versión anterior con A094.
 
 Registro temático: [[00_Canon/Integraciones V16/Acumulativa A095 Fuerza Aérea|Resoluciones de la Fuerza Aérea A095]].
+
+## Integración posterior de A094 automotriz y A095 aérea
+
+Las indicaciones anteriores de integración pendiente describen el estado histórico de esta acumulativa. La incorporación al maestro y cronología se completa y desarrolla en V17.4 A102. Los escenarios y datos físicos pendientes no se transforman en mediciones.
+
+[[00_Canon/Integraciones V16/Integración A102 automotriz y aérea|Integración A102]]

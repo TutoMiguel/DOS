@@ -1,6 +1,6 @@
 ---
 tipo: indice
-canon: V16
+canon: V17.5 A103
 estado: vigente
 ---
 # Inicio del Canon V16
@@ -13,7 +13,7 @@ Esta es la entrada principal del canon de Valinari.
 - [[00_Canon/Integraciones V16/A091_Estrategia_digital_y_decisiones_3_14|Estrategia digital A091]]
 - [[00_Canon/Integraciones V16/Propuestas pendientes tras revisión V16.1|Resoluciones V16.2]]
 
-- [[Canon V16 Maestro]] — vigente, revisión V16.2
+- [[Canon V16 Maestro]] — vigente, revisión V17.5 A103
 - [[00_Canon/Cifras Oficiales V16]]
 - [[00_Canon/Registro de Cambios]]
 - [[00_Canon/Auditoría de Coherencia V16]]
@@ -61,3 +61,14 @@ Los 87 bloques acumulativos históricos y la integración 111v tienen tratamient
 - [[00_Canon/Registro de integración acumulativa V16]]
 - [[00_Canon/Integraciones V16/A091_Estrategia_digital_y_decisiones_3_14|Estrategia digital A091]]
 - [[00_Canon/Integraciones V16/Actualización acumulativa 111v — Radar y sensores|Actualización acumulativa 111v]]
+
+
+## Integración vigente V17.4 A102
+
+[[00_Canon/Integraciones V16/Integración A102 automotriz y aérea|Resolución A102]] · [[08_Economia/Industria automotriz 1880-2026]] · [[12_Militar/04_Fuerzas Aéreas/Historia de la Fuerza Aérea A095]]. Los nombres V16 de las rutas se conservan para mantener enlaces.
+
+## Revisión V17.5 A103
+
+Adoptada la clase Vëantur de cuatro acorazados y el relevo gradual de Círdan I. Se mantienen A101 E1, A102 y las reservas documentales.
+
+[[00_Canon/Integraciones V16/Acumulativa A103 Clase Vëantur y relevo de Círdan I|Resolución A103]] · [[12_Militar/03_Armada/Clase Vëantur 1884-1913|Clase Vëantur]]

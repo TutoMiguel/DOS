@@ -41,3 +41,9 @@ En 1875 placas valinari de acero de frente endurecido temprano protegen sectores
 
 - [[11_Ciencia y Tecnologia/Turbinas de vapor y máquinas navales|Turbinas de vapor y máquinas navales]]
 - [[12_Militar/03_Armada/Desarrollo naval 1882-1945|Desarrollo naval 1882–1945]]
+
+## Resolución posterior A103
+
+Los seis cascos continúan en inventario en 1891. Cuatro pasan a segunda línea en 1889–1890 y dos en 1892; retiros individuales 1898, 1900, 1902, 1904, 1906 y 1908. La configuración original se conserva como antecedente. Se adoptan reformas parciales 1885–1888, sin sustitución de planta principal por triple expansión o turbina. El reparto preliminar de P01 con dos reconstrucciones mayores no se adopta.
+
+[[00_Canon/Integraciones V16/Acumulativa A103 Clase Vëantur y relevo de Círdan I|Resolución A103]] · [[12_Militar/03_Armada/Clase Vëantur 1884-1913|Clase Vëantur]]

@@ -1,0 +1,15 @@
+{
+  "bloques_previos": 7597,
+  "bloques_nuevos": 46,
+  "bloques_total": 7643,
+  "tablas": 218,
+  "cambios_previos_portada": [
+    3,
+    4
+  ],
+  "partes_docx_cambiadas": [
+    "word/document.xml"
+  ],
+  "word_markdown_diferencias": 0,
+  "A101_y_A102_conservadas": true
+}

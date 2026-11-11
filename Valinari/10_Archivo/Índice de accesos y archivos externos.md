@@ -28,3 +28,8 @@ Las notas activas deben enlazar al Canon V16, la cronología V16, los índices y
 [Abrir el centro del proyecto](file:///C:/Users/migue/OneDrive/DOS/Historia%20de%20un%20imperio%20ficticio/00_Abrir%20proyecto/%C3%8Dndice%20general.md)
 
 [[00_Canon/Gestión de archivos del proyecto|Gestión de originales, exportaciones y auditoría]].
+
+
+## Revisión vigente V17.4 A102
+
+[[00_Canon/Integraciones V16/Integración A102 automotriz y aérea|Resolución A102]] documenta el Word nuevo, la cronología y las fichas. Los nombres V16 de las rutas Markdown se mantienen por compatibilidad y contienen la revisión V17.4.

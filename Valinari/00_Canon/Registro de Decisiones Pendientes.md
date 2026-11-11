@@ -19,3 +19,8 @@ Los nombres adoptados y su clasificación se encuentran en [[00_Canon/Canon V16 
 ## Referencias relacionadas
 
 [[00_Canon/Registro de Cambios]] · [[00_Canon/Panel de Control V16]] · [[00_Canon/Canon V16 Maestro#Resoluciones canónicas acumulativas V16.2|Resoluciones V16.2]]
+
+
+## Continuidad V17.4 A102
+
+Las decisiones históricas DEC-001 a DEC-004 conservan su estado. A094 automotriz y A095 aérea quedan integradas; sus pendientes de documentación y aplicación se consultan en [[00_Canon/Integraciones V16/Pendientes materiales A102]].

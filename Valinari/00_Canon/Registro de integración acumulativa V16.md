@@ -49,3 +49,15 @@ Se integró el desarrollo histórico 1950–2026, los efectos económicos y labo
 ## Acumulativa A092 del 9 de noviembre de 2026
 
 Las cifras y decisiones anteriores de este registro son antecedentes cuando contradicen A092. Integradas las decisiones posteriores del autor: Tol Eressëa 20–40 y Groenlandia 55–75 d. C.; poblaciones antiguas conservadas; Beleg rector 724,5–879,5; cuentas de 515,5 millones constitucionales y 523,5 operativos; padrón de aliados sin doble cómputo; cotejo común de Word y Obsidian; registros naval, presupuestario y de capacidades. Véase [[Acumulativa A092 V16.4]].
+
+## Actualización V17.4 A102 del 10 de noviembre de 2026
+
+Integradas y desarrolladas A094 Industria automotriz y A095 Fuerza Aérea en maestro, Word, cronología y Obsidian. La adopción narrativa de linajes, programas e hitos no convierte escenarios en producción medida ni genera inventarios. Continúa A101 E1 con E2 y E3 alternativas no acumulables. Los números A094 y A095 se distinguen siempre por ámbito.
+
+[[00_Canon/Integraciones V16/Integración A102 automotriz y aérea|Integración A102]] · [[08_Economia/Industria automotriz 1880-2026|Industria automotriz A094]] · [[12_Militar/04_Fuerzas Aéreas/Historia de la Fuerza Aérea A095|Historia aérea A095]]
+
+## Revisión V17.5 A103
+
+Adoptada la clase Vëantur de cuatro acorazados y el relevo gradual de Círdan I. Se mantienen A101 E1, A102 y las reservas documentales.
+
+[[00_Canon/Integraciones V16/Acumulativa A103 Clase Vëantur y relevo de Círdan I|Resolución A103]] · [[12_Militar/03_Armada/Clase Vëantur 1884-1913|Clase Vëantur]]

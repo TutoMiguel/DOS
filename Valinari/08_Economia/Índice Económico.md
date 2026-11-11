@@ -57,3 +57,7 @@ actualizado: 2026-11-07
 - [[01_Cronologia/Cronología Territorial V16|Cronología maestra]]
 - [[00_Canon/Canon V16 Maestro]]
 - [[01_Cronologia/Cronología Territorial V16]]
+
+## Desarrollo integrado V17.4 A102
+
+[[08_Economia/Industria automotriz 1880-2026|Industria automotriz A094]] · [[12_Militar/04_Fuerzas Aéreas/Historia de la Fuerza Aérea A095|Historia aérea A095]] · [[00_Canon/Integraciones V16/Integración A102 automotriz y aérea|Integración A102]]

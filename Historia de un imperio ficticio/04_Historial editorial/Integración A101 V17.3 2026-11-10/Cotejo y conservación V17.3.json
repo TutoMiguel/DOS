@@ -1,0 +1,23 @@
+{
+  "Maestro": {
+    "bloques": 7418,
+    "tablas_nativas": 193,
+    "diferencias": 0
+  },
+  "Acumulativa": {
+    "bloques": 42,
+    "tablas_nativas": 5,
+    "diferencias": 0
+  },
+  "conservacion": {
+    "bloques_previos_preservados": 7163,
+    "cambios_portada": [
+      0,
+      3,
+      4
+    ],
+    "cola_A094_A100_contenido_logico_identico": true,
+    "parrafos_tablas_regularizados": 133,
+    "duplicado_A101_integrado_una_vez": true
+  }
+}

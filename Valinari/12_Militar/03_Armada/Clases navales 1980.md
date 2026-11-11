@@ -24,3 +24,7 @@ Composición canónica de referencia; los detalles de cada familia se organizan 
 
 - [[12_Militar/03_Armada/AM1 Armada 1875-2026|AM1 Armada 1875–2026]]
 - [[12_Militar/Índice Militar|Índice Militar]]
+
+## Catálogo maestro consolidado
+
+[[12_Militar/03_Armada/Catálogo maestro naval 1875-2026|Catálogo maestro naval 1875 a 2026]] reúne clases, familias, generaciones, perfiles técnicos y discrepancias con sus fuentes. La consolidación CMN 1 conserva las cantidades y reservas de V17.4 A102.

@@ -20,8 +20,22 @@
 ## Acumulativas trasladadas desde el espacio de trabajo
 
 - [A089 — Cadena material valinari para electrónica y semiconductores](file:///C:/Users/migue/OneDrive/DOS/Historia%20de%20un%20imperio%20ficticio/03_Propuestas%20pendientes/Integraciones%20aprobadas%20%E2%80%94%20A089/A089_Cadena_material_valinari_semiconductores.md) — decisión adoptada; detalles cuantitativos sujetos a auditoría e integración editorial. Incluye su carpeta de fichas territoriales.
-- [AM1 — Armada 1980 y tecnologías](file:///C:/Users/migue/OneDrive/DOS/Historia%20de%20un%20imperio%20ficticio/03_Propuestas%20pendientes/AM1%20%E2%80%94%20Armada%201980%20y%20tecnolog%C3%ADas/Actualizaci%C3%B3n%20acumulativa%20AM1%20%E2%80%94%20Armada%201980%20y%20tecnolog%C3%ADas.md) — propuesta de trabajo; expresamente no incorporada todavía al Canon V16.
+- [AM1 — Armada 1980 y tecnologías](file:///C:/Users/migue/OneDrive/DOS/Historia%20de%20un%20imperio%20ficticio/03_Propuestas%20pendientes/AM1%20%E2%80%94%20Armada%201980%20y%20tecnolog%C3%ADas/Actualizaci%C3%B3n%20acumulativa%20AM1%20%E2%80%94%20Armada%201980%20y%20tecnolog%C3%ADas.md) — integrada en el maestro; los rótulos históricos de propuesta no cambian su estado vigente.
 
 ## Criterio de ubicación
 
 El vault de Obsidian conserva el Canon V16 Markdown, la cronología maestra y las acumulativas ya integradas. Este centro DOS reúne el Word, sus exportaciones y los registros de trabajo que aún requieren auditoría o publicación. No se mantiene una segunda copia editable del Canon Markdown ni de la cronología.
+
+## Revisión vigente V17.4 A102
+
+Integración desarrollada de A094 Industria automotriz y A095 Fuerza Aérea. Se conservan A101 E1 y los archivos históricos.
+
+- [Maestro Word V17.4 A102](file:///C:/Users/migue/OneDrive/DOS/Canon%20V17.4%20Maestro%20A102.docx)
+- [Historia automotriz](file:///C:/Users/migue/OneDrive/DOS/Valinari/08_Economia/Industria%20automotriz%201880-2026.md)
+- [Historia aérea](file:///C:/Users/migue/OneDrive/DOS/Valinari/12_Militar/04_Fuerzas%20A%C3%A9reas/Historia%20de%20la%20Fuerza%20A%C3%A9rea%20A095.md)
+- [Resolución de integración](file:///C:/Users/migue/OneDrive/DOS/Valinari/00_Canon/Integraciones%20V16/Integraci%C3%B3n%20A102%20automotriz%20y%20a%C3%A9rea.md)
+
+
+## Revisión vigente V17.5 A103
+
+Clase Vëantur de cuatro acorazados y relevo gradual de Círdan I. El maestro nuevo es Canon V17.5 Maestro A103.docx; las copias V16 de compatibilidad contienen la misma revisión. V17.4 A102 y CMN 1 quedan conservados como antecedentes. Catálogo naval vigente CMN 2, con 326 registros de evidencia, no 326 clases.

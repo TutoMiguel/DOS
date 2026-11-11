@@ -37,3 +37,13 @@ Los archivos antiguos que siguen en esta carpeta se encuentran en el inventario.
 
 Esta operación organiza accesos, control y exportaciones. No cambia los hechos del canon ni crea una nueva revisión de contenido. Los respaldos históricos mantienen sus datos y sus rutas internas originales; sus enlaces se distinguen de los de las notas activas.
 
+
+
+## Canon vigente V17.4 A102
+
+A094 automotriz y A095 aérea integradas y desarrolladas. El Word versionado es Canon V17.4 Maestro A102.docx en DOS y en el archivo Oficial del vault. Las rutas V16 de compatibilidad contienen la misma revisión; A101 se conserva como original histórico.
+
+
+## Revisión vigente V17.5 A103
+
+Clase Vëantur de cuatro acorazados y relevo gradual de Círdan I. El maestro nuevo es Canon V17.5 Maestro A103.docx; las copias V16 de compatibilidad contienen la misma revisión. V17.4 A102 y CMN 1 quedan conservados como antecedentes. Catálogo naval vigente CMN 2, con 326 registros de evidencia, no 326 clases.

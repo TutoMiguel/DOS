@@ -1,0 +1,21 @@
+{
+  "revision": "V17.4 A102",
+  "fecha": "2026-11-10",
+  "base": "V17.3 A101",
+  "word_original": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\10_Archivo\\Documentos editoriales\\Oficial\\Canon V17.4 Maestro A102.docx",
+  "word_dos": "C:\\Users\\migue\\OneDrive\\DOS\\Canon V17.4 Maestro A102.docx",
+  "word_compatible": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\10_Archivo\\Documentos editoriales\\Oficial\\Canon V16 Maestro.docx",
+  "markdown_activo": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\00_Canon\\Canon V16 Maestro.md",
+  "cronologia": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\01_Cronologia\\Cronología Territorial V16.md",
+  "word_sha256": "51df23d81b3c8a6e386661ad6152ea41e8394d92e733c66fc25c40484274c7ba",
+  "markdown_sha256": "aa418dbb18c6b6e029471e6599faa0d90403dcaee2197995ed6bac796da11232",
+  "pdf_sha256": "6af4b293de686a0d9d59d37ff0c8439511e87481da82c2bb520a2d54326cb4bf",
+  "chronology_sha256": "776262d08547b14317001960a8fd42c59351a6db21bac1e3528f2f20904ff3d8",
+  "pdf_pages": 428,
+  "a102_cumulative_pages": 15,
+  "content_blocks": 7597,
+  "native_tables": 214,
+  "scenario": "A101 E1 conservado; E2 E3 alternativas no acumulables",
+  "documentary_c4": 0,
+  "sincronizacion_remota_verificada": false
+}

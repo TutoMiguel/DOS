@@ -1,0 +1,16 @@
+{
+  "maestro_paginas": 428,
+  "acumulativa_paginas": 15,
+  "paginas_previas_con_texto_distinto": [
+    1
+  ],
+  "inspeccion_visual_completada": true,
+  "revision_visual": "Panorámicas de todas las páginas; revisión de las 17 añadidas y las 15 de acumulativa; cinco páginas modificadas tras el ajuste revisadas a resolución de render. Encabezado aislado de tabla corregido. Las restantes 438 imágenes son idénticas a la revisión anterior.",
+  "paginas_finales_modificadas": [
+    "render-master\\page-419.png",
+    "render-master\\page-420.png",
+    "render-master\\page-425.png",
+    "render-master\\page-426.png",
+    "render-acc\\page-7.png"
+  ]
+}

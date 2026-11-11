@@ -2,9 +2,9 @@
 
 **Estado:** integración aprobada en Canon V16. Inventarios y políticas adoptados; reconstrucciones, disponibilidad y presupuestos llevan su calificación propia. Véase [[00_Canon/Canon V16 Maestro|Canon V16 Maestro]] y [[01_Cronologia/Cronología Territorial V16|Cronología Territorial V16]].
 
-**Estado:** propuesta acumulativa reformulada; no incorporada al canon maestro.
+**Estado histórico de la propuesta:** el texto siguiente conserva condiciones de su fase de trabajo. La integración posterior ya está incorporada al maestro; prevalecen sus resoluciones vigentes.
 **Alcance:** presupuesto naval comparado con EE. UU.; composición y evolución de la Armada; tecnologías, construcción, modernización de media vida e Infantería de Marina.
-**Límite de edición:** esta actualización modifica únicamente AM1. No actualiza Canon V16, cronologías, Word ni Obsidian.
+**Límite de la operación histórica:** aquella actualización modificaba únicamente AM1. No actualiza Canon V16, cronologías, Word ni Obsidian.
 
 ## 1. Decisión rectora
 

@@ -1,0 +1,44 @@
+{
+  "revision_catalogo": "CMN 1",
+  "canon_base_preservado": "V17.4 A102",
+  "fecha": "2026-11-10",
+  "publicaciones": [
+    {
+      "ruta": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\12_Militar\\03_Armada\\Catálogo maestro naval 1875-2026.md",
+      "anterior_sha256": null,
+      "actual_sha256": "f90b0c90366f9763e5c0bbade2891cfc46dd8790b68da8efd201b597f1c2b8da"
+    },
+    {
+      "ruta": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\12_Militar\\03_Armada\\Índice de armada.md",
+      "anterior_sha256": "52802df1c699fe59a8db4769d284a5b045c99e10fca530b338d502dd030a633b",
+      "actual_sha256": "682ce2f0784349276b6f12a4e740fc02dfe72c5f8fdd14b6ba2e20098ff68b35"
+    },
+    {
+      "ruta": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\12_Militar\\Índice Militar.md",
+      "anterior_sha256": "fbb74c422ccf05fc8be831033eb13d780be305f400bede6205b47e077458a140",
+      "actual_sha256": "ea267720db214625e0689224b4addcbaec7af3c6f65a38fe2d0d0792580b68e6"
+    },
+    {
+      "ruta": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\12_Militar\\03_Armada\\Clases navales 1980.md",
+      "anterior_sha256": "d2d3524544bacd04ec563dea5fe2388fb12614fe1cc0154713d4a32e415652c7",
+      "actual_sha256": "696d22ac5d532ac0e00d76f69ce80fea3141b208a331cc0c484ff70f07d1352a"
+    },
+    {
+      "ruta": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\12_Militar\\03_Armada\\Clases navales 2026.md",
+      "anterior_sha256": "5c38e067ba2173ef82ed88db3c17bb91b676f6a2b7738f0e48357c1592203930",
+      "actual_sha256": "bbe00d7e2e8734a4dcb799078832bad9a918d1124a0e9ba8ca21ef2639acc7c0"
+    },
+    {
+      "ruta": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\12_Militar\\03_Armada\\Armada 1875\\Índice de la Armada de 1875.md",
+      "anterior_sha256": "f611e918b206e85cdd657a5299c30542ddc0992cb450462d18d31ad1f7592bc1",
+      "actual_sha256": "30b65515898566fda88b41ae2c23f489dc69c78d951f2728488797154f5999b8"
+    },
+    {
+      "ruta": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\00_Canon\\Registro de Cambios.md",
+      "anterior_sha256": "2fa380b0b0d4f9234a6bd71048e9fb5254790667ed9307ebd9854c8f71d53c97",
+      "actual_sha256": "3b8883e934053b18662db1fba2057dbadcd5c9d96159bcd54a5f0a859d226e6d"
+    }
+  ],
+  "originales_no_editados_preservados": 105,
+  "sincronizacion_remota_verificada": false
+}

@@ -1,6 +1,6 @@
 ---
 tipo: gestión documental
-canon: V16
+canon: V17.4 A102
 estado: vigente
 ---
 # Gestión de archivos del proyecto
@@ -30,3 +30,8 @@ El centro de acceso y control está en la carpeta Historia de un imperio fictici
 - [[00_Canon/Inicio del Canon V16]]
 - [[10_Archivo/Índice de accesos y archivos externos]]
 - [[00_Canon/Integraciones V16/Revisión editorial V16.1]]
+
+
+## Integración vigente V17.4 A102
+
+[[00_Canon/Integraciones V16/Integración A102 automotriz y aérea|Resolución A102]] · [[08_Economia/Industria automotriz 1880-2026]] · [[12_Militar/04_Fuerzas Aéreas/Historia de la Fuerza Aérea A095]]. Los nombres V16 de las rutas se conservan para mantener enlaces.

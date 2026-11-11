@@ -1,8 +1,8 @@
 {
   "schema": 1,
   "created": "2026-11-07T11:06:54",
-  "canon": "V16",
-  "editorial_revision": "V16.1",
+  "canon": "V17.5",
+  "editorial_revision": "V17.5 A103",
   "hub": "C:\\Users\\migue\\OneDrive\\DOS\\Historia de un imperio ficticio",
   "vault": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari",
   "policy": "Los originales conservan sus rutas. El Markdown vigente gobierna las exportaciones; los archivos históricos no se ejecutan como herramientas activas.",
@@ -38,12 +38,13 @@
   },
   "python_runtime": "C:\\Users\\migue\\.cache\\codex-runtimes\\codex-primary-runtime\\dependencies\\python\\python.exe",
   "provenance": {
-    "source_sha256": "2d5ed0f96388f6a3920d3dde3bea801084c8a8e37ce94ba7dc4eadc61ba81dbd",
-    "word_sha256": "138808af63d15cf518753e2c6a6375181cb9008321de5c2f72b23c786453cda3",
-    "pdf_sha256": "3745cc3acb3fd6e0c289a6a5fb2157083eab6c8dd9dbe12ebfeb94c4705af5f6",
-    "chronology_sha256": "d98eb4f47b87eb649a8092b7b3b87ba65fd2e8b3f138efce9d1bee66f4e0930d",
-    "pdf_pages": 242,
-    "verified_render": "C:\\Users\\migue\\Documents\\ChatGPT\\Historia de un imperio ficticio\\.revision_v16_1_20261107_102002\\render_final\\Canon V16 Maestro.pdf",
-    "qa_report": "C:\\Users\\migue\\Documents\\ChatGPT\\Historia de un imperio ficticio\\.revision_v16_1_20261107_102002\\qa_informe.json"
-  }
+    "source_sha256": "366165774f15d41c52d455b7f789a947df4341b0069fe576d5fb8c3a171e0fce",
+    "word_sha256": "1c70d6e6687d772287da135cf8b09320f0567e4f88737ae42ff538b9aaa9ddc1",
+    "pdf_sha256": "7888e4977b438e1a131dc64fce66cd75d7356c5cad41670c93126b97ed5afad2",
+    "chronology_sha256": "c9d8f8e7082c96e006073e22d5896853acc1b9f47e5be1aa877db196d0ecffab",
+    "pdf_pages": 433,
+    "verified_render": "C:\\Users\\migue\\Documents\\Codex\\2026-11-10\\contin-a-el-proyecto-valinor-desde\\outputs\\V17.5_A103\\Canon V17.5 Maestro A103.pdf",
+    "qa_report": "C:\\Users\\migue\\Documents\\Codex\\2026-11-10\\contin-a-el-proyecto-valinor-desde\\outputs\\V17.5_A103\\Verificación V17.5.json"
+  },
+  "updated": "2026-11-10"
 }

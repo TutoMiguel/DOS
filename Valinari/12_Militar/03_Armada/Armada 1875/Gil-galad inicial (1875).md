@@ -33,3 +33,9 @@ actualizado: 2026-11-07
 
 - [[11_Ciencia y Tecnologia/Turbinas de vapor y máquinas navales|Turbinas de vapor y máquinas navales]]
 - [[12_Militar/03_Armada/Desarrollo naval 1882-1945|Desarrollo naval 1882–1945]]
+
+## Conciliación de parámetros CMN 3
+
+Esta ficha coincide con el maestro V17.5 A103 y rige para corregir la antigua fila resumida de AM1. Las cantidades y ventanas se conservan; la configuración y disponibilidad por casco en 1891 siguen pendientes.
+
+[[12_Militar/03_Armada/Conciliación Eärendil y Gil-galad históricos CMN3|Conciliación histórica CMN 3]]

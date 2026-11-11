@@ -1,0 +1,309 @@
+{
+  "revision": "V17.4 A102",
+  "publicaciones": [
+    {
+      "destino": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\00_Canon\\Integraciones V16\\Integración A102 automotriz y aérea.md",
+      "anterior_sha256": null,
+      "actual_sha256": "0e5ef53d95d701f2125975e1908929626344da6418531139fb5a71f9978e676d"
+    },
+    {
+      "destino": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\08_Economia\\Industria automotriz 1880-2026.md",
+      "anterior_sha256": null,
+      "actual_sha256": "4a2e2fd647da39531f4d82b5510b0fdbaa63f5259d5e63ca6efb4cbe00ecd6c8"
+    },
+    {
+      "destino": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\12_Militar\\04_Fuerzas Aéreas\\Historia de la Fuerza Aérea A095.md",
+      "anterior_sha256": null,
+      "actual_sha256": "bf8b95be138183fa85d1da4a3aebb0bafe63f337c027f847045da07456522db9"
+    },
+    {
+      "destino": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\00_Canon\\Integraciones V16\\Acumulativa A094 Industria automotriz.md",
+      "anterior_sha256": "c238a5888e2444f31adf73be56a22f81934ff5b12f13d81d4e46c5a8859a1e0f",
+      "actual_sha256": "3af4b895113e0fa767b84fe5acd5b973f42e5b600eb01f467eff1f256e205ba7"
+    },
+    {
+      "destino": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\00_Canon\\Integraciones V16\\Acumulativa A095 Fuerza Aérea.md",
+      "anterior_sha256": "b11062aac795e2d129636d1a2e2f91adbae4eebc579d532dd10a6071058970eb",
+      "actual_sha256": "c8c8fa21d41407060ac3cd849f27b3e723f47ae139fbb9fe50431d0cc450e010"
+    },
+    {
+      "destino": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\00_Canon\\Canon V16 Maestro.md",
+      "anterior_sha256": "4102d2e99e8d0904e0f739ed23e194f3d6fa89832d0c9cc6d6a1898d3b12db2f",
+      "actual_sha256": "aa418dbb18c6b6e029471e6599faa0d90403dcaee2197995ed6bac796da11232"
+    },
+    {
+      "destino": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\01_Cronologia\\Cronología Territorial V16.md",
+      "anterior_sha256": "5bae5f809539914a26d54f1a484f217fffeed83d03469078f2e1b7029aeea648",
+      "actual_sha256": "776262d08547b14317001960a8fd42c59351a6db21bac1e3528f2f20904ff3d8"
+    },
+    {
+      "destino": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\08_Economia\\Índice Económico.md",
+      "anterior_sha256": "4174d2fb4be66c20c0ccf2a851b2a8c016ca41c5434f9e5997e2441425fa2d9c",
+      "actual_sha256": "5cc00372992c7c9c48d3b16f7fa8be4c86c894066c8916656d0b4bbccfeaf63a"
+    },
+    {
+      "destino": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\12_Militar\\Índice Militar.md",
+      "anterior_sha256": "4abb325a33173b959bae5e4f20b764f67e6007baa14589dfc0e1fc591045b44c",
+      "actual_sha256": "fbb74c422ccf05fc8be831033eb13d780be305f400bede6205b47e077458a140"
+    },
+    {
+      "destino": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\12_Militar\\04_Fuerzas Aéreas\\Índice de fuerzas aéreas.md",
+      "anterior_sha256": "e6755a69355da4d15787ac98d37f2c01d56e3c1ab8c5d23a78d3c58ed5791c41",
+      "actual_sha256": "4d472417988c05d4ada8d8d788660cb6e77175f384006e02379100a1962b9270"
+    },
+    {
+      "destino": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\11_Ciencia y Tecnologia\\Índice de Ciencia y Tecnología.md",
+      "anterior_sha256": "524dadd2fce164b74aa50fdeee36b00f35fe96bd2c0c4fc48ed7d73645bb1384",
+      "actual_sha256": "e6114480350143128da9dea6f9bf572456f501cb5920a6cf099652d68735f91a"
+    },
+    {
+      "destino": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\12_Militar\\05_Industria tecnología y logística\\Índice de industria tecnología y logística.md",
+      "anterior_sha256": "b1d90d04f8c3af8d9fcc27c70262291f9b7c5a85d37dfdd07e88931da79699f3",
+      "actual_sha256": "968ac0eed89a49de1886de1ec439b5a5b7811c59b6792e09152a3edfd22a2d10"
+    },
+    {
+      "destino": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\12_Militar\\04_Fuerzas Aéreas\\Fuerzas Aéreas.md",
+      "anterior_sha256": "78b0f1e695f3bb73191576cc02573c2475e8d28fe994c7aa73106139a97e5d16",
+      "actual_sha256": "0a7985fea07b92691fab309ece7e5cc5625592b6b197e84e7089240e74b98ac1"
+    },
+    {
+      "destino": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\11_Ciencia y Tecnologia\\Aeronáutica.md",
+      "anterior_sha256": "c8f261c6f90cdf58fd909d4ddfbf953b48f4b430ee581a2edd7636d2581156d6",
+      "actual_sha256": "720ebf0341039bf41ca2b4af46967a47768e5439cf7f3de60b7d634b2635eb24"
+    },
+    {
+      "destino": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\00_Canon\\Registro de integración acumulativa V16.md",
+      "anterior_sha256": "cdb5174827b911f1908069aaf002ce2527f228f4df5bcf0c6fdd694b24ace4c3",
+      "actual_sha256": "9e3c95c53097fb95a3a87b554403f5a1b7538462fe34cf20b76800cf242eea18"
+    },
+    {
+      "destino": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\00_Canon\\Panel de Control V16.md",
+      "anterior_sha256": "dd13765ae76e2ad06d3e555f3297b52e68fc6cf18d7d01ed8804ce0740938cfa",
+      "actual_sha256": "ddf39738c9050c3c6330c3af480ddeaf183b73545e538ef9ac565e1964123dac"
+    },
+    {
+      "destino": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\00_Canon\\Registro de Cambios.md",
+      "anterior_sha256": "3fa01cb062a61d8a2789bb64de016fd6a29341e44c9a0df631a6ccf59053eec7",
+      "actual_sha256": "2fa380b0b0d4f9234a6bd71048e9fb5254790667ed9307ebd9854c8f71d53c97"
+    },
+    {
+      "destino": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\00_Canon\\Integraciones V16\\Ámbitos de numeración A094 A101.md",
+      "anterior_sha256": "09ce26f39b80d6d4ffa64fb424296512f3cd64e7c6c3de6b3981046268541028",
+      "actual_sha256": "00c4cd9a58c370b9da5f36c6ca24cb88ab97be4d66dbcc6b165b455f82455793"
+    },
+    {
+      "destino": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\00_Canon\\Integraciones V16\\Acumulativa A092 V16.4.md",
+      "anterior_sha256": "869810461d79bf48bbf4a78f3f12b2d8acc95201ef8e2d9887929f31b68cfd2e",
+      "actual_sha256": "729dc52b9617c0c8dc6f8dd257ba9147715ed62c6d95a58b36d3a4da121c8905"
+    },
+    {
+      "destino": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\00_Canon\\Integraciones V16\\Propuestas pendientes tras revisión V16.1.md",
+      "anterior_sha256": "1e7b26c00158f8684c087c47cbb4c1d468510b64fca93ff9a8fe2dbccfbade04",
+      "actual_sha256": "08a32b2014785a0c8a3723668cd0d75ada9e776a8da60a223a8d17238d73aa26"
+    },
+    {
+      "destino": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\08_Economia\\Automoción A094\\Motores de Arnor.md",
+      "anterior_sha256": null,
+      "actual_sha256": "a992f5966731cc51ee300479d465444eecb6bdfcb71155ef0041e6d2f2dce3c8"
+    },
+    {
+      "destino": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\08_Economia\\Automoción A094\\Electromecánica de Valinor.md",
+      "anterior_sha256": null,
+      "actual_sha256": "f8fb381ebab14b40ff5a1b0e7649fa3f3ba372864b3b7200274e7678f73b6ad7"
+    },
+    {
+      "destino": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\08_Economia\\Automoción A094\\Automóviles de Annúminas.md",
+      "anterior_sha256": null,
+      "actual_sha256": "6daba21a6a54f31133c92f60be74a15bcd9ca9e5a50f83884c099566b32dfcac"
+    },
+    {
+      "destino": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\08_Economia\\Automoción A094\\Automóviles Calen.md",
+      "anterior_sha256": null,
+      "actual_sha256": "67a962300d13d735dcb2c1ee0bf2a86d9fb75fe58009e860ca132b13bb8b63f1"
+    },
+    {
+      "destino": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\08_Economia\\Automoción A094\\Vehículos Industriales Australes.md",
+      "anterior_sha256": null,
+      "actual_sha256": "117c86d450234bc464cb67e91dc47d1df44c13d94c999f3f9c5073957e253f74"
+    },
+    {
+      "destino": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\08_Economia\\Automoción A094\\Malaca Movilidad.md",
+      "anterior_sha256": null,
+      "actual_sha256": "281001d0e919d98de608902f3992395531036c443a59e86a6ff48b5d7f1a70e3"
+    },
+    {
+      "destino": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\08_Economia\\Automoción A094\\Linajes empresariales A094.md",
+      "anterior_sha256": null,
+      "actual_sha256": "bbe29b27ecf877808d93267ac6c25937d45fa9cfddb07aad698e69c0fb5aa685"
+    },
+    {
+      "destino": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\12_Militar\\04_Fuerzas Aéreas\\Programas A095\\O-12 Meneldir.md",
+      "anterior_sha256": null,
+      "actual_sha256": "0909e57496b55e5f9dc78008080b4db9d56d45d0ca2d93fd55420fd078dbea1d"
+    },
+    {
+      "destino": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\12_Militar\\04_Fuerzas Aéreas\\Programas A095\\C-17 Thorondir.md",
+      "anterior_sha256": null,
+      "actual_sha256": "2abd3f6ef81f39aad5bd1a147100fad44b91b2a476d017587ae7789caebf3dbc"
+    },
+    {
+      "destino": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\12_Militar\\04_Fuerzas Aéreas\\Programas A095\\C-38 Sorontar.md",
+      "anterior_sha256": null,
+      "actual_sha256": "2aee1aa7f505eee97f7931ae85e66d7a45a570714ee68c17e65556677c48bd0f"
+    },
+    {
+      "destino": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\12_Militar\\04_Fuerzas Aéreas\\Programas A095\\T-40 Menelcar.md",
+      "anterior_sha256": null,
+      "actual_sha256": "9dac8c4f2155ad7629a9d19619802073e9774d3da9c17b8344b820bb3de7dd89"
+    },
+    {
+      "destino": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\12_Militar\\04_Fuerzas Aéreas\\Programas A095\\B-43 Beleg.md",
+      "anterior_sha256": null,
+      "actual_sha256": "a66195fab97ab3245d99710549b1c7bd1297f4265015e0872a8af8d9abe4b74c"
+    },
+    {
+      "destino": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\12_Militar\\04_Fuerzas Aéreas\\Programas A095\\C-52 Thorondor I.md",
+      "anterior_sha256": null,
+      "actual_sha256": "f4d2d80e131e4852cc118058905abb7503918510e0164046d6a74847cae86ead"
+    },
+    {
+      "destino": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\12_Militar\\04_Fuerzas Aéreas\\Programas A095\\C-66 Thorondor II.md",
+      "anterior_sha256": null,
+      "actual_sha256": "52bf2e35c583a8edcfb786745013ef568fe7e49cc22b5121da314a72d430b90c"
+    },
+    {
+      "destino": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\12_Militar\\04_Fuerzas Aéreas\\Programas A095\\C-84 Soron I.md",
+      "anterior_sha256": null,
+      "actual_sha256": "26dcfe59fb510b4a669b15b29f3af40e6dda00f2743b91d4a51ae439f6a96095"
+    },
+    {
+      "destino": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\12_Militar\\04_Fuerzas Aéreas\\Programas A095\\AE-90 Menelvagor.md",
+      "anterior_sha256": null,
+      "actual_sha256": "2910d26a8186b146d287bb6784fd148fb35b40cee7e3c60c8e9054d865273ac8"
+    },
+    {
+      "destino": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\12_Militar\\04_Fuerzas Aéreas\\Programas A095\\C-04 Soron II.md",
+      "anterior_sha256": null,
+      "actual_sha256": "20936bdb5743943eece17648e583806b2f9f9a4d03ec45822efe750e06e4ab33"
+    },
+    {
+      "destino": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\12_Militar\\04_Fuerzas Aéreas\\Programas A095\\U-10 Tirmen.md",
+      "anterior_sha256": null,
+      "actual_sha256": "d8b86364b8b5abc1a880858a0528519563775f23c1aef922ea4a64c570c8fb3f"
+    },
+    {
+      "destino": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\12_Militar\\04_Fuerzas Aéreas\\Programas A095\\C-18 Soron III.md",
+      "anterior_sha256": null,
+      "actual_sha256": "73378282694c892035d13af2babce49265e9743fc8e758beb3117b248c219b82"
+    },
+    {
+      "destino": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\12_Militar\\04_Fuerzas Aéreas\\Programas A095\\Programas aéreos A095.md",
+      "anterior_sha256": null,
+      "actual_sha256": "21a9238a11e81a01606164a5b3fb3ce7f09f662775b82cd40bb76d6bcc3cc2ce"
+    },
+    {
+      "destino": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\00_Canon\\Integraciones V16\\Pendientes materiales A102.md",
+      "anterior_sha256": null,
+      "actual_sha256": "c181222af8e5818f27db6ceeaa38132a59ed1c0d220cfb034c9b969da5806d7f"
+    },
+    {
+      "destino": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\00_Canon\\Registro de Decisiones Pendientes.md",
+      "anterior_sha256": "c64ba45ff3aff697c6cce5608123835eeef5c628083f6bb7473ab7e1a32894c7",
+      "actual_sha256": "2b4d3e787dc8903a5b77d3bed244f70efe92a206cb0e4c2ddd1781c644e85d5c"
+    },
+    {
+      "destino": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\10_Archivo\\Índice de accesos y archivos externos.md",
+      "anterior_sha256": "062d4df761c3f5bebffd1598ead8f3680100a961ca303ede3e0a1bf9966674cc",
+      "actual_sha256": "6c9ea8f66bccfa74d6a5b5b0fec3d3b904acc2b5540724520f42d632b4f94026"
+    },
+    {
+      "destino": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\01_Cronologia\\Cronología General.md",
+      "anterior_sha256": "947b93d1eb79d6034038cf4b319122fb531480f6e591cfcc0f2ecc650ec91622",
+      "actual_sha256": "77d0d660af573fe6dfcd85c11868fb75e9105421cedf86f69b0c8944d51b4ebd"
+    },
+    {
+      "destino": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\00_Canon\\Inicio del Canon V16.md",
+      "anterior_sha256": "9404f92ec387257fcd22a96b77f1be69d29dd0f57f95a7ada48cfa5a57236b2a",
+      "actual_sha256": "b65b96e150b73430076a85df614640fb59ac0d06116b157928cce6bc4736f303"
+    },
+    {
+      "destino": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\00_Canon\\Gestión de archivos del proyecto.md",
+      "anterior_sha256": "435b73cda737881e900739882c2fc336122ea2f2e64e2977479f151d139e5517",
+      "actual_sha256": "a37e342fbc4aa696842ce6e9bd686749fe01bed2d50ef5144a7b8f35210565f7"
+    },
+    {
+      "destino": "C:\\Users\\migue\\OneDrive\\DOS\\Historia de un imperio ficticio\\00_Abrir proyecto\\Índice de canon, Word, cronología y acumulativas.md",
+      "anterior_sha256": "c799bb2d6e7552f5e57e317a007dd4791fe0688fbb13ba32e2d35b33dd6f49f4",
+      "actual_sha256": "098ce54f555539c8d85dccf57ffe47e6f5b67cc44a185a3d9e97b7b582f729a7"
+    },
+    {
+      "destino": "C:\\Users\\migue\\OneDrive\\DOS\\Historia de un imperio ficticio\\00_Abrir proyecto\\Índice general.md",
+      "anterior_sha256": "9ac0f5ed3a023c9c8fd4cc658e9b2832bc539d38d8c5cc2141d91d2332704540",
+      "actual_sha256": "fa68842e1b5e4ff4359a0eaaffaee1a91ae40ecaa1c67f6cd71dcd09a2403801"
+    },
+    {
+      "destino": "C:\\Users\\migue\\OneDrive\\DOS\\Historia de un imperio ficticio\\03_Propuestas pendientes\\LEEME.md",
+      "anterior_sha256": "dcaad3ac5db56fe2a53e86939167696377fc86c1bc43e93734f29fdd19ab384f",
+      "actual_sha256": "5ade01c2334d020c9f01d891563f8f5410ffa2d63268b30ea52d2c3c777e2c4b"
+    },
+    {
+      "destino": "C:\\Users\\migue\\OneDrive\\DOS\\Historia de un imperio ficticio\\03_Propuestas pendientes\\AM1 — Armada 1980 y tecnologías\\Actualización acumulativa AM1 — Armada 1980 y tecnologías.md",
+      "anterior_sha256": "9c929ac08041f1db896101db6b664c2e7b1ed7af564781c14d8e2909c9ffcba9",
+      "actual_sha256": "695f3057cb8889d39677971dc8971aebe2ccc2524e4fc1e069dc5d57c0ec3124"
+    },
+    {
+      "destino": "C:\\Users\\migue\\OneDrive\\DOS\\Historia de un imperio ficticio\\05_Control y herramientas\\rutas_proyecto.json",
+      "anterior_sha256": "8208375f7bfebabaa77a31d737a8f98a70ac59f41f638474560e6bd6e686fb32",
+      "actual_sha256": "18d7dcb5e3927ee899c1fb4032d531fe1762677dc0154089fa421efd3921c398"
+    },
+    {
+      "destino": "C:\\Users\\migue\\OneDrive\\DOS\\Canon V17.4 Maestro A102.docx",
+      "anterior_sha256": null,
+      "actual_sha256": "51df23d81b3c8a6e386661ad6152ea41e8394d92e733c66fc25c40484274c7ba"
+    },
+    {
+      "destino": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\10_Archivo\\Documentos editoriales\\Oficial\\Canon V17.4 Maestro A102.docx",
+      "anterior_sha256": null,
+      "actual_sha256": "51df23d81b3c8a6e386661ad6152ea41e8394d92e733c66fc25c40484274c7ba"
+    },
+    {
+      "destino": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\10_Archivo\\Documentos editoriales\\Oficial\\Canon V16 Maestro.docx",
+      "anterior_sha256": "ae4ab7f803e7b2d74cc9eda685a9b2bdddbe522d4aff5918916b9363059faaf8",
+      "actual_sha256": "51df23d81b3c8a6e386661ad6152ea41e8394d92e733c66fc25c40484274c7ba"
+    },
+    {
+      "destino": "C:\\Users\\migue\\OneDrive\\DOS\\Historia de un imperio ficticio\\Canon V16 Maestro.docx",
+      "anterior_sha256": "ae4ab7f803e7b2d74cc9eda685a9b2bdddbe522d4aff5918916b9363059faaf8",
+      "actual_sha256": "51df23d81b3c8a6e386661ad6152ea41e8394d92e733c66fc25c40484274c7ba"
+    },
+    {
+      "destino": "C:\\Users\\migue\\OneDrive\\DOS\\Historia de un imperio ficticio\\Canon V16 Maestro - Exportacion.docx",
+      "anterior_sha256": "ae4ab7f803e7b2d74cc9eda685a9b2bdddbe522d4aff5918916b9363059faaf8",
+      "actual_sha256": "51df23d81b3c8a6e386661ad6152ea41e8394d92e733c66fc25c40484274c7ba"
+    },
+    {
+      "destino": "C:\\Users\\migue\\OneDrive\\DOS\\Historia de un imperio ficticio\\Canon V16 Maestro.pdf",
+      "anterior_sha256": "da0538bfc1831812ac7516a94f377335cc89028f2fc72c1af27b1549e6f47afc",
+      "actual_sha256": "6af4b293de686a0d9d59d37ff0c8439511e87481da82c2bb520a2d54326cb4bf"
+    },
+    {
+      "destino": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\10_Archivo\\Documentos editoriales\\Oficial\\Canon V17.4 Maestro A102.pdf",
+      "anterior_sha256": null,
+      "actual_sha256": "6af4b293de686a0d9d59d37ff0c8439511e87481da82c2bb520a2d54326cb4bf"
+    },
+    {
+      "destino": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\10_Archivo\\Documentos editoriales\\Oficial\\Acumulativa A102 integrada.docx",
+      "anterior_sha256": null,
+      "actual_sha256": "92e7fbce610a51ec9e29166a494ec2e756d41287ddd418bb9a34500011e47486"
+    },
+    {
+      "destino": "C:\\Users\\migue\\OneDrive\\DOS\\Historia de un imperio ficticio\\01_Exportaciones vigentes\\Procedencia de las exportaciones.json",
+      "anterior_sha256": "3637aaa043e1b5ad2f6f412d27e982ed4dbb0948bb2a43c5b00c75bc0ee85d95",
+      "actual_sha256": "ea9a5afc7224e524ecc743b2a6dca930e1f0d6cbd839546e0864521e830b5f68"
+    }
+  ],
+  "historial": "C:\\Users\\migue\\OneDrive\\DOS\\Historia de un imperio ficticio\\04_Historial editorial\\Integración A102 V17.4 2026-11-10",
+  "destinos_verificados": 60,
+  "originales_respaldados": 44,
+  "sincronizacion_remota_verificada": false
+}

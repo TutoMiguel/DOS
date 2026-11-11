@@ -1,0 +1,45 @@
+{
+  "catalogo": "CMN 3",
+  "canon": "V17.5 A103 sin cambios",
+  "publicaciones": [
+    {
+      "destino": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\12_Militar\\03_Armada\\AM1 Armada 1875-2026.md",
+      "anterior_sha256": "503bc2fd45fb012d5006b20c30f6e0f5532ffdc6759d6206fcc1b63feb52dcdc",
+      "actual_sha256": "b758fbeddf0ca74bda8f108c08bc16361153e29ffe9430ba355c31a9f46152e4"
+    },
+    {
+      "destino": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\12_Militar\\03_Armada\\Conciliación Eärendil y Gil-galad históricos CMN3.md",
+      "anterior_sha256": null,
+      "actual_sha256": "85748db6ac4ccc4b98dd5598edd63c05f4c1a33cb8a9692a9f8af7de0b51cc4a"
+    },
+    {
+      "destino": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\12_Militar\\03_Armada\\Armada 1875\\Eärendil pesado (1875).md",
+      "anterior_sha256": "60752186e1e5d660c474c59a69e0441b2f96419c03636bd5379c34cff8105cf4",
+      "actual_sha256": "39ad55ce10987f8708c9ab5d65873377437fb5b4e2cc31b6f7600ccaab763804"
+    },
+    {
+      "destino": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\12_Militar\\03_Armada\\Armada 1875\\Gil-galad inicial (1875).md",
+      "anterior_sha256": "f7dea347ec456718085a897f0ffb1de993cd0bc9f1727e3572382351c7e208f3",
+      "actual_sha256": "d68599be8fb68b2c0d30b64b8be3a3519bf2d25b098dcd8b9b8400c229b8422c"
+    },
+    {
+      "destino": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\12_Militar\\03_Armada\\Catálogo maestro naval 1875-2026.md",
+      "anterior_sha256": "6acb56a6bd8f7077a7e4c325e1f5a2d02b6093998431d8288e2ba70186703da3",
+      "actual_sha256": "01c195ef394643a45ea4b32a42ee2fe03882843fb4aa9121479f58a9864669ab"
+    },
+    {
+      "destino": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\12_Militar\\03_Armada\\Índice de armada.md",
+      "anterior_sha256": "434c222628554172b06562970b79b909bc80ab1ea9c09e9cb6399d4dfb63a807",
+      "actual_sha256": "eea6398b19d256ce59decd1745257144239935ecf203e726ccd9d4e7c8f6875a"
+    },
+    {
+      "destino": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\00_Canon\\Registro de Cambios.md",
+      "anterior_sha256": "2f1fe04db8c9a310071ee0570e73e64024b21fd557dac3cc74902cf51806ecae",
+      "actual_sha256": "b38da2ba0de89f11268a085d0e68bc6960897b80102e73f03182176f10dabd90"
+    }
+  ],
+  "nuevos_enlaces_rotos": [],
+  "maestro_markdown_sin_cambios": true,
+  "word_sin_cambios": true,
+  "sincronizacion_remota_verificada": false
+}

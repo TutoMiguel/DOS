@@ -1,0 +1,438 @@
+{
+  "12_Militar/03_Armada/AM1 Armada 1875-2026.md": {
+    "ruta": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\12_Militar\\03_Armada\\AM1 Armada 1875-2026.md",
+    "sha256": "1d5857c619447b2cc4c8ef476a896259900d262b5b669f8e6de6b3ea859ff19d"
+  },
+  "12_Militar/03_Armada/AM1 Armada 1973 — reconstrucción y turbinas.md": {
+    "ruta": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\12_Militar\\03_Armada\\AM1 Armada 1973 — reconstrucción y turbinas.md",
+    "sha256": "271354078d0822cd41dd5807e26f02bb0d361427fd269e4f6aaff206a0460e63"
+  },
+  "12_Militar/03_Armada/Destructores Gil-galad — evolución de la familia.md": {
+    "ruta": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\12_Militar\\03_Armada\\Destructores Gil-galad — evolución de la familia.md",
+    "sha256": "e92754e2b5f7929214401f1b71fa10169f572d8c3b8309b5105b0c7deed67626"
+  },
+  "12_Militar/03_Armada/Desarrollo naval 1882-1945.md": {
+    "ruta": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\12_Militar\\03_Armada\\Desarrollo naval 1882-1945.md",
+    "sha256": "9257b30737b065104918eae4f05624a3720f26fa6977078d7885728efa6fa441"
+  },
+  "12_Militar/03_Armada/Armada 1875/Alqualondë (1875).md": {
+    "ruta": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\12_Militar\\03_Armada\\Armada 1875\\Alqualondë (1875).md",
+    "sha256": "c1864b4e677f139746534fb375336dbb0097755aa90601b3f047c2582caa4b7d"
+  },
+  "12_Militar/03_Armada/Armada 1875/Aulë (1875).md": {
+    "ruta": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\12_Militar\\03_Armada\\Armada 1875\\Aulë (1875).md",
+    "sha256": "8fa9af53a9e3b75528dca13f13d74a642be2f83a9d9988408f45b1b8871796b9"
+  },
+  "12_Militar/03_Armada/Armada 1875/Calasir (1875).md": {
+    "ruta": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\12_Militar\\03_Armada\\Armada 1875\\Calasir (1875).md",
+    "sha256": "04b855680fd47b20a0db5d6ff07aabeb4627350fa0ce0480324a57b901bbe497"
+  },
+  "12_Militar/03_Armada/Armada 1875/Calenhad (1875).md": {
+    "ruta": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\12_Militar\\03_Armada\\Armada 1875\\Calenhad (1875).md",
+    "sha256": "d9416372aaea74b1424370c9a7b0997584061c3908f569eb6d1322d1c0844026"
+  },
+  "12_Militar/03_Armada/Armada 1875/Círdan I (1875).md": {
+    "ruta": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\12_Militar\\03_Armada\\Armada 1875\\Círdan I (1875).md",
+    "sha256": "93220229c0334b7bd0bcbe9128ff1ec09d3f6969f65e62c95a9e8b41773546d1"
+  },
+  "12_Militar/03_Armada/Armada 1875/Eärendil (1875).md": {
+    "ruta": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\12_Militar\\03_Armada\\Armada 1875\\Eärendil (1875).md",
+    "sha256": "677bc297d27825e884c29648eeb1f35a55d3b1882d3da816f3d8c007d88d6613"
+  },
+  "12_Militar/03_Armada/Armada 1875/Eärendil pesado (1875).md": {
+    "ruta": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\12_Militar\\03_Armada\\Armada 1875\\Eärendil pesado (1875).md",
+    "sha256": "60752186e1e5d660c474c59a69e0441b2f96419c03636bd5379c34cff8105cf4"
+  },
+  "12_Militar/03_Armada/Armada 1875/Forlond aviso (1875).md": {
+    "ruta": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\12_Militar\\03_Armada\\Armada 1875\\Forlond aviso (1875).md",
+    "sha256": "2b6ba995910bc4f712384b1def5214afd077e24d7feaef64c14aeb53d648f9f4"
+  },
+  "12_Militar/03_Armada/Armada 1875/Forlond torpedero (1875).md": {
+    "ruta": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\12_Militar\\03_Armada\\Armada 1875\\Forlond torpedero (1875).md",
+    "sha256": "4ccd4f34073f71396a29a7daada1406026f104d058f8ff7a29f32c9da2c942bc"
+  },
+  "12_Militar/03_Armada/Armada 1875/Gil-galad inicial (1875).md": {
+    "ruta": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\12_Militar\\03_Armada\\Armada 1875\\Gil-galad inicial (1875).md",
+    "sha256": "f7dea347ec456718085a897f0ffb1de993cd0bc9f1727e3572382351c7e208f3"
+  },
+  "12_Militar/03_Armada/Armada 1875/Harlond fluvial (1875).md": {
+    "ruta": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\12_Militar\\03_Armada\\Armada 1875\\Harlond fluvial (1875).md",
+    "sha256": "8cd3e285d4e7bff304c37b0137fedb3ea3c0c37d4c9aad85d02887e7fc492a8a"
+  },
+  "12_Militar/03_Armada/Armada 1875/Harlond oceánica (1875).md": {
+    "ruta": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\12_Militar\\03_Armada\\Armada 1875\\Harlond oceánica (1875).md",
+    "sha256": "f366627736c23ef239e47b3910c6cb3f44f715cc9d86400ef573e60f674a3310"
+  },
+  "12_Militar/03_Armada/Armada 1875/Minas Tirith (1875).md": {
+    "ruta": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\12_Militar\\03_Armada\\Armada 1875\\Minas Tirith (1875).md",
+    "sha256": "ddb1ad5759018af385ce63d01a0d87bf4610079883a80d8ef23fa7b48b42a384"
+  },
+  "12_Militar/03_Armada/Armada 1875/Pelargir (1875).md": {
+    "ruta": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\12_Militar\\03_Armada\\Armada 1875\\Pelargir (1875).md",
+    "sha256": "652509e4ad2f211ad575f24b56b59fde44c3b86b53d33953f17911bf0cc6db19"
+  },
+  "12_Militar/03_Armada/Armada 1875/Rómenna aviso (1875).md": {
+    "ruta": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\12_Militar\\03_Armada\\Armada 1875\\Rómenna aviso (1875).md",
+    "sha256": "b1451560fa211607df10f59634b793999c5342dfc0f93907c8236212697e90bf"
+  },
+  "12_Militar/03_Armada/Armada 1875/Rómenna crucero (1875).md": {
+    "ruta": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\12_Militar\\03_Armada\\Armada 1875\\Rómenna crucero (1875).md",
+    "sha256": "4feb02e1f60101090709d87ebfc67c99e9ee834715fae8de74bfe8dd48dc639b"
+  },
+  "12_Militar/03_Armada/Armada 1875/Systreyjar (1875).md": {
+    "ruta": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\12_Militar\\03_Armada\\Armada 1875\\Systreyjar (1875).md",
+    "sha256": "10aa8dfc235753db98867b2c3e96bdf94b141620e95ab438364865fef55fbec9"
+  },
+  "12_Militar/03_Armada/Armada 1875/Transportes armados (1875).md": {
+    "ruta": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\12_Militar\\03_Armada\\Armada 1875\\Transportes armados (1875).md",
+    "sha256": "1a8342781de51898802bc7cf58126168b5eb13a1a6c4533d40f8fef26f50fd67"
+  },
+  "12_Militar/03_Armada/Clases navales 1980/Anfibios Aranath - Pelargir - Forlond - Andúnië — 1980.md": {
+    "ruta": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\12_Militar\\03_Armada\\Clases navales 1980\\Anfibios Aranath - Pelargir - Forlond - Andúnië — 1980.md",
+    "sha256": "886e528cd306295a6db5da211b3fac38c0001a85399d6d79d5f11b074ab4d2ed"
+  },
+  "12_Militar/03_Armada/Clases navales 1980/Auxiliares Aulë - Ecthelion - Harlond - Númenor - Estel - Eärendil - Palantír - Alcarondas — 1980.md": {
+    "ruta": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\12_Militar\\03_Armada\\Clases navales 1980\\Auxiliares Aulë - Ecthelion - Harlond - Númenor - Estel - Eärendil - Palantír - Alcarondas — 1980.md",
+    "sha256": "0985198f82e957d2275e14b139389bad7264c70cf9b8d2fe8d21792498cf3ae0"
+  },
+  "12_Militar/03_Armada/Clases navales 1980/Contramedidas de minas Amon Sûl - Menel — 1980.md": {
+    "ruta": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\12_Militar\\03_Armada\\Clases navales 1980\\Contramedidas de minas Amon Sûl - Menel — 1980.md",
+    "sha256": "2473940cdf9628c81ab6613db3163efc2a5c516559bd8442c9629b10ea21df0f"
+  },
+  "12_Militar/03_Armada/Clases navales 1980/Corbetas Calenport - Eglarest — 1980.md": {
+    "ruta": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\12_Militar\\03_Armada\\Clases navales 1980\\Corbetas Calenport - Eglarest — 1980.md",
+    "sha256": "b524372fa228b0e566e3b476b6e3f5256e6c6b110c9f2a2c52e7e9c49e604ac8"
+  },
+  "12_Militar/03_Armada/Clases navales 1980/Cruceros Turgon - Eärendil - Noldor — 1980.md": {
+    "ruta": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\12_Militar\\03_Armada\\Clases navales 1980\\Cruceros Turgon - Eärendil - Noldor — 1980.md",
+    "sha256": "234408db865e1ec6eedbbef746f905518067fecd58e40e95bd37759a02f6555d"
+  },
+  "12_Militar/03_Armada/Clases navales 1980/Destructores Gil-galad - Beleg - Ossë — 1980.md": {
+    "ruta": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\12_Militar\\03_Armada\\Clases navales 1980\\Destructores Gil-galad - Beleg - Ossë — 1980.md",
+    "sha256": "dd7289bd531fb4dbfd20d797ea6849bbe477d4546668866ef17a938c78a0cd46"
+  },
+  "12_Militar/03_Armada/Clases navales 1980/Fragatas Círdan - Mithlond - Nimrodel — 1980.md": {
+    "ruta": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\12_Militar\\03_Armada\\Clases navales 1980\\Fragatas Círdan - Mithlond - Nimrodel — 1980.md",
+    "sha256": "0b154a973a861229042f168876bb0801f7860753702ea568f402afb613a391c9"
+  },
+  "12_Militar/03_Armada/Clases navales 1980/Lanchas lanzamisiles Nosselië — 1980.md": {
+    "ruta": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\12_Militar\\03_Armada\\Clases navales 1980\\Lanchas lanzamisiles Nosselië — 1980.md",
+    "sha256": "9d099b9a529f514a6d226ff4c9ff7a2920ded6324670d379405757bc598db1c6"
+  },
+  "12_Militar/03_Armada/Clases navales 1980/Patrulla Sírënandë - Malaca — 1980.md": {
+    "ruta": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\12_Militar\\03_Armada\\Clases navales 1980\\Patrulla Sírënandë - Malaca — 1980.md",
+    "sha256": "3d1e71fabbff4f8b2fd11bd345b6412b0f03c017febea582eb0587d2fcc6aceb"
+  },
+  "12_Militar/03_Armada/Clases navales 1980/Portaaviones Aulë II - Anárion I - Varda I — 1980.md": {
+    "ruta": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\12_Militar\\03_Armada\\Clases navales 1980\\Portaaviones Aulë II - Anárion I - Varda I — 1980.md",
+    "sha256": "7b5e5183b864ada83afc743c3e20a848f34bfdf1ef2f2ea0ab906a549a9671ea"
+  },
+  "12_Militar/03_Armada/Clases navales 1980/Submarinos Arnor - Eärendil - Tolfalas - Ossë — 1980.md": {
+    "ruta": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\12_Militar\\03_Armada\\Clases navales 1980\\Submarinos Arnor - Eärendil - Tolfalas - Ossë — 1980.md",
+    "sha256": "07ab92e2b76ee0fcb0c5e7cecd134eb534df1bb42eff110d12fbcd7962ce8ff6"
+  },
+  "12_Militar/03_Armada/Clases navales 2026/Buques de asalto-anfibios — 2026.md": {
+    "ruta": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\12_Militar\\03_Armada\\Clases navales 2026\\Buques de asalto-anfibios — 2026.md",
+    "sha256": "dc432632e7da158d64e976f0bf9bbcb150bdb50cfa3850a35806a44b6d61004f"
+  },
+  "12_Militar/03_Armada/Clases navales 2026/Corbetas oceánicas Calenport — 2026.md": {
+    "ruta": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\12_Militar\\03_Armada\\Clases navales 2026\\Corbetas oceánicas Calenport — 2026.md",
+    "sha256": "71dbcf866bf26e5c3d50a3b56ab864e54d15eb3052ea19c96ffc655028a3642b"
+  },
+  "12_Militar/03_Armada/Clases navales 2026/Destructores Gil-galad de defensa aérea — 2026.md": {
+    "ruta": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\12_Militar\\03_Armada\\Clases navales 2026\\Destructores Gil-galad de defensa aérea — 2026.md",
+    "sha256": "7065803973b809da5b81f26057e01f439de4df3b84c2caf429ecb4aa7d571990"
+  },
+  "12_Militar/03_Armada/Clases navales 2026/Escoltas especializados ASW-AAW — 2026.md": {
+    "ruta": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\12_Militar\\03_Armada\\Clases navales 2026\\Escoltas especializados ASW-AAW — 2026.md",
+    "sha256": "96092d6e93dfb124c435d4c621d1072ae5e3e5db037e8a5d0594d35833b6de7a"
+  },
+  "12_Militar/03_Armada/Clases navales 2026/Fragatas Círdan-Voronwë multipropósito — 2026.md": {
+    "ruta": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\12_Militar\\03_Armada\\Clases navales 2026\\Fragatas Círdan-Voronwë multipropósito — 2026.md",
+    "sha256": "ea901ce0b71d7be9b55796711c9dfd5c8d1a8e4cb0316112ba70d3913d2f128f"
+  },
+  "12_Militar/03_Armada/Clases navales 2026/Guerra de minas — 2026.md": {
+    "ruta": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\12_Militar\\03_Armada\\Clases navales 2026\\Guerra de minas — 2026.md",
+    "sha256": "6ea4d96cb0b02f72936cd5ab1ed6431cbbcc091b7b4d1eca9cedb062bd1e18d0"
+  },
+  "12_Militar/03_Armada/Clases navales 2026/Hidrografía — 2026.md": {
+    "ruta": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\12_Militar\\03_Armada\\Clases navales 2026\\Hidrografía — 2026.md",
+    "sha256": "8ca3e978358a2862657cc2162eccbbd744ee3f0c5448c68718cf00ccd2696b3c"
+  },
+  "12_Militar/03_Armada/Clases navales 2026/Hospitales — 2026.md": {
+    "ruta": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\12_Militar\\03_Armada\\Clases navales 2026\\Hospitales — 2026.md",
+    "sha256": "9c7a887fc772952712157eb3a56a652d4a0d8dbdbfa7348d238572bb6cf5667a"
+  },
+  "12_Militar/03_Armada/Clases navales 2026/LPD-LSD de desembarco — 2026.md": {
+    "ruta": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\12_Militar\\03_Armada\\Clases navales 2026\\LPD-LSD de desembarco — 2026.md",
+    "sha256": "0d46102f78b09c06004bff7c2ea3b0ef41aeb0ed54d0932333af5657690076dd"
+  },
+  "12_Militar/03_Armada/Clases navales 2026/Mando, comunicaciones y apoyo especializado — 2026.md": {
+    "ruta": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\12_Militar\\03_Armada\\Clases navales 2026\\Mando, comunicaciones y apoyo especializado — 2026.md",
+    "sha256": "f527f4e8600556054aeb77cb72961b2eb2bb6c623fa2864bbe446ff92fe49941"
+  },
+  "12_Militar/03_Armada/Clases navales 2026/Oceanográficos — 2026.md": {
+    "ruta": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\12_Militar\\03_Armada\\Clases navales 2026\\Oceanográficos — 2026.md",
+    "sha256": "c07ec2d78fbe952943bd5c0962e6c1a476a8cadbceafae4d236a2ff1456e5d7c"
+  },
+  "12_Militar/03_Armada/Clases navales 2026/OPV Sírënandë — 2026.md": {
+    "ruta": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\12_Militar\\03_Armada\\Clases navales 2026\\OPV Sírënandë — 2026.md",
+    "sha256": "ee66a66db3ce0d5dadaedf7d79c0f3fac6e1f8480cd77e01d02451df417553fa"
+  },
+  "12_Militar/03_Armada/Clases navales 2026/Patrulleros rápidos — 2026.md": {
+    "ruta": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\12_Militar\\03_Armada\\Clases navales 2026\\Patrulleros rápidos — 2026.md",
+    "sha256": "ca04ebeeece8e6ef241aed3013919b188360e84904e7a55286bb2e60e6c6dda6"
+  },
+  "12_Militar/03_Armada/Clases navales 2026/Petroleros de flota — 2026.md": {
+    "ruta": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\12_Militar\\03_Armada\\Clases navales 2026\\Petroleros de flota — 2026.md",
+    "sha256": "ff7f02d7dee41b91f396aca0aeec80de1150d0388cf75cf06f60abe6024c7c58"
+  },
+  "12_Militar/03_Armada/Clases navales 2026/Portaaviones convencionales Anárion II - Elwing I - Aldarion I — 2026.md": {
+    "ruta": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\12_Militar\\03_Armada\\Clases navales 2026\\Portaaviones convencionales Anárion II - Elwing I - Aldarion I — 2026.md",
+    "sha256": "e34c602087e4f4c852578641fb09091279d5bd528c844fab425b0d4afe17d9d8"
+  },
+  "12_Militar/03_Armada/Clases navales 2026/Portaaviones ligeros STOVL Varda II–III — 2026.md": {
+    "ruta": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\12_Militar\\03_Armada\\Clases navales 2026\\Portaaviones ligeros STOVL Varda II–III — 2026.md",
+    "sha256": "171349255466e31555e06f52d42e7edab0d2e762a905db7fc57ebc695df0a7ad"
+  },
+  "12_Militar/03_Armada/Clases navales 2026/Portaaviones nucleares Telperion — 2026.md": {
+    "ruta": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\12_Militar\\03_Armada\\Clases navales 2026\\Portaaviones nucleares Telperion — 2026.md",
+    "sha256": "87067f41256d34c599e8119d0b671298c5cb91d714627d7615babab4532787de"
+  },
+  "12_Militar/03_Armada/Clases navales 2026/Reabastecedores multipropósito — 2026.md": {
+    "ruta": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\12_Militar\\03_Armada\\Clases navales 2026\\Reabastecedores multipropósito — 2026.md",
+    "sha256": "4839b39165eb53650ed69632e6b5cbb92835e81ebddd6ef36c9b6d5a296e7b64"
+  },
+  "12_Militar/03_Armada/Clases navales 2026/Reparación-taller — 2026.md": {
+    "ruta": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\12_Militar\\03_Armada\\Clases navales 2026\\Reparación-taller — 2026.md",
+    "sha256": "d00d656c68db54503be007439e33f7a4e7c07146af2dc22f5fcd0cdfd172be1d"
+  },
+  "12_Militar/03_Armada/Clases navales 2026/Salvamento y rescate — 2026.md": {
+    "ruta": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\12_Militar\\03_Armada\\Clases navales 2026\\Salvamento y rescate — 2026.md",
+    "sha256": "04ced770e55f5cee423248b38cf67dd90a40b95ea3d2912e89f8f5a860ceca55"
+  },
+  "12_Militar/03_Armada/Clases navales 2026/Submarinos convencionales AIP Tolfalas II–IV — 2026.md": {
+    "ruta": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\12_Militar\\03_Armada\\Clases navales 2026\\Submarinos convencionales AIP Tolfalas II–IV — 2026.md",
+    "sha256": "9cb2427417bf6c997a97aa9bcbc743e4847b812b1365093fbcedc724e4e2ac0b"
+  },
+  "12_Militar/03_Armada/Clases navales 2026/Submarinos especiales Aeglos y rescate Falathar — 2026.md": {
+    "ruta": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\12_Militar\\03_Armada\\Clases navales 2026\\Submarinos especiales Aeglos y rescate Falathar — 2026.md",
+    "sha256": "3bd7f0662cfeda55015b76331332386f1e5bd3584a651c75684dc13a01f09152"
+  },
+  "12_Militar/03_Armada/Clases navales 2026/Submarinos estratégicos Arnor II–IV — 2026.md": {
+    "ruta": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\12_Militar\\03_Armada\\Clases navales 2026\\Submarinos estratégicos Arnor II–IV — 2026.md",
+    "sha256": "b78855952529c010af17e5149e9141b66b2c3d33205f2ed4fc66bce489abe115"
+  },
+  "12_Militar/03_Armada/Clases navales 2026/Submarinos nucleares de ataque Eärendil II–IV — 2026.md": {
+    "ruta": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\12_Militar\\03_Armada\\Clases navales 2026\\Submarinos nucleares de ataque Eärendil II–IV — 2026.md",
+    "sha256": "f6b2149d95a0c0dd6f09ee06fe62f861cdc728ad9ecaa74f5d1750cdbd887026"
+  },
+  "12_Militar/03_Armada/Clases navales 2026/Transportes estratégicos — 2026.md": {
+    "ruta": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\12_Militar\\03_Armada\\Clases navales 2026\\Transportes estratégicos — 2026.md",
+    "sha256": "272b643f56e3c933ebb06b086dbc325830eca3fd05f9bb3a171ee60a7b62e39b"
+  },
+  "12_Militar/03_Armada/Clases navales 2026/Vehículos no tripulados navales — 2026.md": {
+    "ruta": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\12_Militar\\03_Armada\\Clases navales 2026\\Vehículos no tripulados navales — 2026.md",
+    "sha256": "b0023e05e13a44e8b12694738f77f5f85b95fa5cfa20f0f807c34663c450589e"
+  },
+  "12_Militar/03_Armada/Serie Círdan y transición a Voronwë.md": {
+    "ruta": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\12_Militar\\03_Armada\\Serie Círdan y transición a Voronwë.md",
+    "sha256": "89e9930718d3fb2cd1543862f63be92169dc75b4e6f74e44d5f3532468f47ff0"
+  },
+  "12_Militar/03_Armada/Armada 1500-1600.md": {
+    "ruta": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\12_Militar\\03_Armada\\Armada 1500-1600.md",
+    "sha256": "24f9cde9011d136119494819352dba5bbd6f066ee817da2c66cf26d3ad45b6bd"
+  },
+  "12_Militar/03_Armada/Armada antigua 500 aC-500 dC.md": {
+    "ruta": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\12_Militar\\03_Armada\\Armada antigua 500 aC-500 dC.md",
+    "sha256": "3a252ed005e82d9af30337062a0dfafb4c35567be643408efb00e8ebd209856b"
+  },
+  "12_Militar/03_Armada/Armada.md": {
+    "ruta": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\12_Militar\\03_Armada\\Armada.md",
+    "sha256": "c7fb5da0fefe988532cfca21bd8f701b5eeef32806089d91099f5dba03fedeae"
+  },
+  "12_Militar/03_Armada/Clases navales 1980.md": {
+    "ruta": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\12_Militar\\03_Armada\\Clases navales 1980.md",
+    "sha256": "d2d3524544bacd04ec563dea5fe2388fb12614fe1cc0154713d4a32e415652c7"
+  },
+  "12_Militar/03_Armada/Clases navales 2026.md": {
+    "ruta": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\12_Militar\\03_Armada\\Clases navales 2026.md",
+    "sha256": "5c38e067ba2173ef82ed88db3c17bb91b676f6a2b7738f0e48357c1592203930"
+  },
+  "12_Militar/03_Armada/Comparación naval Valinor y Royal Navy (1907).md": {
+    "ruta": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\12_Militar\\03_Armada\\Comparación naval Valinor y Royal Navy (1907).md",
+    "sha256": "a75bd3429cfddde23ef5a904944871440aac9ef3940da6bc96f6c2cc93d2c2a4"
+  },
+  "12_Militar/03_Armada/Corbetas fragatas y persistencia naval.md": {
+    "ruta": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\12_Militar\\03_Armada\\Corbetas fragatas y persistencia naval.md",
+    "sha256": "e6098f0da1253c5d37ce678f8ff1acd151da458827376e330f24591f64097cfe"
+  },
+  "12_Militar/03_Armada/Cultura naval y continuidad de rutas.md": {
+    "ruta": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\12_Militar\\03_Armada\\Cultura naval y continuidad de rutas.md",
+    "sha256": "53151e5878adb37dd75e4dc0959ed3b24c69e77fb7a5e2dede911a91234e5353"
+  },
+  "12_Militar/03_Armada/Escenario de composición naval A093.md": {
+    "ruta": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\12_Militar\\03_Armada\\Escenario de composición naval A093.md",
+    "sha256": "1dd50318e678e5b1cc05964bf760662bf665a3c536733fb9dbee11fc7dbc0f22"
+  },
+  "12_Militar/03_Armada/Evolución Naval 1850-2026.md": {
+    "ruta": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\12_Militar\\03_Armada\\Evolución Naval 1850-2026.md",
+    "sha256": "a17498f25da67de11dc098342fc421c10a695596e79983fccade14e2cafb5a23"
+  },
+  "12_Militar/03_Armada/Lanchas misilísticas y territorios candidatos.md": {
+    "ruta": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\12_Militar\\03_Armada\\Lanchas misilísticas y territorios candidatos.md",
+    "sha256": "63a2e479c6f1b598b112d11f312e465d80a6e25c3f7b310e9dca3fb492eedbd7"
+  },
+  "12_Militar/03_Armada/Reconstrucciones navales 1945 y 1960.md": {
+    "ruta": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\12_Militar\\03_Armada\\Reconstrucciones navales 1945 y 1960.md",
+    "sha256": "7c7fc2c99a2249a85754f6a453f12fcc5149aed5c75f8174189412128b75a186"
+  },
+  "12_Militar/03_Armada/Redes navales y transición a drones.md": {
+    "ruta": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\12_Militar\\03_Armada\\Redes navales y transición a drones.md",
+    "sha256": "011b6ab9d6a6060318681bc391272af7aaf7305d68aaf662e0b25944025e032f"
+  },
+  "12_Militar/03_Armada/Registro naval 2026 A092.md": {
+    "ruta": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\12_Militar\\03_Armada\\Registro naval 2026 A092.md",
+    "sha256": "3147ed881e3da1fc394170034ccabceef297c8ab2c2008d8b7c47334c8b81c62"
+  },
+  "12_Militar/03_Armada/Serie naval anual 1875 2026 A092.md": {
+    "ruta": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\12_Militar\\03_Armada\\Serie naval anual 1875 2026 A092.md",
+    "sha256": "59e147ec73c5c80b89385865324b78d991a58012b92be98cb8ace6d6b21c0d8a"
+  },
+  "12_Militar/03_Armada/Índice de armada.md": {
+    "ruta": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\12_Militar\\03_Armada\\Índice de armada.md",
+    "sha256": "52802df1c699fe59a8db4769d284a5b045c99e10fca530b338d502dd030a633b"
+  },
+  "12_Militar/03_Armada/Armada 1875/Cañoneras (1875).md": {
+    "ruta": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\12_Militar\\03_Armada\\Armada 1875\\Cañoneras (1875).md",
+    "sha256": "8cb8442e58545d444c3c2c57850d8dbfe66839a6e81d0720e53caf772b4c8ec5"
+  },
+  "12_Militar/03_Armada/Armada 1875/Comparación con la Royal Navy (1875).md": {
+    "ruta": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\12_Militar\\03_Armada\\Armada 1875\\Comparación con la Royal Navy (1875).md",
+    "sha256": "294d3dab0cba8d5b656c087bd886998546366992d6b9aa0de284bd38b6647dcb"
+  },
+  "12_Militar/03_Armada/Armada 1875/Distribución territorial (1875).md": {
+    "ruta": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\12_Militar\\03_Armada\\Armada 1875\\Distribución territorial (1875).md",
+    "sha256": "8908241285fe6d690907243fb2909412e7570f07eaa9f1dc5baac7b2ca2a2eb1"
+  },
+  "12_Militar/03_Armada/Armada 1875/Índice de la Armada de 1875.md": {
+    "ruta": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\12_Militar\\03_Armada\\Armada 1875\\Índice de la Armada de 1875.md",
+    "sha256": "f611e918b206e85cdd657a5299c30542ddc0992cb450462d18d31ad1f7592bc1"
+  },
+  "12_Militar/03_Armada/Exportaciones A099 A101/EXP-1887-CHL-01.md": {
+    "ruta": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\12_Militar\\03_Armada\\Exportaciones A099 A101\\EXP-1887-CHL-01.md",
+    "sha256": "6949d22a5125722788fb5866b29f8fb4cb96ccd6efa0ac9b7e16a7195cec039c"
+  },
+  "12_Militar/03_Armada/Exportaciones A099 A101/EXP-1896-PRT-01.md": {
+    "ruta": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\12_Militar\\03_Armada\\Exportaciones A099 A101\\EXP-1896-PRT-01.md",
+    "sha256": "20f9ca7467c32336b85bfd80f4655de0b030dba190eb0ccbe7932eec0efdb7b1"
+  },
+  "12_Militar/03_Armada/Exportaciones A099 A101/EXP-1908-CHL-01.md": {
+    "ruta": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\12_Militar\\03_Armada\\Exportaciones A099 A101\\EXP-1908-CHL-01.md",
+    "sha256": "2e6707e1ea7eeaff18661f30180b768693764cd1a4c9922cb50639fb77de0b0c"
+  },
+  "12_Militar/03_Armada/Exportaciones A099 A101/EXP-1913-BRA-01.md": {
+    "ruta": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\12_Militar\\03_Armada\\Exportaciones A099 A101\\EXP-1913-BRA-01.md",
+    "sha256": "4d3bbccdaae1cdcdbe9455d8ab1e05fe71f5f7be096ff65c732f2addbb87161b"
+  },
+  "12_Militar/03_Armada/Exportaciones A099 A101/EXP-1927-CHL-01.md": {
+    "ruta": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\12_Militar\\03_Armada\\Exportaciones A099 A101\\EXP-1927-CHL-01.md",
+    "sha256": "5f576a1759b49a270039bc179307966854b916324273e41c56dab3cdae84e29a"
+  },
+  "12_Militar/03_Armada/Exportaciones A099 A101/EXP-1934-PRT-01.md": {
+    "ruta": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\12_Militar\\03_Armada\\Exportaciones A099 A101\\EXP-1934-PRT-01.md",
+    "sha256": "772a3cb964da2dcdb340330e2371b11558f4c507913a943794cf73a8a4b71522"
+  },
+  "12_Militar/03_Armada/Exportaciones A099 A101/EXP-1948-NZL-01.md": {
+    "ruta": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\12_Militar\\03_Armada\\Exportaciones A099 A101\\EXP-1948-NZL-01.md",
+    "sha256": "3da4bc98c3418a71f0986de2d9f9009433f1ef0aba7ea79373e7d7d101622e20"
+  },
+  "12_Militar/03_Armada/Exportaciones A099 A101/EXP-1956-CHL-01.md": {
+    "ruta": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\12_Militar\\03_Armada\\Exportaciones A099 A101\\EXP-1956-CHL-01.md",
+    "sha256": "b4ce1a7cabc40e6e0c5fb37d4b41b5e2ca5fd6dfb3a68659175d84be9485941e"
+  },
+  "12_Militar/03_Armada/Exportaciones A099 A101/EXP-1966-PER-01.md": {
+    "ruta": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\12_Militar\\03_Armada\\Exportaciones A099 A101\\EXP-1966-PER-01.md",
+    "sha256": "ee3a689418ab9096e3518be618d8c950f72753035ed107f54b58760750c972f7"
+  },
+  "12_Militar/03_Armada/Exportaciones A099 A101/EXP-1968-PRT-01.md": {
+    "ruta": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\12_Militar\\03_Armada\\Exportaciones A099 A101\\EXP-1968-PRT-01.md",
+    "sha256": "1fe31a167933ccf4efbdb4b3007c6e5b875494123b34573461d5cca9f1df69d7"
+  },
+  "12_Militar/03_Armada/Exportaciones A099 A101/EXP-1974-CHL-01.md": {
+    "ruta": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\12_Militar\\03_Armada\\Exportaciones A099 A101\\EXP-1974-CHL-01.md",
+    "sha256": "72ece6270de413dd52d0c56757546d7f7a3fb3651e350732013e007cfbca013e"
+  },
+  "12_Militar/03_Armada/Exportaciones A099 A101/EXP-1975-CHL-02.md": {
+    "ruta": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\12_Militar\\03_Armada\\Exportaciones A099 A101\\EXP-1975-CHL-02.md",
+    "sha256": "3c85c9f1c52634301a655d674bb869828a81ea185c360ab7d63d73a20fa75f6d"
+  },
+  "12_Militar/03_Armada/Exportaciones A099 A101/EXP-1978-IDN-01.md": {
+    "ruta": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\12_Militar\\03_Armada\\Exportaciones A099 A101\\EXP-1978-IDN-01.md",
+    "sha256": "7946c50af14cc1ad758ed72f5f665d0db36afd5ecdfd7a9acf7a09be0296c9d6"
+  },
+  "12_Militar/03_Armada/Exportaciones A099 A101/EXP-1983-PER-01.md": {
+    "ruta": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\12_Militar\\03_Armada\\Exportaciones A099 A101\\EXP-1983-PER-01.md",
+    "sha256": "e092187d788275841fdd567640dc09db5bf070c0360f10afba21b6a513e3e19f"
+  },
+  "12_Militar/03_Armada/Exportaciones A099 A101/EXP-1986-CHL-01.md": {
+    "ruta": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\12_Militar\\03_Armada\\Exportaciones A099 A101\\EXP-1986-CHL-01.md",
+    "sha256": "98aa4c98ba021f4d34712f02e3922f3bb72d798ab9ea8835923dc50850821421"
+  },
+  "12_Militar/03_Armada/Exportaciones A099 A101/EXP-1988-ZAF-01.md": {
+    "ruta": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\12_Militar\\03_Armada\\Exportaciones A099 A101\\EXP-1988-ZAF-01.md",
+    "sha256": "7ed2fa67b5ca884c263652d87e8f9642641d7a94f9f3b734dcc4fdbb113e1c87"
+  },
+  "12_Militar/03_Armada/Exportaciones A099 A101/EXP-1993-BRA-01.md": {
+    "ruta": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\12_Militar\\03_Armada\\Exportaciones A099 A101\\EXP-1993-BRA-01.md",
+    "sha256": "93708c0d75c05ebb11aeaec00250ca6bc2c865b8f86a6cbf23659238839a546c"
+  },
+  "12_Militar/03_Armada/Exportaciones A099 A101/EXP-1998-IND-01.md": {
+    "ruta": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\12_Militar\\03_Armada\\Exportaciones A099 A101\\EXP-1998-IND-01.md",
+    "sha256": "a92c6e646589994c3776f6d7d643aa3e6ac1240b867876fb527af5b31dbd1878"
+  },
+  "12_Militar/03_Armada/Exportaciones A099 A101/EXP-2001-CHL-01.md": {
+    "ruta": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\12_Militar\\03_Armada\\Exportaciones A099 A101\\EXP-2001-CHL-01.md",
+    "sha256": "d74f9a26b204dabbc898385612dc36e502371076ae089c91ca1daa1a30ed999b"
+  },
+  "12_Militar/03_Armada/Exportaciones A099 A101/EXP-2004-PHL-01.md": {
+    "ruta": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\12_Militar\\03_Armada\\Exportaciones A099 A101\\EXP-2004-PHL-01.md",
+    "sha256": "ccb82017f77afba54de1a9fed203e8e847740ad33647a57bb6f2db58796165f3"
+  },
+  "12_Militar/03_Armada/Exportaciones A099 A101/EXP-2009-PRT-01.md": {
+    "ruta": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\12_Militar\\03_Armada\\Exportaciones A099 A101\\EXP-2009-PRT-01.md",
+    "sha256": "75c4e18b95f78b7957775906caba022284e521fafe67b2c28cff815637d06ca3"
+  },
+  "12_Militar/03_Armada/Exportaciones A099 A101/EXP-2012-IDN-01.md": {
+    "ruta": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\12_Militar\\03_Armada\\Exportaciones A099 A101\\EXP-2012-IDN-01.md",
+    "sha256": "02b52c879be21857f676a5806e0aa161778ee31c178401712ad770a5a91efdde"
+  },
+  "12_Militar/03_Armada/Exportaciones A099 A101/EXP-2015-CHL-01.md": {
+    "ruta": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\12_Militar\\03_Armada\\Exportaciones A099 A101\\EXP-2015-CHL-01.md",
+    "sha256": "7fde8d8466964ae68141bdedd14881b1d1172d6cd52c699d6b8ce3af00aa6fef"
+  },
+  "12_Militar/03_Armada/Exportaciones A099 A101/EXP-2018-NZL-01.md": {
+    "ruta": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\12_Militar\\03_Armada\\Exportaciones A099 A101\\EXP-2018-NZL-01.md",
+    "sha256": "12d0fee258435957718575efbbdda38458bbdd7972f8db5eb84e832b603bc8af"
+  },
+  "12_Militar/03_Armada/Exportaciones A099 A101/EXP-2021-PHL-01.md": {
+    "ruta": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\12_Militar\\03_Armada\\Exportaciones A099 A101\\EXP-2021-PHL-01.md",
+    "sha256": "d5e2a85cb4f8f568c6b8d3ebebffdbad5b528b3855b913d03782533d4742879f"
+  },
+  "12_Militar/03_Armada/Exportaciones A099 A101/EXP-2023-CHL-01.md": {
+    "ruta": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\12_Militar\\03_Armada\\Exportaciones A099 A101\\EXP-2023-CHL-01.md",
+    "sha256": "92c861e56ded67b3d4a1a7143c38ef93b024194a082129f80327d1693c364dd1"
+  },
+  "12_Militar/03_Armada/Exportaciones A099 A101/EXP-2025-IND-01.md": {
+    "ruta": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\12_Militar\\03_Armada\\Exportaciones A099 A101\\EXP-2025-IND-01.md",
+    "sha256": "1ced1fe7f1819c276427de084f9389ea2226e009fb7ef988116f19fe39dc0c06"
+  },
+  "12_Militar/03_Armada/Exportaciones A099 A101/Índice de expedientes.md": {
+    "ruta": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\12_Militar\\03_Armada\\Exportaciones A099 A101\\Índice de expedientes.md",
+    "sha256": "9fa64621b0444033c678b5893d813f13b1310d338546ccb10de3f314331d01cb"
+  },
+  "00_Canon/Canon V16 Maestro.md": {
+    "ruta": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\00_Canon\\Canon V16 Maestro.md",
+    "sha256": "aa418dbb18c6b6e029471e6599faa0d90403dcaee2197995ed6bac796da11232"
+  }
+}

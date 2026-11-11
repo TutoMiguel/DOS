@@ -33,3 +33,9 @@ Los antecedentes aeronáuticos del siglo XIX y la aviación militar del XX conse
 - [[11_Ciencia y Tecnologia/OceanNet]]
 - [[08_Economia/Sistema Valinari de Fomento y Desarrollo]]
 - [[09_Politica/Evolución económica e institucional de las Casas]]
+
+## Historia institucional adoptada en V17.4
+
+1906 vuelo reconocido; 1909 escuela; 1912 servicio permanente; 1926 independencia; 1952 servicio inicial de reacción; 1958 reorganización federal. La fase 1956–1980 de la periodización anterior es expansión de la reacción, compatible con su inicio en 1952. Las cantidades y prestaciones no fijadas siguen pendientes.
+
+[[12_Militar/04_Fuerzas Aéreas/Historia de la Fuerza Aérea A095|Historia aérea A095]] · [[00_Canon/Integraciones V16/Integración A102 automotriz y aérea|Integración A102]]

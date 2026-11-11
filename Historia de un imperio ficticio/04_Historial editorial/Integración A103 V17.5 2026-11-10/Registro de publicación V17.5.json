@@ -1,0 +1,133 @@
+{
+  "revision": "V17.5 A103",
+  "publicaciones": [
+    {
+      "destino": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\00_Canon\\Integraciones V16\\Acumulativa A103 Clase Vëantur y relevo de Círdan I.md",
+      "anterior_sha256": null,
+      "actual_sha256": "604fe1c53b77f6d1c5ba63f19e0f3f97849ef5c2405dff846dcc2680bd09f897"
+    },
+    {
+      "destino": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\12_Militar\\03_Armada\\Clase Vëantur 1884-1913.md",
+      "anterior_sha256": null,
+      "actual_sha256": "16d7081df5655446ca106ed44dd830ddfbf5239bae6473a01f83f509c37f6b54"
+    },
+    {
+      "destino": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\00_Canon\\Canon V16 Maestro.md",
+      "anterior_sha256": "aa418dbb18c6b6e029471e6599faa0d90403dcaee2197995ed6bac796da11232",
+      "actual_sha256": "366165774f15d41c52d455b7f789a947df4341b0069fe576d5fb8c3a171e0fce"
+    },
+    {
+      "destino": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\01_Cronologia\\Cronología Territorial V16.md",
+      "anterior_sha256": "776262d08547b14317001960a8fd42c59351a6db21bac1e3528f2f20904ff3d8",
+      "actual_sha256": "c9d8f8e7082c96e006073e22d5896853acc1b9f47e5be1aa877db196d0ecffab"
+    },
+    {
+      "destino": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\12_Militar\\03_Armada\\Armada 1875\\Círdan I (1875).md",
+      "anterior_sha256": "93220229c0334b7bd0bcbe9128ff1ec09d3f6969f65e62c95a9e8b41773546d1",
+      "actual_sha256": "9f060090517fa9c1450e8a09264f0de45a4e500674a41a57b97703615322559a"
+    },
+    {
+      "destino": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\12_Militar\\03_Armada\\AM1 Armada 1875-2026.md",
+      "anterior_sha256": "1d5857c619447b2cc4c8ef476a896259900d262b5b669f8e6de6b3ea859ff19d",
+      "actual_sha256": "503bc2fd45fb012d5006b20c30f6e0f5532ffdc6759d6206fcc1b63feb52dcdc"
+    },
+    {
+      "destino": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\12_Militar\\03_Armada\\Índice de armada.md",
+      "anterior_sha256": "682ce2f0784349276b6f12a4e740fc02dfe72c5f8fdd14b6ba2e20098ff68b35",
+      "actual_sha256": "434c222628554172b06562970b79b909bc80ab1ea9c09e9cb6399d4dfb63a807"
+    },
+    {
+      "destino": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\12_Militar\\Índice Militar.md",
+      "anterior_sha256": "ea267720db214625e0689224b4addcbaec7af3c6f65a38fe2d0d0792580b68e6",
+      "actual_sha256": "4520e96cae6ed0dab8f2d9a9f681249814470d6377842b6c400f50b819215f01"
+    },
+    {
+      "destino": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\00_Canon\\Registro de integración acumulativa V16.md",
+      "anterior_sha256": "9e3c95c53097fb95a3a87b554403f5a1b7538462fe34cf20b76800cf242eea18",
+      "actual_sha256": "3014d44306082b4fb3c2c208d3aa572d6ef3836a7cb1e9f6b33fffb1fccca04d"
+    },
+    {
+      "destino": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\00_Canon\\Registro de Cambios.md",
+      "anterior_sha256": "3b8883e934053b18662db1fba2057dbadcd5c9d96159bcd54a5f0a859d226e6d",
+      "actual_sha256": "2f1fe04db8c9a310071ee0570e73e64024b21fd557dac3cc74902cf51806ecae"
+    },
+    {
+      "destino": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\00_Canon\\Inicio del Canon V16.md",
+      "anterior_sha256": "b65b96e150b73430076a85df614640fb59ac0d06116b157928cce6bc4736f303",
+      "actual_sha256": "a1240fe2ffb12d5578275df6cfb24bf3e898e2d269e44ac7170c4d18137b504f"
+    },
+    {
+      "destino": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\00_Canon\\Panel de Control V16.md",
+      "anterior_sha256": "ddf39738c9050c3c6330c3af480ddeaf183b73545e538ef9ac565e1964123dac",
+      "actual_sha256": "fa3b04910b88d9b2c29474cab52bd9289e227699da72ebdcf5005aab4beac111"
+    },
+    {
+      "destino": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\12_Militar\\03_Armada\\Catálogo maestro naval 1875-2026.md",
+      "anterior_sha256": "f90b0c90366f9763e5c0bbade2891cfc46dd8790b68da8efd201b597f1c2b8da",
+      "actual_sha256": "6acb56a6bd8f7077a7e4c325e1f5a2d02b6093998431d8288e2ba70186703da3"
+    },
+    {
+      "destino": "C:\\Users\\migue\\OneDrive\\DOS\\Historia de un imperio ficticio\\00_Abrir proyecto\\Índice general.md",
+      "anterior_sha256": "fa68842e1b5e4ff4359a0eaaffaee1a91ae40ecaa1c67f6cd71dcd09a2403801",
+      "actual_sha256": "02487f217d73fe2d74d6a52cd6f21c74e5cc732ce3e91a697fb2c6c2e7b10536"
+    },
+    {
+      "destino": "C:\\Users\\migue\\OneDrive\\DOS\\Historia de un imperio ficticio\\00_Abrir proyecto\\Índice de canon, Word, cronología y acumulativas.md",
+      "anterior_sha256": "098ce54f555539c8d85dccf57ffe47e6f5b67cc44a185a3d9e97b7b582f729a7",
+      "actual_sha256": "f68cb81df1b54cc4cb290c19b152ab6115cad09bb8aaf96dc183b8476a568da4"
+    },
+    {
+      "destino": "C:\\Users\\migue\\OneDrive\\DOS\\Historia de un imperio ficticio\\05_Control y herramientas\\rutas_proyecto.json",
+      "anterior_sha256": "18d7dcb5e3927ee899c1fb4032d531fe1762677dc0154089fa421efd3921c398",
+      "actual_sha256": "a900bc371fd277aca7281696cb6228a1ce89b7e92dd86c143691207a87686932"
+    },
+    {
+      "destino": "C:\\Users\\migue\\OneDrive\\DOS\\Canon V17.5 Maestro A103.docx",
+      "anterior_sha256": null,
+      "actual_sha256": "1c70d6e6687d772287da135cf8b09320f0567e4f88737ae42ff538b9aaa9ddc1"
+    },
+    {
+      "destino": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\10_Archivo\\Documentos editoriales\\Oficial\\Canon V17.5 Maestro A103.docx",
+      "anterior_sha256": null,
+      "actual_sha256": "1c70d6e6687d772287da135cf8b09320f0567e4f88737ae42ff538b9aaa9ddc1"
+    },
+    {
+      "destino": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\10_Archivo\\Documentos editoriales\\Oficial\\Canon V16 Maestro.docx",
+      "anterior_sha256": "51df23d81b3c8a6e386661ad6152ea41e8394d92e733c66fc25c40484274c7ba",
+      "actual_sha256": "1c70d6e6687d772287da135cf8b09320f0567e4f88737ae42ff538b9aaa9ddc1"
+    },
+    {
+      "destino": "C:\\Users\\migue\\OneDrive\\DOS\\Historia de un imperio ficticio\\Canon V16 Maestro.docx",
+      "anterior_sha256": "51df23d81b3c8a6e386661ad6152ea41e8394d92e733c66fc25c40484274c7ba",
+      "actual_sha256": "1c70d6e6687d772287da135cf8b09320f0567e4f88737ae42ff538b9aaa9ddc1"
+    },
+    {
+      "destino": "C:\\Users\\migue\\OneDrive\\DOS\\Historia de un imperio ficticio\\Canon V16 Maestro - Exportacion.docx",
+      "anterior_sha256": "51df23d81b3c8a6e386661ad6152ea41e8394d92e733c66fc25c40484274c7ba",
+      "actual_sha256": "1c70d6e6687d772287da135cf8b09320f0567e4f88737ae42ff538b9aaa9ddc1"
+    },
+    {
+      "destino": "C:\\Users\\migue\\OneDrive\\DOS\\Historia de un imperio ficticio\\Canon V16 Maestro.pdf",
+      "anterior_sha256": "6af4b293de686a0d9d59d37ff0c8439511e87481da82c2bb520a2d54326cb4bf",
+      "actual_sha256": "7888e4977b438e1a131dc64fce66cd75d7356c5cad41670c93126b97ed5afad2"
+    },
+    {
+      "destino": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\10_Archivo\\Documentos editoriales\\Oficial\\Canon V17.5 Maestro A103.pdf",
+      "anterior_sha256": null,
+      "actual_sha256": "7888e4977b438e1a131dc64fce66cd75d7356c5cad41670c93126b97ed5afad2"
+    },
+    {
+      "destino": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\10_Archivo\\Documentos editoriales\\Oficial\\Acumulativa A103 integrada.docx",
+      "anterior_sha256": null,
+      "actual_sha256": "256496b5a21e39f472b3af16d2bcb293bd79e58e38207db8cec781f453cecd2a"
+    },
+    {
+      "destino": "C:\\Users\\migue\\OneDrive\\DOS\\Historia de un imperio ficticio\\01_Exportaciones vigentes\\Procedencia de las exportaciones.json",
+      "anterior_sha256": "ea9a5afc7224e524ecc743b2a6dca930e1f0d6cbd839546e0864521e830b5f68",
+      "actual_sha256": "3d9aed73ff2dc4a5085552276ecbbf37a0cd665525d1170e5a1050210bc5b567"
+    }
+  ],
+  "destinos_verificados": 25,
+  "historial": "C:\\Users\\migue\\OneDrive\\DOS\\Historia de un imperio ficticio\\04_Historial editorial\\Integración A103 V17.5 2026-11-10",
+  "sincronizacion_remota_verificada": false
+}

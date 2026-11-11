@@ -1,7 +1,7 @@
 # Cronología maestra atlántica de la Unión Valinoriana
 
 
-Estado: VIGENTE V16.5 A092 y A093. Las decisiones expresas posteriores del autor prevalecen sobre V16.3. Tol Eressëa 20–40 y Groenlandia 55–75 d. C.; poblaciones antiguas conservadas por ámbito.
+Estado: VIGENTE V17.5 A103, con A092 y A093 conservadas. Las decisiones expresas posteriores del autor prevalecen sobre V16.3. Tol Eressëa 20–40 y Groenlandia 55–75 d. C.; poblaciones antiguas conservadas por ámbito.
 
 * **2026 clasificación editorial:** Islandia y Groenlandia son unidades federales externas al Reino; 2026 no es primera incorporación histórica.
 * **2026 cuentas conciliadas:** 481 + 37 + 5,5 = 523,5 millones; externas vigentes 42,5. PIB PPA 58,50 + 7,00 = 65,50 billones; los 0,95 de Islandia y Groenlandia ya están incluidos en las externas.
@@ -982,3 +982,202 @@ Las introducciones siguientes pertenecen al desarrollo narrativo A092 incorporad
 - **Objetivo técnico:** 42 % térmico neto al eje sobre PCI en punto nominal; APU diésel de 25–30 kW eléctricos para servicios estacionarios con la turbina principal apagada. Producción y autonomía pendientes.
 
 Véase [[00_Canon/Integraciones V16/Acumulativa A093 V16.5|Resoluciones A093]] y [[12_Militar/03_Armada/Redes navales y transición a drones|Redes navales]]. El escenario 80 fragatas, 40 corbetas y 96 OPV no sustituye el inventario vigente 64, 72 y 80.
+
+
+## Integración exportadora V17 3 A101
+
+Base: Maestro V17.2 A100 y reconstrucción E1 incorporada por el autor el 10 de noviembre de 2026. Corte narrativo 31 de diciembre de 2026. Los hitos de aceptación son ficción histórica aprobada, no evidencia documental. A100 conserva cero expedientes con C4 documental acreditado.
+
+### Firmas y actuaciones C3 de A099
+
+- **1887 · C3:** [[12_Militar/03_Armada/Exportaciones A099 A101/EXP-1887-CHL-01|EXP-1887-CHL-01]], Chile, Mantenimiento naval y formación técnica. La firma no prueba entrega ni cobro.
+- **1896 · C3:** [[12_Militar/03_Armada/Exportaciones A099 A101/EXP-1896-PRT-01|EXP-1896-PRT-01]], Portugal, Lanchas torpederas costeras. La firma no prueba entrega ni cobro.
+- **1908 · C3:** [[12_Militar/03_Armada/Exportaciones A099 A101/EXP-1908-CHL-01|EXP-1908-CHL-01]], Chile, Dirección óptica de tiro y repuestos. La firma no prueba entrega ni cobro.
+- **1913 · C3:** [[12_Militar/03_Armada/Exportaciones A099 A101/EXP-1913-BRA-01|EXP-1913-BRA-01]], Brasil, Reacondicionamiento de destructores. La firma no prueba entrega ni cobro.
+- **1927 · C3:** [[12_Militar/03_Armada/Exportaciones A099 A101/EXP-1927-CHL-01|EXP-1927-CHL-01]], Chile, Taller de torpedos y capacitación. La firma no prueba entrega ni cobro.
+- **1934 · C3:** [[12_Militar/03_Armada/Exportaciones A099 A101/EXP-1934-PRT-01|EXP-1934-PRT-01]], Portugal, Torpedos T-24 Falathar. La firma no prueba entrega ni cobro.
+- **1948 · C3:** [[12_Militar/03_Armada/Exportaciones A099 A101/EXP-1948-NZL-01|EXP-1948-NZL-01]], Nueva Zelanda, Radar naval y capacitación. La firma no prueba entrega ni cobro.
+- **1956 · C3:** [[12_Militar/03_Armada/Exportaciones A099 A101/EXP-1956-CHL-01|EXP-1956-CHL-01]], Chile, Modernización de sensores de escoltas. La firma no prueba entrega ni cobro.
+- **1966 · C3:** [[12_Militar/03_Armada/Exportaciones A099 A101/EXP-1966-PER-01|EXP-1966-PER-01]], Perú, Torpedos T-61 Ossë. La firma no prueba entrega ni cobro.
+- **1968 · C3:** [[12_Militar/03_Armada/Exportaciones A099 A101/EXP-1968-PRT-01|EXP-1968-PRT-01]], Portugal, Radares y sistema de dirección de tiro. La firma no prueba entrega ni cobro.
+- **1974 · C3:** [[12_Militar/03_Armada/Exportaciones A099 A101/EXP-1974-CHL-01|EXP-1974-CHL-01]], Chile, Lanchas misileras y soporte, Falmar-II separado. La firma no prueba entrega ni cobro.
+- **1975 · C3:** [[12_Militar/03_Armada/Exportaciones A099 A101/EXP-1975-CHL-02|EXP-1975-CHL-02]], Chile, Falmar-II para paquete de lanchas. La firma no prueba entrega ni cobro.
+- **1978 · C3:** [[12_Militar/03_Armada/Exportaciones A099 A101/EXP-1978-IDN-01|EXP-1978-IDN-01]], Indonesia, Corbetas de exportación (no Calenport de inventario). La firma no prueba entrega ni cobro.
+- **1983 · C3:** [[12_Militar/03_Armada/Exportaciones A099 A101/EXP-1983-PER-01|EXP-1983-PER-01]], Perú, Falmar-III de exportación. La firma no prueba entrega ni cobro.
+- **1986 · C3:** [[12_Militar/03_Armada/Exportaciones A099 A101/EXP-1986-CHL-01|EXP-1986-CHL-01]], Chile, Modernización de escoltas y CMS. La firma no prueba entrega ni cobro.
+- **1988 · C3:** [[12_Militar/03_Armada/Exportaciones A099 A101/EXP-1988-ZAF-01|EXP-1988-ZAF-01]], Sudáfrica, Estudio comercial sin entrega, sujeto a restricciones. Estudio sin suministro ni exportación.
+- **1993 · C3:** [[12_Militar/03_Armada/Exportaciones A099 A101/EXP-1993-BRA-01|EXP-1993-BRA-01]], Brasil, CMS y sensores para corbetas nacionales. La firma no prueba entrega ni cobro.
+- **1998 · C3:** [[12_Militar/03_Armada/Exportaciones A099 A101/EXP-1998-IND-01|EXP-1998-IND-01]], India, Licencia de Falmar-IV, fabricación extranjera. La firma no prueba entrega ni cobro.
+- **2001 · C3:** [[12_Militar/03_Armada/Exportaciones A099 A101/EXP-2001-CHL-01|EXP-2001-CHL-01]], Chile, Refit de fragatas y sostenimiento. La firma no prueba entrega ni cobro.
+- **2004 · C3:** [[12_Militar/03_Armada/Exportaciones A099 A101/EXP-2004-PHL-01|EXP-2004-PHL-01]], Filipinas, OPV de exportación, sin misil estándar. La firma no prueba entrega ni cobro.
+- **2009 · C3:** [[12_Militar/03_Armada/Exportaciones A099 A101/EXP-2009-PRT-01|EXP-2009-PRT-01]], Portugal, Falmar-V y apoyo logístico. La firma no prueba entrega ni cobro.
+- **2012 · C3:** [[12_Militar/03_Armada/Exportaciones A099 A101/EXP-2012-IDN-01|EXP-2012-IDN-01]], Indonesia, Modernización de 2 corbetas y radares. La firma no prueba entrega ni cobro.
+- **2015 · C3:** [[12_Militar/03_Armada/Exportaciones A099 A101/EXP-2015-CHL-01|EXP-2015-CHL-01]], Chile, Sensores, CMS y soporte multianual. La firma no prueba entrega ni cobro.
+- **2018 · C3:** [[12_Militar/03_Armada/Exportaciones A099 A101/EXP-2018-NZL-01|EXP-2018-NZL-01]], Nueva Zelanda, Vigilancia costera y enlaces no protegidos. La firma no prueba entrega ni cobro.
+- **2021 · C3:** [[12_Militar/03_Armada/Exportaciones A099 A101/EXP-2021-PHL-01|EXP-2021-PHL-01]], Filipinas, Falmar-V de exportación. La firma no prueba entrega ni cobro.
+- **2023 · C3:** [[12_Militar/03_Armada/Exportaciones A099 A101/EXP-2023-CHL-01|EXP-2023-CHL-01]], Chile, Sostenimiento y digitalización de flota. La firma no prueba entrega ni cobro.
+- **2025 · C3:** [[12_Militar/03_Armada/Exportaciones A099 A101/EXP-2025-IND-01|EXP-2025-IND-01]], India, Integración de sensores y formación. La firma no prueba entrega ni cobro.
+
+### Hitos de ejecución E1 por año
+
+- **1888 · E1:** [[12_Militar/03_Armada/Exportaciones A099 A101/EXP-1887-CHL-01|EXP-1887-CHL-01]], Chile: aceptacion hito, 1 hitos. ID editorial A101-EXP-1887-CHL-01-H01.
+- **1889 · E1:** [[12_Militar/03_Armada/Exportaciones A099 A101/EXP-1887-CHL-01|EXP-1887-CHL-01]], Chile: aceptacion hito, 1 hitos. ID editorial A101-EXP-1887-CHL-01-H02.
+- **1891 · E1:** [[12_Militar/03_Armada/Exportaciones A099 A101/EXP-1887-CHL-01|EXP-1887-CHL-01]], Chile: aceptacion hito, 1 hitos. ID editorial A101-EXP-1887-CHL-01-H03.
+- **1892 · E1:** [[12_Militar/03_Armada/Exportaciones A099 A101/EXP-1887-CHL-01|EXP-1887-CHL-01]], Chile: aceptacion hito, 1 hitos. ID editorial A101-EXP-1887-CHL-01-H04.
+- **1898 · E1:** [[12_Militar/03_Armada/Exportaciones A099 A101/EXP-1896-PRT-01|EXP-1896-PRT-01]], Portugal: aceptacion bien, 1 cascos nuevos. ID editorial A101-EXP-1896-PRT-01-H01.
+- **1899 · E1:** [[12_Militar/03_Armada/Exportaciones A099 A101/EXP-1896-PRT-01|EXP-1896-PRT-01]], Portugal: aceptacion bien, 1 cascos nuevos. ID editorial A101-EXP-1896-PRT-01-H02.
+- **1910 · E1:** [[12_Militar/03_Armada/Exportaciones A099 A101/EXP-1908-CHL-01|EXP-1908-CHL-01]], Chile: aceptacion servicio, 1 lote óptica y repuestos. ID editorial A101-EXP-1908-CHL-01-H01.
+- **1912 · E1:** [[12_Militar/03_Armada/Exportaciones A099 A101/EXP-1908-CHL-01|EXP-1908-CHL-01]], Chile: cierre tecnico, sin cantidad de bienes fijada. ID editorial A101-EXP-1908-CHL-01-H02.
+- **1915 · E1:** [[12_Militar/03_Armada/Exportaciones A099 A101/EXP-1913-BRA-01|EXP-1913-BRA-01]], Brasil: aceptacion servicio, 1 intervenciones sobre cascos. ID editorial A101-EXP-1913-BRA-01-H01.
+- **1916 · E1:** [[12_Militar/03_Armada/Exportaciones A099 A101/EXP-1913-BRA-01|EXP-1913-BRA-01]], Brasil: aceptacion servicio, 1 intervenciones sobre cascos. ID editorial A101-EXP-1913-BRA-01-H02.
+- **1930 · E1:** [[12_Militar/03_Armada/Exportaciones A099 A101/EXP-1927-CHL-01|EXP-1927-CHL-01]], Chile: aceptacion servicio, 1 instalación. ID editorial A101-EXP-1927-CHL-01-H01.
+- **1931 · E1:** [[12_Militar/03_Armada/Exportaciones A099 A101/EXP-1927-CHL-01|EXP-1927-CHL-01]], Chile: cierre formacion, sin cantidad de bienes fijada. ID editorial A101-EXP-1927-CHL-01-H02.
+- **1935 · E1:** [[12_Militar/03_Armada/Exportaciones A099 A101/EXP-1934-PRT-01|EXP-1934-PRT-01]], Portugal: aceptacion bien, 12 torpedos. ID editorial A101-EXP-1934-PRT-01-H01.
+- **1936 · E1:** [[12_Militar/03_Armada/Exportaciones A099 A101/EXP-1934-PRT-01|EXP-1934-PRT-01]], Portugal: aceptacion bien, 12 torpedos. ID editorial A101-EXP-1934-PRT-01-H02.
+- **1937 · E1:** [[12_Militar/03_Armada/Exportaciones A099 A101/EXP-1934-PRT-01|EXP-1934-PRT-01]], Portugal: aceptacion bien, 12 torpedos. ID editorial A101-EXP-1934-PRT-01-H03.
+- **1950 · E1:** [[12_Militar/03_Armada/Exportaciones A099 A101/EXP-1948-NZL-01|EXP-1948-NZL-01]], Nueva Zelanda: aceptacion bien, 2 radares. ID editorial A101-EXP-1948-NZL-01-H01.
+- **1951 · E1:** [[12_Militar/03_Armada/Exportaciones A099 A101/EXP-1948-NZL-01|EXP-1948-NZL-01]], Nueva Zelanda: aceptacion bien, 2 radares. ID editorial A101-EXP-1948-NZL-01-H02.
+- **1952 · E1:** [[12_Militar/03_Armada/Exportaciones A099 A101/EXP-1948-NZL-01|EXP-1948-NZL-01]], Nueva Zelanda: cierre formacion, sin cantidad de bienes fijada. ID editorial A101-EXP-1948-NZL-01-H03.
+- **1958 · E1:** [[12_Militar/03_Armada/Exportaciones A099 A101/EXP-1956-CHL-01|EXP-1956-CHL-01]], Chile: aceptacion servicio, 1 intervenciones sobre cascos. ID editorial A101-EXP-1956-CHL-01-H01.
+- **1959 · E1:** [[12_Militar/03_Armada/Exportaciones A099 A101/EXP-1956-CHL-01|EXP-1956-CHL-01]], Chile: aceptacion servicio, 1 intervenciones sobre cascos. ID editorial A101-EXP-1956-CHL-01-H02.
+- **1960 · E1:** [[12_Militar/03_Armada/Exportaciones A099 A101/EXP-1956-CHL-01|EXP-1956-CHL-01]], Chile: aceptacion servicio, 1 intervenciones sobre cascos. ID editorial A101-EXP-1956-CHL-01-H03.
+- **1968 · E1:** [[12_Militar/03_Armada/Exportaciones A099 A101/EXP-1966-PER-01|EXP-1966-PER-01]], Perú: aceptacion bien, 16 torpedos. ID editorial A101-EXP-1966-PER-01-H01.
+- **1969 · E1:** [[12_Militar/03_Armada/Exportaciones A099 A101/EXP-1966-PER-01|EXP-1966-PER-01]], Perú: aceptacion bien, 16 torpedos. ID editorial A101-EXP-1966-PER-01-H02.
+- **1970 · E1:** [[12_Militar/03_Armada/Exportaciones A099 A101/EXP-1966-PER-01|EXP-1966-PER-01]], Perú: aceptacion bien, 16 torpedos. ID editorial A101-EXP-1966-PER-01-H03.
+- **1970 · E1:** [[12_Militar/03_Armada/Exportaciones A099 A101/EXP-1968-PRT-01|EXP-1968-PRT-01]], Portugal: aceptacion bien, 2 sistemas. ID editorial A101-EXP-1968-PRT-01-H01.
+- **1972 · E1:** [[12_Militar/03_Armada/Exportaciones A099 A101/EXP-1968-PRT-01|EXP-1968-PRT-01]], Portugal: aceptacion bien, 2 sistemas. ID editorial A101-EXP-1968-PRT-01-H02.
+- **1976 · E1:** [[12_Militar/03_Armada/Exportaciones A099 A101/EXP-1974-CHL-01|EXP-1974-CHL-01]], Chile: aceptacion bien, 1 cascos nuevos. ID editorial A101-EXP-1974-CHL-01-H01.
+- **1977 · E1:** [[12_Militar/03_Armada/Exportaciones A099 A101/EXP-1974-CHL-01|EXP-1974-CHL-01]], Chile: aceptacion bien, 1 cascos nuevos. ID editorial A101-EXP-1974-CHL-01-H02.
+- **1977 · E1:** [[12_Militar/03_Armada/Exportaciones A099 A101/EXP-1975-CHL-02|EXP-1975-CHL-02]], Chile: aceptacion bien, 8 misiles. ID editorial A101-EXP-1975-CHL-02-H01.
+- **1978 · E1:** [[12_Militar/03_Armada/Exportaciones A099 A101/EXP-1974-CHL-01|EXP-1974-CHL-01]], Chile: aceptacion bien, 1 cascos nuevos. ID editorial A101-EXP-1974-CHL-01-H03.
+- **1978 · E1:** [[12_Militar/03_Armada/Exportaciones A099 A101/EXP-1975-CHL-02|EXP-1975-CHL-02]], Chile: aceptacion bien, 8 misiles. ID editorial A101-EXP-1975-CHL-02-H02.
+- **1979 · E1:** [[12_Militar/03_Armada/Exportaciones A099 A101/EXP-1974-CHL-01|EXP-1974-CHL-01]], Chile: aceptacion bien, 1 cascos nuevos. ID editorial A101-EXP-1974-CHL-01-H04.
+- **1979 · E1:** [[12_Militar/03_Armada/Exportaciones A099 A101/EXP-1975-CHL-02|EXP-1975-CHL-02]], Chile: aceptacion bien, 8 misiles. ID editorial A101-EXP-1975-CHL-02-H03.
+- **1980 · E1:** [[12_Militar/03_Armada/Exportaciones A099 A101/EXP-1975-CHL-02|EXP-1975-CHL-02]], Chile: aceptacion bien, 8 misiles. ID editorial A101-EXP-1975-CHL-02-H04.
+- **1982 · E1:** [[12_Militar/03_Armada/Exportaciones A099 A101/EXP-1978-IDN-01|EXP-1978-IDN-01]], Indonesia: aceptacion bien, 1 cascos nuevos. ID editorial A101-EXP-1978-IDN-01-H01.
+- **1984 · E1:** [[12_Militar/03_Armada/Exportaciones A099 A101/EXP-1978-IDN-01|EXP-1978-IDN-01]], Indonesia: aceptacion bien, 1 cascos nuevos. ID editorial A101-EXP-1978-IDN-01-H02.
+- **1985 · E1:** [[12_Militar/03_Armada/Exportaciones A099 A101/EXP-1983-PER-01|EXP-1983-PER-01]], Perú: aceptacion bien, 10 misiles. ID editorial A101-EXP-1983-PER-01-H01.
+- **1986 · E1:** [[12_Militar/03_Armada/Exportaciones A099 A101/EXP-1983-PER-01|EXP-1983-PER-01]], Perú: aceptacion bien, 10 misiles. ID editorial A101-EXP-1983-PER-01-H02.
+- **1987 · E1:** [[12_Militar/03_Armada/Exportaciones A099 A101/EXP-1983-PER-01|EXP-1983-PER-01]], Perú: aceptacion bien, 10 misiles. ID editorial A101-EXP-1983-PER-01-H03.
+- **1988 · E1:** [[12_Militar/03_Armada/Exportaciones A099 A101/EXP-1983-PER-01|EXP-1983-PER-01]], Perú: aceptacion bien, 10 misiles. ID editorial A101-EXP-1983-PER-01-H04.
+- **1989 · E1:** [[12_Militar/03_Armada/Exportaciones A099 A101/EXP-1986-CHL-01|EXP-1986-CHL-01]], Chile: aceptacion servicio, 1 intervenciones sobre cascos. ID editorial A101-EXP-1986-CHL-01-H01.
+- **1991 · E1:** [[12_Militar/03_Armada/Exportaciones A099 A101/EXP-1986-CHL-01|EXP-1986-CHL-01]], Chile: aceptacion servicio, 1 intervenciones sobre cascos. ID editorial A101-EXP-1986-CHL-01-H02.
+- **1996 · E1:** [[12_Militar/03_Armada/Exportaciones A099 A101/EXP-1993-BRA-01|EXP-1993-BRA-01]], Brasil: aceptacion bien, 1 sistemas CMS. ID editorial A101-EXP-1993-BRA-01-H01.
+- **1997 · E1:** [[12_Militar/03_Armada/Exportaciones A099 A101/EXP-1993-BRA-01|EXP-1993-BRA-01]], Brasil: aceptacion bien, 1 sistemas CMS. ID editorial A101-EXP-1993-BRA-01-H02.
+- **1999 · E1:** [[12_Militar/03_Armada/Exportaciones A099 A101/EXP-1993-BRA-01|EXP-1993-BRA-01]], Brasil: aceptacion bien, 2 sistemas CMS. ID editorial A101-EXP-1993-BRA-01-H03.
+- **2001 · E1:** [[12_Militar/03_Armada/Exportaciones A099 A101/EXP-1998-IND-01|EXP-1998-IND-01]], India: transferencia documental, sin cantidad de bienes fijada. ID editorial A101-EXP-1998-IND-01-H01.
+- **2003 · E1:** [[12_Militar/03_Armada/Exportaciones A099 A101/EXP-1998-IND-01|EXP-1998-IND-01]], India: fabricacion extranjera, 20 misiles bajo licencia. ID editorial A101-EXP-1998-IND-01-H02.
+- **2004 · E1:** [[12_Militar/03_Armada/Exportaciones A099 A101/EXP-1998-IND-01|EXP-1998-IND-01]], India: fabricacion extranjera, 30 misiles bajo licencia. ID editorial A101-EXP-1998-IND-01-H03.
+- **2004 · E1:** [[12_Militar/03_Armada/Exportaciones A099 A101/EXP-2001-CHL-01|EXP-2001-CHL-01]], Chile: aceptacion servicio, 1 intervenciones sobre cascos. ID editorial A101-EXP-2001-CHL-01-H01.
+- **2005 · E1:** [[12_Militar/03_Armada/Exportaciones A099 A101/EXP-2001-CHL-01|EXP-2001-CHL-01]], Chile: aceptacion servicio, 1 intervenciones sobre cascos. ID editorial A101-EXP-2001-CHL-01-H02.
+- **2006 · E1:** [[12_Militar/03_Armada/Exportaciones A099 A101/EXP-1998-IND-01|EXP-1998-IND-01]], India: fabricacion extranjera, 30 misiles bajo licencia. ID editorial A101-EXP-1998-IND-01-H04.
+- **2007 · E1:** [[12_Militar/03_Armada/Exportaciones A099 A101/EXP-2001-CHL-01|EXP-2001-CHL-01]], Chile: aceptacion servicio, 1 intervenciones sobre cascos. ID editorial A101-EXP-2001-CHL-01-H03.
+- **2007 · E1:** [[12_Militar/03_Armada/Exportaciones A099 A101/EXP-2004-PHL-01|EXP-2004-PHL-01]], Filipinas: aceptacion bien, 1 cascos nuevos. ID editorial A101-EXP-2004-PHL-01-H01.
+- **2008 · E1:** [[12_Militar/03_Armada/Exportaciones A099 A101/EXP-1998-IND-01|EXP-1998-IND-01]], India: fabricacion extranjera, 40 misiles bajo licencia. ID editorial A101-EXP-1998-IND-01-H05.
+- **2008 · E1:** [[12_Militar/03_Armada/Exportaciones A099 A101/EXP-2004-PHL-01|EXP-2004-PHL-01]], Filipinas: aceptacion bien, 1 cascos nuevos. ID editorial A101-EXP-2004-PHL-01-H02.
+- **2010 · E1:** [[12_Militar/03_Armada/Exportaciones A099 A101/EXP-2004-PHL-01|EXP-2004-PHL-01]], Filipinas: aceptacion bien, 1 cascos nuevos. ID editorial A101-EXP-2004-PHL-01-H03.
+- **2011 · E1:** [[12_Militar/03_Armada/Exportaciones A099 A101/EXP-2009-PRT-01|EXP-2009-PRT-01]], Portugal: aceptacion bien, 12 misiles. ID editorial A101-EXP-2009-PRT-01-H01.
+- **2012 · E1:** [[12_Militar/03_Armada/Exportaciones A099 A101/EXP-2009-PRT-01|EXP-2009-PRT-01]], Portugal: aceptacion bien, 12 misiles. ID editorial A101-EXP-2009-PRT-01-H02.
+- **2014 · E1:** [[12_Militar/03_Armada/Exportaciones A099 A101/EXP-2009-PRT-01|EXP-2009-PRT-01]], Portugal: aceptacion bien, 12 misiles. ID editorial A101-EXP-2009-PRT-01-H03.
+- **2015 · E1:** [[12_Militar/03_Armada/Exportaciones A099 A101/EXP-2012-IDN-01|EXP-2012-IDN-01]], Indonesia: aceptacion servicio, 1 intervenciones sobre cascos. ID editorial A101-EXP-2012-IDN-01-H01.
+- **2017 · E1:** [[12_Militar/03_Armada/Exportaciones A099 A101/EXP-2012-IDN-01|EXP-2012-IDN-01]], Indonesia: aceptacion servicio, 1 intervenciones sobre cascos. ID editorial A101-EXP-2012-IDN-01-H02.
+- **2017 · E1:** [[12_Militar/03_Armada/Exportaciones A099 A101/EXP-2015-CHL-01|EXP-2015-CHL-01]], Chile: aceptacion bien, 1 sistemas. ID editorial A101-EXP-2015-CHL-01-H01.
+- **2019 · E1:** [[12_Militar/03_Armada/Exportaciones A099 A101/EXP-2015-CHL-01|EXP-2015-CHL-01]], Chile: aceptacion bien, 1 sistemas. ID editorial A101-EXP-2015-CHL-01-H02.
+- **2021 · E1:** [[12_Militar/03_Armada/Exportaciones A099 A101/EXP-2015-CHL-01|EXP-2015-CHL-01]], Chile: aceptacion bien, 1 sistemas. ID editorial A101-EXP-2015-CHL-01-H03.
+- **2021 · E1:** [[12_Militar/03_Armada/Exportaciones A099 A101/EXP-2018-NZL-01|EXP-2018-NZL-01]], Nueva Zelanda: aceptacion fase, sin cantidad de bienes fijada. ID editorial A101-EXP-2018-NZL-01-H01.
+- **2022 · E1:** [[12_Militar/03_Armada/Exportaciones A099 A101/EXP-2018-NZL-01|EXP-2018-NZL-01]], Nueva Zelanda: aceptacion fase, sin cantidad de bienes fijada. ID editorial A101-EXP-2018-NZL-01-H02.
+- **2023 · E1:** [[12_Militar/03_Armada/Exportaciones A099 A101/EXP-2015-CHL-01|EXP-2015-CHL-01]], Chile: aceptacion bien, 1 sistemas. ID editorial A101-EXP-2015-CHL-01-H04.
+- **2024 · E1:** [[12_Militar/03_Armada/Exportaciones A099 A101/EXP-2018-NZL-01|EXP-2018-NZL-01]], Nueva Zelanda: aceptacion fase, sin cantidad de bienes fijada. ID editorial A101-EXP-2018-NZL-01-H03.
+- **2024 · E1:** [[12_Militar/03_Armada/Exportaciones A099 A101/EXP-2021-PHL-01|EXP-2021-PHL-01]], Filipinas: aceptacion bien, 8 misiles. ID editorial A101-EXP-2021-PHL-01-H01.
+- **2025 · E1:** [[12_Militar/03_Armada/Exportaciones A099 A101/EXP-2021-PHL-01|EXP-2021-PHL-01]], Filipinas: aceptacion bien, 8 misiles. ID editorial A101-EXP-2021-PHL-01-H02.
+- **2025 · E1:** [[12_Militar/03_Armada/Exportaciones A099 A101/EXP-2023-CHL-01|EXP-2023-CHL-01]], Chile: aceptacion hito, 1 hitos. ID editorial A101-EXP-2023-CHL-01-H01.
+- **2026 · E1:** [[12_Militar/03_Armada/Exportaciones A099 A101/EXP-2021-PHL-01|EXP-2021-PHL-01]], Filipinas: aceptacion bien, 8 misiles. ID editorial A101-EXP-2021-PHL-01-H03.
+- **2026 · E1:** [[12_Militar/03_Armada/Exportaciones A099 A101/EXP-2023-CHL-01|EXP-2023-CHL-01]], Chile: aceptacion hito, 1 hitos. ID editorial A101-EXP-2023-CHL-01-H02.
+- **2026 · E1:** [[12_Militar/03_Armada/Exportaciones A099 A101/EXP-2025-IND-01|EXP-2025-IND-01]], India: actividad inicial, sin cantidad de bienes fijada. ID editorial A101-EXP-2025-IND-01-H01.
+
+### Límites del corte y continuidad prevista
+
+- **2027–2029 previsto:** hitos pendientes de Chile 2023; no programa completo en 2026.
+- **2027–2030 previsto:** continuación e integración de India 2025; la actividad inicial de 2026 no prueba aceptación.
+- **E2 alternativo:** acepta un casco indonesio en 1985 y el último OPV filipino en 2011; ocho Falmar-V filipinos pendientes a cierre de 2026. No sumar a E1.
+- **E3 alternativo:** noventa unidades licenciadas indias y treinta pendientes; no es fabricación nacional valinoriana.
+
+Las fechas de FAT, SAT, transferencia física y producción nacional anual no se igualan a los años de aceptación. Los once cascos para terceros no modifican la Armada; las 216 armas están dentro de rangos A095 antibuque. Las 120 licenciadas extranjeras van en cuenta independiente.
+
+[[00_Canon/Integraciones V16/Acumulativa A101 Reconstrucción exportadora|Acumulativa A101]]
+
+
+## Integración A102 Industria automotriz y Fuerza Aérea
+
+Hitos narrativos adoptados el 10 de noviembre de 2026; los intervalos de desarrollo y escenarios conservan su naturaleza. A102 integra A094 automotriz y A095 aérea, no A094 defensa ni A095 antibuque. Los acontecimientos son historia ficticia, no prueba documental.
+
+- **1820–1850:** Ascensiones experimentales y observación meteorológica; antecedentes narrativos de la aerostación.
+- **1850–1880:** Observación militar con globos y cooperación con ingenieros.
+- **1880–1900:** Aerostación organizada y formación; talleres mecánicos y primeras experiencias automotrices.
+- **1886–1892:** Automóviles experimentales de combustión en la secuencia narrativa adoptada.
+- **1888:** Origen narrativo de Motores de Arnor; constitución legal y plantas sin dato.
+- **1892–1897:** Pequeñas series comerciales de automóviles.
+- **1895–1900:** Aplicaciones eléctricas urbanas; no baterías modernas ni alcance de larga distancia inferido.
+- **1896:** Origen narrativo de Electromecánica de Valinor.
+- **1902:** Origen narrativo de Automóviles de Annúminas.
+- **1904–1907:** Experimentación aeronáutica con aeroplanos y motores.
+- **1906:** Vuelo motorizado controlado reconocido en el programa valinari, sin prioridad mundial atribuida.
+- **1909:** Escuela militar de vuelo y mantenimiento.
+- **1910–1929:** Introducción y extensión gradual de líneas móviles automotrices y normalización de piezas.
+- **1911:** Origen narrativo de Automóviles Calen; Hador conserva su catálogo militar separado.
+- **1912:** Servicio Aeronáutico Militar permanente e introducción inicial del O-12 Meneldir.
+- **1917:** Introducción inicial del C-17 Thorondir.
+- **1918:** Origen narrativo de Vehículos Industriales Australes.
+- **1926:** Independencia de la Fuerza Aérea de Valinor; aviación naval diferenciada. Duilin conserva su desarrollo terrestre.
+- **1938:** Introducción inicial del C-38 Sorontar.
+- **1940:** Introducción inicial del T-40 Menelcar.
+- **1940–1945:** Investigación de reacción; no fuerza operativa de reacción inferida.
+- **1943:** Introducción inicial del B-43 Beleg convencional, distinto del blindado terrestre.
+- **1946:** Demostrador valinari de reacción.
+- **1948–1952:** Evaluación y pequeñas series de reacción.
+- **1952:** Servicio inicial regular del C-52 Thorondor I; expansión posterior sin sustitución inmediata de hélices.
+- **1958:** Reorganización como Fuerza Aérea Federal de Valinor; normas jurídicas concretas sin dato. Se conserva el programa OceanNet.
+- **1959–1969:** Servicio institucional inicial y consolidación de OceanNet; sin red global madura atribuida a 1959.
+- **1966:** Introducción inicial del C-66 Thorondor II.
+- **1967:** Origen narrativo de Malaca Movilidad.
+- **1984:** Introducción inicial del C-84 Soron I.
+- **1990:** Introducción inicial del AE-90 Menelvagor.
+- **1995–2010:** Plataformas comunes e hibridación automotriz por etapas.
+- **2004:** Introducción inicial del C-04 Soron II.
+- **2010:** Introducción inicial del U-10 Tirmen para vigilancia y reconocimiento.
+- **2010–2026:** Electrificación progresiva, fabricación de paquetes y celdas diferenciada, coexistencia de motorizaciones.
+- **2018:** Introducción inicial del C-18 Soron III; prestaciones de firma sin cuantificar.
+- **2020:** Se conserva A093: control naval de drones de ataque desde buques, sin transferencia automática al inventario aéreo.
+- **2026:** Escenario automotriz central 12 millones/año, banda 10–14; producción observada, parque, empleo y exportaciones sin fijar.
+- **2026:** Cantidades, matrículas, disponibilidad y presupuesto aéreo pendientes; no se derivan de años de introducción.
+
+[[08_Economia/Industria automotriz 1880-2026|Industria automotriz A094]] · [[12_Militar/04_Fuerzas Aéreas/Historia de la Fuerza Aérea A095|Historia aérea A095]] · [[00_Canon/Integraciones V16/Integración A102 automotriz y aérea|Integración A102]]
+
+
+## Integración A103 Vëantur y relevo de Círdan I
+
+Fechas narrativas adoptadas por instrucción del autor del 10 de noviembre de 2026. Los IDs son editoriales, no matrículas. Este bloque desarrolla el plan de sustitución de 1884; no acredita disponibilidad ni inventario naval total por año.
+
+- **1884:** Autorización de cuatro Vëantur y decisión de relevo gradual de Círdan I; se priorizan cascos nuevos y reformas parciales en los anteriores.
+- **1885:** Comienza Vëantur A103-VEA-01. Se abre el periodo 1885–1888 de reformas parciales Círdan, sin sustitución adoptada de sus plantas principales.
+- **1886:** Comienza Vëantur A103-VEA-02.
+- **1888:** Comienza Vëantur A103-VEA-03.
+- **1889:** Entra en servicio Vëantur 01; comienza Vëantur 04. Círdan C75-01 y C75-02 pasan a segunda línea.
+- **1890:** Entra en servicio Vëantur 02; Círdan C75-03 y C75-04 pasan a segunda línea.
+- **1891:** Perímetro A103: dos Vëantur incorporados y dos en construcción; seis Círdan en inventario, cuatro de segunda línea y dos de primera línea transitoria. No equivale a disponibilidad.
+- **1892:** Entra en servicio Vëantur 03; Círdan C75-05 y C75-06 pasan a segunda línea. Comienza la ventana Anárion ya existente; programa separado.
+- **1893:** Entra en servicio Vëantur 04; completa la serie de cuatro.
+- **1894:** El capital de turbina de referencia continúa como perfil sin nombre y cantidad; no se identifica con Vëantur ni Anárion.
+- **1895:** Se conserva el inicio aproximado de servicio Anárion. La nueva serie es distinta de los cuatro Vëantur.
+- **1898:** Retiro narrativo de Círdan C75-01.
+- **1900:** Retiro narrativo de Círdan C75-02; cuatro Vëantur continúan incorporados. Los ocho Anárion de programa no se presumen todos operativos en 1900.
+- **1902:** Retiro narrativo de Círdan C75-03.
+- **1904:** Retiro narrativo de Círdan C75-04.
+- **1906:** Retiro narrativo de Círdan C75-05.
+- **1907:** Retiro narrativo de Vëantur 01.
+- **1908:** Retiro narrativo de Círdan C75-06; se conserva el cierre de servicio de su familia.
+- **1909:** Retiro narrativo de Vëantur 02.
+- **1911:** Retiro narrativo de Vëantur 03.
+- **1913:** Retiro narrativo de Vëantur 04; termina el servicio de la clase antes de 1914.
+
+[[00_Canon/Integraciones V16/Acumulativa A103 Clase Vëantur y relevo de Círdan I|Resolución A103]] · [[12_Militar/03_Armada/Clase Vëantur 1884-1913|Clase Vëantur]]

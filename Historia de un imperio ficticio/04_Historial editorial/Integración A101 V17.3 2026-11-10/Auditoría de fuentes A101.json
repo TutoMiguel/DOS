@@ -1,0 +1,26 @@
+{
+  "source_sha256": "98a88ddd67ca2ab4e34f23ef4a5c16409ed84536f381b7260204358cc9e1e44d",
+  "proposal_sha256": "fc078fc7794c468b30f1334314d1957e5f765f6e506884dfe78556c2d677f3b2",
+  "duplicate_sha256": "fc078fc7794c468b30f1334314d1957e5f765f6e506884dfe78556c2d677f3b2",
+  "duplicate_files_identical": true,
+  "source_blocks": 7486,
+  "source_native_tables": 178,
+  "prefix_blocks_identical_to_active": 7163,
+  "source_tail_blocks": 323,
+  "normalized_tail_blocks": 213,
+  "contracts": 27,
+  "export_contracts": 26,
+  "study_only": 1,
+  "reference_value_musd26": 4909,
+  "scope_collisions": {
+    "A094": [
+      "automotriz de este chat",
+      "industria de defensa y AAW del Maestro A100"
+    ],
+    "A095": [
+      "Fuerza Aérea de este chat",
+      "guerra antibuque y rangos de fabricación del Maestro A100"
+    ]
+  },
+  "resolution_scope": "Las referencias A095 de A099 A100 A101 remiten al capítulo antibuque del Maestro A100; no a la historia aérea. Se conservan ambas líneas por nombre completo."
+}

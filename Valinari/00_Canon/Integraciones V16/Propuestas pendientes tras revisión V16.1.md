@@ -29,3 +29,9 @@ estado: resuelto en V16.2; trabajo editorial pendiente
 [[00_Canon/Registro de integración acumulativa V16]]
 [[01_Cronologia/Cronología Territorial V16]]
 [[00_Canon/Integraciones V16/Revisión editorial V16.1]]
+
+## Estado posterior V17.4 A102
+
+A094 automotriz y A095 aérea ya incorporadas al maestro y cronología. Continúan las tareas editoriales y materiales no resueltas por esta integración: plantas, cantidades aéreas y conciliaciones sectoriales. AM1 está integrada; no debe reintegrarse por rótulos históricos de carpetas.
+
+[[00_Canon/Integraciones V16/Integración A102 automotriz y aérea|Integración A102]]

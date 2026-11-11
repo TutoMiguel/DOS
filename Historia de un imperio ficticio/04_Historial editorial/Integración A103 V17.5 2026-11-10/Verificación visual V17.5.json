@@ -1,0 +1,10 @@
+{
+  "maestro_paginas": 433,
+  "acumulativa_paginas": 5,
+  "paginas_previas_con_imagen_distinta": [
+    1
+  ],
+  "paginas_previas_comparadas": 428,
+  "inspeccion_visual_completada": true,
+  "revision": "Revisadas portada, páginas nuevas 429 a 433 y cinco páginas de acumulativa a resolución de render. Las páginas 2 a 428 son idénticas píxel a píxel al render V17.4. Sin encabezados aislados, filas recortadas ni desbordamientos observados."
+}

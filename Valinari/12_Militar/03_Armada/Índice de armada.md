@@ -36,3 +36,23 @@ actualizado: 2026-11-10
 - [[12_Militar/03_Armada/Escenario de composición naval A093]]
 - [[12_Militar/03_Armada/Lanchas misilísticas y territorios candidatos]]
 - [[12_Militar/03_Armada/Redes navales y transición a drones]]
+
+## Integración exportadora V17 3 A101
+
+- [[00_Canon/Integraciones V16/Acumulativa A101 Reconstrucción exportadora|Resoluciones y reconstrucción E1]]
+- [[12_Militar/03_Armada/Exportaciones A099 A101/Índice de expedientes|27 expedientes y lotes]]
+- [[00_Canon/Integraciones V16/Ámbitos de numeración A094 A101|Ámbitos A094 y A095]]
+
+## Catálogo maestro consolidado
+
+[[12_Militar/03_Armada/Catálogo maestro naval 1875-2026|Catálogo maestro naval 1875 a 2026]] reúne clases, familias, generaciones, perfiles técnicos y discrepancias con sus fuentes. La consolidación CMN 1 conserva las cantidades y reservas de V17.4 A102.
+
+## Revisión V17.5 A103
+
+Adoptada la clase Vëantur de cuatro acorazados y el relevo gradual de Círdan I. Se mantienen A101 E1, A102 y las reservas documentales.
+
+[[00_Canon/Integraciones V16/Acumulativa A103 Clase Vëantur y relevo de Círdan I|Resolución A103]] · [[12_Militar/03_Armada/Clase Vëantur 1884-1913|Clase Vëantur]]
+
+## Conciliación editorial CMN 3
+
+[[12_Militar/03_Armada/Conciliación Eärendil y Gil-galad históricos CMN3|Conciliación histórica CMN 3]] alinea dos filas AM1 con las especificaciones ya vigentes. No cambia la revisión V17.5 A103 ni adopta movimientos de cascos.

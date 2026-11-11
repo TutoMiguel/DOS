@@ -1,0 +1,240 @@
+{
+  "clase": "Vëantur",
+  "calendario_veantur": [
+    {
+      "id": "CN-0317",
+      "designacion": "A103-VEA-01",
+      "tipo_registro": "casco narrativo con ID editorial",
+      "periodo_contexto": "A103; 1884–1913",
+      "campos": {
+        "clase": "Vëantur",
+        "construccion": "1885",
+        "servicio": "1889",
+        "retiro": "1907",
+        "matricula": "sin dato"
+      },
+      "fuente": "00_Canon/Integraciones V16/Acumulativa A103 Clase Vëantur y relevo de Círdan I.md",
+      "seccion_fuente": "Registro editorial de los cuatro cascos Vëantur"
+    },
+    {
+      "id": "CN-0318",
+      "designacion": "A103-VEA-02",
+      "tipo_registro": "casco narrativo con ID editorial",
+      "periodo_contexto": "A103; 1884–1913",
+      "campos": {
+        "clase": "Vëantur",
+        "construccion": "1886",
+        "servicio": "1890",
+        "retiro": "1909",
+        "matricula": "sin dato"
+      },
+      "fuente": "00_Canon/Integraciones V16/Acumulativa A103 Clase Vëantur y relevo de Círdan I.md",
+      "seccion_fuente": "Registro editorial de los cuatro cascos Vëantur"
+    },
+    {
+      "id": "CN-0319",
+      "designacion": "A103-VEA-03",
+      "tipo_registro": "casco narrativo con ID editorial",
+      "periodo_contexto": "A103; 1884–1913",
+      "campos": {
+        "clase": "Vëantur",
+        "construccion": "1888",
+        "servicio": "1892",
+        "retiro": "1911",
+        "matricula": "sin dato"
+      },
+      "fuente": "00_Canon/Integraciones V16/Acumulativa A103 Clase Vëantur y relevo de Círdan I.md",
+      "seccion_fuente": "Registro editorial de los cuatro cascos Vëantur"
+    },
+    {
+      "id": "CN-0320",
+      "designacion": "A103-VEA-04",
+      "tipo_registro": "casco narrativo con ID editorial",
+      "periodo_contexto": "A103; 1884–1913",
+      "campos": {
+        "clase": "Vëantur",
+        "construccion": "1889",
+        "servicio": "1893",
+        "retiro": "1913",
+        "matricula": "sin dato"
+      },
+      "fuente": "00_Canon/Integraciones V16/Acumulativa A103 Clase Vëantur y relevo de Círdan I.md",
+      "seccion_fuente": "Registro editorial de los cuatro cascos Vëantur"
+    }
+  ],
+  "calendario_cirdan": [
+    {
+      "id": "CN-0321",
+      "designacion": "A103-C75-01",
+      "tipo_registro": "casco historico con ID editorial",
+      "periodo_contexto": "A103; 1884–1913",
+      "campos": {
+        "clase": "Círdan I acorazado 1875",
+        "segunda_linea": "1889",
+        "retiro": "1898",
+        "matricula": "sin dato"
+      },
+      "fuente": "00_Canon/Integraciones V16/Acumulativa A103 Clase Vëantur y relevo de Círdan I.md",
+      "seccion_fuente": "Círdan I conservación y paso a segunda línea"
+    },
+    {
+      "id": "CN-0322",
+      "designacion": "A103-C75-02",
+      "tipo_registro": "casco historico con ID editorial",
+      "periodo_contexto": "A103; 1884–1913",
+      "campos": {
+        "clase": "Círdan I acorazado 1875",
+        "segunda_linea": "1889",
+        "retiro": "1900",
+        "matricula": "sin dato"
+      },
+      "fuente": "00_Canon/Integraciones V16/Acumulativa A103 Clase Vëantur y relevo de Círdan I.md",
+      "seccion_fuente": "Círdan I conservación y paso a segunda línea"
+    },
+    {
+      "id": "CN-0323",
+      "designacion": "A103-C75-03",
+      "tipo_registro": "casco historico con ID editorial",
+      "periodo_contexto": "A103; 1884–1913",
+      "campos": {
+        "clase": "Círdan I acorazado 1875",
+        "segunda_linea": "1890",
+        "retiro": "1902",
+        "matricula": "sin dato"
+      },
+      "fuente": "00_Canon/Integraciones V16/Acumulativa A103 Clase Vëantur y relevo de Círdan I.md",
+      "seccion_fuente": "Círdan I conservación y paso a segunda línea"
+    },
+    {
+      "id": "CN-0324",
+      "designacion": "A103-C75-04",
+      "tipo_registro": "casco historico con ID editorial",
+      "periodo_contexto": "A103; 1884–1913",
+      "campos": {
+        "clase": "Círdan I acorazado 1875",
+        "segunda_linea": "1890",
+        "retiro": "1904",
+        "matricula": "sin dato"
+      },
+      "fuente": "00_Canon/Integraciones V16/Acumulativa A103 Clase Vëantur y relevo de Círdan I.md",
+      "seccion_fuente": "Círdan I conservación y paso a segunda línea"
+    },
+    {
+      "id": "CN-0325",
+      "designacion": "A103-C75-05",
+      "tipo_registro": "casco historico con ID editorial",
+      "periodo_contexto": "A103; 1884–1913",
+      "campos": {
+        "clase": "Círdan I acorazado 1875",
+        "segunda_linea": "1892",
+        "retiro": "1906",
+        "matricula": "sin dato"
+      },
+      "fuente": "00_Canon/Integraciones V16/Acumulativa A103 Clase Vëantur y relevo de Círdan I.md",
+      "seccion_fuente": "Círdan I conservación y paso a segunda línea"
+    },
+    {
+      "id": "CN-0326",
+      "designacion": "A103-C75-06",
+      "tipo_registro": "casco historico con ID editorial",
+      "periodo_contexto": "A103; 1884–1913",
+      "campos": {
+        "clase": "Círdan I acorazado 1875",
+        "segunda_linea": "1892",
+        "retiro": "1908",
+        "matricula": "sin dato"
+      },
+      "fuente": "00_Canon/Integraciones V16/Acumulativa A103 Clase Vëantur y relevo de Círdan I.md",
+      "seccion_fuente": "Círdan I conservación y paso a segunda línea"
+    }
+  ],
+  "hitos_cronologia": [
+    [
+      1884,
+      "Autorización de cuatro Vëantur y decisión de relevo gradual de Círdan I; se priorizan cascos nuevos y reformas parciales en los anteriores."
+    ],
+    [
+      1885,
+      "Comienza Vëantur A103-VEA-01. Se abre el periodo 1885–1888 de reformas parciales Círdan, sin sustitución adoptada de sus plantas principales."
+    ],
+    [
+      1886,
+      "Comienza Vëantur A103-VEA-02."
+    ],
+    [
+      1888,
+      "Comienza Vëantur A103-VEA-03."
+    ],
+    [
+      1889,
+      "Entra en servicio Vëantur 01; comienza Vëantur 04. Círdan C75-01 y C75-02 pasan a segunda línea."
+    ],
+    [
+      1890,
+      "Entra en servicio Vëantur 02; Círdan C75-03 y C75-04 pasan a segunda línea."
+    ],
+    [
+      1891,
+      "Perímetro A103: dos Vëantur incorporados y dos en construcción; seis Círdan en inventario, cuatro de segunda línea y dos de primera línea transitoria. No equivale a disponibilidad."
+    ],
+    [
+      1892,
+      "Entra en servicio Vëantur 03; Círdan C75-05 y C75-06 pasan a segunda línea. Comienza la ventana Anárion ya existente; programa separado."
+    ],
+    [
+      1893,
+      "Entra en servicio Vëantur 04; completa la serie de cuatro."
+    ],
+    [
+      1894,
+      "El capital de turbina de referencia continúa como perfil sin nombre y cantidad; no se identifica con Vëantur ni Anárion."
+    ],
+    [
+      1895,
+      "Se conserva el inicio aproximado de servicio Anárion. La nueva serie es distinta de los cuatro Vëantur."
+    ],
+    [
+      1898,
+      "Retiro narrativo de Círdan C75-01."
+    ],
+    [
+      1900,
+      "Retiro narrativo de Círdan C75-02; cuatro Vëantur continúan incorporados. Los ocho Anárion de programa no se presumen todos operativos en 1900."
+    ],
+    [
+      1902,
+      "Retiro narrativo de Círdan C75-03."
+    ],
+    [
+      1904,
+      "Retiro narrativo de Círdan C75-04."
+    ],
+    [
+      1906,
+      "Retiro narrativo de Círdan C75-05."
+    ],
+    [
+      1907,
+      "Retiro narrativo de Vëantur 01."
+    ],
+    [
+      1908,
+      "Retiro narrativo de Círdan C75-06; se conserva el cierre de servicio de su familia."
+    ],
+    [
+      1909,
+      "Retiro narrativo de Vëantur 02."
+    ],
+    [
+      1911,
+      "Retiro narrativo de Vëantur 03."
+    ],
+    [
+      1913,
+      "Retiro narrativo de Vëantur 04; termina el servicio de la clase antes de 1914."
+    ]
+  ],
+  "especificaciones": "diseño narrativo; no resultados de prueba",
+  "total_registros_catalogo": 326,
+  "matriculas_documentadas": 0
+}

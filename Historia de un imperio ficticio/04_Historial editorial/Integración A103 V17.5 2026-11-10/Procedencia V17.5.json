@@ -1,0 +1,23 @@
+{
+  "revision": "V17.5 A103",
+  "fecha": "2026-11-10",
+  "base": "V17.4 A102",
+  "catalogo": "CMN 2; 326 registros de evidencia",
+  "word_original": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\10_Archivo\\Documentos editoriales\\Oficial\\Canon V17.5 Maestro A103.docx",
+  "word_dos": "C:\\Users\\migue\\OneDrive\\DOS\\Canon V17.5 Maestro A103.docx",
+  "word_compatible": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\10_Archivo\\Documentos editoriales\\Oficial\\Canon V16 Maestro.docx",
+  "markdown_activo": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\00_Canon\\Canon V16 Maestro.md",
+  "cronologia": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\01_Cronologia\\Cronología Territorial V16.md",
+  "word_sha256": "1c70d6e6687d772287da135cf8b09320f0567e4f88737ae42ff538b9aaa9ddc1",
+  "markdown_sha256": "366165774f15d41c52d455b7f789a947df4341b0069fe576d5fb8c3a171e0fce",
+  "pdf_sha256": "7888e4977b438e1a131dc64fce66cd75d7356c5cad41670c93126b97ed5afad2",
+  "chronology_sha256": "c9d8f8e7082c96e006073e22d5896853acc1b9f47e5be1aa877db196d0ecffab",
+  "pdf_pages": 433,
+  "a103_cumulative_pages": 5,
+  "content_blocks": 7643,
+  "native_tables": 218,
+  "scenario_A101": "E1 conservado; E2 E3 alternativas no acumulables",
+  "nuevos_cascos_veantur": 4,
+  "documentos_historicos_nuevos_acreditados": 0,
+  "sincronizacion_remota_verificada": false
+}
