@@ -1,0 +1,13 @@
+{
+  "paginas_word": 517,
+  "paginas_anteriores_identicas": 511,
+  "paginas_anteriores_con_imagen_distinta": [
+    1
+  ],
+  "hojas_inspeccion": [
+    "C:\\Users\\migue\\Documents\\Codex\\2026-11-10\\contin-a-el-proyecto-valinor-desde\\work\\v17_7\\inspeccion-01.png",
+    "C:\\Users\\migue\\Documents\\Codex\\2026-11-10\\contin-a-el-proyecto-valinor-desde\\work\\v17_7\\inspeccion-02.png"
+  ],
+  "inspeccion_visual_completada": true,
+  "alcance": "Portada y cinco páginas añadidas inspeccionadas; 511 páginas anteriores idénticas por SHA256 de imagen; tabla de candidatos paginada con subtotal junto a detalle"
+}

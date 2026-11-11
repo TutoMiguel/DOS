@@ -1,7 +1,7 @@
 # Cronología maestra atlántica de la Unión Valinoriana
 
 
-Estado: VIGENTE V17.6 A104, con A092 y A093 conservadas. Las decisiones expresas posteriores del autor prevalecen sobre V16.3. Tol Eressëa 20–40 y Groenlandia 55–75 d. C.; poblaciones antiguas conservadas por ámbito.
+Estado: VIGENTE V17.7 A105, con A092 y A093 conservadas. Las decisiones expresas posteriores del autor prevalecen sobre V16.3. Tol Eressëa 20–40 y Groenlandia 55–75 d. C.; poblaciones antiguas conservadas por ámbito.
 
 * **2026 clasificación editorial:** Islandia y Groenlandia son unidades federales externas al Reino; 2026 no es primera incorporación histórica.
 * **2026 cuentas conciliadas:** 481 + 37 + 5,5 = 523,5 millones; externas vigentes 42,5. PIB PPA 58,50 + 7,00 = 65,50 billones; los 0,95 de Islandia y Groenlandia ya están incluidos en las externas.
@@ -2408,3 +2408,20 @@ Se incluyen fechas conocidas o adoptadas de auxiliares, patrulleros y supervivie
 - **1935 — ANP01-AUX-REP-06:** retiro; alcance y condición según registro A104.
 - **1935 — ANP01-AUX-TRA-12:** retiro; alcance y condición según registro A104.
 - **1935 — ANP01-GCO-18:** retiro; alcance y condición según registro A104.
+
+
+## Integración A105 Corte naval y organización de 1891
+
+[[00_Canon/Integraciones V16/Acumulativa A105 Armada de Valinor en 1891|Resolución A105 Armada de 1891]]
+
+- **1887:** Se conserva el alta del demostrador de turbina T87-01; no pertenece a los 48 Forlond posteriores.
+- **1889:** Se conservan las incorporaciones de Vëantur 01 y T87-02 y la obra iniciada de Tarannon 01.
+- **1890:** Se conserva la incorporación de Vëantur 02 y el paso a segunda línea de los Círdan y Gil-galad correspondientes.
+- **1891:** Al cierre hay 18 acorazados incorporados: 2 Vëantur, 6 Círdan históricos, 4 Eärendil pesados y 6 Gil-galad iniciales. Seis posiciones de primera línea: dos Vëantur y cuatro antiguos transitorios; doce de segunda línea. Disponibilidad efectiva sin dato.
+- **1891:** En construcción aparte: Vëantur 03, Vëantur 04 y Tarannon 01. Los ocho Anárion están autorizados y comienzan obras desde 1892. No son incorporados de 1891.
+- **1891:** Se adopta la organización en escuadra de concentración, divisiones de cruceros, fuerzas territoriales y servicio logístico y de arsenales. No se fijan destinos ni mandos nominales por casco.
+- **1891:** La reconstrucción provisional del ámbito comprende 239 identidades: 18 acorazados con presencia definida, 2 demostradores con alta fechada, 115 candidatos de crucero y servicio territorial y 104 auxiliares candidatos. No se adopta censo nacional ni se inventan altas antiguas.
+- **1891:** Se conserva el carbón como combustible principal, modernización por expediente y construcción escalonada. No se anticipan la red de diques posterior, CSNR, patrulleros de líquido, diésel, radar ni ASW madura.
+- **1892:** Se conserva el servicio de Vëantur 03 y el final de primera línea transitoria de Círdan 05–06 y Gil-galad 05–06; comienzan Anárion y Tarannon 02 según su calendario.
+- **1893:** Se conserva el servicio de Vëantur 04 y la conclusión de su serie de cuatro.
+- **1894:** Se conserva el primer servicio de Tarannon; la Armada de 1891 no lo incluye como incorporado.

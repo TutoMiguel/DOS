@@ -1,8 +1,15 @@
 ---
-canon: V17.5 A103
-actualizado: 2026-11-10
+canon: V17.7 A105
+actualizado: 2026-11-11
 estado: adoptado narrativamente con reservas documentales
 ---
+
+## Resolución vigente A105 para el corte de 1891
+
+Se ratifican dieciocho acorazados incorporados, seis posiciones de primera línea y doce de segunda, con tres capitales en construcción aparte. La reconstrucción de 239 identidades del ámbito catalogado comprende veinte presencias definidas y 219 candidaturas provisionales; no es inventario nacional ni disponibilidad simultánea. A104 mantiene sus cuatro Tarannon y los diseños ampliados. [[00_Canon/Integraciones V16/Acumulativa A105 Armada de Valinor en 1891|Resolución A105 Armada de 1891]] · [[12_Militar/03_Armada/Armada#Armada de Valinor en 1891|Desarrollo de la Armada en 1891]]
+
+Esta resolución contextualiza 1891 y conserva las configuraciones y cantidades de otros periodos de esta ficha.
+
 # Clase Vëantur de acorazados oceánicos
 
 ## Resolución A103 de relevo de Círdan I y clase Vëantur
@@ -11,7 +18,7 @@ La revisión V17.5 A103 adopta por instrucción del autor del 10 de noviembre de
 
 La nueva clase y sus calendarios son una decisión narrativa incorporada ahora, no hechos recuperados de documentación anterior. Se conservan V17.4 A102 y los originales como antecedentes. Los parámetros son especificaciones narrativas de diseño; no se inventan actas auténticas, números de casco, matrículas ni resultados de pruebas. Las identidades individuales siguen pendientes y se utilizan únicamente identificadores editoriales de seguimiento.
 
-Vëantur no es una reconstrucción de Círdan, una subserie de Anárion ni el primer capital de turbina previsto desde 1894. Las tres líneas quedan diferenciadas. Anárion mantiene ocho unidades de referencia, construcción 1892–1902 y servicio inicial aproximado desde 1895; el capital de turbina conserva nombre y número de cascos pendientes. No se presume que Anárion utilice turbinas por coincidir con el desarrollo experimental.
+Vëantur no es una reconstrucción de Círdan, una subserie de Anárion ni el primer capital de turbina previsto desde 1894. Las tres líneas quedan diferenciadas. Anárion mantiene ocho unidades de referencia, construcción 1892–1902 y servicio inicial aproximado desde 1895; el capital de turbina está identificado por A104 como Tarannon, con cuatro unidades de programa; en 1891 solo el primer casco está en construcción. No se presume que Anárion utilice turbinas por coincidir con el desarrollo experimental.
 
 ## Necesidad naval y decisión industrial de 1884
 

@@ -1,0 +1,15 @@
+{
+  "revision": "V17.7 A105",
+  "catalogo": "CMN 5",
+  "fecha": "2026-11-11",
+  "canon_markdown_sha256": "e9ddb76e08eadb8131277af4e42d6cf1a5f73c86cdfd1161b9490a7ff7c36867",
+  "word_sha256": "4fa03c69961b074c4b12abf82f3cd86ff675f97ddb5b622e7b2b37187625617d",
+  "pdf_sha256": "043a00d49913db3de61ce0762ba1630221cc74eae98e67afe27faebce14b3fcd",
+  "cronologia_sha256": "2f32685c2395b9b3b79cc1faf174f380eb30935ae7bfcd3e7231ae9a88075673",
+  "pdf_pages": 517,
+  "anterior_preservado": "V17.6 A104",
+  "reconstruccion_1891": "18 acorazados y 2 demostradores con presencia definida; 219 candidaturas provisionales; tres capitales en construcción aparte",
+  "registro_naval_vigente": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\10_Archivo\\Documentos editoriales\\Oficial\\Registro naval integrado A105.json",
+  "registro_corte_1891": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\10_Archivo\\Documentos editoriales\\Oficial\\Reconstrucción naval 1891 A105.json",
+  "nota": "Verificación local; no confirma sincronización remota OneDrive"
+}

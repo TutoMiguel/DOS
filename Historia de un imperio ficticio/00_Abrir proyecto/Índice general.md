@@ -49,6 +49,11 @@ A094 automotriz y A095 aérea integradas y desarrolladas. El Word versionado es 
 Clase Vëantur de cuatro acorazados y relevo gradual de Círdan I. El maestro nuevo es Canon V17.5 Maestro A103.docx; las copias V16 de compatibilidad contienen la misma revisión. V17.4 A102 y CMN 1 quedan conservados como antecedentes. Catálogo naval vigente CMN 2, con 326 registros de evidencia, no 326 clases.
 
 
-## Revisión vigente V17.6 A104
+## Antecedente V17.6 A104
 
 Integrada ANP 01 v15 con cuatro Tarannon, Rómenna de 6.200 t, explorador de 7.600 t y Pelargir de 4.400 t. Maestro vigente Canon V17.6 Maestro A104.docx; copias V16 contienen idéntica revisión. Catálogo CMN 4. La carpeta militar se consolida de 179 a 58 notas con mapa de rutas y originales respaldados.
+
+
+## Revisión vigente V17.7 A105
+
+Integrado el desarrollo de la Armada de 1891 en maestro, Word oficial, cronología y Obsidian. Dieciocho acorazados incorporados, tres capitales en construcción y dos demostradores con alta. Las 239 identidades del ámbito incluyen 219 candidaturas provisionales; no son un censo nacional. Se conserva A104 y sus diseños. Catálogo CMN 5; carpeta militar de 58 notas.

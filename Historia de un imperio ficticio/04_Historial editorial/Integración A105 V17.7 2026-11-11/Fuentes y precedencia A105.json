@@ -1,0 +1,28 @@
+{
+  "revision": "V17.7 A105",
+  "autorizacion": "orden expresa del autor de integrar el desarrollo de 1891 en este chat, 2026-11-11",
+  "fuentes": [
+    {
+      "ruta": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\00_Canon\\Canon V16 Maestro.md",
+      "sha256_antes": "a643cbee0f41cc651065679b0c400ad5948a18c8b93c4d846bbeff895d7ec752"
+    },
+    {
+      "ruta": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\01_Cronologia\\Cronología Territorial V16.md",
+      "sha256_antes": "c99956c75fb564f2669db310af167ff2e929b8e9fdf3279575985d9bb306e14e"
+    },
+    {
+      "ruta": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\12_Militar\\03_Armada\\Clase Vëantur 1884-1913.md",
+      "sha256_antes": "16d7081df5655446ca106ed44dd830ddfbf5239bae6473a01f83f509c37f6b54"
+    },
+    {
+      "ruta": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\12_Militar\\03_Armada\\Armada de 1875 consolidada.md",
+      "sha256_antes": "04e673f3ebe24ebf6d3f3a8afb8bacbbda78a4195e80418cf15782044b631232"
+    },
+    {
+      "ruta": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\12_Militar\\03_Armada\\Desarrollo naval 1882-1945.md",
+      "sha256_antes": "963e31ea80dae09feb099237d97debe479e9801ce6e9767228d0f81eb9063162"
+    }
+  ],
+  "criterio_239": "altas conocidas <=1891 con retiro >1891, más posiciones sin alta individual y retiro posterior a 1891, conservadas como candidaturas; dieciséis acorazados históricos tienen presencia ratificada por A103 y A104; no se asignan altas ficticias",
+  "precedencia": "A105 desarrolla corte y organización de 1891; A104 conserva diseños y series; resoluciones posteriores prevalecen sobre antecedentes"
+}

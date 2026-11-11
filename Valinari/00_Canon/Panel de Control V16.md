@@ -1,11 +1,16 @@
 ---
 tipo: panel de control
-canon: V17.6 A104
+canon: V17.7 A105
 estado: vigente
 ultima_revision: 2026-11-10
 ---
 
-## Resolución vigente V17.6 A104
+## Resolución vigente A105 para el corte de 1891
+
+Se ratifican dieciocho acorazados incorporados, seis posiciones de primera línea y doce de segunda, con tres capitales en construcción aparte. La reconstrucción de 239 identidades del ámbito catalogado comprende veinte presencias definidas y 219 candidaturas provisionales; no es inventario nacional ni disponibilidad simultánea. A104 mantiene sus cuatro Tarannon y los diseños ampliados. [[00_Canon/Integraciones V16/Acumulativa A105 Armada de Valinor en 1891|Resolución A105 Armada de 1891]] · [[12_Militar/03_Armada/Armada#Armada de Valinor en 1891|Desarrollo de la Armada en 1891]]
+
+
+## Antecedente A104 conservado
 
 Integrada ANP 01 v15 con cuatro Tarannon, tres diseños ampliados, modernización registrada y transición dual de combustible. A104 prevalece sobre cifras anteriores afectadas; escenarios de capacidad y disponibilidad conservan sus reservas. [[00_Canon/Integraciones V16/Acumulativa A104 Desarrollo naval e industria militar|Resolución A104]]
 
@@ -13,7 +18,7 @@ Integrada ANP 01 v15 con cuatro Tarannon, tres diseños ampliados, modernizació
 
 ## Estado general
 
-- Canon vigente: V17.6 A104; nombre de archivo V16 conservado para enlaces.
+- Canon vigente: V17.7 A105; nombre de archivo V16 conservado para enlaces.
 - Alcance territorial: Federación más Protectorados.
 - Aliados de Gwaith Aear: fuera del catálogo operativo.
 - Última auditoría: [[00_Canon/Auditoría de Coherencia V16]].

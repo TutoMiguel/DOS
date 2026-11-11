@@ -1,0 +1,296 @@
+{
+  "revision": "V17.7 A105",
+  "catalogo": "CMN 5",
+  "destinos_verificados": 57,
+  "publicaciones": [
+    {
+      "destino": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\00_Canon\\Integraciones V16\\Acumulativa A105 Armada de Valinor en 1891.md",
+      "sha256": "300e00f40387e5a855c461a4d2cd407f8e308c82621f28b6940598bc6821d427",
+      "anterior_sha256": null
+    },
+    {
+      "destino": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\12_Militar\\03_Armada\\AM1 Armada 1875-2026.md",
+      "sha256": "f1b84751eabac8dc189d6a63db85a6806bc5aa8564c2326fa3a4f2068a0b6283",
+      "anterior_sha256": "aa81e0ec2638ca0abd14f22a75eaf5e6b12f6d2c36af66eac06facd80db2b217"
+    },
+    {
+      "destino": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\12_Militar\\03_Armada\\AM1 Armada 1973 — reconstrucción y turbinas.md",
+      "sha256": "4b65056ba5aebeea9eeec6144751800ced3fae8fad673134e8eb16140b52cb78",
+      "anterior_sha256": "271354078d0822cd41dd5807e26f02bb0d361427fd269e4f6aaff206a0460e63"
+    },
+    {
+      "destino": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\12_Militar\\03_Armada\\Armada 1500-1600.md",
+      "sha256": "acc53968fd353311506df567a15132d966a396da5bdf4f649a9e707dfa880843",
+      "anterior_sha256": "24f9cde9011d136119494819352dba5bbd6f066ee817da2c66cf26d3ad45b6bd"
+    },
+    {
+      "destino": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\12_Militar\\03_Armada\\Armada antigua 500 aC-500 dC.md",
+      "sha256": "70a1f875be06d1c2893e1ad2bfeff376f604a7cd8068a85c20a912e603b7bb4b",
+      "anterior_sha256": "3a252ed005e82d9af30337062a0dfafb4c35567be643408efb00e8ebd209856b"
+    },
+    {
+      "destino": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\12_Militar\\03_Armada\\Armada de 1875 consolidada.md",
+      "sha256": "cf8b0f6130af773fbd154cf6f62274cde0b6a5f326e1b653538102b21493ffea",
+      "anterior_sha256": "04e673f3ebe24ebf6d3f3a8afb8bacbbda78a4195e80418cf15782044b631232"
+    },
+    {
+      "destino": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\12_Militar\\03_Armada\\Armada.md",
+      "sha256": "8f345ac52ad21118f558cc29dcbc321bcf0848518f7c64344ce8047401482cae",
+      "anterior_sha256": "3121c69df2c46fc511e55686a81ed6aab1433363ae1cc4e3120bea6ce3083a08"
+    },
+    {
+      "destino": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\12_Militar\\03_Armada\\Catálogo maestro naval 1875-2026.md",
+      "sha256": "cf6978dbe7cab842644ab502d1fec657dd41e66c26fad6fdb056de764f1bf5a5",
+      "anterior_sha256": "68281c4b1da6eff8c30f1166307f67bfa19fffa18e57335bc82d05689bc6f8f6"
+    },
+    {
+      "destino": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\12_Militar\\03_Armada\\Clase Vëantur 1884-1913.md",
+      "sha256": "1cb02eacb7745b1a73be51efa8b119fb429148c86bfd295b94bc482b873a9636",
+      "anterior_sha256": "16d7081df5655446ca106ed44dd830ddfbf5239bae6473a01f83f509c37f6b54"
+    },
+    {
+      "destino": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\12_Militar\\03_Armada\\Clases navales 1980.md",
+      "sha256": "346494b2572008650f820292030a49dab0f402b41e78f75c4b1a6820a77d8f5a",
+      "anterior_sha256": "edf159f8e38d5583677bbd83b073f8bc92c637a788ee2a5b1a5eec99d19923ab"
+    },
+    {
+      "destino": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\12_Militar\\03_Armada\\Clases navales 2026.md",
+      "sha256": "75a5638d4ee1bd645bd01b5d13db55226cebce616c8312e3355416b591f7aebd",
+      "anterior_sha256": "6824b2bea5ca54819a4c742d9cc7df5336b8748c585d3fc93a3e9342e05516c8"
+    },
+    {
+      "destino": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\12_Militar\\03_Armada\\Comparación naval Valinor y Royal Navy (1907).md",
+      "sha256": "f739c958ee8e94a3cdc014ac1825098f656c1265a5210052ad953b4b8a85c9ed",
+      "anterior_sha256": "a75bd3429cfddde23ef5a904944871440aac9ef3940da6bc96f6c2cc93d2c2a4"
+    },
+    {
+      "destino": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\12_Militar\\03_Armada\\Conciliación Eärendil y Gil-galad históricos CMN3.md",
+      "sha256": "02db9aa60a0691128fafde950187a21a82eada3089554fba719939b39744013a",
+      "anterior_sha256": "9a4cd3c907aba5b485460e02186c92a662806db3cd6e570fe0ac93bbfe0dfd54"
+    },
+    {
+      "destino": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\12_Militar\\03_Armada\\Corbetas fragatas y persistencia naval.md",
+      "sha256": "d11b1c5675bf33b604b53d873ed21ac3df8b13230a63bc8ccdd5299885af26c5",
+      "anterior_sha256": "c82fd860e48cac62c510d222daa0bad4e057f916de7312305802e55797812d01"
+    },
+    {
+      "destino": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\12_Militar\\03_Armada\\Cultura naval y continuidad de rutas.md",
+      "sha256": "6e6491087de09ddb6ce380b92f4d6190a84400b4af880e978312fa80af3e8bfa",
+      "anterior_sha256": "f27d525412a3740bc21d69a64f4ca1bae95eab556e5056b9d74df62d83afb447"
+    },
+    {
+      "destino": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\12_Militar\\03_Armada\\Desarrollo naval 1882-1945.md",
+      "sha256": "9a7c90fe80b25541d91ba9d8f33374342193adfd6b581d5e50683c63181b82db",
+      "anterior_sha256": "963e31ea80dae09feb099237d97debe479e9801ce6e9767228d0f81eb9063162"
+    },
+    {
+      "destino": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\12_Militar\\03_Armada\\Destructores Gil-galad — evolución de la familia.md",
+      "sha256": "152a6aa2fc1cc3ccf995defbed07ddc9c710152963ca098bc613a14d7d1d1faf",
+      "anterior_sha256": "04c491a2f4977a009f8bfb762f745f76fd4ad2e9fa07ca44d64f2adae4e238da"
+    },
+    {
+      "destino": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\12_Militar\\03_Armada\\Escenario de composición naval A093.md",
+      "sha256": "63d24fca769cf417205407d33f603ba606d2c435bef1d5f25768e89469542057",
+      "anterior_sha256": "1dd50318e678e5b1cc05964bf760662bf665a3c536733fb9dbee11fc7dbc0f22"
+    },
+    {
+      "destino": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\12_Militar\\03_Armada\\Evolución Naval 1850-2026.md",
+      "sha256": "f6fc69783f94f45af1434c33747daa02800060a451d35726d8a4841fefdedce1",
+      "anterior_sha256": "8ab3f24e1eb48dca414f7586152070c78230544e1b3be3554f2e07b2c2cc9883"
+    },
+    {
+      "destino": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\12_Militar\\03_Armada\\Exportaciones navales A099 A101.md",
+      "sha256": "cbff2ab1772a71fdc11e89bfe8006bd554efd762bac743aaea72a7cf437592dc",
+      "anterior_sha256": "8dc71931d54d33a53d23c96f2fcb8e921c60839191031988e1e1414d9aaeedd6"
+    },
+    {
+      "destino": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\12_Militar\\03_Armada\\Lanchas misilísticas y territorios candidatos.md",
+      "sha256": "2046f6825f0cd3b364993418c8d7027181a3b6739cbf515a087d298c5a8e0b56",
+      "anterior_sha256": "63a2e479c6f1b598b112d11f312e465d80a6e25c3f7b310e9dca3fb492eedbd7"
+    },
+    {
+      "destino": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\12_Militar\\03_Armada\\Reconstrucciones navales 1945 y 1960.md",
+      "sha256": "ba5ddcc43b889b28e9a62a0bbed6ba3702229e239f8d696b86faed02cadc36f6",
+      "anterior_sha256": "7c7fc2c99a2249a85754f6a453f12fcc5149aed5c75f8174189412128b75a186"
+    },
+    {
+      "destino": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\12_Militar\\03_Armada\\Redes navales y transición a drones.md",
+      "sha256": "8148969ada2d9095f21d2d1b20e43592f27c02435a363f6e75ea96569d20b3e8",
+      "anterior_sha256": "011b6ab9d6a6060318681bc391272af7aaf7305d68aaf662e0b25944025e032f"
+    },
+    {
+      "destino": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\12_Militar\\03_Armada\\Registro naval 2026 A092.md",
+      "sha256": "e85c8b283e4c759c5e2f5f5b619ac28a44c83064ca16ceed57fc9fcfcf74a7bf",
+      "anterior_sha256": "3147ed881e3da1fc394170034ccabceef297c8ab2c2008d8b7c47334c8b81c62"
+    },
+    {
+      "destino": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\12_Militar\\03_Armada\\Serie Círdan y transición a Voronwë.md",
+      "sha256": "b18e09d98d1f4c4e4aacaed866e96baa9310c9d779805bd6602aa5cab30072d0",
+      "anterior_sha256": "89e9930718d3fb2cd1543862f63be92169dc75b4e6f74e44d5f3532468f47ff0"
+    },
+    {
+      "destino": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\12_Militar\\03_Armada\\Serie naval anual 1875 2026 A092.md",
+      "sha256": "0881d7f86accb69ad8113c4def0d67ae61b96b87cf3ff11c1f712587b819b952",
+      "anterior_sha256": "59e147ec73c5c80b89385865324b78d991a58012b92be98cb8ace6d6b21c0d8a"
+    },
+    {
+      "destino": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\12_Militar\\03_Armada\\Índice de armada.md",
+      "sha256": "e5b5910a25ad8df95c37ccbc0007b8deee06ab056a5b667af53a3d4c1ce3e826",
+      "anterior_sha256": "fe12d8424814cb2274c104c47b873776aa2a05fb83db2aecb7003205bea096d7"
+    },
+    {
+      "destino": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\12_Militar\\Índice Militar.md",
+      "sha256": "a9a86ab337bdb681e8f48622d523d7967d93c5b0520b17d5859de1c44f13a1a2",
+      "anterior_sha256": "335319c26b976d01e616931e881cb477e6221bc5155e887f02c12b859b979d73"
+    },
+    {
+      "destino": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\12_Militar\\01_Doctrina y organización\\Doctrina Militar.md",
+      "sha256": "bf5b097669604346240841baab25c605a127773ae638c790e6318a4216e00250",
+      "anterior_sha256": "42552ddef1eeef7ef60314168af54c4c3c37a284e4753b9dc2d0aa1b77688891"
+    },
+    {
+      "destino": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\12_Militar\\01_Doctrina y organización\\Marco histórico y sostenimiento militar.md",
+      "sha256": "36dc6463a75cfb8b44f6da66afa9338bad501ab7cf0ba70bf4be3e8a52a2537a",
+      "anterior_sha256": "017034d3441617dc2dd875da7085148d426699d140a06ea19ed0fb3acb6296f0"
+    },
+    {
+      "destino": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\12_Militar\\05_Industria tecnología y logística\\Industria militar de Valinor.md",
+      "sha256": "d872ae8567ef28dfbb2b1a2c565918851313d727808bb8a6d021d2dfebef92d4",
+      "anterior_sha256": "2189486f410d013fba48bb1f2fa641df3c9128ee35e7fa6fd182e41d83b51d3d"
+    },
+    {
+      "destino": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\12_Militar\\05_Industria tecnología y logística\\Tripulaciones abastecimiento y disponibilidad histórica.md",
+      "sha256": "10d65c2becbe8fbd50e178db3cf7698c80af7f014ba4ea1de67ed92335b9590d",
+      "anterior_sha256": "86bbb5d70875aa967f698313083bdfa50593a4d39a1c8681fde3307393725c4f"
+    },
+    {
+      "destino": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\12_Militar\\05_Industria tecnología y logística\\Fortalezas y Bases.md",
+      "sha256": "e4d2017ab43d6f7a9dc4420a561c0948303c87062abf493152c03cb570c24811",
+      "anterior_sha256": "2054869e01d63f902be09bb5a499acdc7dfe96361319258767771721a9b11f19"
+    },
+    {
+      "destino": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\12_Militar\\05_Industria tecnología y logística\\Tecnología Militar.md",
+      "sha256": "27b234c07f253711a3313b92473bc42a3ab070ca2c0b7bf7f63f3e7a791b63c5",
+      "anterior_sha256": "415fad18cb176dfc4afc15a05c66e5d16ca74fbbaa8e21e3e8e5c31b7b4aefed"
+    },
+    {
+      "destino": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\12_Militar\\90_Control editorial\\Auditoría de coherencia temporal.md",
+      "sha256": "8fd64a005bfa7fdcfe0f965ad4b034a066f90b081e5d2e29de3e2d0cb91b8bb9",
+      "anterior_sha256": "1e3c04691e7f8e51cf5258e94ae93b05443cadda3b2c5324180100b026915390"
+    },
+    {
+      "destino": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\00_Canon\\Registro de Cambios.md",
+      "sha256": "e22f6af4d2eb8f1409cab89c2b9cc8b2f5e1747c4c32a1c95d0ba592ce52c5f3",
+      "anterior_sha256": "2a38dd195ddfb22ec91e4206618d03987e244041dde3443a8de234ea8000b407"
+    },
+    {
+      "destino": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\00_Canon\\Registro de integración acumulativa V16.md",
+      "sha256": "42d185ed4045f151f2959457754d07fa58be731a8c3e2003fd45a86ca29f8c9f",
+      "anterior_sha256": "f91e744a4489d1c2a6c2ff11868f3a4b47fde99d1c7cee2e38dd7a85b8480d47"
+    },
+    {
+      "destino": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\00_Canon\\Inicio del Canon V16.md",
+      "sha256": "06ad3290620332f78c5b0064c5d72bde673a9171dc5f16f7b4f62ba53c3fbacd",
+      "anterior_sha256": "b2e5954380b0d4b12c334f3bcd760ed915a69d90932a92fd1a912559f18010b9"
+    },
+    {
+      "destino": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\00_Canon\\Panel de Control V16.md",
+      "sha256": "f4090c511ebc954ebe7c7429709359ffb4339ee1155e671762a38be2331eaea6",
+      "anterior_sha256": "db02760d84ad36f9210c4a6f51c5824fdc3d52ebbf1b91f3d60a158f81688f76"
+    },
+    {
+      "destino": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\11_Ciencia y Tecnologia\\Turbinas de vapor y máquinas navales.md",
+      "sha256": "fd0ced0920b73036f3581363ae5c5e4681a3169aec232359cebaab65a64f6488",
+      "anterior_sha256": "6d697e51084f925aaf4d624673e6b340508bdb00f34a8fc6cc7521414dd6c76c"
+    },
+    {
+      "destino": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\11_Ciencia y Tecnologia\\Construcción Naval.md",
+      "sha256": "935f2589d9f537022685216ee22941efe2389dd36d3f03e5be2079a892636f41",
+      "anterior_sha256": "b9bde14c96903edccd165065f47ad7bb4c969cb2d919246af0ac7c9d19e78a9c"
+    },
+    {
+      "destino": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\01_Cronologia\\Cronología Territorial V16.md",
+      "sha256": "2f32685c2395b9b3b79cc1faf174f380eb30935ae7bfcd3e7231ae9a88075673",
+      "anterior_sha256": "c99956c75fb564f2669db310af167ff2e929b8e9fdf3279575985d9bb306e14e"
+    },
+    {
+      "destino": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\00_Canon\\Canon V16 Maestro.md",
+      "sha256": "e9ddb76e08eadb8131277af4e42d6cf1a5f73c86cdfd1161b9490a7ff7c36867",
+      "anterior_sha256": "a643cbee0f41cc651065679b0c400ad5948a18c8b93c4d846bbeff895d7ec752"
+    },
+    {
+      "destino": "C:\\Users\\migue\\OneDrive\\DOS\\Canon V17.7 Maestro A105.docx",
+      "sha256": "4fa03c69961b074c4b12abf82f3cd86ff675f97ddb5b622e7b2b37187625617d",
+      "anterior_sha256": null
+    },
+    {
+      "destino": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\10_Archivo\\Documentos editoriales\\Oficial\\Canon V17.7 Maestro A105.docx",
+      "sha256": "4fa03c69961b074c4b12abf82f3cd86ff675f97ddb5b622e7b2b37187625617d",
+      "anterior_sha256": null
+    },
+    {
+      "destino": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\10_Archivo\\Documentos editoriales\\Oficial\\Canon V16 Maestro.docx",
+      "sha256": "4fa03c69961b074c4b12abf82f3cd86ff675f97ddb5b622e7b2b37187625617d",
+      "anterior_sha256": "261d6a016ecb8c34a8e1766edcabe74235ebd29f48357f85455783c17d340177"
+    },
+    {
+      "destino": "C:\\Users\\migue\\OneDrive\\DOS\\Historia de un imperio ficticio\\Canon V16 Maestro.docx",
+      "sha256": "4fa03c69961b074c4b12abf82f3cd86ff675f97ddb5b622e7b2b37187625617d",
+      "anterior_sha256": "261d6a016ecb8c34a8e1766edcabe74235ebd29f48357f85455783c17d340177"
+    },
+    {
+      "destino": "C:\\Users\\migue\\OneDrive\\DOS\\Historia de un imperio ficticio\\Canon V16 Maestro - Exportacion.docx",
+      "sha256": "4fa03c69961b074c4b12abf82f3cd86ff675f97ddb5b622e7b2b37187625617d",
+      "anterior_sha256": "261d6a016ecb8c34a8e1766edcabe74235ebd29f48357f85455783c17d340177"
+    },
+    {
+      "destino": "C:\\Users\\migue\\OneDrive\\DOS\\Historia de un imperio ficticio\\Canon V16 Maestro.pdf",
+      "sha256": "043a00d49913db3de61ce0762ba1630221cc74eae98e67afe27faebce14b3fcd",
+      "anterior_sha256": "2bb4f415ba9a764b76ea4a3de44698bac364c519fdc7c825d53d003b620c2e4c"
+    },
+    {
+      "destino": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\10_Archivo\\Documentos editoriales\\Oficial\\Canon V17.7 Maestro A105.pdf",
+      "sha256": "043a00d49913db3de61ce0762ba1630221cc74eae98e67afe27faebce14b3fcd",
+      "anterior_sha256": null
+    },
+    {
+      "destino": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\10_Archivo\\Documentos editoriales\\Oficial\\Registro naval integrado A105.json",
+      "sha256": "1df2bc23f9b76d8a70750fe839c7c0eadcf4929acf49b3bec44ff25492320e0c",
+      "anterior_sha256": null
+    },
+    {
+      "destino": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\10_Archivo\\Documentos editoriales\\Oficial\\Registros del catálogo naval CMN5.json",
+      "sha256": "716fd0bf2fc0ac9397c1fadf79fe04db72a04463acb2f396d225e90b37bbe21d",
+      "anterior_sha256": null
+    },
+    {
+      "destino": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\10_Archivo\\Documentos editoriales\\Oficial\\Reconstrucción naval 1891 A105.json",
+      "sha256": "9be4247adf8767d1f70deb19952f88dd47c909c7a9043663c424ee8234731622",
+      "anterior_sha256": null
+    },
+    {
+      "destino": "C:\\Users\\migue\\OneDrive\\DOS\\Historia de un imperio ficticio\\01_Exportaciones vigentes\\Procedencia de las exportaciones.json",
+      "sha256": "681b884a1af63828486b48d5827ce9548792a7d15914cbec7c0ab603e6feac23",
+      "anterior_sha256": "3b992931e9bf7f7885bfc22eee92cc1c0d1f0e30b157c4691624b7d14e2285d6"
+    },
+    {
+      "destino": "C:\\Users\\migue\\OneDrive\\DOS\\Historia de un imperio ficticio\\05_Control y herramientas\\rutas_proyecto.json",
+      "sha256": "b8f2ad4f32bbffbeb64efbeddba1acbce747038830feff2fa27996385fc7abcc",
+      "anterior_sha256": "98f301b3732f146f112b38778c90672a0f625cd8e99732cdb16dd3d2dddde4c7"
+    },
+    {
+      "destino": "C:\\Users\\migue\\OneDrive\\DOS\\Historia de un imperio ficticio\\00_Abrir proyecto\\Índice general.md",
+      "sha256": "f6e5d37b0123c9dab2f59391a34b8850d66f39c165d656c48c84547d4f10a3cc",
+      "anterior_sha256": "08143998dcc39c27686baf3a766d9956c9d35f039e58595f51814e632787eacb"
+    },
+    {
+      "destino": "C:\\Users\\migue\\OneDrive\\DOS\\Historia de un imperio ficticio\\00_Abrir proyecto\\Índice de canon, Word, cronología y acumulativas.md",
+      "sha256": "69167769d498c6ff7cb912a203bda07498c219f1550627687f4a668952631c25",
+      "anterior_sha256": "95134c489d53a32d502deb04f942653cfc9e71a45536d3dc53814f6ac4201125"
+    }
+  ],
+  "Word_Markdown_equivalentes": true,
+  "militar_58_notas_conservadas": true,
+  "A104_original_preservado": true,
+  "sincronizacion_remota_OneDrive_verificada": false
+}

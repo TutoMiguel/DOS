@@ -1,10 +1,17 @@
 ---
 tipo: conciliación editorial naval
-canon_base: V17.5 A103
+canon_base: V17.7 A105
 revision_catalogo: CMN 3
-actualizado: 2026-11-10
+actualizado: 2026-11-11
 estado: parámetros conciliados con el maestro vigente
 ---
+
+## Resolución vigente A105 para el corte de 1891
+
+Se ratifican dieciocho acorazados incorporados, seis posiciones de primera línea y doce de segunda, con tres capitales en construcción aparte. La reconstrucción de 239 identidades del ámbito catalogado comprende veinte presencias definidas y 219 candidaturas provisionales; no es inventario nacional ni disponibilidad simultánea. A104 mantiene sus cuatro Tarannon y los diseños ampliados. [[00_Canon/Integraciones V16/Acumulativa A105 Armada de Valinor en 1891|Resolución A105 Armada de 1891]] · [[12_Militar/03_Armada/Armada#Armada de Valinor en 1891|Desarrollo de la Armada en 1891]]
+
+Esta resolución contextualiza 1891 y conserva las configuraciones y cantidades de otros periodos de esta ficha.
+
 # Eärendil pesado y Gil-galad inicial de 1875
 
 El maestro V17.5 A103 y las fichas específicas coinciden en los parámetros de estas clases. Dos filas resumidas de AM1 ofrecían bandas diferentes. CMN 3 corrige esas filas conforme al maestro, sin crear nuevos cascos, generaciones o modernizaciones. Las filas anteriores se preservan en el respaldo y como afirmaciones históricas del catálogo, ahora identificadas como superadas en los parámetros discrepantes.

@@ -1,10 +1,17 @@
 ---
 tipo: ficha temática
-canon: V16
+canon: V17.7 A105
 estado: vigente
 periodo: "500 a. C.–500 d. C."
-actualizado: 2026-11-07
+actualizado: 2026-11-11
 ---
+
+## Resolución vigente A105 para el corte de 1891
+
+Se ratifican dieciocho acorazados incorporados, seis posiciones de primera línea y doce de segunda, con tres capitales en construcción aparte. La reconstrucción de 239 identidades del ámbito catalogado comprende veinte presencias definidas y 219 candidaturas provisionales; no es inventario nacional ni disponibilidad simultánea. A104 mantiene sus cuatro Tarannon y los diseños ampliados. [[00_Canon/Integraciones V16/Acumulativa A105 Armada de Valinor en 1891|Resolución A105 Armada de 1891]] · [[12_Militar/03_Armada/Armada#Armada de Valinor en 1891|Desarrollo de la Armada en 1891]]
+
+Esta resolución contextualiza 1891 y conserva las configuraciones y cantidades de otros periodos de esta ficha.
+
 # Armada antigua, 500 a. C.–500 d. C.
 
 ## Poder militar valinari, 500 a. C.–500 d. C.

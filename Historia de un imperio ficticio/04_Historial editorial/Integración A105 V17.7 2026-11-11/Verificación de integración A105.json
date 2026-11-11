@@ -1,0 +1,22 @@
+{
+  "revision": "V17.7 A105",
+  "catalogo": "CMN 5",
+  "notas_preparadas": 43,
+  "fichas_navales_revisadas": 26,
+  "notas_militares_antes": 58,
+  "notas_militares_despues": 58,
+  "sin_fichas_militares_nuevas": true,
+  "acorazados_1891": 18,
+  "primera_linea": 6,
+  "segunda_linea": 12,
+  "capitales_en_construccion_aparte": 3,
+  "reconstruccion_provisional": 239,
+  "presencias_definidas": 20,
+  "candidaturas_provisionales": 219,
+  "word_markdown_diferencias": 0,
+  "bloques_anteriores_modificados": [
+    3,
+    4
+  ],
+  "hitos_cronologicos": 11
+}
