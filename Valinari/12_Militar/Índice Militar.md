@@ -4,6 +4,11 @@ canon: V16
 estado: vigente
 actualizado: 2026-11-10
 ---
+
+## Resolución vigente V17.6 A104
+
+Integrada ANP 01 v15 con cuatro Tarannon, tres diseños ampliados, modernización registrada y transición dual de combustible. A104 prevalece sobre cifras anteriores afectadas; escenarios de capacidad y disponibilidad conservan sus reservas. [[00_Canon/Integraciones V16/Acumulativa A104 Desarrollo naval e industria militar|Resolución A104]]
+
 # Índice Militar
 
 La carpeta se ordena por área y conserva los inventarios, reconstrucciones y propuestas con su calificación propia. Las especificaciones terrestres tienen una ficha por familia; los índices proporcionan navegación sin repetir los catálogos completos.
@@ -48,7 +53,7 @@ Las resoluciones posteriores expresas de A092 prevalecen en sus materias. V16.3 
 ## Integración exportadora V17 3 A101
 
 - [[00_Canon/Integraciones V16/Acumulativa A101 Reconstrucción exportadora|Resoluciones y reconstrucción E1]]
-- [[12_Militar/03_Armada/Exportaciones A099 A101/Índice de expedientes|27 expedientes y lotes]]
+- [[12_Militar/03_Armada/Exportaciones navales A099 A101#Índice de expedientes|27 expedientes y lotes]]
 - [[00_Canon/Integraciones V16/Ámbitos de numeración A094 A101|Ámbitos A094 y A095]]
 
 ## Desarrollo integrado V17.4 A102

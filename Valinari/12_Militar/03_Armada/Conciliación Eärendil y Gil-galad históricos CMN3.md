@@ -48,8 +48,8 @@ Una propuesta de baja individual debe identificar el casco con un código editor
 ## Fuentes
 
 - [[00_Canon/Canon V16 Maestro|Maestro V17.5 A103]], secciones Eärendil pesado y Gil-galad inicial.
-- [[12_Militar/03_Armada/Armada 1875/Eärendil pesado (1875)]].
-- [[12_Militar/03_Armada/Armada 1875/Gil-galad inicial (1875)]].
+- [[12_Militar/03_Armada/Armada de 1875 consolidada#Eärendil pesado (1875)|Eärendil pesado (1875)]].
+- [[12_Militar/03_Armada/Armada de 1875 consolidada#Gil-galad inicial (1875)|Gil-galad inicial (1875)]].
 - [[12_Militar/03_Armada/AM1 Armada 1875-2026]], tabla 1875 y ventanas de servicio.
 - [[12_Militar/03_Armada/Clase Vëantur 1884-1913]].
 

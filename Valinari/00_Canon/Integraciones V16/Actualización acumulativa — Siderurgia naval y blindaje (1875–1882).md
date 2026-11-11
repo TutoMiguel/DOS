@@ -204,7 +204,7 @@ Los salarios, la seguridad de hornos y minas, la jornada y la formación afectan
 - [[11_Ciencia y Tecnologia/Metalurgia y siderurgia|Metalurgia y siderurgia]]
 - [[00_Canon/Canon V16 Maestro|Canon V16 Maestro]]
 - [[01_Cronologia/Cronología Territorial V16|Cronología maestra]]
-- [[12_Militar/03_Armada/Armada 1875/Índice de la Armada de 1875|Armada de 1875]]
+- [[12_Militar/03_Armada/Armada de 1875 consolidada#Índice de la Armada de 1875|Armada de 1875]]
 - [[00_Canon/Registro de integración acumulativa V16|Registro de integración acumulativa V16]]
 
 ## 11. Cadena metalúrgica: requisitos por etapa

@@ -4,6 +4,11 @@ canon: V16
 estado: vigente
 actualizado: 2026-11-10
 ---
+
+## Resolución vigente V17.6 A104
+
+Integrada ANP 01 v15 con cuatro Tarannon, tres diseños ampliados, modernización registrada y transición dual de combustible. A104 prevalece sobre cifras anteriores afectadas; escenarios de capacidad y disponibilidad conservan sus reservas. [[00_Canon/Integraciones V16/Acumulativa A104 Desarrollo naval e industria militar|Resolución A104]]
+
 # Índice de Armada
 
 - [[12_Militar/03_Armada/AM1 Armada 1875-2026|AM1 — Armada valinari, 1875–2026]]
@@ -25,7 +30,7 @@ actualizado: 2026-11-10
 
 ## Catálogos históricos
 
-- [[12_Militar/03_Armada/Armada 1875/Índice de la Armada de 1875|Armada de 1875]]
+- [[12_Militar/03_Armada/Armada de 1875 consolidada#Índice de la Armada de 1875|Armada de 1875]]
 
 [[12_Militar/Índice Militar|Volver al índice militar]]
 
@@ -40,7 +45,7 @@ actualizado: 2026-11-10
 ## Integración exportadora V17 3 A101
 
 - [[00_Canon/Integraciones V16/Acumulativa A101 Reconstrucción exportadora|Resoluciones y reconstrucción E1]]
-- [[12_Militar/03_Armada/Exportaciones A099 A101/Índice de expedientes|27 expedientes y lotes]]
+- [[12_Militar/03_Armada/Exportaciones navales A099 A101#Índice de expedientes|27 expedientes y lotes]]
 - [[00_Canon/Integraciones V16/Ámbitos de numeración A094 A101|Ámbitos A094 y A095]]
 
 ## Catálogo maestro consolidado

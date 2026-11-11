@@ -5,6 +5,11 @@ periodo_principal: 1000 a. C.–2026
 periodo_de_desarrollo: 1000 a. C.–2026
 estado_canon: V16 vigente
 ---
+
+## Resolución vigente V17.6 A104
+
+Integrada ANP 01 v15 con cuatro Tarannon, tres diseños ampliados, modernización registrada y transición dual de combustible. A104 prevalece sobre cifras anteriores afectadas; escenarios de capacidad y disponibilidad conservan sus reservas. [[00_Canon/Integraciones V16/Acumulativa A104 Desarrollo naval e industria militar|Resolución A104]]
+
 # Armada
 
 ## Periodización
@@ -42,7 +47,7 @@ La doctrina de masa sostenible más punta tecnológica, la composición de 1980,
 
 ## Armada de 1875
 
-El desarrollo consolidado está en [[12_Militar/03_Armada/Armada 1875/Índice de la Armada de 1875|Armada de 1875]], con fichas por clase y reparto territorial conciliado. Se distinguen 178 buques de combate y apoyo armado y 154 auxiliares.
+El desarrollo consolidado está en [[12_Militar/03_Armada/Armada de 1875 consolidada#Índice de la Armada de 1875|Armada de 1875]], con fichas por clase y reparto territorial conciliado. Se distinguen 178 buques de combate y apoyo armado y 154 auxiliares.
 
 ## Desarrollo industrial de la flota de vapor
 
@@ -64,7 +69,7 @@ La defensa antigua integra Casas, guarniciones, milicias y fuerzas navales. La p
 - [[01_Cronologia/Cronología Territorial V16|Cronología Territorial V16]]
 - [[08_Economia/Agricultura valinari 1000-500 aC|Agricultura valinari]]
 - [[08_Economia/Metalurgia valinari 1000-500 aC|Metalurgia valinari]]
-- [[12_Militar/03_Armada/Armada 1875/Índice de la Armada de 1875]]
+- [[12_Militar/03_Armada/Armada de 1875 consolidada#Índice de la Armada de 1875|Índice de la Armada de 1875]]
 - [[12_Militar/03_Armada/Armada antigua 500 aC-500 dC]]
 - [[12_Militar/03_Armada/Serie Círdan y transición a Voronwë]]
 - [[11_Ciencia y Tecnologia/Radar y Sensores|Radar y Sensores]]

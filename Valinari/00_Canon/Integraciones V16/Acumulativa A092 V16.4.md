@@ -2315,7 +2315,7 @@ El presupuesto del Ejército estadounidense de 1998 describe una APU para evitar
 No se añaden vehículos a los 1680 Elendil V diésel ni al total de las 27 familias. Antes de fijar producción deberá decidirse si los CBT-16 son cascos nuevos o conversiones. Una conversión mantiene el casco original y no incrementa el total construido. El Elendil VI de 2023 conserva su configuración diésel.
 
 
-[[12_Militar/02_Ejército/Blindados/Carros y exploradores/CB-06 Elendil V|Elendil V diésel]]
+[[12_Militar/02_Ejército/Blindados/Carros y exploradores#CB-06 Elendil V|Elendil V diésel]]
 
 [[12_Militar/02_Ejército/Blindados/Historia y criterios de los blindados|Criterios del catálogo]]
 

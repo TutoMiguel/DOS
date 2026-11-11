@@ -1,0 +1,31 @@
+{
+  "paginas": 512,
+  "paginas_anteriores_con_imagen_distinta": [
+    1
+  ],
+  "paginas_anteriores_identicas": 432,
+  "hojas_inspeccion": [
+    "C:\\Users\\migue\\Documents\\Codex\\2026-11-10\\contin-a-el-proyecto-valinor-desde\\work\\v17_6\\inspeccion-01.png",
+    "C:\\Users\\migue\\Documents\\Codex\\2026-11-10\\contin-a-el-proyecto-valinor-desde\\work\\v17_6\\inspeccion-02.png",
+    "C:\\Users\\migue\\Documents\\Codex\\2026-11-10\\contin-a-el-proyecto-valinor-desde\\work\\v17_6\\inspeccion-03.png",
+    "C:\\Users\\migue\\Documents\\Codex\\2026-11-10\\contin-a-el-proyecto-valinor-desde\\work\\v17_6\\inspeccion-04.png",
+    "C:\\Users\\migue\\Documents\\Codex\\2026-11-10\\contin-a-el-proyecto-valinor-desde\\work\\v17_6\\inspeccion-05.png",
+    "C:\\Users\\migue\\Documents\\Codex\\2026-11-10\\contin-a-el-proyecto-valinor-desde\\work\\v17_6\\inspeccion-06.png",
+    "C:\\Users\\migue\\Documents\\Codex\\2026-11-10\\contin-a-el-proyecto-valinor-desde\\work\\v17_6\\inspeccion-07.png",
+    "C:\\Users\\migue\\Documents\\Codex\\2026-11-10\\contin-a-el-proyecto-valinor-desde\\work\\v17_6\\inspeccion-08.png",
+    "C:\\Users\\migue\\Documents\\Codex\\2026-11-10\\contin-a-el-proyecto-valinor-desde\\work\\v17_6\\inspeccion-09.png",
+    "C:\\Users\\migue\\Documents\\Codex\\2026-11-10\\contin-a-el-proyecto-valinor-desde\\work\\v17_6\\inspeccion-10.png",
+    "C:\\Users\\migue\\Documents\\Codex\\2026-11-10\\contin-a-el-proyecto-valinor-desde\\work\\v17_6\\inspeccion-11.png",
+    "C:\\Users\\migue\\Documents\\Codex\\2026-11-10\\contin-a-el-proyecto-valinor-desde\\work\\v17_6\\inspeccion-12.png",
+    "C:\\Users\\migue\\Documents\\Codex\\2026-11-10\\contin-a-el-proyecto-valinor-desde\\work\\v17_6\\inspeccion-13.png",
+    "C:\\Users\\migue\\Documents\\Codex\\2026-11-10\\contin-a-el-proyecto-valinor-desde\\work\\v17_6\\inspeccion-14.png",
+    "C:\\Users\\migue\\Documents\\Codex\\2026-11-10\\contin-a-el-proyecto-valinor-desde\\work\\v17_6\\inspeccion-15.png",
+    "C:\\Users\\migue\\Documents\\Codex\\2026-11-10\\contin-a-el-proyecto-valinor-desde\\work\\v17_6\\inspeccion-16.png",
+    "C:\\Users\\migue\\Documents\\Codex\\2026-11-10\\contin-a-el-proyecto-valinor-desde\\work\\v17_6\\inspeccion-17.png",
+    "C:\\Users\\migue\\Documents\\Codex\\2026-11-10\\contin-a-el-proyecto-valinor-desde\\work\\v17_6\\inspeccion-18.png",
+    "C:\\Users\\migue\\Documents\\Codex\\2026-11-10\\contin-a-el-proyecto-valinor-desde\\work\\v17_6\\inspeccion-19.png",
+    "C:\\Users\\migue\\Documents\\Codex\\2026-11-10\\contin-a-el-proyecto-valinor-desde\\work\\v17_6\\inspeccion-20.png"
+  ],
+  "inspeccion_visual_completada": true,
+  "alcance": "Portada y todas las páginas añadidas inspeccionadas; 432 páginas previas idénticas por SHA256 de imagen; portada con fecha 2026-11-11 revisada tras corrección"
+}

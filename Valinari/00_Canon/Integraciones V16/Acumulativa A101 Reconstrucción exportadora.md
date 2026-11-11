@@ -145,4 +145,4 @@ Esta revisión genera el Maestro V17.3 A101 desde el Word V17.2 A100 suministrad
 Las propuestas originales se conservan, incluida la copia idéntica con sufijo 1. El registro diferencia contenido previo, formato regularizado y resolución A101 añadida. Los originales V17.2 y las versiones locales anteriores no se eliminan. La verificación local de publicación no acredita sincronización remota de OneDrive.
 
 
-[[12_Militar/03_Armada/Exportaciones A099 A101/Índice de expedientes|Consultar los 27 expedientes]]
+[[12_Militar/03_Armada/Exportaciones navales A099 A101#Índice de expedientes|Consultar los 27 expedientes]]

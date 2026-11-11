@@ -4,6 +4,11 @@ canon: V16
 estado: síntesis del canon y desarrollo A092
 actualizado: 2026-11-10
 ---
+
+## Resolución vigente V17.6 A104
+
+Integrada ANP 01 v15 con cuatro Tarannon, tres diseños ampliados, modernización registrada y transición dual de combustible. A104 prevalece sobre cifras anteriores afectadas; escenarios de capacidad y disponibilidad conservan sus reservas. [[00_Canon/Integraciones V16/Acumulativa A104 Desarrollo naval e industria militar|Resolución A104]]
+
 # Industria militar de Valinor
 
 Esta nota conecta las capacidades industriales militares existentes con la ampliación terrestre A092. Las funciones territoriales proceden del desarrollo del canon; no implican cuotas de producción, fábricas concretas o autosuficiencia no documentadas.

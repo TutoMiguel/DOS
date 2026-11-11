@@ -17,7 +17,7 @@ actualizado: 2026-11-10
 ## Integración exportadora V17 3 A101
 
 - [[00_Canon/Integraciones V16/Acumulativa A101 Reconstrucción exportadora|Resoluciones y reconstrucción E1]]
-- [[12_Militar/03_Armada/Exportaciones A099 A101/Índice de expedientes|27 expedientes y lotes]]
+- [[12_Militar/03_Armada/Exportaciones navales A099 A101#Índice de expedientes|27 expedientes y lotes]]
 - [[00_Canon/Integraciones V16/Ámbitos de numeración A094 A101|Ámbitos A094 y A095]]
 
 ## Desarrollo integrado V17.4 A102

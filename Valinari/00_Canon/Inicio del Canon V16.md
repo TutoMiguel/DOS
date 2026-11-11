@@ -1,8 +1,13 @@
 ---
 tipo: indice
-canon: V17.5 A103
+canon: V17.6 A104
 estado: vigente
 ---
+
+## Resolución vigente V17.6 A104
+
+Integrada ANP 01 v15 con cuatro Tarannon, tres diseños ampliados, modernización registrada y transición dual de combustible. A104 prevalece sobre cifras anteriores afectadas; escenarios de capacidad y disponibilidad conservan sus reservas. [[00_Canon/Integraciones V16/Acumulativa A104 Desarrollo naval e industria militar|Resolución A104]]
+
 # Inicio del Canon V16
 
 Esta es la entrada principal del canon de Valinari.
@@ -13,7 +18,7 @@ Esta es la entrada principal del canon de Valinari.
 - [[00_Canon/Integraciones V16/A091_Estrategia_digital_y_decisiones_3_14|Estrategia digital A091]]
 - [[00_Canon/Integraciones V16/Propuestas pendientes tras revisión V16.1|Resoluciones V16.2]]
 
-- [[Canon V16 Maestro]] — vigente, revisión V17.5 A103
+- [[Canon V16 Maestro]] — vigente, revisión V17.6 A104
 - [[00_Canon/Cifras Oficiales V16]]
 - [[00_Canon/Registro de Cambios]]
 - [[00_Canon/Auditoría de Coherencia V16]]

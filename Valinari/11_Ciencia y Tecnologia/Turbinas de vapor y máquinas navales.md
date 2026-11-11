@@ -40,6 +40,6 @@ La adopción exige metalurgia de calderas y ejes, mecanizado, fundición, herram
 - [[01_Cronologia/Cronología Territorial V16|Cronología maestra]]
 - [[11_Ciencia y Tecnologia/Motores y Propulsión|Motores y Propulsión]]
 - [[11_Ciencia y Tecnologia/Turbinas|Turbinas de gas y sistemas modernos]]
-- [[12_Militar/03_Armada/Armada 1875/Índice de la Armada de 1875|Armada de 1875]]
+- [[12_Militar/03_Armada/Armada de 1875 consolidada#Índice de la Armada de 1875|Armada de 1875]]
 - [[12_Militar/03_Armada/Desarrollo naval 1882-1945|Catálogo naval 1882–1945]]
 - [[00_Canon/Integraciones V16/Actualización acumulativa 111v — Radar y sensores|Registro acumulativo 111v]]

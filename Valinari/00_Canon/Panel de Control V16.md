@@ -1,14 +1,19 @@
 ---
 tipo: panel de control
-canon: V17.5 A103
+canon: V17.6 A104
 estado: vigente
 ultima_revision: 2026-11-10
 ---
+
+## Resolución vigente V17.6 A104
+
+Integrada ANP 01 v15 con cuatro Tarannon, tres diseños ampliados, modernización registrada y transición dual de combustible. A104 prevalece sobre cifras anteriores afectadas; escenarios de capacidad y disponibilidad conservan sus reservas. [[00_Canon/Integraciones V16/Acumulativa A104 Desarrollo naval e industria militar|Resolución A104]]
+
 # Panel de Control V16
 
 ## Estado general
 
-- Canon vigente: V17.5 A103; nombre de archivo V16 conservado para enlaces.
+- Canon vigente: V17.6 A104; nombre de archivo V16 conservado para enlaces.
 - Alcance territorial: Federación más Protectorados.
 - Aliados de Gwaith Aear: fuera del catálogo operativo.
 - Última auditoría: [[00_Canon/Auditoría de Coherencia V16]].

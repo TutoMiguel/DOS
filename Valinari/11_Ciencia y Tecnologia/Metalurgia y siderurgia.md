@@ -238,9 +238,9 @@ La fórmula canónica queda establecida así:
 - [[01_Cronologia/Cronología Territorial V16|Cronología maestra]]
 - [[11_Ciencia y Tecnologia/Metalurgia y siderurgia del siglo VIII]]
 - [[08_Economia/Metalurgia valinari 1000-500 aC]]
-- [[12_Militar/03_Armada/Armada 1875/Índice de la Armada de 1875]]
+- [[12_Militar/03_Armada/Armada de 1875 consolidada#Índice de la Armada de 1875|Índice de la Armada de 1875]]
 
 
 ## Integración acumulativa
 
-[[00_Canon/Canon V16 Maestro#Resoluciones canónicas acumulativas V16.2|A087 — siderurgia naval y blindaje]] · [[01_Cronologia/Cronología Territorial V16|Cronología maestra]] · [[12_Militar/03_Armada/Armada 1875/Círdan I (1875)|Círdan I]]
+[[00_Canon/Canon V16 Maestro#Resoluciones canónicas acumulativas V16.2|A087 — siderurgia naval y blindaje]] · [[01_Cronologia/Cronología Territorial V16|Cronología maestra]] · [[12_Militar/03_Armada/Armada de 1875 consolidada#Círdan I (1875)|Círdan I]]

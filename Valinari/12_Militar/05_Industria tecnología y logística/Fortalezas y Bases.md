@@ -30,6 +30,6 @@ La red moderna debe sostener ciclos de construcción por generaciones, diques de
 - [[08_Economia/Metalurgia valinari 1000-500 aC|Metalurgia valinari]]
 - [[12_Militar/05_Industria tecnología y logística/Red histórica de bases antiguas]]
 - [[12_Militar/02_Ejército/Defensa territorial antigua]]
-- [[12_Militar/03_Armada/Armada 1875/Distribución territorial (1875)]]
+- [[12_Militar/03_Armada/Armada de 1875 consolidada#Distribución territorial (1875)|Distribución territorial (1875)]]
 - [[08_Economia/Sistema Valinari de Fomento y Desarrollo]]
 - [[09_Politica/Evolución económica e institucional de las Casas]]

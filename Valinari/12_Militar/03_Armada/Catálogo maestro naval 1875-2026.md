@@ -1,12 +1,17 @@
 ---
 tipo: catálogo maestro naval
-canon_base: V17.5 A103
-revision_catalogo: CMN 3
+canon_base: V17.6 A104
+revision_catalogo: CMN 4
 actualizado: 2026-11-10
 alcance: 1875–2026
 estado: consolidación documental con discrepancias abiertas
 ---
 # Catálogo maestro naval de Valinor 1875 a 2026
+
+## Resolución vigente CMN 4 A104
+
+[[00_Canon/Integraciones V16/Acumulativa A104 Desarrollo naval e industria militar|Resolución A104]] integra ANP 01 v15. Tarannon pasa a cuatro cascos; Rómenna de estación a 6.200 t, explorador a 7.600 t y Pelargir nueva a 4.400 t, en ocho, cuatro y doce unidades. Las afirmaciones documentales antiguas se conservan como antecedentes, sin sumarlas al inventario. El registro A104 individualiza 524 identidades históricas del ámbito tratado y no equivale a 524 clases ni buques simultáneos. El mapa de consolidación identifica las nuevas secciones de consulta.
+
 
 Este catálogo reúne clases, familias, generaciones y perfiles navales con su procedencia. CMN 2 incorpora la decisión canónica V17.5 A103: clase Vëantur de cuatro cascos y relevo de los seis Círdan I. Las 314 afirmaciones anteriores se conservan como antecedentes, con doce nuevos registros de resolución y seguimiento. Las demás diferencias entre fuentes siguen pendientes.
 
@@ -94,7 +99,7 @@ Las entradas se ordenan por el rótulo de la fuente. Rótulos parecidos no se fu
 | [[#Registro CN-0098|CN-0098]] | Alcarondas I comunicaciones / 8 | afirmacion de clase familia o generacion | [[12_Militar/03_Armada/AM1 Armada 1875-2026|AM1 Armada 1875-2026]] |
 | [[#Registro CN-0225|CN-0225]] | Alcarondas, mando/comunicaciones (6) | clase en reconstruccion estimativa 1973 | [[12_Militar/03_Armada/AM1 Armada 1973 — reconstrucción y turbinas|AM1 Armada 1973 — reconstrucción y turbinas]] |
 | [[#Registro CN-0152|CN-0152]] | Aldarion I, portaaviones convencional de flota | afirmacion de clase familia o generacion | [[12_Militar/03_Armada/AM1 Armada 1875-2026|AM1 Armada 1875-2026]] |
-| [[#Registro CN-0253|CN-0253]] | Alqualondë (1875) | ficha de clase o grupo | [[12_Militar/03_Armada/Armada 1875/Alqualondë (1875)|Alqualondë (1875)]] |
+| [[#Registro CN-0253|CN-0253]] | Alqualondë (1875) | ficha de clase o grupo | [[12_Militar/03_Armada/Armada de 1875 consolidada#Alqualondë (1875)|Alqualondë (1875)]] |
 | [[#Registro CN-0009|CN-0009]] | Alqualondë, corbeta de enlace | afirmacion de clase familia o generacion | [[12_Militar/03_Armada/AM1 Armada 1875-2026|AM1 Armada 1875-2026]] |
 | [[#Registro CN-0125|CN-0125]] | Alqualondë, corbeta de enlace | afirmacion de clase familia o generacion | [[12_Militar/03_Armada/AM1 Armada 1875-2026|AM1 Armada 1875-2026]] |
 | [[#Registro CN-0216|CN-0216]] | Amon Sûl I, cazaminas (18) | clase en reconstruccion estimativa 1973 | [[12_Militar/03_Armada/AM1 Armada 1973 — reconstrucción y turbinas|AM1 Armada 1973 — reconstrucción y turbinas]] |
@@ -103,7 +108,7 @@ Las entradas se ordenan por el rótulo de la fuente. Rótulos parecidos no se fu
 | [[#Registro CN-0215|CN-0215]] | Andúnië I, transporte anfibio/logístico (8) | clase en reconstruccion estimativa 1973 | [[12_Militar/03_Armada/AM1 Armada 1973 — reconstrucción y turbinas|AM1 Armada 1973 — reconstrucción y turbinas]] |
 | [[#Registro CN-0174|CN-0174]] | Andúnië II, transporte y apoyo logístico anfibio | afirmacion de clase familia o generacion | [[12_Militar/03_Armada/AM1 Armada 1875-2026|AM1 Armada 1875-2026]] |
 | [[#Registro CN-0086|CN-0086]] | Andúnië logístico / 8 | afirmacion de clase familia o generacion | [[12_Militar/03_Armada/AM1 Armada 1875-2026|AM1 Armada 1875-2026]] |
-| [[#Registro CN-0271|CN-0271]] | Anfibios Aranath - Pelargir - Forlond - Andúnië — 1980 | ficha de clase o grupo | [[12_Militar/03_Armada/Clases navales 1980/Anfibios Aranath - Pelargir - Forlond - Andúnië — 1980|Anfibios Aranath - Pelargir - Forlond - Andúnië — 1980]] |
+| [[#Registro CN-0271|CN-0271]] | Anfibios Aranath - Pelargir - Forlond - Andúnië — 1980 | ficha de clase o grupo | [[12_Militar/03_Armada/Clases navales 1980#Anfibios Aranath - Pelargir - Forlond - Andúnië — 1980|Anfibios Aranath - Pelargir - Forlond - Andúnië — 1980]] |
 | [[#Registro CN-0039|CN-0039]] | Anfibios Aranath / Pelargir / Forlond / Andúnië | afirmacion de clase familia o generacion | [[12_Militar/03_Armada/AM1 Armada 1875-2026|AM1 Armada 1875-2026]] |
 | [[#Registro CN-0061|CN-0061]] | Anfibios Aranath / Pelargir / Forlond / Andúnië | afirmacion de clase familia o generacion | [[12_Militar/03_Armada/AM1 Armada 1875-2026|AM1 Armada 1875-2026]] |
 | [[#Registro CN-0050|CN-0050]] | Anfibios Aranath I / Pelargir I / Forlond I / Andúnië I | afirmacion de clase familia o generacion | [[12_Militar/03_Armada/AM1 Armada 1875-2026|AM1 Armada 1875-2026]] |
@@ -118,7 +123,7 @@ Las entradas se ordenan por el rótulo de la fuente. Rótulos parecidos no se fu
 | [[#Registro CN-0209|CN-0209]] | Arnor I, SSBN (4) | clase en reconstruccion estimativa 1973 | [[12_Militar/03_Armada/AM1 Armada 1973 — reconstrucción y turbinas|AM1 Armada 1973 — reconstrucción y turbinas]] |
 | [[#Registro CN-0155|CN-0155]] | Arnor II–IV, submarino estratégico | afirmacion de clase familia o generacion | [[12_Militar/03_Armada/AM1 Armada 1875-2026|AM1 Armada 1875-2026]] |
 | [[#Registro CN-0079|CN-0079]] | Arnor SSBN / 6 | afirmacion de clase familia o generacion | [[12_Militar/03_Armada/AM1 Armada 1875-2026|AM1 Armada 1875-2026]] |
-| [[#Registro CN-0254|CN-0254]] | Aulë (1875) | ficha de clase o grupo | [[12_Militar/03_Armada/Armada 1875/Aulë (1875)|Aulë (1875)]] |
+| [[#Registro CN-0254|CN-0254]] | Aulë (1875) | ficha de clase o grupo | [[12_Militar/03_Armada/Armada de 1875 consolidada#Aulë (1875)|Aulë (1875)]] |
 | [[#Registro CN-0147|CN-0147]] | Aulë I, portaaviones de cubierta axial convencional | afirmacion de clase familia o generacion | [[12_Militar/03_Armada/AM1 Armada 1875-2026|AM1 Armada 1875-2026]] |
 | [[#Registro CN-0149|CN-0149]] | Aulë II, portaaviones nuclear | afirmacion de clase familia o generacion | [[12_Militar/03_Armada/AM1 Armada 1875-2026|AM1 Armada 1875-2026]] |
 | [[#Registro CN-0192|CN-0192]] | Aulë II, portaaviones nuclear (2) | clase en reconstruccion estimativa 1973 | [[12_Militar/03_Armada/AM1 Armada 1973 — reconstrucción y turbinas|AM1 Armada 1973 — reconstrucción y turbinas]] |
@@ -127,7 +132,7 @@ Las entradas se ordenan por el rótulo de la fuente. Rótulos parecidos no se fu
 | [[#Registro CN-0004|CN-0004]] | Aulë, monitor | afirmacion de clase familia o generacion | [[12_Militar/03_Armada/AM1 Armada 1875-2026|AM1 Armada 1875-2026]] |
 | [[#Registro CN-0120|CN-0120]] | Aulë, monitor litoral | afirmacion de clase familia o generacion | [[12_Militar/03_Armada/AM1 Armada 1875-2026|AM1 Armada 1875-2026]] |
 | [[#Registro CN-0218|CN-0218]] | Aulë, petrolero de flota (14) | clase en reconstruccion estimativa 1973 | [[12_Militar/03_Armada/AM1 Armada 1973 — reconstrucción y turbinas|AM1 Armada 1973 — reconstrucción y turbinas]] |
-| [[#Registro CN-0272|CN-0272]] | Auxiliares Aulë - Ecthelion - Harlond - Númenor - Estel - Eärendil - Palantír - Alcarondas — 1980 | ficha de clase o grupo | [[12_Militar/03_Armada/Clases navales 1980/Auxiliares Aulë - Ecthelion - Harlond - Númenor - Estel - Eärendil - Palantír - Alcarondas — 1980|Auxiliares Aulë - Ecthelion - Harlond - Númenor - Estel - Eärendil - Palantír - Alcarondas — 1980]] |
+| [[#Registro CN-0272|CN-0272]] | Auxiliares Aulë - Ecthelion - Harlond - Númenor - Estel - Eärendil - Palantír - Alcarondas — 1980 | ficha de clase o grupo | [[12_Militar/03_Armada/Clases navales 1980#Auxiliares Aulë - Ecthelion - Harlond - Númenor - Estel - Eärendil - Palantír - Alcarondas — 1980|Auxiliares Aulë - Ecthelion - Harlond - Númenor - Estel - Eärendil - Palantír - Alcarondas — 1980]] |
 | [[#Registro CN-0042|CN-0042]] | Auxiliares Aulë / Ecthelion / Harlond / Númenor / Estel / Eärendil / Palantír / Alcarondas | afirmacion de clase familia o generacion | [[12_Militar/03_Armada/AM1 Armada 1875-2026|AM1 Armada 1875-2026]] |
 | [[#Registro CN-0052|CN-0052]] | Auxiliares Aulë / Ecthelion / Harlond / Númenor / Estel / Eärendil / Palantír / Alcarondas | afirmacion de clase familia o generacion | [[12_Militar/03_Armada/AM1 Armada 1875-2026|AM1 Armada 1875-2026]] |
 | [[#Registro CN-0063|CN-0063]] | Auxiliares Aulë / Ecthelion / Harlond / Númenor / Estel / Eärendil / Palantír / Alcarondas | afirmacion de clase familia o generacion | [[12_Militar/03_Armada/AM1 Armada 1875-2026|AM1 Armada 1875-2026]] |
@@ -140,33 +145,33 @@ Las entradas se ordenan por el rótulo de la fuente. Rótulos parecidos no se fu
 | [[#Registro CN-0198|CN-0198]] | Beleg, destructor (18) | clase en reconstruccion estimativa 1973 | [[12_Militar/03_Armada/AM1 Armada 1973 — reconstrucción y turbinas|AM1 Armada 1973 — reconstrucción y turbinas]] |
 | [[#Registro CN-0185|CN-0185]] | Buque hospital II–III | afirmacion de clase familia o generacion | [[12_Militar/03_Armada/AM1 Armada 1875-2026|AM1 Armada 1875-2026]] |
 | [[#Registro CN-0110|CN-0110]] | Buques de asalto | afirmacion de clase familia o generacion | [[12_Militar/03_Armada/AM1 Armada 1875-2026|AM1 Armada 1875-2026]] |
-| [[#Registro CN-0282|CN-0282]] | Buques de asalto-anfibios — 2026 | ficha de clase o grupo | [[12_Militar/03_Armada/Clases navales 2026/Buques de asalto-anfibios — 2026|Buques de asalto-anfibios — 2026]] |
-| [[#Registro CN-0255|CN-0255]] | Calasir (1875) | ficha de clase o grupo | [[12_Militar/03_Armada/Armada 1875/Calasir (1875)|Calasir (1875)]] |
+| [[#Registro CN-0282|CN-0282]] | Buques de asalto-anfibios — 2026 | ficha de clase o grupo | [[12_Militar/03_Armada/Clases navales 2026#Buques de asalto-anfibios — 2026|Buques de asalto-anfibios — 2026]] |
+| [[#Registro CN-0255|CN-0255]] | Calasir (1875) | ficha de clase o grupo | [[12_Militar/03_Armada/Armada de 1875 consolidada#Calasir (1875)|Calasir (1875)]] |
 | [[#Registro CN-0015|CN-0015]] | Calasir, cañonera costera | afirmacion de clase familia o generacion | [[12_Militar/03_Armada/AM1 Armada 1875-2026|AM1 Armada 1875-2026]] |
 | [[#Registro CN-0131|CN-0131]] | Calasir, cañonera costera | afirmacion de clase familia o generacion | [[12_Militar/03_Armada/AM1 Armada 1875-2026|AM1 Armada 1875-2026]] |
-| [[#Registro CN-0256|CN-0256]] | Calenhad (1875) | ficha de clase o grupo | [[12_Militar/03_Armada/Armada 1875/Calenhad (1875)|Calenhad (1875)]] |
+| [[#Registro CN-0256|CN-0256]] | Calenhad (1875) | ficha de clase o grupo | [[12_Militar/03_Armada/Armada de 1875 consolidada#Calenhad (1875)|Calenhad (1875)]] |
 | [[#Registro CN-0017|CN-0017]] | Calenhad, torpedero ligero | afirmacion de clase familia o generacion | [[12_Militar/03_Armada/AM1 Armada 1875-2026|AM1 Armada 1875-2026]] |
 | [[#Registro CN-0133|CN-0133]] | Calenhad, torpedero ligero | afirmacion de clase familia o generacion | [[12_Militar/03_Armada/AM1 Armada 1875-2026|AM1 Armada 1875-2026]] |
 | [[#Registro CN-0204|CN-0204]] | Calenport II, corbeta oceánica (30) | clase en reconstruccion estimativa 1973 | [[12_Militar/03_Armada/AM1 Armada 1973 — reconstrucción y turbinas|AM1 Armada 1973 — reconstrucción y turbinas]] |
 | [[#Registro CN-0165|CN-0165]] | Calenport I–III, corbeta multipropósito | afirmacion de clase familia o generacion | [[12_Militar/03_Armada/AM1 Armada 1875-2026|AM1 Armada 1875-2026]] |
 | [[#Registro CN-0076|CN-0076]] | Calenport oceánica / 30 | afirmacion de clase familia o generacion | [[12_Militar/03_Armada/AM1 Armada 1875-2026|AM1 Armada 1875-2026]] |
 | [[#Registro CN-0140|CN-0140]] | Cañoneras y patrulleros de 1900 | afirmacion de clase familia o generacion | [[12_Militar/03_Armada/AM1 Armada 1875-2026|AM1 Armada 1875-2026]] |
-| [[#Registro CN-0273|CN-0273]] | Contramedidas de minas Amon Sûl - Menel — 1980 | ficha de clase o grupo | [[12_Militar/03_Armada/Clases navales 1980/Contramedidas de minas Amon Sûl - Menel — 1980|Contramedidas de minas Amon Sûl - Menel — 1980]] |
+| [[#Registro CN-0273|CN-0273]] | Contramedidas de minas Amon Sûl - Menel — 1980 | ficha de clase o grupo | [[12_Militar/03_Armada/Clases navales 1980#Contramedidas de minas Amon Sûl - Menel — 1980|Contramedidas de minas Amon Sûl - Menel — 1980]] |
 | [[#Registro CN-0040|CN-0040]] | Contramedidas de minas Amon Sûl / Menel | afirmacion de clase familia o generacion | [[12_Militar/03_Armada/AM1 Armada 1875-2026|AM1 Armada 1875-2026]] |
 | [[#Registro CN-0062|CN-0062]] | Contramedidas de minas Amon Sûl / Menel | afirmacion de clase familia o generacion | [[12_Militar/03_Armada/AM1 Armada 1875-2026|AM1 Armada 1875-2026]] |
 | [[#Registro CN-0051|CN-0051]] | Contramedidas de minas Amon Sûl I / Menel I | afirmacion de clase familia o generacion | [[12_Militar/03_Armada/AM1 Armada 1875-2026|AM1 Armada 1875-2026]] |
 | [[#Registro CN-0108|CN-0108]] | Corbetas Calenport | afirmacion de clase familia o generacion | [[12_Militar/03_Armada/AM1 Armada 1875-2026|AM1 Armada 1875-2026]] |
-| [[#Registro CN-0274|CN-0274]] | Corbetas Calenport - Eglarest — 1980 | ficha de clase o grupo | [[12_Militar/03_Armada/Clases navales 1980/Corbetas Calenport - Eglarest — 1980|Corbetas Calenport - Eglarest — 1980]] |
+| [[#Registro CN-0274|CN-0274]] | Corbetas Calenport - Eglarest — 1980 | ficha de clase o grupo | [[12_Militar/03_Armada/Clases navales 1980#Corbetas Calenport - Eglarest — 1980|Corbetas Calenport - Eglarest — 1980]] |
 | [[#Registro CN-0036|CN-0036]] | Corbetas Calenport / Eglarest | afirmacion de clase familia o generacion | [[12_Militar/03_Armada/AM1 Armada 1875-2026|AM1 Armada 1875-2026]] |
-| [[#Registro CN-0283|CN-0283]] | Corbetas oceánicas Calenport — 2026 | ficha de clase o grupo | [[12_Militar/03_Armada/Clases navales 2026/Corbetas oceánicas Calenport — 2026|Corbetas oceánicas Calenport — 2026]] |
+| [[#Registro CN-0283|CN-0283]] | Corbetas oceánicas Calenport — 2026 | ficha de clase o grupo | [[12_Militar/03_Armada/Clases navales 2026#Corbetas oceánicas Calenport — 2026|Corbetas oceánicas Calenport — 2026]] |
 | [[#Registro CN-0047|CN-0047]] | Corbetas Pelargir II / Alqualondë II | afirmacion de clase familia o generacion | [[12_Militar/03_Armada/AM1 Armada 1875-2026|AM1 Armada 1875-2026]] |
 | [[#Registro CN-0057|CN-0057]] | Corbetas Pelargir III / Alqualondë III / Systreyjar II | afirmacion de clase familia o generacion | [[12_Militar/03_Armada/AM1 Armada 1875-2026|AM1 Armada 1875-2026]] |
 | [[#Registro CN-0144|CN-0144]] | Cruceros protegidos y ligeros de 1914 | afirmacion de clase familia o generacion | [[12_Militar/03_Armada/AM1 Armada 1875-2026|AM1 Armada 1875-2026]] |
-| [[#Registro CN-0275|CN-0275]] | Cruceros Turgon - Eärendil - Noldor — 1980 | ficha de clase o grupo | [[12_Militar/03_Armada/Clases navales 1980/Cruceros Turgon - Eärendil - Noldor — 1980|Cruceros Turgon - Eärendil - Noldor — 1980]] |
+| [[#Registro CN-0275|CN-0275]] | Cruceros Turgon - Eärendil - Noldor — 1980 | ficha de clase o grupo | [[12_Militar/03_Armada/Clases navales 1980#Cruceros Turgon - Eärendil - Noldor — 1980|Cruceros Turgon - Eärendil - Noldor — 1980]] |
 | [[#Registro CN-0033|CN-0033]] | Cruceros Turgon / Eärendil / Noldor | afirmacion de clase familia o generacion | [[12_Militar/03_Armada/AM1 Armada 1875-2026|AM1 Armada 1875-2026]] |
 | [[#Registro CN-0044|CN-0044]] | Cruceros Turgon I / Eärendil II / Rómenna II | afirmacion de clase familia o generacion | [[12_Militar/03_Armada/AM1 Armada 1875-2026|AM1 Armada 1875-2026]] |
 | [[#Registro CN-0054|CN-0054]] | Cruceros Turgon II / Eärendil III / Noldor I | afirmacion de clase familia o generacion | [[12_Militar/03_Armada/AM1 Armada 1875-2026|AM1 Armada 1875-2026]] |
-| [[#Registro CN-0257|CN-0257]] | Círdan I (1875) | ficha de clase o grupo | [[12_Militar/03_Armada/Armada 1875/Círdan I (1875)|Círdan I (1875)]] |
+| [[#Registro CN-0257|CN-0257]] | Círdan I (1875) | ficha de clase o grupo | [[12_Militar/03_Armada/Armada de 1875 consolidada#Círdan I (1875)|Círdan I (1875)]] |
 | [[#Registro CN-0073|CN-0073]] | Círdan I / 36 | afirmacion de clase familia o generacion | [[12_Militar/03_Armada/AM1 Armada 1875-2026|AM1 Armada 1875-2026]] |
 | [[#Registro CN-0200|CN-0200]] | Círdan I, fragata (18) | clase en reconstruccion estimativa 1973 | [[12_Militar/03_Armada/AM1 Armada 1973 — reconstrucción y turbinas|AM1 Armada 1973 — reconstrucción y turbinas]] |
 | [[#Registro CN-0309|CN-0309]] | Círdan II, 1965–1975 | hito de familia o modernizacion | [[12_Militar/03_Armada/Serie Círdan y transición a Voronwë|Serie Círdan y transición a Voronwë]] |
@@ -177,9 +182,9 @@ Las entradas se ordenan por el rótulo de la fuente. Rótulos parecidos no se fu
 | [[#Registro CN-0161|CN-0161]] | Círdan I–IV, fragata multipropósito | afirmacion de clase familia o generacion | [[12_Militar/03_Armada/AM1 Armada 1875-2026|AM1 Armada 1875-2026]] |
 | [[#Registro CN-0117|CN-0117]] | Círdan, acorazado de 1875 | afirmacion de clase familia o generacion | [[12_Militar/03_Armada/AM1 Armada 1875-2026|AM1 Armada 1875-2026]] |
 | [[#Registro CN-0314|CN-0314]] | Desde 2026 hasta 2033 | hito de familia o modernizacion | [[12_Militar/03_Armada/Serie Círdan y transición a Voronwë|Serie Círdan y transición a Voronwë]] |
-| [[#Registro CN-0276|CN-0276]] | Destructores Gil-galad - Beleg - Ossë — 1980 | ficha de clase o grupo | [[12_Militar/03_Armada/Clases navales 1980/Destructores Gil-galad - Beleg - Ossë — 1980|Destructores Gil-galad - Beleg - Ossë — 1980]] |
+| [[#Registro CN-0276|CN-0276]] | Destructores Gil-galad - Beleg - Ossë — 1980 | ficha de clase o grupo | [[12_Militar/03_Armada/Clases navales 1980#Destructores Gil-galad - Beleg - Ossë — 1980|Destructores Gil-galad - Beleg - Ossë — 1980]] |
 | [[#Registro CN-0034|CN-0034]] | Destructores Gil-galad / Beleg / Ossë | afirmacion de clase familia o generacion | [[12_Militar/03_Armada/AM1 Armada 1875-2026|AM1 Armada 1875-2026]] |
-| [[#Registro CN-0284|CN-0284]] | Destructores Gil-galad de defensa aérea — 2026 | ficha de clase o grupo | [[12_Militar/03_Armada/Clases navales 2026/Destructores Gil-galad de defensa aérea — 2026|Destructores Gil-galad de defensa aérea — 2026]] |
+| [[#Registro CN-0284|CN-0284]] | Destructores Gil-galad de defensa aérea — 2026 | ficha de clase o grupo | [[12_Militar/03_Armada/Clases navales 2026#Destructores Gil-galad de defensa aérea — 2026|Destructores Gil-galad de defensa aérea — 2026]] |
 | [[#Registro CN-0045|CN-0045]] | Destructores Gil-galad I / Beleg I / Ossë I | afirmacion de clase familia o generacion | [[12_Militar/03_Armada/AM1 Armada 1875-2026|AM1 Armada 1875-2026]] |
 | [[#Registro CN-0055|CN-0055]] | Destructores Gil-galad II / Beleg II / Ossë II | afirmacion de clase familia o generacion | [[12_Militar/03_Armada/AM1 Armada 1875-2026|AM1 Armada 1875-2026]] |
 | [[#Registro CN-0106|CN-0106]] | Destructores Gil-galad III–VI | afirmacion de clase familia o generacion | [[12_Militar/03_Armada/AM1 Armada 1875-2026|AM1 Armada 1875-2026]] |
@@ -191,15 +196,15 @@ Las entradas se ordenan por el rótulo de la fuente. Rótulos parecidos no se fu
 | [[#Registro CN-0077|CN-0077]] | Eglarest litoral / 20 | afirmacion de clase familia o generacion | [[12_Militar/03_Armada/AM1 Armada 1875-2026|AM1 Armada 1875-2026]] |
 | [[#Registro CN-0151|CN-0151]] | Elwing I, portaaviones convencional de transición | afirmacion de clase familia o generacion | [[12_Militar/03_Armada/AM1 Armada 1875-2026|AM1 Armada 1875-2026]] |
 | [[#Registro CN-0109|CN-0109]] | Escoltas especializados | afirmacion de clase familia o generacion | [[12_Militar/03_Armada/AM1 Armada 1875-2026|AM1 Armada 1875-2026]] |
-| [[#Registro CN-0285|CN-0285]] | Escoltas especializados ASW-AAW — 2026 | ficha de clase o grupo | [[12_Militar/03_Armada/Clases navales 2026/Escoltas especializados ASW-AAW — 2026|Escoltas especializados ASW-AAW — 2026]] |
+| [[#Registro CN-0285|CN-0285]] | Escoltas especializados ASW-AAW — 2026 | ficha de clase o grupo | [[12_Militar/03_Armada/Clases navales 2026#Escoltas especializados ASW-AAW — 2026|Escoltas especializados ASW-AAW — 2026]] |
 | [[#Registro CN-0180|CN-0180]] | Esgaroth I, vehículo de superficie no tripulado | afirmacion de clase familia o generacion | [[12_Militar/03_Armada/AM1 Armada 1875-2026|AM1 Armada 1875-2026]] |
 | [[#Registro CN-0095|CN-0095]] | Estel hospital / 6 | afirmacion de clase familia o generacion | [[12_Militar/03_Armada/AM1 Armada 1875-2026|AM1 Armada 1875-2026]] |
 | [[#Registro CN-0222|CN-0222]] | Estel, hospital (6) | clase en reconstruccion estimativa 1973 | [[12_Militar/03_Armada/AM1 Armada 1973 — reconstrucción y turbinas|AM1 Armada 1973 — reconstrucción y turbinas]] |
-| [[#Registro CN-0258|CN-0258]] | Eärendil (1875) | ficha de clase o grupo | [[12_Militar/03_Armada/Armada 1875/Eärendil (1875)|Eärendil (1875)]] |
+| [[#Registro CN-0258|CN-0258]] | Eärendil (1875) | ficha de clase o grupo | [[12_Militar/03_Armada/Armada de 1875 consolidada#Eärendil (1875)|Eärendil (1875)]] |
 | [[#Registro CN-0210|CN-0210]] | Eärendil I, SSN (8) | clase en reconstruccion estimativa 1973 | [[12_Militar/03_Armada/AM1 Armada 1973 — reconstrucción y turbinas|AM1 Armada 1973 — reconstrucción y turbinas]] |
 | [[#Registro CN-0156|CN-0156]] | Eärendil II–IV, submarino nuclear de ataque | afirmacion de clase familia o generacion | [[12_Militar/03_Armada/AM1 Armada 1875-2026|AM1 Armada 1875-2026]] |
 | [[#Registro CN-0068|CN-0068]] | Eärendil multimisión / 6 | afirmacion de clase familia o generacion | [[12_Militar/03_Armada/AM1 Armada 1875-2026|AM1 Armada 1875-2026]] |
-| [[#Registro CN-0259|CN-0259]] | Eärendil pesado (1875) | ficha de clase o grupo | [[12_Militar/03_Armada/Armada 1875/Eärendil pesado (1875)|Eärendil pesado (1875)]] |
+| [[#Registro CN-0259|CN-0259]] | Eärendil pesado (1875) | ficha de clase o grupo | [[12_Militar/03_Armada/Armada de 1875 consolidada#Eärendil pesado (1875)|Eärendil pesado (1875)]] |
 | [[#Registro CN-0096|CN-0096]] | Eärendil salvamento / 8 | afirmacion de clase familia o generacion | [[12_Militar/03_Armada/AM1 Armada 1875-2026|AM1 Armada 1875-2026]] |
 | [[#Registro CN-0080|CN-0080]] | Eärendil SSN / 12 | afirmacion de clase familia o generacion | [[12_Militar/03_Armada/AM1 Armada 1875-2026|AM1 Armada 1875-2026]] |
 | [[#Registro CN-0002|CN-0002]] | Eärendil, acorazado pesado | afirmacion de clase familia o generacion | [[12_Militar/03_Armada/AM1 Armada 1875-2026|AM1 Armada 1875-2026]] |
@@ -210,61 +215,61 @@ Las entradas se ordenan por el rótulo de la fuente. Rótulos parecidos no se fu
 | [[#Registro CN-0122|CN-0122]] | Eärendil, crucero protegido | afirmacion de clase familia o generacion | [[12_Militar/03_Armada/AM1 Armada 1875-2026|AM1 Armada 1875-2026]] |
 | [[#Registro CN-0223|CN-0223]] | Eärendil, salvamento (8) | clase en reconstruccion estimativa 1973 | [[12_Militar/03_Armada/AM1 Armada 1973 — reconstrucción y turbinas|AM1 Armada 1973 — reconstrucción y turbinas]] |
 | [[#Registro CN-0159|CN-0159]] | Falathar I, rescate y apoyo profundo | afirmacion de clase familia o generacion | [[12_Militar/03_Armada/AM1 Armada 1875-2026|AM1 Armada 1875-2026]] |
-| [[#Registro CN-0260|CN-0260]] | Forlond aviso (1875) | ficha de clase o grupo | [[12_Militar/03_Armada/Armada 1875/Forlond aviso (1875)|Forlond aviso (1875)]] |
+| [[#Registro CN-0260|CN-0260]] | Forlond aviso (1875) | ficha de clase o grupo | [[12_Militar/03_Armada/Armada de 1875 consolidada#Forlond aviso (1875)|Forlond aviso (1875)]] |
 | [[#Registro CN-0214|CN-0214]] | Forlond I, buque de desembarco (17) | clase en reconstruccion estimativa 1973 | [[12_Militar/03_Armada/AM1 Armada 1973 — reconstrucción y turbinas|AM1 Armada 1973 — reconstrucción y turbinas]] |
 | [[#Registro CN-0173|CN-0173]] | Forlond II–IV, buque de desembarco | afirmacion de clase familia o generacion | [[12_Militar/03_Armada/AM1 Armada 1875-2026|AM1 Armada 1875-2026]] |
 | [[#Registro CN-0085|CN-0085]] | Forlond LST / 12 | afirmacion de clase familia o generacion | [[12_Militar/03_Armada/AM1 Armada 1875-2026|AM1 Armada 1875-2026]] |
-| [[#Registro CN-0261|CN-0261]] | Forlond torpedero (1875) | ficha de clase o grupo | [[12_Militar/03_Armada/Armada 1875/Forlond torpedero (1875)|Forlond torpedero (1875)]] |
+| [[#Registro CN-0261|CN-0261]] | Forlond torpedero (1875) | ficha de clase o grupo | [[12_Militar/03_Armada/Armada de 1875 consolidada#Forlond torpedero (1875)|Forlond torpedero (1875)]] |
 | [[#Registro CN-0012|CN-0012]] | Forlond, aviso | afirmacion de clase familia o generacion | [[12_Militar/03_Armada/AM1 Armada 1875-2026|AM1 Armada 1875-2026]] |
 | [[#Registro CN-0128|CN-0128]] | Forlond, aviso | afirmacion de clase familia o generacion | [[12_Militar/03_Armada/AM1 Armada 1875-2026|AM1 Armada 1875-2026]] |
 | [[#Registro CN-0139|CN-0139]] | Forlond, destructor y torpedero | afirmacion de clase familia o generacion | [[12_Militar/03_Armada/AM1 Armada 1875-2026|AM1 Armada 1875-2026]] |
 | [[#Registro CN-0016|CN-0016]] | Forlond, torpedero | afirmacion de clase familia o generacion | [[12_Militar/03_Armada/AM1 Armada 1875-2026|AM1 Armada 1875-2026]] |
 | [[#Registro CN-0132|CN-0132]] | Forlond, torpedero | afirmacion de clase familia o generacion | [[12_Militar/03_Armada/AM1 Armada 1875-2026|AM1 Armada 1875-2026]] |
-| [[#Registro CN-0277|CN-0277]] | Fragatas Círdan - Mithlond - Nimrodel — 1980 | ficha de clase o grupo | [[12_Militar/03_Armada/Clases navales 1980/Fragatas Círdan - Mithlond - Nimrodel — 1980|Fragatas Círdan - Mithlond - Nimrodel — 1980]] |
+| [[#Registro CN-0277|CN-0277]] | Fragatas Círdan - Mithlond - Nimrodel — 1980 | ficha de clase o grupo | [[12_Militar/03_Armada/Clases navales 1980#Fragatas Círdan - Mithlond - Nimrodel — 1980|Fragatas Círdan - Mithlond - Nimrodel — 1980]] |
 | [[#Registro CN-0035|CN-0035]] | Fragatas Círdan / Mithlond / Nimrodel | afirmacion de clase familia o generacion | [[12_Militar/03_Armada/AM1 Armada 1875-2026|AM1 Armada 1875-2026]] |
 | [[#Registro CN-0056|CN-0056]] | Fragatas Círdan I / Mithlond II / Nimrodel II | afirmacion de clase familia o generacion | [[12_Militar/03_Armada/AM1 Armada 1875-2026|AM1 Armada 1875-2026]] |
-| [[#Registro CN-0286|CN-0286]] | Fragatas Círdan-Voronwë multipropósito — 2026 | ficha de clase o grupo | [[12_Militar/03_Armada/Clases navales 2026/Fragatas Círdan-Voronwë multipropósito — 2026|Fragatas Círdan-Voronwë multipropósito — 2026]] |
+| [[#Registro CN-0286|CN-0286]] | Fragatas Círdan-Voronwë multipropósito — 2026 | ficha de clase o grupo | [[12_Militar/03_Armada/Clases navales 2026#Fragatas Círdan-Voronwë multipropósito — 2026|Fragatas Círdan-Voronwë multipropósito — 2026]] |
 | [[#Registro CN-0107|CN-0107]] | Fragatas Círdan/Voronwë | afirmacion de clase familia o generacion | [[12_Militar/03_Armada/AM1 Armada 1875-2026|AM1 Armada 1875-2026]] |
 | [[#Registro CN-0046|CN-0046]] | Fragatas Mithlond I / Nimrodel I | afirmacion de clase familia o generacion | [[12_Militar/03_Armada/AM1 Armada 1875-2026|AM1 Armada 1875-2026]] |
 | [[#Registro CN-0070|CN-0070]] | Gil-galad AAW / 12 | afirmacion de clase familia o generacion | [[12_Militar/03_Armada/AM1 Armada 1875-2026|AM1 Armada 1875-2026]] |
 | [[#Registro CN-0197|CN-0197]] | Gil-galad II, destructor de posguerra (12) | clase en reconstruccion estimativa 1973 | [[12_Militar/03_Armada/AM1 Armada 1973 — reconstrucción y turbinas|AM1 Armada 1973 — reconstrucción y turbinas]] |
 | [[#Registro CN-0160|CN-0160]] | Gil-galad III–VI, destructor de defensa aérea | afirmacion de clase familia o generacion | [[12_Militar/03_Armada/AM1 Armada 1875-2026|AM1 Armada 1875-2026]] |
-| [[#Registro CN-0262|CN-0262]] | Gil-galad inicial (1875) | ficha de clase o grupo | [[12_Militar/03_Armada/Armada 1875/Gil-galad inicial (1875)|Gil-galad inicial (1875)]] |
+| [[#Registro CN-0262|CN-0262]] | Gil-galad inicial (1875) | ficha de clase o grupo | [[12_Militar/03_Armada/Armada de 1875 consolidada#Gil-galad inicial (1875)|Gil-galad inicial (1875)]] |
 | [[#Registro CN-0003|CN-0003]] | Gil-galad, acorazado de transición | afirmacion de clase familia o generacion | [[12_Militar/03_Armada/AM1 Armada 1875-2026|AM1 Armada 1875-2026]] |
 | [[#Registro CN-0119|CN-0119]] | Gil-galad, acorazado de transición | afirmacion de clase familia o generacion | [[12_Militar/03_Armada/AM1 Armada 1875-2026|AM1 Armada 1875-2026]] |
 | [[#Registro CN-0143|CN-0143]] | Gil-galad, crucero de batalla | afirmacion de clase familia o generacion | [[12_Militar/03_Armada/AM1 Armada 1875-2026|AM1 Armada 1875-2026]] |
 | [[#Registro CN-0114|CN-0114]] | Guerra de minas | afirmacion de clase familia o generacion | [[12_Militar/03_Armada/AM1 Armada 1875-2026|AM1 Armada 1875-2026]] |
-| [[#Registro CN-0287|CN-0287]] | Guerra de minas — 2026 | ficha de clase o grupo | [[12_Militar/03_Armada/Clases navales 2026/Guerra de minas — 2026|Guerra de minas — 2026]] |
-| [[#Registro CN-0263|CN-0263]] | Harlond fluvial (1875) | ficha de clase o grupo | [[12_Militar/03_Armada/Armada 1875/Harlond fluvial (1875)|Harlond fluvial (1875)]] |
-| [[#Registro CN-0264|CN-0264]] | Harlond oceánica (1875) | ficha de clase o grupo | [[12_Militar/03_Armada/Armada 1875/Harlond oceánica (1875)|Harlond oceánica (1875)]] |
+| [[#Registro CN-0287|CN-0287]] | Guerra de minas — 2026 | ficha de clase o grupo | [[12_Militar/03_Armada/Clases navales 2026#Guerra de minas — 2026|Guerra de minas — 2026]] |
+| [[#Registro CN-0263|CN-0263]] | Harlond fluvial (1875) | ficha de clase o grupo | [[12_Militar/03_Armada/Armada de 1875 consolidada#Harlond fluvial (1875)|Harlond fluvial (1875)]] |
+| [[#Registro CN-0264|CN-0264]] | Harlond oceánica (1875) | ficha de clase o grupo | [[12_Militar/03_Armada/Armada de 1875 consolidada#Harlond oceánica (1875)|Harlond oceánica (1875)]] |
 | [[#Registro CN-0093|CN-0093]] | Harlond transporte / 12 | afirmacion de clase familia o generacion | [[12_Militar/03_Armada/AM1 Armada 1875-2026|AM1 Armada 1875-2026]] |
 | [[#Registro CN-0014|CN-0014]] | Harlond, cañonera fluvial | afirmacion de clase familia o generacion | [[12_Militar/03_Armada/AM1 Armada 1875-2026|AM1 Armada 1875-2026]] |
 | [[#Registro CN-0130|CN-0130]] | Harlond, cañonera fluvial | afirmacion de clase familia o generacion | [[12_Militar/03_Armada/AM1 Armada 1875-2026|AM1 Armada 1875-2026]] |
 | [[#Registro CN-0013|CN-0013]] | Harlond, cañonera oceánica | afirmacion de clase familia o generacion | [[12_Militar/03_Armada/AM1 Armada 1875-2026|AM1 Armada 1875-2026]] |
 | [[#Registro CN-0129|CN-0129]] | Harlond, cañonera oceánica | afirmacion de clase familia o generacion | [[12_Militar/03_Armada/AM1 Armada 1875-2026|AM1 Armada 1875-2026]] |
 | [[#Registro CN-0220|CN-0220]] | Harlond, transporte (11) | clase en reconstruccion estimativa 1973 | [[12_Militar/03_Armada/AM1 Armada 1973 — reconstrucción y turbinas|AM1 Armada 1973 — reconstrucción y turbinas]] |
-| [[#Registro CN-0288|CN-0288]] | Hidrografía — 2026 | ficha de clase o grupo | [[12_Militar/03_Armada/Clases navales 2026/Hidrografía — 2026|Hidrografía — 2026]] |
+| [[#Registro CN-0288|CN-0288]] | Hidrografía — 2026 | ficha de clase o grupo | [[12_Militar/03_Armada/Clases navales 2026#Hidrografía — 2026|Hidrografía — 2026]] |
 | [[#Registro CN-0115|CN-0115]] | Hidrografía/oceanografía | afirmacion de clase familia o generacion | [[12_Militar/03_Armada/AM1 Armada 1875-2026|AM1 Armada 1875-2026]] |
-| [[#Registro CN-0289|CN-0289]] | Hospitales — 2026 | ficha de clase o grupo | [[12_Militar/03_Armada/Clases navales 2026/Hospitales — 2026|Hospitales — 2026]] |
+| [[#Registro CN-0289|CN-0289]] | Hospitales — 2026 | ficha de clase o grupo | [[12_Militar/03_Armada/Clases navales 2026#Hospitales — 2026|Hospitales — 2026]] |
 | [[#Registro CN-0226|CN-0226]] | I | generacion de destructor con convencion especifica | [[12_Militar/03_Armada/Destructores Gil-galad — evolución de la familia|Destructores Gil-galad — evolución de la familia]] |
 | [[#Registro CN-0227|CN-0227]] | II | generacion de destructor con convencion especifica | [[12_Militar/03_Armada/Destructores Gil-galad — evolución de la familia|Destructores Gil-galad — evolución de la familia]] |
 | [[#Registro CN-0228|CN-0228]] | III | generacion de destructor con convencion especifica | [[12_Militar/03_Armada/Destructores Gil-galad — evolución de la familia|Destructores Gil-galad — evolución de la familia]] |
 | [[#Registro CN-0229|CN-0229]] | IV | generacion de destructor con convencion especifica | [[12_Militar/03_Armada/Destructores Gil-galad — evolución de la familia|Destructores Gil-galad — evolución de la familia]] |
 | [[#Registro CN-0037|CN-0037]] | Lanchas lanzamisiles Nosselië | afirmacion de clase familia o generacion | [[12_Militar/03_Armada/AM1 Armada 1875-2026|AM1 Armada 1875-2026]] |
-| [[#Registro CN-0278|CN-0278]] | Lanchas lanzamisiles Nosselië — 1980 | ficha de clase o grupo | [[12_Militar/03_Armada/Clases navales 1980/Lanchas lanzamisiles Nosselië — 1980|Lanchas lanzamisiles Nosselië — 1980]] |
+| [[#Registro CN-0278|CN-0278]] | Lanchas lanzamisiles Nosselië — 1980 | ficha de clase o grupo | [[12_Militar/03_Armada/Clases navales 1980#Lanchas lanzamisiles Nosselië — 1980|Lanchas lanzamisiles Nosselië — 1980]] |
 | [[#Registro CN-0058|CN-0058]] | Lanchas misilísticas Forlond I | afirmacion de clase familia o generacion | [[12_Militar/03_Armada/AM1 Armada 1875-2026|AM1 Armada 1875-2026]] |
-| [[#Registro CN-0290|CN-0290]] | LPD-LSD de desembarco — 2026 | ficha de clase o grupo | [[12_Militar/03_Armada/Clases navales 2026/LPD-LSD de desembarco — 2026|LPD-LSD de desembarco — 2026]] |
+| [[#Registro CN-0290|CN-0290]] | LPD-LSD de desembarco — 2026 | ficha de clase o grupo | [[12_Militar/03_Armada/Clases navales 2026#LPD-LSD de desembarco — 2026|LPD-LSD de desembarco — 2026]] |
 | [[#Registro CN-0111|CN-0111]] | LPD/LSD | afirmacion de clase familia o generacion | [[12_Militar/03_Armada/AM1 Armada 1875-2026|AM1 Armada 1875-2026]] |
 | [[#Registro CN-0208|CN-0208]] | Malaca II, patrullero rápido (28) | clase en reconstruccion estimativa 1973 | [[12_Militar/03_Armada/AM1 Armada 1973 — reconstrucción y turbinas|AM1 Armada 1973 — reconstrucción y turbinas]] |
 | [[#Registro CN-0090|CN-0090]] | Malaca rápido / 30 | afirmacion de clase familia o generacion | [[12_Militar/03_Armada/AM1 Armada 1875-2026|AM1 Armada 1875-2026]] |
 | [[#Registro CN-0188|CN-0188]] | Mando y comunicaciones I–II | afirmacion de clase familia o generacion | [[12_Militar/03_Armada/AM1 Armada 1875-2026|AM1 Armada 1875-2026]] |
-| [[#Registro CN-0291|CN-0291]] | Mando, comunicaciones y apoyo especializado — 2026 | ficha de clase o grupo | [[12_Militar/03_Armada/Clases navales 2026/Mando, comunicaciones y apoyo especializado — 2026|Mando, comunicaciones y apoyo especializado — 2026]] |
+| [[#Registro CN-0291|CN-0291]] | Mando, comunicaciones y apoyo especializado — 2026 | ficha de clase o grupo | [[12_Militar/03_Armada/Clases navales 2026#Mando, comunicaciones y apoyo especializado — 2026|Mando, comunicaciones y apoyo especializado — 2026]] |
 | [[#Registro CN-0190|CN-0190]] | Mantenimiento avanzado I–II | afirmacion de clase familia o generacion | [[12_Militar/03_Armada/AM1 Armada 1875-2026|AM1 Armada 1875-2026]] |
 | [[#Registro CN-0217|CN-0217]] | Menel I, mando MCM (6) | clase en reconstruccion estimativa 1973 | [[12_Militar/03_Armada/AM1 Armada 1973 — reconstrucción y turbinas|AM1 Armada 1973 — reconstrucción y turbinas]] |
 | [[#Registro CN-0177|CN-0177]] | Menel II, buque de apoyo a contramedidas de minas | afirmacion de clase familia o generacion | [[12_Militar/03_Armada/AM1 Armada 1875-2026|AM1 Armada 1875-2026]] |
 | [[#Registro CN-0088|CN-0088]] | Menel mando MCM / 8 | afirmacion de clase familia o generacion | [[12_Militar/03_Armada/AM1 Armada 1875-2026|AM1 Armada 1875-2026]] |
 | [[#Registro CN-0179|CN-0179]] | Menel O-II–O-III, oceanografía | afirmacion de clase familia o generacion | [[12_Militar/03_Armada/AM1 Armada 1875-2026|AM1 Armada 1875-2026]] |
-| [[#Registro CN-0265|CN-0265]] | Minas Tirith (1875) | ficha de clase o grupo | [[12_Militar/03_Armada/Armada 1875/Minas Tirith (1875)|Minas Tirith (1875)]] |
+| [[#Registro CN-0265|CN-0265]] | Minas Tirith (1875) | ficha de clase o grupo | [[12_Militar/03_Armada/Armada de 1875 consolidada#Minas Tirith (1875)|Minas Tirith (1875)]] |
 | [[#Registro CN-0005|CN-0005]] | Minas Tirith, monitor oceánico | afirmacion de clase familia o generacion | [[12_Militar/03_Armada/AM1 Armada 1875-2026|AM1 Armada 1875-2026]] |
 | [[#Registro CN-0121|CN-0121]] | Minas Tirith, monitor oceánico | afirmacion de clase familia o generacion | [[12_Militar/03_Armada/AM1 Armada 1875-2026|AM1 Armada 1875-2026]] |
 | [[#Registro CN-0074|CN-0074]] | Mithlond de transición / 12 | afirmacion de clase familia o generacion | [[12_Militar/03_Armada/AM1 Armada 1875-2026|AM1 Armada 1875-2026]] |
@@ -281,9 +286,9 @@ Las entradas se ordenan por el rótulo de la fuente. Rótulos parecidos no se fu
 | [[#Registro CN-0181|CN-0181]] | Nénar I, vehículo submarino no tripulado | afirmacion de clase familia o generacion | [[12_Militar/03_Armada/AM1 Armada 1875-2026|AM1 Armada 1875-2026]] |
 | [[#Registro CN-0094|CN-0094]] | Númenor taller / 8 | afirmacion de clase familia o generacion | [[12_Militar/03_Armada/AM1 Armada 1875-2026|AM1 Armada 1875-2026]] |
 | [[#Registro CN-0221|CN-0221]] | Númenor, reparación (8) | clase en reconstruccion estimativa 1973 | [[12_Militar/03_Armada/AM1 Armada 1973 — reconstrucción y turbinas|AM1 Armada 1973 — reconstrucción y turbinas]] |
-| [[#Registro CN-0292|CN-0292]] | Oceanográficos — 2026 | ficha de clase o grupo | [[12_Militar/03_Armada/Clases navales 2026/Oceanográficos — 2026|Oceanográficos — 2026]] |
+| [[#Registro CN-0292|CN-0292]] | Oceanográficos — 2026 | ficha de clase o grupo | [[12_Militar/03_Armada/Clases navales 2026#Oceanográficos — 2026|Oceanográficos — 2026]] |
 | [[#Registro CN-0112|CN-0112]] | OPV Sírënandë | afirmacion de clase familia o generacion | [[12_Militar/03_Armada/AM1 Armada 1875-2026|AM1 Armada 1875-2026]] |
-| [[#Registro CN-0293|CN-0293]] | OPV Sírënandë — 2026 | ficha de clase o grupo | [[12_Militar/03_Armada/Clases navales 2026/OPV Sírënandë — 2026|OPV Sírënandë — 2026]] |
+| [[#Registro CN-0293|CN-0293]] | OPV Sírënandë — 2026 | ficha de clase o grupo | [[12_Militar/03_Armada/Clases navales 2026#OPV Sírënandë — 2026|OPV Sírënandë — 2026]] |
 | [[#Registro CN-0082|CN-0082]] | Ossë especializado / 6 | afirmacion de clase familia o generacion | [[12_Militar/03_Armada/AM1 Armada 1875-2026|AM1 Armada 1875-2026]] |
 | [[#Registro CN-0170|CN-0170]] | Ossë I–II, destructor de propósito general | afirmacion de clase familia o generacion | [[12_Militar/03_Armada/AM1 Armada 1875-2026|AM1 Armada 1875-2026]] |
 | [[#Registro CN-0072|CN-0072]] | Ossë multipropósito / 8 | afirmacion de clase familia o generacion | [[12_Militar/03_Armada/AM1 Armada 1875-2026|AM1 Armada 1875-2026]] |
@@ -292,57 +297,57 @@ Las entradas se ordenan por el rótulo de la fuente. Rótulos parecidos no se fu
 | [[#Registro CN-0178|CN-0178]] | Palantír H-II–H-III, hidrografía | afirmacion de clase familia o generacion | [[12_Militar/03_Armada/AM1 Armada 1875-2026|AM1 Armada 1875-2026]] |
 | [[#Registro CN-0097|CN-0097]] | Palantír oceanográfico / 10 | afirmacion de clase familia o generacion | [[12_Militar/03_Armada/AM1 Armada 1875-2026|AM1 Armada 1875-2026]] |
 | [[#Registro CN-0224|CN-0224]] | Palantír, oceanográfico (9) | clase en reconstruccion estimativa 1973 | [[12_Militar/03_Armada/AM1 Armada 1973 — reconstrucción y turbinas|AM1 Armada 1973 — reconstrucción y turbinas]] |
-| [[#Registro CN-0279|CN-0279]] | Patrulla Sírënandë - Malaca — 1980 | ficha de clase o grupo | [[12_Militar/03_Armada/Clases navales 1980/Patrulla Sírënandë - Malaca — 1980|Patrulla Sírënandë - Malaca — 1980]] |
+| [[#Registro CN-0279|CN-0279]] | Patrulla Sírënandë - Malaca — 1980 | ficha de clase o grupo | [[12_Militar/03_Armada/Clases navales 1980#Patrulla Sírënandë - Malaca — 1980|Patrulla Sírënandë - Malaca — 1980]] |
 | [[#Registro CN-0041|CN-0041]] | Patrulla Sírënandë / Malaca | afirmacion de clase familia o generacion | [[12_Militar/03_Armada/AM1 Armada 1875-2026|AM1 Armada 1875-2026]] |
 | [[#Registro CN-0113|CN-0113]] | Patrulleros rápidos | afirmacion de clase familia o generacion | [[12_Militar/03_Armada/AM1 Armada 1875-2026|AM1 Armada 1875-2026]] |
-| [[#Registro CN-0294|CN-0294]] | Patrulleros rápidos — 2026 | ficha de clase o grupo | [[12_Militar/03_Armada/Clases navales 2026/Patrulleros rápidos — 2026|Patrulleros rápidos — 2026]] |
+| [[#Registro CN-0294|CN-0294]] | Patrulleros rápidos — 2026 | ficha de clase o grupo | [[12_Militar/03_Armada/Clases navales 2026#Patrulleros rápidos — 2026|Patrulleros rápidos — 2026]] |
 | [[#Registro CN-0048|CN-0048]] | Patrulleros Sírënandë I / Malaca I | afirmacion de clase familia o generacion | [[12_Militar/03_Armada/AM1 Armada 1875-2026|AM1 Armada 1875-2026]] |
 | [[#Registro CN-0059|CN-0059]] | Patrulleros Sírënandë I / Malaca I | afirmacion de clase familia o generacion | [[12_Militar/03_Armada/AM1 Armada 1875-2026|AM1 Armada 1875-2026]] |
-| [[#Registro CN-0266|CN-0266]] | Pelargir (1875) | ficha de clase o grupo | [[12_Militar/03_Armada/Armada 1875/Pelargir (1875)|Pelargir (1875)]] |
+| [[#Registro CN-0266|CN-0266]] | Pelargir (1875) | ficha de clase o grupo | [[12_Militar/03_Armada/Armada de 1875 consolidada#Pelargir (1875)|Pelargir (1875)]] |
 | [[#Registro CN-0213|CN-0213]] | Pelargir I, LPD/LPH (8) | clase en reconstruccion estimativa 1973 | [[12_Militar/03_Armada/AM1 Armada 1973 — reconstrucción y turbinas|AM1 Armada 1973 — reconstrucción y turbinas]] |
 | [[#Registro CN-0172|CN-0172]] | Pelargir I–III, LPD/LPH | afirmacion de clase familia o generacion | [[12_Militar/03_Armada/AM1 Armada 1875-2026|AM1 Armada 1875-2026]] |
 | [[#Registro CN-0084|CN-0084]] | Pelargir LPD / 8 | afirmacion de clase familia o generacion | [[12_Militar/03_Armada/AM1 Armada 1875-2026|AM1 Armada 1875-2026]] |
 | [[#Registro CN-0008|CN-0008]] | Pelargir, corbeta oceánica | afirmacion de clase familia o generacion | [[12_Militar/03_Armada/AM1 Armada 1875-2026|AM1 Armada 1875-2026]] |
 | [[#Registro CN-0124|CN-0124]] | Pelargir, corbeta oceánica | afirmacion de clase familia o generacion | [[12_Militar/03_Armada/AM1 Armada 1875-2026|AM1 Armada 1875-2026]] |
 | [[#Registro CN-0182|CN-0182]] | Petrolero de flota II–IV | afirmacion de clase familia o generacion | [[12_Militar/03_Armada/AM1 Armada 1875-2026|AM1 Armada 1875-2026]] |
-| [[#Registro CN-0295|CN-0295]] | Petroleros de flota — 2026 | ficha de clase o grupo | [[12_Militar/03_Armada/Clases navales 2026/Petroleros de flota — 2026|Petroleros de flota — 2026]] |
+| [[#Registro CN-0295|CN-0295]] | Petroleros de flota — 2026 | ficha de clase o grupo | [[12_Militar/03_Armada/Clases navales 2026#Petroleros de flota — 2026|Petroleros de flota — 2026]] |
 | [[#Registro CN-0043|CN-0043]] | Portaaviones Aulë I | afirmacion de clase familia o generacion | [[12_Militar/03_Armada/AM1 Armada 1875-2026|AM1 Armada 1875-2026]] |
 | [[#Registro CN-0053|CN-0053]] | Portaaviones Aulë I / Anárion I | afirmacion de clase familia o generacion | [[12_Militar/03_Armada/AM1 Armada 1875-2026|AM1 Armada 1875-2026]] |
-| [[#Registro CN-0280|CN-0280]] | Portaaviones Aulë II - Anárion I - Varda I — 1980 | ficha de clase o grupo | [[12_Militar/03_Armada/Clases navales 1980/Portaaviones Aulë II - Anárion I - Varda I — 1980|Portaaviones Aulë II - Anárion I - Varda I — 1980]] |
+| [[#Registro CN-0280|CN-0280]] | Portaaviones Aulë II - Anárion I - Varda I — 1980 | ficha de clase o grupo | [[12_Militar/03_Armada/Clases navales 1980#Portaaviones Aulë II - Anárion I - Varda I — 1980|Portaaviones Aulë II - Anárion I - Varda I — 1980]] |
 | [[#Registro CN-0032|CN-0032]] | Portaaviones Aulë II / Anárion I / Varda I | afirmacion de clase familia o generacion | [[12_Militar/03_Armada/AM1 Armada 1875-2026|AM1 Armada 1875-2026]] |
 | [[#Registro CN-0100|CN-0100]] | Portaaviones convencionales | afirmacion de clase familia o generacion | [[12_Militar/03_Armada/AM1 Armada 1875-2026|AM1 Armada 1875-2026]] |
-| [[#Registro CN-0296|CN-0296]] | Portaaviones convencionales Anárion II - Elwing I - Aldarion I — 2026 | ficha de clase o grupo | [[12_Militar/03_Armada/Clases navales 2026/Portaaviones convencionales Anárion II - Elwing I - Aldarion I — 2026|Portaaviones convencionales Anárion II - Elwing I - Aldarion I — 2026]] |
+| [[#Registro CN-0296|CN-0296]] | Portaaviones convencionales Anárion II - Elwing I - Aldarion I — 2026 | ficha de clase o grupo | [[12_Militar/03_Armada/Clases navales 2026#Portaaviones convencionales Anárion II - Elwing I - Aldarion I — 2026|Portaaviones convencionales Anárion II - Elwing I - Aldarion I — 2026]] |
 | [[#Registro CN-0101|CN-0101]] | Portaaviones ligeros STOVL | afirmacion de clase familia o generacion | [[12_Militar/03_Armada/AM1 Armada 1875-2026|AM1 Armada 1875-2026]] |
-| [[#Registro CN-0297|CN-0297]] | Portaaviones ligeros STOVL Varda II–III — 2026 | ficha de clase o grupo | [[12_Militar/03_Armada/Clases navales 2026/Portaaviones ligeros STOVL Varda II–III — 2026|Portaaviones ligeros STOVL Varda II–III — 2026]] |
-| [[#Registro CN-0298|CN-0298]] | Portaaviones nucleares Telperion — 2026 | ficha de clase o grupo | [[12_Militar/03_Armada/Clases navales 2026/Portaaviones nucleares Telperion — 2026|Portaaviones nucleares Telperion — 2026]] |
+| [[#Registro CN-0297|CN-0297]] | Portaaviones ligeros STOVL Varda II–III — 2026 | ficha de clase o grupo | [[12_Militar/03_Armada/Clases navales 2026#Portaaviones ligeros STOVL Varda II–III — 2026|Portaaviones ligeros STOVL Varda II–III — 2026]] |
+| [[#Registro CN-0298|CN-0298]] | Portaaviones nucleares Telperion — 2026 | ficha de clase o grupo | [[12_Militar/03_Armada/Clases navales 2026#Portaaviones nucleares Telperion — 2026|Portaaviones nucleares Telperion — 2026]] |
 | [[#Registro CN-0183|CN-0183]] | Reabastecedor multiproducto II–IV | afirmacion de clase familia o generacion | [[12_Militar/03_Armada/AM1 Armada 1875-2026|AM1 Armada 1875-2026]] |
-| [[#Registro CN-0299|CN-0299]] | Reabastecedores multipropósito — 2026 | ficha de clase o grupo | [[12_Militar/03_Armada/Clases navales 2026/Reabastecedores multipropósito — 2026|Reabastecedores multipropósito — 2026]] |
+| [[#Registro CN-0299|CN-0299]] | Reabastecedores multipropósito — 2026 | ficha de clase o grupo | [[12_Militar/03_Armada/Clases navales 2026#Reabastecedores multipropósito — 2026|Reabastecedores multipropósito — 2026]] |
 | [[#Registro CN-0186|CN-0186]] | Reparación y taller naval II–IV | afirmacion de clase familia o generacion | [[12_Militar/03_Armada/AM1 Armada 1875-2026|AM1 Armada 1875-2026]] |
-| [[#Registro CN-0300|CN-0300]] | Reparación-taller — 2026 | ficha de clase o grupo | [[12_Militar/03_Armada/Clases navales 2026/Reparación-taller — 2026|Reparación-taller — 2026]] |
+| [[#Registro CN-0300|CN-0300]] | Reparación-taller — 2026 | ficha de clase o grupo | [[12_Militar/03_Armada/Clases navales 2026#Reparación-taller — 2026|Reparación-taller — 2026]] |
 | [[#Registro CN-0189|CN-0189]] | Rescate polar I–II | afirmacion de clase familia o generacion | [[12_Militar/03_Armada/AM1 Armada 1875-2026|AM1 Armada 1875-2026]] |
-| [[#Registro CN-0267|CN-0267]] | Rómenna aviso (1875) | ficha de clase o grupo | [[12_Militar/03_Armada/Armada 1875/Rómenna aviso (1875)|Rómenna aviso (1875)]] |
-| [[#Registro CN-0268|CN-0268]] | Rómenna crucero (1875) | ficha de clase o grupo | [[12_Militar/03_Armada/Armada 1875/Rómenna crucero (1875)|Rómenna crucero (1875)]] |
+| [[#Registro CN-0267|CN-0267]] | Rómenna aviso (1875) | ficha de clase o grupo | [[12_Militar/03_Armada/Armada de 1875 consolidada#Rómenna aviso (1875)|Rómenna aviso (1875)]] |
+| [[#Registro CN-0268|CN-0268]] | Rómenna crucero (1875) | ficha de clase o grupo | [[12_Militar/03_Armada/Armada de 1875 consolidada#Rómenna crucero (1875)|Rómenna crucero (1875)]] |
 | [[#Registro CN-0011|CN-0011]] | Rómenna, aviso | afirmacion de clase familia o generacion | [[12_Militar/03_Armada/AM1 Armada 1875-2026|AM1 Armada 1875-2026]] |
 | [[#Registro CN-0127|CN-0127]] | Rómenna, aviso | afirmacion de clase familia o generacion | [[12_Militar/03_Armada/AM1 Armada 1875-2026|AM1 Armada 1875-2026]] |
 | [[#Registro CN-0007|CN-0007]] | Rómenna, crucero de estación | afirmacion de clase familia o generacion | [[12_Militar/03_Armada/AM1 Armada 1875-2026|AM1 Armada 1875-2026]] |
 | [[#Registro CN-0123|CN-0123]] | Rómenna, crucero de estación | afirmacion de clase familia o generacion | [[12_Militar/03_Armada/AM1 Armada 1875-2026|AM1 Armada 1875-2026]] |
 | [[#Registro CN-0138|CN-0138]] | Rómenna, crucero ligero / Pelargir, corbeta | afirmacion de clase familia o generacion | [[12_Militar/03_Armada/AM1 Armada 1875-2026|AM1 Armada 1875-2026]] |
 | [[#Registro CN-0187|CN-0187]] | Salvamento oceánico II–III | afirmacion de clase familia o generacion | [[12_Militar/03_Armada/AM1 Armada 1875-2026|AM1 Armada 1875-2026]] |
-| [[#Registro CN-0301|CN-0301]] | Salvamento y rescate — 2026 | ficha de clase o grupo | [[12_Militar/03_Armada/Clases navales 2026/Salvamento y rescate — 2026|Salvamento y rescate — 2026]] |
+| [[#Registro CN-0301|CN-0301]] | Salvamento y rescate — 2026 | ficha de clase o grupo | [[12_Militar/03_Armada/Clases navales 2026#Salvamento y rescate — 2026|Salvamento y rescate — 2026]] |
 | [[#Registro CN-0104|CN-0104]] | Submarinos AIP | afirmacion de clase familia o generacion | [[12_Militar/03_Armada/AM1 Armada 1875-2026|AM1 Armada 1875-2026]] |
-| [[#Registro CN-0281|CN-0281]] | Submarinos Arnor - Eärendil - Tolfalas - Ossë — 1980 | ficha de clase o grupo | [[12_Militar/03_Armada/Clases navales 1980/Submarinos Arnor - Eärendil - Tolfalas - Ossë — 1980|Submarinos Arnor - Eärendil - Tolfalas - Ossë — 1980]] |
+| [[#Registro CN-0281|CN-0281]] | Submarinos Arnor - Eärendil - Tolfalas - Ossë — 1980 | ficha de clase o grupo | [[12_Militar/03_Armada/Clases navales 1980#Submarinos Arnor - Eärendil - Tolfalas - Ossë — 1980|Submarinos Arnor - Eärendil - Tolfalas - Ossë — 1980]] |
 | [[#Registro CN-0038|CN-0038]] | Submarinos Arnor / Eärendil / Tolfalas / Ossë | afirmacion de clase familia o generacion | [[12_Militar/03_Armada/AM1 Armada 1875-2026|AM1 Armada 1875-2026]] |
 | [[#Registro CN-0060|CN-0060]] | Submarinos Arnor / Eärendil / Tolfalas / Ossë | afirmacion de clase familia o generacion | [[12_Militar/03_Armada/AM1 Armada 1875-2026|AM1 Armada 1875-2026]] |
 | [[#Registro CN-0049|CN-0049]] | Submarinos Arnor I / Eärendil I / Tolfalas I / Ossë I | afirmacion de clase familia o generacion | [[12_Militar/03_Armada/AM1 Armada 1875-2026|AM1 Armada 1875-2026]] |
-| [[#Registro CN-0302|CN-0302]] | Submarinos convencionales AIP Tolfalas II–IV — 2026 | ficha de clase o grupo | [[12_Militar/03_Armada/Clases navales 2026/Submarinos convencionales AIP Tolfalas II–IV — 2026|Submarinos convencionales AIP Tolfalas II–IV — 2026]] |
+| [[#Registro CN-0302|CN-0302]] | Submarinos convencionales AIP Tolfalas II–IV — 2026 | ficha de clase o grupo | [[12_Militar/03_Armada/Clases navales 2026#Submarinos convencionales AIP Tolfalas II–IV — 2026|Submarinos convencionales AIP Tolfalas II–IV — 2026]] |
 | [[#Registro CN-0146|CN-0146]] | Submarinos de primera generación | afirmacion de clase familia o generacion | [[12_Militar/03_Armada/AM1 Armada 1875-2026|AM1 Armada 1875-2026]] |
 | [[#Registro CN-0105|CN-0105]] | Submarinos especiales | afirmacion de clase familia o generacion | [[12_Militar/03_Armada/AM1 Armada 1875-2026|AM1 Armada 1875-2026]] |
-| [[#Registro CN-0303|CN-0303]] | Submarinos especiales Aeglos y rescate Falathar — 2026 | ficha de clase o grupo | [[12_Militar/03_Armada/Clases navales 2026/Submarinos especiales Aeglos y rescate Falathar — 2026|Submarinos especiales Aeglos y rescate Falathar — 2026]] |
+| [[#Registro CN-0303|CN-0303]] | Submarinos especiales Aeglos y rescate Falathar — 2026 | ficha de clase o grupo | [[12_Militar/03_Armada/Clases navales 2026#Submarinos especiales Aeglos y rescate Falathar — 2026|Submarinos especiales Aeglos y rescate Falathar — 2026]] |
 | [[#Registro CN-0102|CN-0102]] | Submarinos estratégicos | afirmacion de clase familia o generacion | [[12_Militar/03_Armada/AM1 Armada 1875-2026|AM1 Armada 1875-2026]] |
-| [[#Registro CN-0304|CN-0304]] | Submarinos estratégicos Arnor II–IV — 2026 | ficha de clase o grupo | [[12_Militar/03_Armada/Clases navales 2026/Submarinos estratégicos Arnor II–IV — 2026|Submarinos estratégicos Arnor II–IV — 2026]] |
+| [[#Registro CN-0304|CN-0304]] | Submarinos estratégicos Arnor II–IV — 2026 | ficha de clase o grupo | [[12_Militar/03_Armada/Clases navales 2026#Submarinos estratégicos Arnor II–IV — 2026|Submarinos estratégicos Arnor II–IV — 2026]] |
 | [[#Registro CN-0103|CN-0103]] | Submarinos nucleares de ataque | afirmacion de clase familia o generacion | [[12_Militar/03_Armada/AM1 Armada 1875-2026|AM1 Armada 1875-2026]] |
-| [[#Registro CN-0305|CN-0305]] | Submarinos nucleares de ataque Eärendil II–IV — 2026 | ficha de clase o grupo | [[12_Militar/03_Armada/Clases navales 2026/Submarinos nucleares de ataque Eärendil II–IV — 2026|Submarinos nucleares de ataque Eärendil II–IV — 2026]] |
-| [[#Registro CN-0269|CN-0269]] | Systreyjar (1875) | ficha de clase o grupo | [[12_Militar/03_Armada/Armada 1875/Systreyjar (1875)|Systreyjar (1875)]] |
+| [[#Registro CN-0305|CN-0305]] | Submarinos nucleares de ataque Eärendil II–IV — 2026 | ficha de clase o grupo | [[12_Militar/03_Armada/Clases navales 2026#Submarinos nucleares de ataque Eärendil II–IV — 2026|Submarinos nucleares de ataque Eärendil II–IV — 2026]] |
+| [[#Registro CN-0269|CN-0269]] | Systreyjar (1875) | ficha de clase o grupo | [[12_Militar/03_Armada/Armada de 1875 consolidada#Systreyjar (1875)|Systreyjar (1875)]] |
 | [[#Registro CN-0010|CN-0010]] | Systreyjar, corbeta ligera | afirmacion de clase familia o generacion | [[12_Militar/03_Armada/AM1 Armada 1875-2026|AM1 Armada 1875-2026]] |
 | [[#Registro CN-0126|CN-0126]] | Systreyjar, corbeta ligera | afirmacion de clase familia o generacion | [[12_Militar/03_Armada/AM1 Armada 1875-2026|AM1 Armada 1875-2026]] |
 | [[#Registro CN-0207|CN-0207]] | Sírënandë I, OPV (28) | clase en reconstruccion estimativa 1973 | [[12_Militar/03_Armada/AM1 Armada 1973 — reconstrucción y turbinas|AM1 Armada 1973 — reconstrucción y turbinas]] |
@@ -355,9 +360,9 @@ Las entradas se ordenan por el rótulo de la fuente. Rótulos parecidos no se fu
 | [[#Registro CN-0081|CN-0081]] | Tolfalas SSK / 18 | afirmacion de clase familia o generacion | [[12_Militar/03_Armada/AM1 Armada 1875-2026|AM1 Armada 1875-2026]] |
 | [[#Registro CN-0018|CN-0018]] | Transporte armado | afirmacion de clase familia o generacion | [[12_Militar/03_Armada/AM1 Armada 1875-2026|AM1 Armada 1875-2026]] |
 | [[#Registro CN-0184|CN-0184]] | Transporte estratégico II–IV | afirmacion de clase familia o generacion | [[12_Militar/03_Armada/AM1 Armada 1875-2026|AM1 Armada 1875-2026]] |
-| [[#Registro CN-0270|CN-0270]] | Transportes armados (1875) | ficha de clase o grupo | [[12_Militar/03_Armada/Armada 1875/Transportes armados (1875)|Transportes armados (1875)]] |
+| [[#Registro CN-0270|CN-0270]] | Transportes armados (1875) | ficha de clase o grupo | [[12_Militar/03_Armada/Armada de 1875 consolidada#Transportes armados (1875)|Transportes armados (1875)]] |
 | [[#Registro CN-0134|CN-0134]] | Transportes armados, primera serie | afirmacion de clase familia o generacion | [[12_Militar/03_Armada/AM1 Armada 1875-2026|AM1 Armada 1875-2026]] |
-| [[#Registro CN-0306|CN-0306]] | Transportes estratégicos — 2026 | ficha de clase o grupo | [[12_Militar/03_Armada/Clases navales 2026/Transportes estratégicos — 2026|Transportes estratégicos — 2026]] |
+| [[#Registro CN-0306|CN-0306]] | Transportes estratégicos — 2026 | ficha de clase o grupo | [[12_Militar/03_Armada/Clases navales 2026#Transportes estratégicos — 2026|Transportes estratégicos — 2026]] |
 | [[#Registro CN-0067|CN-0067]] | Turgon AAW / 4 | afirmacion de clase familia o generacion | [[12_Militar/03_Armada/AM1 Armada 1875-2026|AM1 Armada 1875-2026]] |
 | [[#Registro CN-0168|CN-0168]] | Turgon II–IV, escolta especializado antiaéreo | afirmacion de clase familia o generacion | [[12_Militar/03_Armada/AM1 Armada 1875-2026|AM1 Armada 1875-2026]] |
 | [[#Registro CN-0194|CN-0194]] | Turgon, crucero AAW (4) | clase en reconstruccion estimativa 1973 | [[12_Militar/03_Armada/AM1 Armada 1973 — reconstrucción y turbinas|AM1 Armada 1973 — reconstrucción y turbinas]] |
@@ -365,7 +370,7 @@ Las entradas se ordenan por el rótulo de la fuente. Rótulos parecidos no se fu
 | [[#Registro CN-0193|CN-0193]] | Varda I, portaaviones ligero ASW (2) | clase en reconstruccion estimativa 1973 | [[12_Militar/03_Armada/AM1 Armada 1973 — reconstrucción y turbinas|AM1 Armada 1973 — reconstrucción y turbinas]] |
 | [[#Registro CN-0154|CN-0154]] | Varda I–III, portaaviones ligeros/ASW y STOVL | afirmacion de clase familia o generacion | [[12_Militar/03_Armada/AM1 Armada 1875-2026|AM1 Armada 1875-2026]] |
 | [[#Registro CN-0066|CN-0066]] | Varda ligero/ASW / 2 | afirmacion de clase familia o generacion | [[12_Militar/03_Armada/AM1 Armada 1875-2026|AM1 Armada 1875-2026]] |
-| [[#Registro CN-0307|CN-0307]] | Vehículos no tripulados navales — 2026 | ficha de clase o grupo | [[12_Militar/03_Armada/Clases navales 2026/Vehículos no tripulados navales — 2026|Vehículos no tripulados navales — 2026]] |
+| [[#Registro CN-0307|CN-0307]] | Vehículos no tripulados navales — 2026 | ficha de clase o grupo | [[12_Militar/03_Armada/Clases navales 2026#Vehículos no tripulados navales — 2026|Vehículos no tripulados navales — 2026]] |
 | [[#Registro CN-0231|CN-0231]] | VI | generacion de destructor con convencion especifica | [[12_Militar/03_Armada/Destructores Gil-galad — evolución de la familia|Destructores Gil-galad — evolución de la familia]] |
 | [[#Registro CN-0162|CN-0162]] | Voronwë I, fragata multipropósito | afirmacion de clase familia o generacion | [[12_Militar/03_Armada/AM1 Armada 1875-2026|AM1 Armada 1875-2026]] |
 
@@ -1044,7 +1049,7 @@ Fuente: [[12_Militar/03_Armada/AM1 Armada 1875-2026#Desglose técnico por clases
 
 **Cantidad de referencia:** 7 (2 / 3 / 2)
 
-**Especificación consolidada:** [[12_Militar/03_Armada/Clases navales 1980/Portaaviones Aulë II - Anárion I - Varda I — 1980|Ficha técnica]]
+**Especificación consolidada:** [[12_Militar/03_Armada/Clases navales 1980#Portaaviones Aulë II - Anárion I - Varda I — 1980|Ficha técnica]]
 
 ### Registro CN-0033
 
@@ -1058,7 +1063,7 @@ Fuente: [[12_Militar/03_Armada/AM1 Armada 1875-2026#Desglose técnico por clases
 
 **Cantidad de referencia:** 14 (4 / 6 / 4)
 
-**Especificación consolidada:** [[12_Militar/03_Armada/Clases navales 1980/Cruceros Turgon - Eärendil - Noldor — 1980|Ficha técnica]]
+**Especificación consolidada:** [[12_Militar/03_Armada/Clases navales 1980#Cruceros Turgon - Eärendil - Noldor — 1980|Ficha técnica]]
 
 ### Registro CN-0034
 
@@ -1072,7 +1077,7 @@ Fuente: [[12_Militar/03_Armada/AM1 Armada 1875-2026#Desglose técnico por clases
 
 **Cantidad de referencia:** 36 (12 / 16 / 8)
 
-**Especificación consolidada:** [[12_Militar/03_Armada/Clases navales 1980/Destructores Gil-galad - Beleg - Ossë — 1980|Ficha técnica]]
+**Especificación consolidada:** [[12_Militar/03_Armada/Clases navales 1980#Destructores Gil-galad - Beleg - Ossë — 1980|Ficha técnica]]
 
 ### Registro CN-0035
 
@@ -1086,7 +1091,7 @@ Fuente: [[12_Militar/03_Armada/AM1 Armada 1875-2026#Desglose técnico por clases
 
 **Cantidad de referencia:** 56 (36 / 12 / 8)
 
-**Especificación consolidada:** [[12_Militar/03_Armada/Clases navales 1980/Fragatas Círdan - Mithlond - Nimrodel — 1980|Ficha técnica]]
+**Especificación consolidada:** [[12_Militar/03_Armada/Clases navales 1980#Fragatas Círdan - Mithlond - Nimrodel — 1980|Ficha técnica]]
 
 ### Registro CN-0036
 
@@ -1100,7 +1105,7 @@ Fuente: [[12_Militar/03_Armada/AM1 Armada 1875-2026#Desglose técnico por clases
 
 **Cantidad de referencia:** 50 (30 / 20)
 
-**Especificación consolidada:** [[12_Militar/03_Armada/Clases navales 1980/Corbetas Calenport - Eglarest — 1980|Ficha técnica]]
+**Especificación consolidada:** [[12_Militar/03_Armada/Clases navales 1980#Corbetas Calenport - Eglarest — 1980|Ficha técnica]]
 
 ### Registro CN-0037
 
@@ -1114,7 +1119,7 @@ Fuente: [[12_Militar/03_Armada/AM1 Armada 1875-2026#Desglose técnico por clases
 
 **Cantidad de referencia:** 24
 
-**Especificación consolidada:** [[12_Militar/03_Armada/Clases navales 1980/Lanchas lanzamisiles Nosselië — 1980|Ficha técnica]]
+**Especificación consolidada:** [[12_Militar/03_Armada/Clases navales 1980#Lanchas lanzamisiles Nosselië — 1980|Ficha técnica]]
 
 ### Registro CN-0038
 
@@ -1128,7 +1133,7 @@ Fuente: [[12_Militar/03_Armada/AM1 Armada 1875-2026#Desglose técnico por clases
 
 **Cantidad de referencia:** 42 (6 / 12 / 18 / 6)
 
-**Especificación consolidada:** [[12_Militar/03_Armada/Clases navales 1980/Submarinos Arnor - Eärendil - Tolfalas - Ossë — 1980|Ficha técnica]]
+**Especificación consolidada:** [[12_Militar/03_Armada/Clases navales 1980#Submarinos Arnor - Eärendil - Tolfalas - Ossë — 1980|Ficha técnica]]
 
 ### Registro CN-0039
 
@@ -1142,7 +1147,7 @@ Fuente: [[12_Militar/03_Armada/AM1 Armada 1875-2026#Desglose técnico por clases
 
 **Cantidad de referencia:** 34 (6 / 8 / 12 / 8)
 
-**Especificación consolidada:** [[12_Militar/03_Armada/Clases navales 1980/Anfibios Aranath - Pelargir - Forlond - Andúnië — 1980|Ficha técnica]]
+**Especificación consolidada:** [[12_Militar/03_Armada/Clases navales 1980#Anfibios Aranath - Pelargir - Forlond - Andúnië — 1980|Ficha técnica]]
 
 ### Registro CN-0040
 
@@ -1156,7 +1161,7 @@ Fuente: [[12_Militar/03_Armada/AM1 Armada 1875-2026#Desglose técnico por clases
 
 **Cantidad de referencia:** 26 (18 / 8)
 
-**Especificación consolidada:** [[12_Militar/03_Armada/Clases navales 1980/Contramedidas de minas Amon Sûl - Menel — 1980|Ficha técnica]]
+**Especificación consolidada:** [[12_Militar/03_Armada/Clases navales 1980#Contramedidas de minas Amon Sûl - Menel — 1980|Ficha técnica]]
 
 ### Registro CN-0041
 
@@ -1170,7 +1175,7 @@ Fuente: [[12_Militar/03_Armada/AM1 Armada 1875-2026#Desglose técnico por clases
 
 **Cantidad de referencia:** 60 (30 / 30)
 
-**Especificación consolidada:** [[12_Militar/03_Armada/Clases navales 1980/Patrulla Sírënandë - Malaca — 1980|Ficha técnica]]
+**Especificación consolidada:** [[12_Militar/03_Armada/Clases navales 1980#Patrulla Sírënandë - Malaca — 1980|Ficha técnica]]
 
 ### Registro CN-0042
 
@@ -1184,7 +1189,7 @@ Fuente: [[12_Militar/03_Armada/AM1 Armada 1875-2026#Desglose técnico por clases
 
 **Cantidad de referencia:** 78 (14 / 12 / 12 / 8 / 6 / 8 / 10 / 8)
 
-**Especificación consolidada:** [[12_Militar/03_Armada/Clases navales 1980/Auxiliares Aulë - Ecthelion - Harlond - Númenor - Estel - Eärendil - Palantír - Alcarondas — 1980|Ficha técnica]]
+**Especificación consolidada:** [[12_Militar/03_Armada/Clases navales 1980#Auxiliares Aulë - Ecthelion - Harlond - Númenor - Estel - Eärendil - Palantír - Alcarondas — 1980|Ficha técnica]]
 
 ### Registro CN-0043
 
@@ -4794,7 +4799,7 @@ Fuente: [[12_Militar/03_Armada/Desarrollo naval 1882-1945#21. Auxiliares, petrol
 
 Naturaleza: ficha de clase o grupo. Contexto: Armada 1875.
 
-Fuente: [[12_Militar/03_Armada/Armada 1875/Alqualondë (1875)#Alqualondë (1875)|Alqualondë (1875)]].
+Fuente: [[12_Militar/03_Armada/Armada de 1875 consolidada#Alqualondë (1875) — Alqualondë (1875)|Alqualondë (1875)]].
 
 - Tipo: corbeta de enlace.
 - Unidades: 8.
@@ -4823,7 +4828,7 @@ Fuente: [[12_Militar/03_Armada/Armada 1875/Alqualondë (1875)#Alqualondë (1875)
 
 Naturaleza: ficha de clase o grupo. Contexto: Armada 1875.
 
-Fuente: [[12_Militar/03_Armada/Armada 1875/Aulë (1875)#Aulë (1875)|Aulë (1875)]].
+Fuente: [[12_Militar/03_Armada/Armada de 1875 consolidada#Aulë (1875) — Aulë (1875)|Aulë (1875)]].
 
 - Tipo: monitor pesado.
 - Unidades: 8.
@@ -4852,7 +4857,7 @@ Fuente: [[12_Militar/03_Armada/Armada 1875/Aulë (1875)#Aulë (1875)|Aulë (1875
 
 Naturaleza: ficha de clase o grupo. Contexto: Armada 1875.
 
-Fuente: [[12_Militar/03_Armada/Armada 1875/Calasir (1875)#Calasir (1875)|Calasir (1875)]].
+Fuente: [[12_Militar/03_Armada/Armada de 1875 consolidada#Calasir (1875) — Calasir (1875)|Calasir (1875)]].
 
 - Tipo: cañonera litoral.
 - Unidades: 12.
@@ -4881,7 +4886,7 @@ Fuente: [[12_Militar/03_Armada/Armada 1875/Calasir (1875)#Calasir (1875)|Calasir
 
 Naturaleza: ficha de clase o grupo. Contexto: Armada 1875.
 
-Fuente: [[12_Militar/03_Armada/Armada 1875/Calenhad (1875)#Calenhad (1875)|Calenhad (1875)]].
+Fuente: [[12_Militar/03_Armada/Armada de 1875 consolidada#Calenhad (1875) — Calenhad (1875)|Calenhad (1875)]].
 
 - Tipo: torpedero ligero.
 - Unidades: 12.
@@ -4909,7 +4914,7 @@ Fuente: [[12_Militar/03_Armada/Armada 1875/Calenhad (1875)#Calenhad (1875)|Calen
 
 Naturaleza: ficha de clase o grupo. Contexto: Armada 1875.
 
-Fuente: [[12_Militar/03_Armada/Armada 1875/Círdan I (1875)#Círdan I (1875)|Círdan I (1875)]].
+Fuente: [[12_Militar/03_Armada/Armada de 1875 consolidada#Círdan I (1875) — Círdan I (1875)|Círdan I (1875)]].
 
 - Tipo: acorazado oceánico.
 - Unidades: 6.
@@ -4946,7 +4951,7 @@ En 1875 placas valinari de acero de frente endurecido temprano protegen sectores
 
 Naturaleza: ficha de clase o grupo. Contexto: Armada 1875.
 
-Fuente: [[12_Militar/03_Armada/Armada 1875/Eärendil (1875)#Eärendil (1875)|Eärendil (1875)]].
+Fuente: [[12_Militar/03_Armada/Armada de 1875 consolidada#Eärendil (1875) — Eärendil (1875)|Eärendil (1875)]].
 
 - Tipo: crucero protegido.
 - Unidades: 8.
@@ -4975,7 +4980,7 @@ Fuente: [[12_Militar/03_Armada/Armada 1875/Eärendil (1875)#Eärendil (1875)|Eä
 
 Naturaleza: ficha de clase o grupo. Contexto: Armada 1875.
 
-Fuente: [[12_Militar/03_Armada/Armada 1875/Eärendil pesado (1875)#Eärendil pesado (1875)|Eärendil pesado (1875)]].
+Fuente: [[12_Militar/03_Armada/Armada de 1875 consolidada#Eärendil pesado (1875) — Eärendil pesado (1875)|Eärendil pesado (1875)]].
 
 - Tipo: acorazado de escuadra.
 - Unidades: 4.
@@ -5004,7 +5009,7 @@ Fuente: [[12_Militar/03_Armada/Armada 1875/Eärendil pesado (1875)#Eärendil pes
 
 Naturaleza: ficha de clase o grupo. Contexto: Armada 1875.
 
-Fuente: [[12_Militar/03_Armada/Armada 1875/Forlond aviso (1875)#Forlond aviso (1875)|Forlond aviso (1875)]].
+Fuente: [[12_Militar/03_Armada/Armada de 1875 consolidada#Forlond aviso (1875) — Forlond aviso (1875)|Forlond aviso (1875)]].
 
 - Tipo: aviso costero.
 - Unidades: 12.
@@ -5026,8 +5031,8 @@ Fuente: [[12_Militar/03_Armada/Armada 1875/Forlond aviso (1875)#Forlond aviso (1
 
 ## Clases relacionadas
 
-- [[12_Militar/03_Armada/Armada 1875/Rómenna aviso (1875)|Rómenna aviso]]
-- [[12_Militar/03_Armada/Armada 1875/Transportes armados (1875)|Transportes armados]]
+- [[12_Militar/03_Armada/Armada de 1875 consolidada#Rómenna aviso (1875)|Rómenna aviso]]
+- [[12_Militar/03_Armada/Armada de 1875 consolidada#Transportes armados (1875)|Transportes armados]]
 
 ### Registro CN-0261
 
@@ -5035,7 +5040,7 @@ Fuente: [[12_Militar/03_Armada/Armada 1875/Forlond aviso (1875)#Forlond aviso (1
 
 Naturaleza: ficha de clase o grupo. Contexto: Armada 1875.
 
-Fuente: [[12_Militar/03_Armada/Armada 1875/Forlond torpedero (1875)#Forlond torpedero (1875)|Forlond torpedero (1875)]].
+Fuente: [[12_Militar/03_Armada/Armada de 1875 consolidada#Forlond torpedero (1875) — Forlond torpedero (1875)|Forlond torpedero (1875)]].
 
 - Tipo: torpedero rápido.
 - Unidades: 12.
@@ -5062,7 +5067,7 @@ Fuente: [[12_Militar/03_Armada/Armada 1875/Forlond torpedero (1875)#Forlond torp
 
 Naturaleza: ficha de clase o grupo. Contexto: Armada 1875.
 
-Fuente: [[12_Militar/03_Armada/Armada 1875/Gil-galad inicial (1875)#Gil-galad inicial (1875)|Gil-galad inicial (1875)]].
+Fuente: [[12_Militar/03_Armada/Armada de 1875 consolidada#Gil-galad inicial (1875) — Gil-galad inicial (1875)|Gil-galad inicial (1875)]].
 
 - Tipo: acorazado de defensa oceánica.
 - Unidades: 6.
@@ -5091,7 +5096,7 @@ Fuente: [[12_Militar/03_Armada/Armada 1875/Gil-galad inicial (1875)#Gil-galad in
 
 Naturaleza: ficha de clase o grupo. Contexto: Armada 1875.
 
-Fuente: [[12_Militar/03_Armada/Armada 1875/Harlond fluvial (1875)#Harlond fluvial (1875)|Harlond fluvial (1875)]].
+Fuente: [[12_Militar/03_Armada/Armada de 1875 consolidada#Harlond fluvial (1875) — Harlond fluvial (1875)|Harlond fluvial (1875)]].
 
 - Tipo: cañonera fluvial.
 - Unidades: 16.
@@ -5120,7 +5125,7 @@ Fuente: [[12_Militar/03_Armada/Armada 1875/Harlond fluvial (1875)#Harlond fluvia
 
 Naturaleza: ficha de clase o grupo. Contexto: Armada 1875.
 
-Fuente: [[12_Militar/03_Armada/Armada 1875/Harlond oceánica (1875)#Harlond oceánica (1875)|Harlond oceánica (1875)]].
+Fuente: [[12_Militar/03_Armada/Armada de 1875 consolidada#Harlond oceánica (1875) — Harlond oceánica (1875)|Harlond oceánica (1875)]].
 
 - Tipo: cañonera oceánica.
 - Unidades: 14.
@@ -5149,7 +5154,7 @@ Fuente: [[12_Militar/03_Armada/Armada 1875/Harlond oceánica (1875)#Harlond oce�
 
 Naturaleza: ficha de clase o grupo. Contexto: Armada 1875.
 
-Fuente: [[12_Militar/03_Armada/Armada 1875/Minas Tirith (1875)#Minas Tirith (1875)|Minas Tirith (1875)]].
+Fuente: [[12_Militar/03_Armada/Armada de 1875 consolidada#Minas Tirith (1875) — Minas Tirith (1875)|Minas Tirith (1875)]].
 
 - Tipo: monitor litoral.
 - Unidades: 4.
@@ -5178,7 +5183,7 @@ Fuente: [[12_Militar/03_Armada/Armada 1875/Minas Tirith (1875)#Minas Tirith (187
 
 Naturaleza: ficha de clase o grupo. Contexto: Armada 1875.
 
-Fuente: [[12_Militar/03_Armada/Armada 1875/Pelargir (1875)#Pelargir (1875)|Pelargir (1875)]].
+Fuente: [[12_Militar/03_Armada/Armada de 1875 consolidada#Pelargir (1875) — Pelargir (1875)|Pelargir (1875)]].
 
 - Tipo: corbeta oceánica.
 - Unidades: 12.
@@ -5207,7 +5212,7 @@ Fuente: [[12_Militar/03_Armada/Armada 1875/Pelargir (1875)#Pelargir (1875)|Pelar
 
 Naturaleza: ficha de clase o grupo. Contexto: Armada 1875.
 
-Fuente: [[12_Militar/03_Armada/Armada 1875/Rómenna aviso (1875)#Rómenna aviso (1875)|Rómenna aviso (1875)]].
+Fuente: [[12_Militar/03_Armada/Armada de 1875 consolidada#Rómenna aviso (1875) — Rómenna aviso (1875)|Rómenna aviso (1875)]].
 
 - Tipo: aviso oceánico.
 - Unidades: 12.
@@ -5229,8 +5234,8 @@ Fuente: [[12_Militar/03_Armada/Armada 1875/Rómenna aviso (1875)#Rómenna aviso 
 
 ## Clases relacionadas
 
-- [[12_Militar/03_Armada/Armada 1875/Forlond aviso (1875)|Forlond aviso]]
-- [[12_Militar/03_Armada/Armada 1875/Transportes armados (1875)|Transportes armados]]
+- [[12_Militar/03_Armada/Armada de 1875 consolidada#Forlond aviso (1875)|Forlond aviso]]
+- [[12_Militar/03_Armada/Armada de 1875 consolidada#Transportes armados (1875)|Transportes armados]]
 
 ### Registro CN-0268
 
@@ -5238,7 +5243,7 @@ Fuente: [[12_Militar/03_Armada/Armada 1875/Rómenna aviso (1875)#Rómenna aviso 
 
 Naturaleza: ficha de clase o grupo. Contexto: Armada 1875.
 
-Fuente: [[12_Militar/03_Armada/Armada 1875/Rómenna crucero (1875)#Rómenna crucero (1875)|Rómenna crucero (1875)]].
+Fuente: [[12_Militar/03_Armada/Armada de 1875 consolidada#Rómenna crucero (1875) — Rómenna crucero (1875)|Rómenna crucero (1875)]].
 
 - Tipo: crucero de estación.
 - Unidades: 10.
@@ -5267,7 +5272,7 @@ Fuente: [[12_Militar/03_Armada/Armada 1875/Rómenna crucero (1875)#Rómenna cruc
 
 Naturaleza: ficha de clase o grupo. Contexto: Armada 1875.
 
-Fuente: [[12_Militar/03_Armada/Armada 1875/Systreyjar (1875)#Systreyjar (1875)|Systreyjar (1875)]].
+Fuente: [[12_Militar/03_Armada/Armada de 1875 consolidada#Systreyjar (1875) — Systreyjar (1875)|Systreyjar (1875)]].
 
 - Tipo: corbeta ligera.
 - Unidades: 8.
@@ -5296,7 +5301,7 @@ Fuente: [[12_Militar/03_Armada/Armada 1875/Systreyjar (1875)#Systreyjar (1875)|S
 
 Naturaleza: ficha de clase o grupo. Contexto: Armada 1875.
 
-Fuente: [[12_Militar/03_Armada/Armada 1875/Transportes armados (1875)#Transportes armados (1875)|Transportes armados (1875)]].
+Fuente: [[12_Militar/03_Armada/Armada de 1875 consolidada#Transportes armados (1875) — Transportes armados (1875)|Transportes armados (1875)]].
 
 - Tipo: transporte y desembarco.
 - Unidades: 14.
@@ -5318,8 +5323,8 @@ Fuente: [[12_Militar/03_Armada/Armada 1875/Transportes armados (1875)#Transporte
 
 ## Clases relacionadas
 
-- [[12_Militar/03_Armada/Armada 1875/Forlond aviso (1875)|Forlond aviso]]
-- [[12_Militar/03_Armada/Armada 1875/Rómenna aviso (1875)|Rómenna aviso]]
+- [[12_Militar/03_Armada/Armada de 1875 consolidada#Forlond aviso (1875)|Forlond aviso]]
+- [[12_Militar/03_Armada/Armada de 1875 consolidada#Rómenna aviso (1875)|Rómenna aviso]]
 
 ### Registro CN-0271
 
@@ -5327,7 +5332,7 @@ Fuente: [[12_Militar/03_Armada/Armada 1875/Transportes armados (1875)#Transporte
 
 Naturaleza: ficha de clase o grupo. Contexto: Clases navales 1980.
 
-Fuente: [[12_Militar/03_Armada/Clases navales 1980/Anfibios Aranath - Pelargir - Forlond - Andúnië — 1980#Anfibios Aranath - Pelargir - Forlond - Andúnië — 1980|Anfibios Aranath - Pelargir - Forlond - Andúnië — 1980]].
+Fuente: [[12_Militar/03_Armada/Clases navales 1980#Anfibios Aranath - Pelargir - Forlond - Andúnië — 1980 — Anfibios Aranath - Pelargir - Forlond - Andúnië — 1980|Anfibios Aranath - Pelargir - Forlond - Andúnië — 1980]].
 
 Fuente técnica integrada: [[12_Militar/03_Armada/AM1 Armada 1875-2026|AM1 Armada 1875–2026]].
 
@@ -5347,7 +5352,7 @@ Fuente técnica integrada: [[12_Militar/03_Armada/AM1 Armada 1875-2026|AM1 Armad
 
 Naturaleza: ficha de clase o grupo. Contexto: Clases navales 1980.
 
-Fuente: [[12_Militar/03_Armada/Clases navales 1980/Auxiliares Aulë - Ecthelion - Harlond - Númenor - Estel - Eärendil - Palantír - Alcarondas — 1980#Auxiliares Aulë - Ecthelion - Harlond - Númenor - Estel - Eärendil - Palantír - Alcarondas — 1980|Auxiliares Aulë - Ecthelion - Harlond - Númenor - Estel - Eärendil - Palantír - Alcarondas — 1980]].
+Fuente: [[12_Militar/03_Armada/Clases navales 1980#Auxiliares Aulë - Ecthelion - Harlond - Númenor - Estel - Eärendil - Palantír - Alcarondas — 1980 — Auxiliares Aulë - Ecthelion - Harlond - Númenor - Estel - Eärendil - Palantír - Alcarondas — 1980|Auxiliares Aulë - Ecthelion - Harlond - Númenor - Estel - Eärendil - Palantír - Alcarondas — 1980]].
 
 Fuente técnica integrada: [[12_Militar/03_Armada/AM1 Armada 1875-2026|AM1 Armada 1875–2026]].
 
@@ -5367,7 +5372,7 @@ Fuente técnica integrada: [[12_Militar/03_Armada/AM1 Armada 1875-2026|AM1 Armad
 
 Naturaleza: ficha de clase o grupo. Contexto: Clases navales 1980.
 
-Fuente: [[12_Militar/03_Armada/Clases navales 1980/Contramedidas de minas Amon Sûl - Menel — 1980#Contramedidas de minas Amon Sûl - Menel — 1980|Contramedidas de minas Amon Sûl - Menel — 1980]].
+Fuente: [[12_Militar/03_Armada/Clases navales 1980#Contramedidas de minas Amon Sûl - Menel — 1980 — Contramedidas de minas Amon Sûl - Menel — 1980|Contramedidas de minas Amon Sûl - Menel — 1980]].
 
 Fuente técnica integrada: [[12_Militar/03_Armada/AM1 Armada 1875-2026|AM1 Armada 1875–2026]].
 
@@ -5387,7 +5392,7 @@ Fuente técnica integrada: [[12_Militar/03_Armada/AM1 Armada 1875-2026|AM1 Armad
 
 Naturaleza: ficha de clase o grupo. Contexto: Clases navales 1980.
 
-Fuente: [[12_Militar/03_Armada/Clases navales 1980/Corbetas Calenport - Eglarest — 1980#Corbetas Calenport - Eglarest — 1980|Corbetas Calenport - Eglarest — 1980]].
+Fuente: [[12_Militar/03_Armada/Clases navales 1980#Corbetas Calenport - Eglarest — 1980 — Corbetas Calenport - Eglarest — 1980|Corbetas Calenport - Eglarest — 1980]].
 
 Fuente técnica integrada: [[12_Militar/03_Armada/AM1 Armada 1875-2026|AM1 Armada 1875–2026]].
 
@@ -5407,7 +5412,7 @@ Fuente técnica integrada: [[12_Militar/03_Armada/AM1 Armada 1875-2026|AM1 Armad
 
 Naturaleza: ficha de clase o grupo. Contexto: Clases navales 1980.
 
-Fuente: [[12_Militar/03_Armada/Clases navales 1980/Cruceros Turgon - Eärendil - Noldor — 1980#Cruceros Turgon - Eärendil - Noldor — 1980|Cruceros Turgon - Eärendil - Noldor — 1980]].
+Fuente: [[12_Militar/03_Armada/Clases navales 1980#Cruceros Turgon - Eärendil - Noldor — 1980 — Cruceros Turgon - Eärendil - Noldor — 1980|Cruceros Turgon - Eärendil - Noldor — 1980]].
 
 Fuente técnica integrada: [[12_Militar/03_Armada/AM1 Armada 1875-2026|AM1 Armada 1875–2026]].
 
@@ -5427,7 +5432,7 @@ Fuente técnica integrada: [[12_Militar/03_Armada/AM1 Armada 1875-2026|AM1 Armad
 
 Naturaleza: ficha de clase o grupo. Contexto: Clases navales 1980.
 
-Fuente: [[12_Militar/03_Armada/Clases navales 1980/Destructores Gil-galad - Beleg - Ossë — 1980#Destructores Gil-galad - Beleg - Ossë — 1980|Destructores Gil-galad - Beleg - Ossë — 1980]].
+Fuente: [[12_Militar/03_Armada/Clases navales 1980#Destructores Gil-galad - Beleg - Ossë — 1980 — Destructores Gil-galad - Beleg - Ossë — 1980|Destructores Gil-galad - Beleg - Ossë — 1980]].
 
 Fuente técnica integrada: [[12_Militar/03_Armada/AM1 Armada 1875-2026|AM1 Armada 1875–2026]].
 
@@ -5451,7 +5456,7 @@ La cantidad de 12 representa el total familiar de 1980 durante el reemplazo de G
 
 Naturaleza: ficha de clase o grupo. Contexto: Clases navales 1980.
 
-Fuente: [[12_Militar/03_Armada/Clases navales 1980/Fragatas Círdan - Mithlond - Nimrodel — 1980#Fragatas Círdan - Mithlond - Nimrodel — 1980|Fragatas Círdan - Mithlond - Nimrodel — 1980]].
+Fuente: [[12_Militar/03_Armada/Clases navales 1980#Fragatas Círdan - Mithlond - Nimrodel — 1980 — Fragatas Círdan - Mithlond - Nimrodel — 1980|Fragatas Círdan - Mithlond - Nimrodel — 1980]].
 
 Fuente técnica integrada: [[12_Militar/03_Armada/AM1 Armada 1875-2026|AM1 Armada 1875–2026]].
 
@@ -5471,7 +5476,7 @@ Fuente técnica integrada: [[12_Militar/03_Armada/AM1 Armada 1875-2026|AM1 Armad
 
 Naturaleza: ficha de clase o grupo. Contexto: Clases navales 1980.
 
-Fuente: [[12_Militar/03_Armada/Clases navales 1980/Lanchas lanzamisiles Nosselië — 1980#Lanchas lanzamisiles Nosselië — 1980|Lanchas lanzamisiles Nosselië — 1980]].
+Fuente: [[12_Militar/03_Armada/Clases navales 1980#Lanchas lanzamisiles Nosselië — 1980 — Lanchas lanzamisiles Nosselië — 1980|Lanchas lanzamisiles Nosselië — 1980]].
 
 Fuente técnica integrada: [[12_Militar/03_Armada/AM1 Armada 1875-2026|AM1 Armada 1875–2026]].
 
@@ -5491,7 +5496,7 @@ Fuente técnica integrada: [[12_Militar/03_Armada/AM1 Armada 1875-2026|AM1 Armad
 
 Naturaleza: ficha de clase o grupo. Contexto: Clases navales 1980.
 
-Fuente: [[12_Militar/03_Armada/Clases navales 1980/Patrulla Sírënandë - Malaca — 1980#Patrulla Sírënandë - Malaca — 1980|Patrulla Sírënandë - Malaca — 1980]].
+Fuente: [[12_Militar/03_Armada/Clases navales 1980#Patrulla Sírënandë - Malaca — 1980 — Patrulla Sírënandë - Malaca — 1980|Patrulla Sírënandë - Malaca — 1980]].
 
 Fuente técnica integrada: [[12_Militar/03_Armada/AM1 Armada 1875-2026|AM1 Armada 1875–2026]].
 
@@ -5511,7 +5516,7 @@ Fuente técnica integrada: [[12_Militar/03_Armada/AM1 Armada 1875-2026|AM1 Armad
 
 Naturaleza: ficha de clase o grupo. Contexto: Clases navales 1980.
 
-Fuente: [[12_Militar/03_Armada/Clases navales 1980/Portaaviones Aulë II - Anárion I - Varda I — 1980#Portaaviones Aulë II - Anárion I - Varda I — 1980|Portaaviones Aulë II - Anárion I - Varda I — 1980]].
+Fuente: [[12_Militar/03_Armada/Clases navales 1980#Portaaviones Aulë II - Anárion I - Varda I — 1980 — Portaaviones Aulë II - Anárion I - Varda I — 1980|Portaaviones Aulë II - Anárion I - Varda I — 1980]].
 
 Fuente técnica integrada: [[12_Militar/03_Armada/AM1 Armada 1875-2026|AM1 Armada 1875–2026]].
 
@@ -5531,7 +5536,7 @@ Fuente técnica integrada: [[12_Militar/03_Armada/AM1 Armada 1875-2026|AM1 Armad
 
 Naturaleza: ficha de clase o grupo. Contexto: Clases navales 1980.
 
-Fuente: [[12_Militar/03_Armada/Clases navales 1980/Submarinos Arnor - Eärendil - Tolfalas - Ossë — 1980#Submarinos Arnor - Eärendil - Tolfalas - Ossë — 1980|Submarinos Arnor - Eärendil - Tolfalas - Ossë — 1980]].
+Fuente: [[12_Militar/03_Armada/Clases navales 1980#Submarinos Arnor - Eärendil - Tolfalas - Ossë — 1980 — Submarinos Arnor - Eärendil - Tolfalas - Ossë — 1980|Submarinos Arnor - Eärendil - Tolfalas - Ossë — 1980]].
 
 Fuente técnica integrada: [[12_Militar/03_Armada/AM1 Armada 1875-2026|AM1 Armada 1875–2026]].
 
@@ -5551,7 +5556,7 @@ Fuente técnica integrada: [[12_Militar/03_Armada/AM1 Armada 1875-2026|AM1 Armad
 
 Naturaleza: ficha de clase o grupo. Contexto: Clases navales 2026.
 
-Fuente: [[12_Militar/03_Armada/Clases navales 2026/Buques de asalto-anfibios — 2026#Buques de asalto-anfibios — 2026|Buques de asalto-anfibios — 2026]].
+Fuente: [[12_Militar/03_Armada/Clases navales 2026#Buques de asalto-anfibios — 2026 — Buques de asalto-anfibios — 2026|Buques de asalto-anfibios — 2026]].
 
 Fuente técnica integrada: [[12_Militar/03_Armada/AM1 Armada 1875-2026|AM1 Armada 1875–2026]].
 
@@ -5569,7 +5574,7 @@ Fuente técnica integrada: [[12_Militar/03_Armada/AM1 Armada 1875-2026|AM1 Armad
 
 Naturaleza: ficha de clase o grupo. Contexto: Clases navales 2026.
 
-Fuente: [[12_Militar/03_Armada/Clases navales 2026/Corbetas oceánicas Calenport — 2026#Corbetas oceánicas Calenport — 2026|Corbetas oceánicas Calenport — 2026]].
+Fuente: [[12_Militar/03_Armada/Clases navales 2026#Corbetas oceánicas Calenport — 2026 — Corbetas oceánicas Calenport — 2026|Corbetas oceánicas Calenport — 2026]].
 
 Fuente técnica integrada: [[12_Militar/03_Armada/AM1 Armada 1875-2026|AM1 Armada 1875–2026]].
 
@@ -5587,7 +5592,7 @@ Fuente técnica integrada: [[12_Militar/03_Armada/AM1 Armada 1875-2026|AM1 Armad
 
 Naturaleza: ficha de clase o grupo. Contexto: Clases navales 2026.
 
-Fuente: [[12_Militar/03_Armada/Clases navales 2026/Destructores Gil-galad de defensa aérea — 2026#Destructores Gil-galad de defensa aérea — 2026|Destructores Gil-galad de defensa aérea — 2026]].
+Fuente: [[12_Militar/03_Armada/Clases navales 2026#Destructores Gil-galad de defensa aérea — 2026 — Destructores Gil-galad de defensa aérea — 2026|Destructores Gil-galad de defensa aérea — 2026]].
 
 Fuente técnica integrada: [[12_Militar/03_Armada/AM1 Armada 1875-2026|AM1 Armada 1875–2026]].
 
@@ -5609,7 +5614,7 @@ Los 24 destructores de 2026 se atribuyen a generaciones IV y V. Gil-galad VI no 
 
 Naturaleza: ficha de clase o grupo. Contexto: Clases navales 2026.
 
-Fuente: [[12_Militar/03_Armada/Clases navales 2026/Escoltas especializados ASW-AAW — 2026#Escoltas especializados ASW-AAW — 2026|Escoltas especializados ASW-AAW — 2026]].
+Fuente: [[12_Militar/03_Armada/Clases navales 2026#Escoltas especializados ASW-AAW — 2026 — Escoltas especializados ASW-AAW — 2026|Escoltas especializados ASW-AAW — 2026]].
 
 Fuente técnica integrada: [[12_Militar/03_Armada/AM1 Armada 1875-2026|AM1 Armada 1875–2026]].
 
@@ -5627,7 +5632,7 @@ Fuente técnica integrada: [[12_Militar/03_Armada/AM1 Armada 1875-2026|AM1 Armad
 
 Naturaleza: ficha de clase o grupo. Contexto: Clases navales 2026.
 
-Fuente: [[12_Militar/03_Armada/Clases navales 2026/Fragatas Círdan-Voronwë multipropósito — 2026#Fragatas Círdan-Voronwë multipropósito — 2026|Fragatas Círdan-Voronwë multipropósito — 2026]].
+Fuente: [[12_Militar/03_Armada/Clases navales 2026#Fragatas Círdan-Voronwë multipropósito — 2026 — Fragatas Círdan-Voronwë multipropósito — 2026|Fragatas Círdan-Voronwë multipropósito — 2026]].
 
 Fuente técnica integrada: [[12_Militar/03_Armada/AM1 Armada 1875-2026|AM1 Armada 1875–2026]].
 
@@ -5645,7 +5650,7 @@ Fuente técnica integrada: [[12_Militar/03_Armada/AM1 Armada 1875-2026|AM1 Armad
 
 Naturaleza: ficha de clase o grupo. Contexto: Clases navales 2026.
 
-Fuente: [[12_Militar/03_Armada/Clases navales 2026/Guerra de minas — 2026#Guerra de minas — 2026|Guerra de minas — 2026]].
+Fuente: [[12_Militar/03_Armada/Clases navales 2026#Guerra de minas — 2026 — Guerra de minas — 2026|Guerra de minas — 2026]].
 
 Fuente técnica integrada: [[12_Militar/03_Armada/AM1 Armada 1875-2026|AM1 Armada 1875–2026]].
 
@@ -5663,7 +5668,7 @@ Fuente técnica integrada: [[12_Militar/03_Armada/AM1 Armada 1875-2026|AM1 Armad
 
 Naturaleza: ficha de clase o grupo. Contexto: Clases navales 2026.
 
-Fuente: [[12_Militar/03_Armada/Clases navales 2026/Hidrografía — 2026#Hidrografía — 2026|Hidrografía — 2026]].
+Fuente: [[12_Militar/03_Armada/Clases navales 2026#Hidrografía — 2026 — Hidrografía — 2026|Hidrografía — 2026]].
 
 Fuente técnica integrada: [[12_Militar/03_Armada/AM1 Armada 1875-2026|AM1 Armada 1875–2026]].
 
@@ -5681,7 +5686,7 @@ Fuente técnica integrada: [[12_Militar/03_Armada/AM1 Armada 1875-2026|AM1 Armad
 
 Naturaleza: ficha de clase o grupo. Contexto: Clases navales 2026.
 
-Fuente: [[12_Militar/03_Armada/Clases navales 2026/Hospitales — 2026#Hospitales — 2026|Hospitales — 2026]].
+Fuente: [[12_Militar/03_Armada/Clases navales 2026#Hospitales — 2026 — Hospitales — 2026|Hospitales — 2026]].
 
 Fuente técnica integrada: [[12_Militar/03_Armada/AM1 Armada 1875-2026|AM1 Armada 1875–2026]].
 
@@ -5699,7 +5704,7 @@ Fuente técnica integrada: [[12_Militar/03_Armada/AM1 Armada 1875-2026|AM1 Armad
 
 Naturaleza: ficha de clase o grupo. Contexto: Clases navales 2026.
 
-Fuente: [[12_Militar/03_Armada/Clases navales 2026/LPD-LSD de desembarco — 2026#LPD-LSD de desembarco — 2026|LPD-LSD de desembarco — 2026]].
+Fuente: [[12_Militar/03_Armada/Clases navales 2026#LPD-LSD de desembarco — 2026 — LPD-LSD de desembarco — 2026|LPD-LSD de desembarco — 2026]].
 
 Fuente técnica integrada: [[12_Militar/03_Armada/AM1 Armada 1875-2026|AM1 Armada 1875–2026]].
 
@@ -5717,7 +5722,7 @@ Fuente técnica integrada: [[12_Militar/03_Armada/AM1 Armada 1875-2026|AM1 Armad
 
 Naturaleza: ficha de clase o grupo. Contexto: Clases navales 2026.
 
-Fuente: [[12_Militar/03_Armada/Clases navales 2026/Mando, comunicaciones y apoyo especializado — 2026#Mando, comunicaciones y apoyo especializado — 2026|Mando, comunicaciones y apoyo especializado — 2026]].
+Fuente: [[12_Militar/03_Armada/Clases navales 2026#Mando, comunicaciones y apoyo especializado — 2026 — Mando, comunicaciones y apoyo especializado — 2026|Mando, comunicaciones y apoyo especializado — 2026]].
 
 Fuente técnica integrada: [[12_Militar/03_Armada/AM1 Armada 1875-2026|AM1 Armada 1875–2026]].
 
@@ -5735,7 +5740,7 @@ Fuente técnica integrada: [[12_Militar/03_Armada/AM1 Armada 1875-2026|AM1 Armad
 
 Naturaleza: ficha de clase o grupo. Contexto: Clases navales 2026.
 
-Fuente: [[12_Militar/03_Armada/Clases navales 2026/Oceanográficos — 2026#Oceanográficos — 2026|Oceanográficos — 2026]].
+Fuente: [[12_Militar/03_Armada/Clases navales 2026#Oceanográficos — 2026 — Oceanográficos — 2026|Oceanográficos — 2026]].
 
 Fuente técnica integrada: [[12_Militar/03_Armada/AM1 Armada 1875-2026|AM1 Armada 1875–2026]].
 
@@ -5753,7 +5758,7 @@ Fuente técnica integrada: [[12_Militar/03_Armada/AM1 Armada 1875-2026|AM1 Armad
 
 Naturaleza: ficha de clase o grupo. Contexto: Clases navales 2026.
 
-Fuente: [[12_Militar/03_Armada/Clases navales 2026/OPV Sírënandë — 2026#OPV Sírënandë — 2026|OPV Sírënandë — 2026]].
+Fuente: [[12_Militar/03_Armada/Clases navales 2026#OPV Sírënandë — 2026 — OPV Sírënandë — 2026|OPV Sírënandë — 2026]].
 
 Fuente técnica integrada: [[12_Militar/03_Armada/AM1 Armada 1875-2026|AM1 Armada 1875–2026]].
 
@@ -5771,7 +5776,7 @@ Fuente técnica integrada: [[12_Militar/03_Armada/AM1 Armada 1875-2026|AM1 Armad
 
 Naturaleza: ficha de clase o grupo. Contexto: Clases navales 2026.
 
-Fuente: [[12_Militar/03_Armada/Clases navales 2026/Patrulleros rápidos — 2026#Patrulleros rápidos — 2026|Patrulleros rápidos — 2026]].
+Fuente: [[12_Militar/03_Armada/Clases navales 2026#Patrulleros rápidos — 2026 — Patrulleros rápidos — 2026|Patrulleros rápidos — 2026]].
 
 Fuente técnica integrada: [[12_Militar/03_Armada/AM1 Armada 1875-2026|AM1 Armada 1875–2026]].
 
@@ -5789,7 +5794,7 @@ Fuente técnica integrada: [[12_Militar/03_Armada/AM1 Armada 1875-2026|AM1 Armad
 
 Naturaleza: ficha de clase o grupo. Contexto: Clases navales 2026.
 
-Fuente: [[12_Militar/03_Armada/Clases navales 2026/Petroleros de flota — 2026#Petroleros de flota — 2026|Petroleros de flota — 2026]].
+Fuente: [[12_Militar/03_Armada/Clases navales 2026#Petroleros de flota — 2026 — Petroleros de flota — 2026|Petroleros de flota — 2026]].
 
 Fuente técnica integrada: [[12_Militar/03_Armada/AM1 Armada 1875-2026|AM1 Armada 1875–2026]].
 
@@ -5807,7 +5812,7 @@ Fuente técnica integrada: [[12_Militar/03_Armada/AM1 Armada 1875-2026|AM1 Armad
 
 Naturaleza: ficha de clase o grupo. Contexto: Clases navales 2026.
 
-Fuente: [[12_Militar/03_Armada/Clases navales 2026/Portaaviones convencionales Anárion II - Elwing I - Aldarion I — 2026#Portaaviones convencionales Anárion II - Elwing I - Aldarion I — 2026|Portaaviones convencionales Anárion II - Elwing I - Aldarion I — 2026]].
+Fuente: [[12_Militar/03_Armada/Clases navales 2026#Portaaviones convencionales Anárion II - Elwing I - Aldarion I — 2026 — Portaaviones convencionales Anárion II - Elwing I - Aldarion I — 2026|Portaaviones convencionales Anárion II - Elwing I - Aldarion I — 2026]].
 
 Fuente técnica integrada: [[12_Militar/03_Armada/AM1 Armada 1875-2026|AM1 Armada 1875–2026]].
 
@@ -5825,7 +5830,7 @@ Fuente técnica integrada: [[12_Militar/03_Armada/AM1 Armada 1875-2026|AM1 Armad
 
 Naturaleza: ficha de clase o grupo. Contexto: Clases navales 2026.
 
-Fuente: [[12_Militar/03_Armada/Clases navales 2026/Portaaviones ligeros STOVL Varda II–III — 2026#Portaaviones ligeros STOVL Varda II–III — 2026|Portaaviones ligeros STOVL Varda II–III — 2026]].
+Fuente: [[12_Militar/03_Armada/Clases navales 2026#Portaaviones ligeros STOVL Varda II–III — 2026 — Portaaviones ligeros STOVL Varda II–III — 2026|Portaaviones ligeros STOVL Varda II–III — 2026]].
 
 Fuente técnica integrada: [[12_Militar/03_Armada/AM1 Armada 1875-2026|AM1 Armada 1875–2026]].
 
@@ -5843,7 +5848,7 @@ Fuente técnica integrada: [[12_Militar/03_Armada/AM1 Armada 1875-2026|AM1 Armad
 
 Naturaleza: ficha de clase o grupo. Contexto: Clases navales 2026.
 
-Fuente: [[12_Militar/03_Armada/Clases navales 2026/Portaaviones nucleares Telperion — 2026#Portaaviones nucleares Telperion — 2026|Portaaviones nucleares Telperion — 2026]].
+Fuente: [[12_Militar/03_Armada/Clases navales 2026#Portaaviones nucleares Telperion — 2026 — Portaaviones nucleares Telperion — 2026|Portaaviones nucleares Telperion — 2026]].
 
 Fuente técnica integrada: [[12_Militar/03_Armada/AM1 Armada 1875-2026|AM1 Armada 1875–2026]].
 
@@ -5861,7 +5866,7 @@ Fuente técnica integrada: [[12_Militar/03_Armada/AM1 Armada 1875-2026|AM1 Armad
 
 Naturaleza: ficha de clase o grupo. Contexto: Clases navales 2026.
 
-Fuente: [[12_Militar/03_Armada/Clases navales 2026/Reabastecedores multipropósito — 2026#Reabastecedores multipropósito — 2026|Reabastecedores multipropósito — 2026]].
+Fuente: [[12_Militar/03_Armada/Clases navales 2026#Reabastecedores multipropósito — 2026 — Reabastecedores multipropósito — 2026|Reabastecedores multipropósito — 2026]].
 
 Fuente técnica integrada: [[12_Militar/03_Armada/AM1 Armada 1875-2026|AM1 Armada 1875–2026]].
 
@@ -5879,7 +5884,7 @@ Fuente técnica integrada: [[12_Militar/03_Armada/AM1 Armada 1875-2026|AM1 Armad
 
 Naturaleza: ficha de clase o grupo. Contexto: Clases navales 2026.
 
-Fuente: [[12_Militar/03_Armada/Clases navales 2026/Reparación-taller — 2026#Reparación-taller — 2026|Reparación-taller — 2026]].
+Fuente: [[12_Militar/03_Armada/Clases navales 2026#Reparación-taller — 2026 — Reparación-taller — 2026|Reparación-taller — 2026]].
 
 Fuente técnica integrada: [[12_Militar/03_Armada/AM1 Armada 1875-2026|AM1 Armada 1875–2026]].
 
@@ -5897,7 +5902,7 @@ Fuente técnica integrada: [[12_Militar/03_Armada/AM1 Armada 1875-2026|AM1 Armad
 
 Naturaleza: ficha de clase o grupo. Contexto: Clases navales 2026.
 
-Fuente: [[12_Militar/03_Armada/Clases navales 2026/Salvamento y rescate — 2026#Salvamento y rescate — 2026|Salvamento y rescate — 2026]].
+Fuente: [[12_Militar/03_Armada/Clases navales 2026#Salvamento y rescate — 2026 — Salvamento y rescate — 2026|Salvamento y rescate — 2026]].
 
 Fuente técnica integrada: [[12_Militar/03_Armada/AM1 Armada 1875-2026|AM1 Armada 1875–2026]].
 
@@ -5915,7 +5920,7 @@ Fuente técnica integrada: [[12_Militar/03_Armada/AM1 Armada 1875-2026|AM1 Armad
 
 Naturaleza: ficha de clase o grupo. Contexto: Clases navales 2026.
 
-Fuente: [[12_Militar/03_Armada/Clases navales 2026/Submarinos convencionales AIP Tolfalas II–IV — 2026#Submarinos convencionales AIP Tolfalas II–IV — 2026|Submarinos convencionales AIP Tolfalas II–IV — 2026]].
+Fuente: [[12_Militar/03_Armada/Clases navales 2026#Submarinos convencionales AIP Tolfalas II–IV — 2026 — Submarinos convencionales AIP Tolfalas II–IV — 2026|Submarinos convencionales AIP Tolfalas II–IV — 2026]].
 
 Fuente técnica integrada: [[12_Militar/03_Armada/AM1 Armada 1875-2026|AM1 Armada 1875–2026]].
 
@@ -5933,7 +5938,7 @@ Fuente técnica integrada: [[12_Militar/03_Armada/AM1 Armada 1875-2026|AM1 Armad
 
 Naturaleza: ficha de clase o grupo. Contexto: Clases navales 2026.
 
-Fuente: [[12_Militar/03_Armada/Clases navales 2026/Submarinos especiales Aeglos y rescate Falathar — 2026#Submarinos especiales Aeglos y rescate Falathar — 2026|Submarinos especiales Aeglos y rescate Falathar — 2026]].
+Fuente: [[12_Militar/03_Armada/Clases navales 2026#Submarinos especiales Aeglos y rescate Falathar — 2026 — Submarinos especiales Aeglos y rescate Falathar — 2026|Submarinos especiales Aeglos y rescate Falathar — 2026]].
 
 Fuente técnica integrada: [[12_Militar/03_Armada/AM1 Armada 1875-2026|AM1 Armada 1875–2026]].
 
@@ -5951,7 +5956,7 @@ Fuente técnica integrada: [[12_Militar/03_Armada/AM1 Armada 1875-2026|AM1 Armad
 
 Naturaleza: ficha de clase o grupo. Contexto: Clases navales 2026.
 
-Fuente: [[12_Militar/03_Armada/Clases navales 2026/Submarinos estratégicos Arnor II–IV — 2026#Submarinos estratégicos Arnor II–IV — 2026|Submarinos estratégicos Arnor II–IV — 2026]].
+Fuente: [[12_Militar/03_Armada/Clases navales 2026#Submarinos estratégicos Arnor II–IV — 2026 — Submarinos estratégicos Arnor II–IV — 2026|Submarinos estratégicos Arnor II–IV — 2026]].
 
 Fuente técnica integrada: [[12_Militar/03_Armada/AM1 Armada 1875-2026|AM1 Armada 1875–2026]].
 
@@ -5969,7 +5974,7 @@ Fuente técnica integrada: [[12_Militar/03_Armada/AM1 Armada 1875-2026|AM1 Armad
 
 Naturaleza: ficha de clase o grupo. Contexto: Clases navales 2026.
 
-Fuente: [[12_Militar/03_Armada/Clases navales 2026/Submarinos nucleares de ataque Eärendil II–IV — 2026#Submarinos nucleares de ataque Eärendil II–IV — 2026|Submarinos nucleares de ataque Eärendil II–IV — 2026]].
+Fuente: [[12_Militar/03_Armada/Clases navales 2026#Submarinos nucleares de ataque Eärendil II–IV — 2026 — Submarinos nucleares de ataque Eärendil II–IV — 2026|Submarinos nucleares de ataque Eärendil II–IV — 2026]].
 
 Fuente técnica integrada: [[12_Militar/03_Armada/AM1 Armada 1875-2026|AM1 Armada 1875–2026]].
 
@@ -5987,7 +5992,7 @@ Fuente técnica integrada: [[12_Militar/03_Armada/AM1 Armada 1875-2026|AM1 Armad
 
 Naturaleza: ficha de clase o grupo. Contexto: Clases navales 2026.
 
-Fuente: [[12_Militar/03_Armada/Clases navales 2026/Transportes estratégicos — 2026#Transportes estratégicos — 2026|Transportes estratégicos — 2026]].
+Fuente: [[12_Militar/03_Armada/Clases navales 2026#Transportes estratégicos — 2026 — Transportes estratégicos — 2026|Transportes estratégicos — 2026]].
 
 Fuente técnica integrada: [[12_Militar/03_Armada/AM1 Armada 1875-2026|AM1 Armada 1875–2026]].
 
@@ -6005,7 +6010,7 @@ Fuente técnica integrada: [[12_Militar/03_Armada/AM1 Armada 1875-2026|AM1 Armad
 
 Naturaleza: ficha de clase o grupo. Contexto: Clases navales 2026.
 
-Fuente: [[12_Militar/03_Armada/Clases navales 2026/Vehículos no tripulados navales — 2026#Vehículos no tripulados navales — 2026|Vehículos no tripulados navales — 2026]].
+Fuente: [[12_Militar/03_Armada/Clases navales 2026#Vehículos no tripulados navales — 2026 — Vehículos no tripulados navales — 2026|Vehículos no tripulados navales — 2026]].
 
 Fuente técnica integrada: [[12_Militar/03_Armada/AM1 Armada 1875-2026|AM1 Armada 1875–2026]].
 
@@ -6288,3 +6293,207 @@ Naturaleza: casco historico con ID editorial. Fuente: [[00_Canon/Integraciones V
 
 | Gil-galad, acorazado de defensa oceánica | 6 | 5.500–6.800 t; 92–105 m | 360–480; 12–15 kn; 2.200–3.300 mn a 10 kn | Carbón, máquina alternativa según lote, 2 ejes; 2–4 × 203–254 mm, 6 × 100–127 mm y piezas de 37–57 mm; óptica | Nueva Tirion/Armenelos; 1870–80; servicio 1874–1905 |
 
+
+
+## Calendarios y configuraciones adoptados A104
+
+# Integración A104 Desarrollo naval e industria militar
+
+## Decisión y precedencia
+
+El 11 de noviembre de 2026 el autor ordena integrar ANP 01 versión 15 en el canon maestro, Word oficial, cronología y Obsidian, con cuatro Tarannon y un aumento de 2.000 toneladas normales en cada uno de los tres diseños del programa de veinticuatro Rómenna, exploradores y Pelargir. La revisión vigente pasa a V17.6 A104 y el catálogo a CMN 4. La acumulativa v15 se conserva íntegra como antecedente; A104 gobierna sus campos modificados.
+
+Se adoptan narrativamente las decisiones de v15 sobre relevo, identidades, calendarios, especialización industrial, red civil, combustible y organización. Los objetivos de ingeniería, capacidades por recibir, escenarios de consumo y disponibilidad, pedidos civiles simulados y recursos pendientes conservan su naturaleza. Adoptar una política o calendario no certifica que un astillero, mina o buque haya superado pruebas. Dentro de v15 prevalece la resolución posterior de cada bloque; no se suman alternativas descartadas ni diseños sustituidos.
+
+A101 mantiene E1 como reconstrucción narrativa. E2 y E3 son alternativas no acumulables. A094 automotriz y A095 aérea permanecen separados de A094 defensa y A095 antibuque. Los inventarios de 1980 y 2026 no se incrementan por estas decisiones históricas.
+
+## Configuración y modernización de buques antiguos
+
+La configuración original identifica el estado de construcción. La configuración posterior depende de reparaciones, sustituciones de equipos, modernizaciones y cambios de función registrados por casco o lote. La existencia de una tecnología no acredita su instalación en todos los barcos. La conservación de identidad y antigüedad del casco no obliga a conservar cada componente hasta el retiro.
+
+Se permiten sustituciones compatibles de calderas, auxiliares, tuberías, bombas, instrumentos y piezas de armamento con control de peso, estabilidad, estructura, espacios, consumos, municiones y formación. Sustituir la máquina principal o convertir a turbina exige expediente de reconstrucción específico y comparación con construir un casco nuevo. Para los Eärendil pesados y Gil-galad iniciales se mantiene la decisión v15 de reformas limitadas y relevo escalonado, sin conversión general de propulsión ni aumento de velocidad por decreto.
+
+Cada reforma debe registrar identidad, configuración anterior y posterior, fechas de obra y aceptación, proveedor, coste de oportunidad, pruebas y dotación habilitada. Los campos sin evidencia permanecen pendientes; un objetivo narrativo no se presenta como acta histórica.
+
+## Cuatro capitales Tarannon
+
+La primera generación de capital de turbina de 1894 recibe la identidad Tarannon. La serie pasa de dos a cuatro nuevas construcciones de 15.500 t normales, cuatro ejes, 25.000 shp objetivo y 22 nudos de prueba objetivo. Se conservan 4 piezas de 305 mm, 12 de 152 mm y una dotación de referencia de 900. La autorización inicial de 1888 comprende dos cascos; se adopta continuidad de dos adicionales en 1896, condicionada al programa de aprendizaje y recursos, sin inventar resultados de ensayos.
+
+| ID editorial | Inicio | Servicio | Segunda línea | Retiro | Integración propuesta |
+| --- | --- | --- | --- | --- | --- |
+| ANP01-TAR-01 | 1889 | 1894 | 1911 | 1915 | Nueva Tirion |
+| ANP01-TAR-02 | 1892 | 1897 | 1913 | 1920 | Armenelos |
+| ANP01-TAR-03 | 1897 | 1902 | 1915 | 1923 | Nueva Tirion |
+| ANP01-TAR-04 | 1899 | 1904 | 1917 | 1925 | Armenelos |
+
+Los dos nuevos cascos amplían el programa, sin duplicar los dos del perfil original ni incorporarlos retrospectivamente en 1900. Se reservan periodos largos de integración para máquinas, condensadores, hélices y formación; no se presume una reductora madura. Las fechas anuales son decisiones narrativas; botaduras exactas, costes y pruebas permanecen sin dato. En el corte de acorazados de 1900 siguen veinte incorporados, incluidos dos Tarannon; ahora hay cuatro capitales en construcción aparte: dos Anárion y dos Tarannon.
+
+## Tres diseños ampliados del programa de veinticuatro
+
+El aumento se aplica a cada casco de las tres clases. Es configuración de diseño revisada para nuevas construcciones, no una reforma posterior que añada 2.000 t a buques ya entregados. Los valores v15 quedan como antecedentes superados por esta decisión del autor. Se conservan los calendarios anuales como objetivos sujetos a nueva ingeniería y carga de astilleros.
+
+| Campo | Rómenna de estación | Explorador oceánico | Pelargir nueva |
+| --- | --- | --- | --- |
+| Unidades | 8 | 4 | 12 |
+| Desplazamiento normal | 6.200 t | 7.600 t | 4.400 t |
+| Eslora total | 126 m | 143 m | 110 m |
+| Manga | 16 m | 17,5 m | 14,5 m |
+| Calado de referencia | 5,8 m | 6,4 m | 5,3 m |
+| Planta | Triple expansión | Turbinas de vapor | Triple expansión |
+| Ejes | 2 | 4 | 2 |
+| Potencia objetivo | 15.600 ihp | 27.000 shp | 9.800 ihp |
+| Velocidad de prueba objetivo | 22 nudos | 24 nudos | 19 nudos |
+| Alcance objetivo a 10 nudos | 5.000 mn | 5.000 mn | 4.000 mn |
+| Dotación de referencia | 400 | 520 | 280 |
+| Batería principal conservada | 8 × 120 mm | 8 × 152 mm | 6 × 102 mm |
+| Artillería ligera conservada | 8 × 47 mm | 8 × 57 mm | 4 × 47 mm |
+| Torpedos | 2 tubos de 450 mm | 2 tubos de 450 mm | Sin instalación estándar |
+| Carbón de crucero para escenario | 80 t/día | 100 t/día | 45 t/día |
+
+Se conserva la protección por zonas de v15 y no se extiende su espesor máximo a toda la superficie. El mayor desplazamiento permite estudiar mejores márgenes de maquinaria, combustible, habitabilidad, talleres y estabilidad, pero no constituye por sí mismo un reparto de pesos cerrado. Las dimensiones y potencias nuevas son objetivos de anteproyecto; requieren hidrostática, resistencia, balance de pesos y pruebas. La potencia se aproxima atendiendo al aumento de desplazamiento y conservación de velocidad; ihp y shp no se equiparan.
+
+Pelargir conserva la denominación funcional de corbeta de estación, aunque su mayor tamaño la aproxima a un crucero menor. No se modifica el tipo por inferencia ni se le atribuye capacidad de combate de un crucero acorazado. Los exploradores de 7.600 t desarrollan el perfil grande antes llamado Rómenna; los ocho Rómenna de estación son una línea diferente de 6.200 t y maquinaria alternativa. El nombre definitivo del explorador sigue pendiente.
+
+El programa completo requiere 8.640 plazas embarcadas frente a 6.920: 3.200 en Rómenna, 2.080 en exploradores y 3.360 en Pelargir. Con relevo y formación del 15 por ciento resulta un objetivo de 9.936 personas, sin incluir bases ni obreros. En 1900 sus trece incorporados requieren 4.600 plazas, más 690 de relevo: 5.290. Los dos Tarannon adicionales suman otras 1.800 plazas al completarse en 1904, sin personal contado a la vez en dos destinos.
+
+## Construcción suministros y reparación
+
+El aumento de los veinticuatro cascos suma 48.000 t de desplazamiento normal de programa, que no equivalen a toneladas de acero. Con el coeficiente exploratorio heredado de 40 por ciento estructural y 15 por ciento de compra adicional, el incremento modelado es 22.080 t de compra estructural. Los dos Tarannon, al 35 por ciento más margen, añaden 12.477,5 t. El delta conjunto de 34.557,5 t excluye blindaje, maquinaria, armamento y reparación. Se distribuye 25/50/25 por ciento desde el inicio de cada obra como convención de compra, no entregas acreditadas.
+
+Se mantienen provisionalmente las cantidades de calderas de las clases ampliadas como conteo de equipos; su capacidad de evaporación, superficies, volumen y fabricación deben redimensionarse para la potencia nueva. No se declara suficiente la producción anterior por conservar doce, dieciséis o seis calderas por casco. Los nuevos Tarannon añaden cuarenta calderas de modelo, dos plantas grandes de turbina, ocho piezas de 305 mm y veinticuatro de 152 mm, además de auxiliares y protección. Artillería ligera por calibre y forjas necesitan detalle separado.
+
+Los centros siderúrgicos y de maquinaria de v15 mantienen su implantación progresiva, sin retrotraer a 1890 la capacidad CSNR prevista para 1901–1908. Los pedidos anteriores dependen de suministradores ya existentes, compras y capacidades por comprobar. Los dos Tarannon tardíos se reparten entre Nueva Tirion y Armenelos; su obra se añade a la carga previa de cada centro. No se presupone capacidad ilimitada ni que cuatro capitales en construcción sean cuatro gradas ocupadas durante todo el periodo.
+
+La Pelargir ampliada pasa de categoría S a M para planificación de dique, con treinta días en seco en revisión mayor y hasta ciento veinte días de mantenimiento total en ese año. Dimensiones útiles, acceso, apoyos y capacidad de achique requieren verificación material. Rómenna y exploradores conservan categoría M con comprobación de nuevas dimensiones. El registro recalcula las intervenciones y muestra cualquier caso sin cupo; no se fuerza un buque a un dique pequeño para cerrar cifras. La conciliación de categorías y días no acredita disponibilidad industrial total.
+
+Los cortes de 1900 y 1908 del ámbito reconstruido son 172 y 200 incorporados respectivamente; los últimos incluyen cuatro Tarannon y quince carboneros. No son el censo nacional completo. Las 524 identidades históricas del registro incluyen retirados, proyectos y referencias; no son 524 buques simultáneos. Los estados y repartos de v15 se conservan como escenarios previos y deben releerse con las nuevas necesidades. No se eleva automáticamente el objetivo de 110 preparados de 1900.
+
+## Combustible líquido diésel e impulso industrial
+
+Se adopta una transición dual. Entre 1901 y 1903 se preparan instalaciones piloto, procedimientos, almacenamiento, recepción de combustible y formación para calderas de líquido; su existencia efectiva depende de recepción. Los cuatro patrulleros GCO-15 a GCO-18 son nuevas construcciones de vapor con dos máquinas de triple expansión y calderas diseñadas para combustible líquido, con altas objetivo 1904, 1905, 1906 y 1907. No son buques diésel y no convierten automáticamente la flota antigua.
+
+Los bancos diésel y pequeñas embarcaciones de 1901–1907 desarrollan inyección, fundición de cilindros, mecanizado, lubricación, refrigeración y repuestos. Durante 1908–1912 se evalúa una serie de patrulla solo después de aceptación. El adelanto tecnológico valinari se expresa mediante inversión temprana, talleres, ensayos y aprendizaje; la regla de doce años de turbina no se aplica automáticamente al diésel, radar o ASW. La producción militar impulsa proveedores civiles y demanda cualificada sin inventar consumos, contratos o yacimientos.
+
+Se mantienen dos nodos piloto de 2.500 t de capacidad objetivo cada uno, suministro civil contratado y tanques propios con objetivos de 1907 y 1910. Capacidad de depósito no es producción ni compra anual. Se distinguen combustible apto para caldera y para motor diésel, así como calidad, viscosidad, bombeo, seguridad y formación. Se mantienen cuatro carboneros de relevo 1907–1908 para sostener la flota carbonera durante la transición.
+
+Los cuatro patrulleros conservan un objetivo de 600 días-buque de misión en 1908 y 8.448 t de líquido según el modelo de v15, con consumo derivado de autonomía todavía por comprobar. El escenario central sustituye 300 días de Rómenna y añade 300 de vigilancia. Al revisar el consumo de Rómenna a 80 t/día, el carbón bruto evitable pasa de 18.000 a 24.000 t. No se resta petróleo de carbón para declarar ahorro energético o económico; si los cruceros emplean el tiempo liberado en otras navegaciones debe añadirse ese consumo. El consumo de la agrupación de crisis de dieciocho pasa de 1.885 a 1.925 t/día; catorce días son 26.950 t antes de contingencias. Los depósitos objetivo no se transforman en existencias verificadas.
+
+## Consolidación militar y pendientes
+
+Se consolidan fichas por periodo o familia sin fusionar identidades históricas. Cada sección conserva título, contenido, metadatos y ruta anterior; los enlaces se redirigen y un mapa registra sus destinos. Los originales completos quedan respaldados fuera de la navegación activa. Se mantienen separados Ejército, Armada, Fuerzas Aéreas, doctrina y logística, y se conserva la distinción de ámbitos A094 y A095.
+
+Siguen pendientes nombres y matrículas, costes y contratos, ensayos, pesos y estabilidad, consumo real, geometría y recepción de diques, minas y rutas comprobadas, dotaciones por especialidad y disponibilidad operativa. Los perfiles 1919–1945 siguen siendo referencias de diseño por conciliar, sin adopción automática de cantidades. La siguiente profundización corresponde a relevos y escuelas por estación y especialidad. Estos pendientes no impiden adoptar la decisión narrativa, pero impiden declarar acreditada toda su ejecución.
+
+El recálculo asigna 675 intervenciones de mantenimiento 1901–1908 y deja 0 sin cupo por categoría. El modelo anual contiene 1605 registros de rotación. Los archivos estructurados distinguen asignación aritmética y compatibilidad material pendiente.
+
+
+### Cascos principales individualizados
+
+| ID editorial | Clase | Inicio | Servicio | Retiro |
+| --- | --- | --- | --- | --- |
+| ANP01-EAR-01 | Eärendil pesado | sin dato | sin dato | 1896 |
+| ANP01-EAR-02 | Eärendil pesado | sin dato | sin dato | 1898 |
+| ANP01-EAR-03 | Eärendil pesado | sin dato | sin dato | 1900 |
+| ANP01-EAR-04 | Eärendil pesado | sin dato | sin dato | 1902 |
+| ANP01-GG75-01 | Gil-galad inicial | sin dato | sin dato | 1895 |
+| ANP01-GG75-02 | Gil-galad inicial | sin dato | sin dato | 1897 |
+| ANP01-GG75-03 | Gil-galad inicial | sin dato | sin dato | 1899 |
+| ANP01-GG75-04 | Gil-galad inicial | sin dato | sin dato | 1901 |
+| ANP01-GG75-05 | Gil-galad inicial | sin dato | sin dato | 1903 |
+| ANP01-GG75-06 | Gil-galad inicial | sin dato | sin dato | 1905 |
+| ANP01-ANA-01 | Anárion de escuadra | 1892 | 1895 | 1916 |
+| ANP01-ANA-02 | Anárion de escuadra | 1893 | 1896 | 1918 |
+| ANP01-ANA-03 | Anárion de escuadra | 1894 | 1897 | 1920 |
+| ANP01-ANA-04 | Anárion de escuadra | 1895 | 1898 | 1921 |
+| ANP01-ANA-05 | Anárion de escuadra | 1896 | 1899 | 1922 |
+| ANP01-ANA-06 | Anárion de escuadra | 1897 | 1900 | 1923 |
+| ANP01-ANA-07 | Anárion de escuadra | 1898 | 1901 | 1924 |
+| ANP01-ANA-08 | Anárion de escuadra | 1899 | 1902 | 1925 |
+| ANP01-TAR-01 | Tarannon | 1889 | 1894 | 1915 |
+| ANP01-TAR-02 | Tarannon | 1892 | 1897 | 1920 |
+| ANP01-RME-01 | Rómenna de estación | 1895 | 1898 | 1925 |
+| ANP01-RME-02 | Rómenna de estación | 1895 | 1898 | 1925 |
+| ANP01-RME-03 | Rómenna de estación | 1896 | 1899 | 1926 |
+| ANP01-RME-04 | Rómenna de estación | 1896 | 1899 | 1926 |
+| ANP01-RME-05 | Rómenna de estación | 1897 | 1900 | 1927 |
+| ANP01-RME-06 | Rómenna de estación | 1897 | 1900 | 1927 |
+| ANP01-RME-07 | Rómenna de estación | 1898 | 1901 | 1928 |
+| ANP01-RME-08 | Rómenna de estación | 1899 | 1902 | 1929 |
+| ANP01-REO-01 | Explorador oceánico nombre pendiente | 1896 | 1900 | 1925 |
+| ANP01-REO-02 | Explorador oceánico nombre pendiente | 1898 | 1902 | 1927 |
+| ANP01-REO-03 | Explorador oceánico nombre pendiente | 1900 | 1904 | 1929 |
+| ANP01-REO-04 | Explorador oceánico nombre pendiente | 1901 | 1905 | 1930 |
+| ANP01-PEL-01 | Pelargir nueva | 1896 | 1898 | 1923 |
+| ANP01-PEL-02 | Pelargir nueva | 1896 | 1898 | 1923 |
+| ANP01-PEL-03 | Pelargir nueva | 1897 | 1899 | 1924 |
+| ANP01-PEL-04 | Pelargir nueva | 1897 | 1899 | 1924 |
+| ANP01-PEL-05 | Pelargir nueva | 1898 | 1900 | 1925 |
+| ANP01-PEL-06 | Pelargir nueva | 1898 | 1900 | 1925 |
+| ANP01-PEL-07 | Pelargir nueva | 1899 | 1901 | 1926 |
+| ANP01-PEL-08 | Pelargir nueva | 1899 | 1901 | 1926 |
+| ANP01-PEL-09 | Pelargir nueva | 1900 | 1902 | 1927 |
+| ANP01-PEL-10 | Pelargir nueva | 1900 | 1902 | 1927 |
+| ANP01-PEL-11 | Pelargir nueva | 1901 | 1903 | 1928 |
+| ANP01-PEL-12 | Pelargir nueva | 1903 | 1905 | 1930 |
+| ANP01-EAC-01 | Eärendil crucero acorazado | 1894 | 1897 | 1923 |
+| ANP01-EAC-02 | Eärendil crucero acorazado | 1894 | 1897 | 1923 |
+| ANP01-EAC-03 | Eärendil crucero acorazado | 1895 | 1898 | 1924 |
+| ANP01-EAC-04 | Eärendil crucero acorazado | 1895 | 1898 | 1924 |
+| ANP01-EAC-05 | Eärendil crucero acorazado | 1896 | 1899 | 1925 |
+| ANP01-EAC-06 | Eärendil crucero acorazado | 1896 | 1899 | 1925 |
+| ANP01-EAC-07 | Eärendil crucero acorazado | 1897 | 1900 | 1926 |
+| ANP01-EAC-08 | Eärendil crucero acorazado | 1897 | 1900 | 1926 |
+| ANP01-EAC-09 | Eärendil crucero acorazado | 1898 | 1902 | 1928 |
+| ANP01-EAC-10 | Eärendil crucero acorazado | 1898 | 1902 | 1928 |
+| ANP01-EAC-11 | Eärendil crucero acorazado | 1899 | 1904 | 1930 |
+| ANP01-EAC-12 | Eärendil crucero acorazado | 1899 | 1904 | 1930 |
+| ANP01-FDD-01 | Forlond destructor | 1897 | 1900 | 1920 |
+| ANP01-FDD-02 | Forlond destructor | 1897 | 1900 | 1920 |
+| ANP01-FDD-03 | Forlond destructor | 1897 | 1900 | 1920 |
+| ANP01-FDD-04 | Forlond destructor | 1897 | 1900 | 1920 |
+| ANP01-FDD-05 | Forlond destructor | 1898 | 1901 | 1921 |
+| ANP01-FDD-06 | Forlond destructor | 1898 | 1901 | 1921 |
+| ANP01-FDD-07 | Forlond destructor | 1898 | 1901 | 1921 |
+| ANP01-FDD-08 | Forlond destructor | 1898 | 1901 | 1921 |
+| ANP01-FDD-09 | Forlond destructor | 1899 | 1902 | 1922 |
+| ANP01-FDD-10 | Forlond destructor | 1899 | 1902 | 1922 |
+| ANP01-FDD-11 | Forlond destructor | 1899 | 1902 | 1922 |
+| ANP01-FDD-12 | Forlond destructor | 1899 | 1902 | 1922 |
+| ANP01-FDD-13 | Forlond destructor | 1900 | 1903 | 1923 |
+| ANP01-FDD-14 | Forlond destructor | 1900 | 1903 | 1923 |
+| ANP01-FDD-15 | Forlond destructor | 1900 | 1903 | 1923 |
+| ANP01-FDD-16 | Forlond destructor | 1900 | 1903 | 1923 |
+| ANP01-FDD-17 | Forlond destructor | 1901 | 1904 | 1924 |
+| ANP01-FDD-18 | Forlond destructor | 1901 | 1904 | 1924 |
+| ANP01-FDD-19 | Forlond destructor | 1901 | 1904 | 1924 |
+| ANP01-FDD-20 | Forlond destructor | 1901 | 1904 | 1924 |
+| ANP01-FDD-21 | Forlond destructor | 1902 | 1905 | 1925 |
+| ANP01-FDD-22 | Forlond destructor | 1902 | 1905 | 1925 |
+| ANP01-FDD-23 | Forlond destructor | 1902 | 1905 | 1925 |
+| ANP01-FDD-24 | Forlond destructor | 1902 | 1905 | 1925 |
+| ANP01-FTP-01 | Forlond torpedero | 1898 | 1900 | 1920 |
+| ANP01-FTP-02 | Forlond torpedero | 1898 | 1900 | 1920 |
+| ANP01-FTP-03 | Forlond torpedero | 1898 | 1900 | 1920 |
+| ANP01-FTP-04 | Forlond torpedero | 1898 | 1900 | 1920 |
+| ANP01-FTP-05 | Forlond torpedero | 1899 | 1901 | 1921 |
+| ANP01-FTP-06 | Forlond torpedero | 1899 | 1901 | 1921 |
+| ANP01-FTP-07 | Forlond torpedero | 1899 | 1901 | 1921 |
+| ANP01-FTP-08 | Forlond torpedero | 1899 | 1901 | 1921 |
+| ANP01-FTP-09 | Forlond torpedero | 1900 | 1902 | 1922 |
+| ANP01-FTP-10 | Forlond torpedero | 1900 | 1902 | 1922 |
+| ANP01-FTP-11 | Forlond torpedero | 1900 | 1902 | 1922 |
+| ANP01-FTP-12 | Forlond torpedero | 1900 | 1902 | 1922 |
+| ANP01-FTP-13 | Forlond torpedero | 1901 | 1903 | 1923 |
+| ANP01-FTP-14 | Forlond torpedero | 1901 | 1903 | 1923 |
+| ANP01-FTP-15 | Forlond torpedero | 1901 | 1903 | 1923 |
+| ANP01-FTP-16 | Forlond torpedero | 1901 | 1903 | 1923 |
+| ANP01-FTP-17 | Forlond torpedero | 1902 | 1904 | 1924 |
+| ANP01-FTP-18 | Forlond torpedero | 1902 | 1904 | 1924 |
+| ANP01-FTP-19 | Forlond torpedero | 1902 | 1904 | 1924 |
+| ANP01-FTP-20 | Forlond torpedero | 1902 | 1904 | 1924 |
+| ANP01-FTP-21 | Forlond torpedero | 1903 | 1905 | 1925 |
+| ANP01-FTP-22 | Forlond torpedero | 1903 | 1905 | 1925 |
+| ANP01-FTP-23 | Forlond torpedero | 1903 | 1905 | 1925 |
+| ANP01-FTP-24 | Forlond torpedero | 1903 | 1905 | 1925 |
+| ANP01-TAR-03 | Tarannon | 1897 | 1902 | 1923 |
+| ANP01-TAR-04 | Tarannon | 1899 | 1904 | 1925 |

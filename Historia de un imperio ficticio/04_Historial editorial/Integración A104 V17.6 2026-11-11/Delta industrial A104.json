@@ -1,0 +1,75 @@
+{
+  "respecto": "ANP 01 v15",
+  "serie_24_acero_adicional_t": 22080,
+  "dos_Tarannon_acero_modelo_t": 12477.5,
+  "total_compra_adicional_t": 34557.5,
+  "aclaracion": "coeficientes exploratorios heredados; no balance de pesos ni contratos; calderas de los 24 requieren redimensionamiento térmico, no se mantiene capacidad por simple conteo",
+  "anual": [
+    {
+      "año": 1895,
+      "compra_acero_estructural_t": 459.99999999999994,
+      "calderas_adicionales_modelo": 0,
+      "plantas_turbina_grandes_adicionales": 0
+    },
+    {
+      "año": 1896,
+      "compra_acero_estructural_t": 2069.9999999999995,
+      "calderas_adicionales_modelo": 0,
+      "plantas_turbina_grandes_adicionales": 0
+    },
+    {
+      "año": 1897,
+      "compra_acero_estructural_t": 5239.687499999999,
+      "calderas_adicionales_modelo": 0,
+      "plantas_turbina_grandes_adicionales": 0
+    },
+    {
+      "año": 1898,
+      "compra_acero_estructural_t": 7029.374999999999,
+      "calderas_adicionales_modelo": 0,
+      "plantas_turbina_grandes_adicionales": 0
+    },
+    {
+      "año": 1899,
+      "compra_acero_estructural_t": 6569.374999999999,
+      "calderas_adicionales_modelo": 0,
+      "plantas_turbina_grandes_adicionales": 0
+    },
+    {
+      "año": 1900,
+      "compra_acero_estructural_t": 6109.374999999999,
+      "calderas_adicionales_modelo": 0,
+      "plantas_turbina_grandes_adicionales": 0
+    },
+    {
+      "año": 1901,
+      "compra_acero_estructural_t": 4089.687499999999,
+      "calderas_adicionales_modelo": 20,
+      "plantas_turbina_grandes_adicionales": 1
+    },
+    {
+      "año": 1902,
+      "compra_acero_estructural_t": 1609.9999999999998,
+      "calderas_adicionales_modelo": 0,
+      "plantas_turbina_grandes_adicionales": 0
+    },
+    {
+      "año": 1903,
+      "compra_acero_estructural_t": 689.9999999999999,
+      "calderas_adicionales_modelo": 20,
+      "plantas_turbina_grandes_adicionales": 1
+    },
+    {
+      "año": 1904,
+      "compra_acero_estructural_t": 459.99999999999994,
+      "calderas_adicionales_modelo": 0,
+      "plantas_turbina_grandes_adicionales": 0
+    },
+    {
+      "año": 1905,
+      "compra_acero_estructural_t": 229.99999999999997,
+      "calderas_adicionales_modelo": 0,
+      "plantas_turbina_grandes_adicionales": 0
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "revision": "V17.6 A104",
+  "notas_militares_antes": 179,
+  "notas_militares_despues": 58,
+  "fichas_fusionadas": 127,
+  "subcarpetas_eliminables": 8,
+  "cascos_principales": 106,
+  "identidades_historicas_ambito": 524,
+  "bloques_word_anteriores_modificados": [
+    2,
+    3,
+    4
+  ],
+  "word_markdown_diferencias": 0,
+  "dique_intervenciones_asignadas": 675,
+  "dique_sin_cupo": 0,
+  "rotaciones": 1605,
+  "publicacion": "completada y verificada localmente",
+  "destinos_publicados": 50
+}

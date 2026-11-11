@@ -5,6 +5,11 @@ periodo_principal: 1850–2026
 periodo_de_desarrollo: 1000 a. C.–2026
 estado_canon: V16 vigente
 ---
+
+## Resolución vigente V17.6 A104
+
+Integrada ANP 01 v15 con cuatro Tarannon, tres diseños ampliados, modernización registrada y transición dual de combustible. A104 prevalece sobre cifras anteriores afectadas; escenarios de capacidad y disponibilidad conservan sus reservas. [[00_Canon/Integraciones V16/Acumulativa A104 Desarrollo naval e industria militar|Resolución A104]]
+
 # Evolución Naval 1850–2026
 
 ## Periodización
@@ -52,7 +57,7 @@ Véase [[12_Militar/01_Doctrina y organización/Marco histórico y sostenimiento
 - [[12_Militar/Índice Militar|Índice Militar]]
 - [[08_Economia/Agricultura valinari 1000-500 aC|Agricultura valinari]]
 - [[08_Economia/Metalurgia valinari 1000-500 aC|Metalurgia valinari]]
-- [[12_Militar/03_Armada/Armada 1875/Índice de la Armada de 1875]]
+- [[12_Militar/03_Armada/Armada de 1875 consolidada#Índice de la Armada de 1875|Índice de la Armada de 1875]]
 - [[12_Militar/03_Armada/Serie Círdan y transición a Voronwë]]
 - [[08_Economia/Sistema Valinari de Fomento y Desarrollo]]
 - [[09_Politica/Evolución económica e institucional de las Casas]]

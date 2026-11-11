@@ -93,7 +93,7 @@ La tabla de 1980 debe conservar **12 destructores Gil-galad agregados**, compart
 
 - [[12_Militar/03_Armada/AM1 Armada 1875-2026]]
 - [[12_Militar/03_Armada/AM1 Armada 1973 — reconstrucción y turbinas]]
-- [[12_Militar/03_Armada/Clases navales 1980/Destructores Gil-galad - Beleg - Ossë — 1980]]
-- [[12_Militar/03_Armada/Clases navales 2026/Destructores Gil-galad de defensa aérea — 2026]]
+- [[12_Militar/03_Armada/Clases navales 1980#Destructores Gil-galad - Beleg - Ossë — 1980|Destructores Gil-galad - Beleg - Ossë — 1980]]
+- [[12_Militar/03_Armada/Clases navales 2026#Destructores Gil-galad de defensa aérea — 2026|Destructores Gil-galad de defensa aérea — 2026]]
 - Naval History and Heritage Command, USS *Spruance*: https://www.history.navy.mil/research/histories/ship-histories/danfs/s/spruance.html
 - NAVSEA, historia de destructores y propulsión de turbina de gas: https://www.navsea.navy.mil/Media/News/Article-View/Article/1635780/weaponry-technology-threats-improve-destroyers-over-time/

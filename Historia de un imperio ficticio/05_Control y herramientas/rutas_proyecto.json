@@ -1,8 +1,8 @@
 {
   "schema": 1,
   "created": "2026-11-07T11:06:54",
-  "canon": "V17.5",
-  "editorial_revision": "V17.5 A103",
+  "canon": "V17.6",
+  "editorial_revision": "V17.6 A104",
   "hub": "C:\\Users\\migue\\OneDrive\\DOS\\Historia de un imperio ficticio",
   "vault": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari",
   "policy": "Los originales conservan sus rutas. El Markdown vigente gobierna las exportaciones; los archivos históricos no se ejecutan como herramientas activas.",
@@ -38,13 +38,15 @@
   },
   "python_runtime": "C:\\Users\\migue\\.cache\\codex-runtimes\\codex-primary-runtime\\dependencies\\python\\python.exe",
   "provenance": {
-    "source_sha256": "366165774f15d41c52d455b7f789a947df4341b0069fe576d5fb8c3a171e0fce",
-    "word_sha256": "1c70d6e6687d772287da135cf8b09320f0567e4f88737ae42ff538b9aaa9ddc1",
-    "pdf_sha256": "7888e4977b438e1a131dc64fce66cd75d7356c5cad41670c93126b97ed5afad2",
-    "chronology_sha256": "c9d8f8e7082c96e006073e22d5896853acc1b9f47e5be1aa877db196d0ecffab",
-    "pdf_pages": 433,
-    "verified_render": "C:\\Users\\migue\\Documents\\Codex\\2026-11-10\\contin-a-el-proyecto-valinor-desde\\outputs\\V17.5_A103\\Canon V17.5 Maestro A103.pdf",
-    "qa_report": "C:\\Users\\migue\\Documents\\Codex\\2026-11-10\\contin-a-el-proyecto-valinor-desde\\outputs\\V17.5_A103\\Verificación V17.5.json"
+    "revision": "V17.6 A104",
+    "fecha": "2026-11-11",
+    "canon_markdown_sha256": "a643cbee0f41cc651065679b0c400ad5948a18c8b93c4d846bbeff895d7ec752",
+    "word_sha256": "261d6a016ecb8c34a8e1766edcabe74235ebd29f48357f85455783c17d340177",
+    "pdf_sha256": "2bb4f415ba9a764b76ea4a3de44698bac364c519fdc7c825d53d003b620c2e4c",
+    "cronologia_sha256": "c99956c75fb564f2669db310af167ff2e929b8e9fdf3279575985d9bb306e14e",
+    "original_ANP01_version": 15,
+    "original_ANP01_sha256": "7fdbda9368c014544ed5fcc2423f9d1d663d0f40c6204b87ff215ecf6b1a1f1d",
+    "nota": "A104 modifica Tarannon y tres diseños; v15 se conserva como antecedente; publicación local no demuestra sincronización remota OneDrive"
   },
-  "updated": "2026-11-10"
+  "updated": "2026-11-11"
 }

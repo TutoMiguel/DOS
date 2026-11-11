@@ -1,7 +1,7 @@
 # Cronología maestra atlántica de la Unión Valinoriana
 
 
-Estado: VIGENTE V17.5 A103, con A092 y A093 conservadas. Las decisiones expresas posteriores del autor prevalecen sobre V16.3. Tol Eressëa 20–40 y Groenlandia 55–75 d. C.; poblaciones antiguas conservadas por ámbito.
+Estado: VIGENTE V17.6 A104, con A092 y A093 conservadas. Las decisiones expresas posteriores del autor prevalecen sobre V16.3. Tol Eressëa 20–40 y Groenlandia 55–75 d. C.; poblaciones antiguas conservadas por ámbito.
 
 * **2026 clasificación editorial:** Islandia y Groenlandia son unidades federales externas al Reino; 2026 no es primera incorporación histórica.
 * **2026 cuentas conciliadas:** 481 + 37 + 5,5 = 523,5 millones; externas vigentes 42,5. PIB PPA 58,50 + 7,00 = 65,50 billones; los 0,95 de Islandia y Groenlandia ya están incluidos en las externas.
@@ -938,33 +938,33 @@ Véase [[Acumulativa A092 V16.4]] y [[Matriz territorial maestra A092]].
 
 Las introducciones siguientes pertenecen al desarrollo narrativo A092 incorporado en V16.5. No son fechas de incorporación territorial ni cifras de disponibilidad.
 
-- **1911:** introducción de [[12_Militar/02_Ejército/Blindados/Carros y exploradores/BA-11 Hador|BA-11 Hador]].
-- **1917:** introducción de [[12_Militar/02_Ejército/Blindados/Carros y exploradores/CP-17 Belegost|CP-17 Belegost]].
-- **1926:** introducción de [[12_Militar/02_Ejército/Blindados/Carros y exploradores/CL-26 Duilin|CL-26 Duilin]].
-- **1932:** introducción de [[12_Militar/02_Ejército/Blindados/VCI y transportes/TP-32 Barahir|TP-32 Barahir]].
-- **1934:** introducción de [[12_Militar/02_Ejército/Blindados/Carros y exploradores/CM-34 Gondolin|CM-34 Gondolin]].
-- **1938:** introducción de [[12_Militar/02_Ejército/Blindados/Carros y exploradores/CL-38 Nimrodel|CL-38 Nimrodel]].
-- **1941:** introducción de [[12_Militar/02_Ejército/Blindados/Carros y exploradores/CM-41 Anárion|CM-41 Anárion]].
-- **1942:** introducción de [[12_Militar/02_Ejército/Blindados/VCI y transportes/TP-42 Haleth|TP-42 Haleth]].
-- **1944:** introducción de [[12_Militar/02_Ejército/Blindados/Carros y exploradores/CP-44 Beleg|CP-44 Beleg]].
-- **1952:** introducción de [[12_Militar/02_Ejército/Blindados/Carros y exploradores/CU-52 Elendil|CU-52 Elendil]].
-- **1955:** introducción de [[12_Militar/02_Ejército/Blindados/VCI y transportes/TP-55 Bregor|TP-55 Bregor]].
-- **1963:** introducción de [[12_Militar/02_Ejército/Blindados/Carros y exploradores/CB-63 Elendil II|CB-63 Elendil II]].
-- **1965:** introducción de [[12_Militar/02_Ejército/Blindados/VCI y transportes/TP-65 Círdan|TP-65 Círdan]].
-- **1969:** introducción de [[12_Militar/02_Ejército/Blindados/Carros y exploradores/CA-69 Falathar|CA-69 Falathar]].
-- **1972:** introducción de [[12_Militar/02_Ejército/Blindados/Artillería autopropulsada/AAP-72 Aulë|AAP-72 Aulë]].
-- **1974:** introducción de [[12_Militar/02_Ejército/Blindados/VCI y transportes/VT-74 Mablung|VT-74 Mablung]].
-- **1978:** introducción de [[12_Militar/02_Ejército/Blindados/Carros y exploradores/CB-78 Elendil III|CB-78 Elendil III]].
-- **1984:** introducción de [[12_Militar/02_Ejército/Blindados/VCI y transportes/TP-84 Beregond|TP-84 Beregond]].
-- **1988:** introducción de [[12_Militar/02_Ejército/Blindados/VCI y transportes/VC-88 Galdor|VC-88 Galdor]].
-- **1991:** introducción de [[12_Militar/02_Ejército/Blindados/Carros y exploradores/CB-91 Elendil IV|CB-91 Elendil IV]].
-- **2003:** introducción de [[12_Militar/02_Ejército/Blindados/VCI y transportes/TP-03 Erkenbrand|TP-03 Erkenbrand]].
-- **2006:** introducción de [[12_Militar/02_Ejército/Blindados/Carros y exploradores/CB-06 Elendil V|CB-06 Elendil V]].
-- **2009:** introducción de [[12_Militar/02_Ejército/Blindados/VCI y transportes/VC-09 Haldir|VC-09 Haldir]].
-- **2012:** introducción de [[12_Militar/02_Ejército/Blindados/VCI y transportes/VBR-12 Hirgon|VBR-12 Hirgon]].
-- **2015:** introducción de [[12_Militar/02_Ejército/Blindados/Carros y exploradores/CE-15 Ecthelion|CE-15 Ecthelion]].
-- **2019:** introducción de [[12_Militar/02_Ejército/Blindados/VCI y transportes/TP-19 Voronwë|TP-19 Voronwë]].
-- **2023:** introducción de [[12_Militar/02_Ejército/Blindados/Carros y exploradores/CB-23 Elendil VI|CB-23 Elendil VI]].
+- **1911:** introducción de [[12_Militar/02_Ejército/Blindados/Carros y exploradores#BA-11 Hador|BA-11 Hador]].
+- **1917:** introducción de [[12_Militar/02_Ejército/Blindados/Carros y exploradores#CP-17 Belegost|CP-17 Belegost]].
+- **1926:** introducción de [[12_Militar/02_Ejército/Blindados/Carros y exploradores#CL-26 Duilin|CL-26 Duilin]].
+- **1932:** introducción de [[12_Militar/02_Ejército/Blindados/VCI y transportes#TP-32 Barahir|TP-32 Barahir]].
+- **1934:** introducción de [[12_Militar/02_Ejército/Blindados/Carros y exploradores#CM-34 Gondolin|CM-34 Gondolin]].
+- **1938:** introducción de [[12_Militar/02_Ejército/Blindados/Carros y exploradores#CL-38 Nimrodel|CL-38 Nimrodel]].
+- **1941:** introducción de [[12_Militar/02_Ejército/Blindados/Carros y exploradores#CM-41 Anárion|CM-41 Anárion]].
+- **1942:** introducción de [[12_Militar/02_Ejército/Blindados/VCI y transportes#TP-42 Haleth|TP-42 Haleth]].
+- **1944:** introducción de [[12_Militar/02_Ejército/Blindados/Carros y exploradores#CP-44 Beleg|CP-44 Beleg]].
+- **1952:** introducción de [[12_Militar/02_Ejército/Blindados/Carros y exploradores#CU-52 Elendil|CU-52 Elendil]].
+- **1955:** introducción de [[12_Militar/02_Ejército/Blindados/VCI y transportes#TP-55 Bregor|TP-55 Bregor]].
+- **1963:** introducción de [[12_Militar/02_Ejército/Blindados/Carros y exploradores#CB-63 Elendil II|CB-63 Elendil II]].
+- **1965:** introducción de [[12_Militar/02_Ejército/Blindados/VCI y transportes#TP-65 Círdan|TP-65 Círdan]].
+- **1969:** introducción de [[12_Militar/02_Ejército/Blindados/Carros y exploradores#CA-69 Falathar|CA-69 Falathar]].
+- **1972:** introducción de [[12_Militar/02_Ejército/Blindados/Artillería autopropulsada#AAP-72 Aulë|AAP-72 Aulë]].
+- **1974:** introducción de [[12_Militar/02_Ejército/Blindados/VCI y transportes#VT-74 Mablung|VT-74 Mablung]].
+- **1978:** introducción de [[12_Militar/02_Ejército/Blindados/Carros y exploradores#CB-78 Elendil III|CB-78 Elendil III]].
+- **1984:** introducción de [[12_Militar/02_Ejército/Blindados/VCI y transportes#TP-84 Beregond|TP-84 Beregond]].
+- **1988:** introducción de [[12_Militar/02_Ejército/Blindados/VCI y transportes#VC-88 Galdor|VC-88 Galdor]].
+- **1991:** introducción de [[12_Militar/02_Ejército/Blindados/Carros y exploradores#CB-91 Elendil IV|CB-91 Elendil IV]].
+- **2003:** introducción de [[12_Militar/02_Ejército/Blindados/VCI y transportes#TP-03 Erkenbrand|TP-03 Erkenbrand]].
+- **2006:** introducción de [[12_Militar/02_Ejército/Blindados/Carros y exploradores#CB-06 Elendil V|CB-06 Elendil V]].
+- **2009:** introducción de [[12_Militar/02_Ejército/Blindados/VCI y transportes#VC-09 Haldir|VC-09 Haldir]].
+- **2012:** introducción de [[12_Militar/02_Ejército/Blindados/VCI y transportes#VBR-12 Hirgon|VBR-12 Hirgon]].
+- **2015:** introducción de [[12_Militar/02_Ejército/Blindados/Carros y exploradores#CE-15 Ecthelion|CE-15 Ecthelion]].
+- **2019:** introducción de [[12_Militar/02_Ejército/Blindados/VCI y transportes#TP-19 Voronwë|TP-19 Voronwë]].
+- **2023:** introducción de [[12_Militar/02_Ejército/Blindados/Carros y exploradores#CB-23 Elendil VI|CB-23 Elendil VI]].
 
 ## Redes navales y control de drones A093
 
@@ -990,110 +990,110 @@ Base: Maestro V17.2 A100 y reconstrucción E1 incorporada por el autor el 10 de 
 
 ### Firmas y actuaciones C3 de A099
 
-- **1887 · C3:** [[12_Militar/03_Armada/Exportaciones A099 A101/EXP-1887-CHL-01|EXP-1887-CHL-01]], Chile, Mantenimiento naval y formación técnica. La firma no prueba entrega ni cobro.
-- **1896 · C3:** [[12_Militar/03_Armada/Exportaciones A099 A101/EXP-1896-PRT-01|EXP-1896-PRT-01]], Portugal, Lanchas torpederas costeras. La firma no prueba entrega ni cobro.
-- **1908 · C3:** [[12_Militar/03_Armada/Exportaciones A099 A101/EXP-1908-CHL-01|EXP-1908-CHL-01]], Chile, Dirección óptica de tiro y repuestos. La firma no prueba entrega ni cobro.
-- **1913 · C3:** [[12_Militar/03_Armada/Exportaciones A099 A101/EXP-1913-BRA-01|EXP-1913-BRA-01]], Brasil, Reacondicionamiento de destructores. La firma no prueba entrega ni cobro.
-- **1927 · C3:** [[12_Militar/03_Armada/Exportaciones A099 A101/EXP-1927-CHL-01|EXP-1927-CHL-01]], Chile, Taller de torpedos y capacitación. La firma no prueba entrega ni cobro.
-- **1934 · C3:** [[12_Militar/03_Armada/Exportaciones A099 A101/EXP-1934-PRT-01|EXP-1934-PRT-01]], Portugal, Torpedos T-24 Falathar. La firma no prueba entrega ni cobro.
-- **1948 · C3:** [[12_Militar/03_Armada/Exportaciones A099 A101/EXP-1948-NZL-01|EXP-1948-NZL-01]], Nueva Zelanda, Radar naval y capacitación. La firma no prueba entrega ni cobro.
-- **1956 · C3:** [[12_Militar/03_Armada/Exportaciones A099 A101/EXP-1956-CHL-01|EXP-1956-CHL-01]], Chile, Modernización de sensores de escoltas. La firma no prueba entrega ni cobro.
-- **1966 · C3:** [[12_Militar/03_Armada/Exportaciones A099 A101/EXP-1966-PER-01|EXP-1966-PER-01]], Perú, Torpedos T-61 Ossë. La firma no prueba entrega ni cobro.
-- **1968 · C3:** [[12_Militar/03_Armada/Exportaciones A099 A101/EXP-1968-PRT-01|EXP-1968-PRT-01]], Portugal, Radares y sistema de dirección de tiro. La firma no prueba entrega ni cobro.
-- **1974 · C3:** [[12_Militar/03_Armada/Exportaciones A099 A101/EXP-1974-CHL-01|EXP-1974-CHL-01]], Chile, Lanchas misileras y soporte, Falmar-II separado. La firma no prueba entrega ni cobro.
-- **1975 · C3:** [[12_Militar/03_Armada/Exportaciones A099 A101/EXP-1975-CHL-02|EXP-1975-CHL-02]], Chile, Falmar-II para paquete de lanchas. La firma no prueba entrega ni cobro.
-- **1978 · C3:** [[12_Militar/03_Armada/Exportaciones A099 A101/EXP-1978-IDN-01|EXP-1978-IDN-01]], Indonesia, Corbetas de exportación (no Calenport de inventario). La firma no prueba entrega ni cobro.
-- **1983 · C3:** [[12_Militar/03_Armada/Exportaciones A099 A101/EXP-1983-PER-01|EXP-1983-PER-01]], Perú, Falmar-III de exportación. La firma no prueba entrega ni cobro.
-- **1986 · C3:** [[12_Militar/03_Armada/Exportaciones A099 A101/EXP-1986-CHL-01|EXP-1986-CHL-01]], Chile, Modernización de escoltas y CMS. La firma no prueba entrega ni cobro.
-- **1988 · C3:** [[12_Militar/03_Armada/Exportaciones A099 A101/EXP-1988-ZAF-01|EXP-1988-ZAF-01]], Sudáfrica, Estudio comercial sin entrega, sujeto a restricciones. Estudio sin suministro ni exportación.
-- **1993 · C3:** [[12_Militar/03_Armada/Exportaciones A099 A101/EXP-1993-BRA-01|EXP-1993-BRA-01]], Brasil, CMS y sensores para corbetas nacionales. La firma no prueba entrega ni cobro.
-- **1998 · C3:** [[12_Militar/03_Armada/Exportaciones A099 A101/EXP-1998-IND-01|EXP-1998-IND-01]], India, Licencia de Falmar-IV, fabricación extranjera. La firma no prueba entrega ni cobro.
-- **2001 · C3:** [[12_Militar/03_Armada/Exportaciones A099 A101/EXP-2001-CHL-01|EXP-2001-CHL-01]], Chile, Refit de fragatas y sostenimiento. La firma no prueba entrega ni cobro.
-- **2004 · C3:** [[12_Militar/03_Armada/Exportaciones A099 A101/EXP-2004-PHL-01|EXP-2004-PHL-01]], Filipinas, OPV de exportación, sin misil estándar. La firma no prueba entrega ni cobro.
-- **2009 · C3:** [[12_Militar/03_Armada/Exportaciones A099 A101/EXP-2009-PRT-01|EXP-2009-PRT-01]], Portugal, Falmar-V y apoyo logístico. La firma no prueba entrega ni cobro.
-- **2012 · C3:** [[12_Militar/03_Armada/Exportaciones A099 A101/EXP-2012-IDN-01|EXP-2012-IDN-01]], Indonesia, Modernización de 2 corbetas y radares. La firma no prueba entrega ni cobro.
-- **2015 · C3:** [[12_Militar/03_Armada/Exportaciones A099 A101/EXP-2015-CHL-01|EXP-2015-CHL-01]], Chile, Sensores, CMS y soporte multianual. La firma no prueba entrega ni cobro.
-- **2018 · C3:** [[12_Militar/03_Armada/Exportaciones A099 A101/EXP-2018-NZL-01|EXP-2018-NZL-01]], Nueva Zelanda, Vigilancia costera y enlaces no protegidos. La firma no prueba entrega ni cobro.
-- **2021 · C3:** [[12_Militar/03_Armada/Exportaciones A099 A101/EXP-2021-PHL-01|EXP-2021-PHL-01]], Filipinas, Falmar-V de exportación. La firma no prueba entrega ni cobro.
-- **2023 · C3:** [[12_Militar/03_Armada/Exportaciones A099 A101/EXP-2023-CHL-01|EXP-2023-CHL-01]], Chile, Sostenimiento y digitalización de flota. La firma no prueba entrega ni cobro.
-- **2025 · C3:** [[12_Militar/03_Armada/Exportaciones A099 A101/EXP-2025-IND-01|EXP-2025-IND-01]], India, Integración de sensores y formación. La firma no prueba entrega ni cobro.
+- **1887 · C3:** [[12_Militar/03_Armada/Exportaciones navales A099 A101#EXP-1887-CHL-01|EXP-1887-CHL-01]], Chile, Mantenimiento naval y formación técnica. La firma no prueba entrega ni cobro.
+- **1896 · C3:** [[12_Militar/03_Armada/Exportaciones navales A099 A101#EXP-1896-PRT-01|EXP-1896-PRT-01]], Portugal, Lanchas torpederas costeras. La firma no prueba entrega ni cobro.
+- **1908 · C3:** [[12_Militar/03_Armada/Exportaciones navales A099 A101#EXP-1908-CHL-01|EXP-1908-CHL-01]], Chile, Dirección óptica de tiro y repuestos. La firma no prueba entrega ni cobro.
+- **1913 · C3:** [[12_Militar/03_Armada/Exportaciones navales A099 A101#EXP-1913-BRA-01|EXP-1913-BRA-01]], Brasil, Reacondicionamiento de destructores. La firma no prueba entrega ni cobro.
+- **1927 · C3:** [[12_Militar/03_Armada/Exportaciones navales A099 A101#EXP-1927-CHL-01|EXP-1927-CHL-01]], Chile, Taller de torpedos y capacitación. La firma no prueba entrega ni cobro.
+- **1934 · C3:** [[12_Militar/03_Armada/Exportaciones navales A099 A101#EXP-1934-PRT-01|EXP-1934-PRT-01]], Portugal, Torpedos T-24 Falathar. La firma no prueba entrega ni cobro.
+- **1948 · C3:** [[12_Militar/03_Armada/Exportaciones navales A099 A101#EXP-1948-NZL-01|EXP-1948-NZL-01]], Nueva Zelanda, Radar naval y capacitación. La firma no prueba entrega ni cobro.
+- **1956 · C3:** [[12_Militar/03_Armada/Exportaciones navales A099 A101#EXP-1956-CHL-01|EXP-1956-CHL-01]], Chile, Modernización de sensores de escoltas. La firma no prueba entrega ni cobro.
+- **1966 · C3:** [[12_Militar/03_Armada/Exportaciones navales A099 A101#EXP-1966-PER-01|EXP-1966-PER-01]], Perú, Torpedos T-61 Ossë. La firma no prueba entrega ni cobro.
+- **1968 · C3:** [[12_Militar/03_Armada/Exportaciones navales A099 A101#EXP-1968-PRT-01|EXP-1968-PRT-01]], Portugal, Radares y sistema de dirección de tiro. La firma no prueba entrega ni cobro.
+- **1974 · C3:** [[12_Militar/03_Armada/Exportaciones navales A099 A101#EXP-1974-CHL-01|EXP-1974-CHL-01]], Chile, Lanchas misileras y soporte, Falmar-II separado. La firma no prueba entrega ni cobro.
+- **1975 · C3:** [[12_Militar/03_Armada/Exportaciones navales A099 A101#EXP-1975-CHL-02|EXP-1975-CHL-02]], Chile, Falmar-II para paquete de lanchas. La firma no prueba entrega ni cobro.
+- **1978 · C3:** [[12_Militar/03_Armada/Exportaciones navales A099 A101#EXP-1978-IDN-01|EXP-1978-IDN-01]], Indonesia, Corbetas de exportación (no Calenport de inventario). La firma no prueba entrega ni cobro.
+- **1983 · C3:** [[12_Militar/03_Armada/Exportaciones navales A099 A101#EXP-1983-PER-01|EXP-1983-PER-01]], Perú, Falmar-III de exportación. La firma no prueba entrega ni cobro.
+- **1986 · C3:** [[12_Militar/03_Armada/Exportaciones navales A099 A101#EXP-1986-CHL-01|EXP-1986-CHL-01]], Chile, Modernización de escoltas y CMS. La firma no prueba entrega ni cobro.
+- **1988 · C3:** [[12_Militar/03_Armada/Exportaciones navales A099 A101#EXP-1988-ZAF-01|EXP-1988-ZAF-01]], Sudáfrica, Estudio comercial sin entrega, sujeto a restricciones. Estudio sin suministro ni exportación.
+- **1993 · C3:** [[12_Militar/03_Armada/Exportaciones navales A099 A101#EXP-1993-BRA-01|EXP-1993-BRA-01]], Brasil, CMS y sensores para corbetas nacionales. La firma no prueba entrega ni cobro.
+- **1998 · C3:** [[12_Militar/03_Armada/Exportaciones navales A099 A101#EXP-1998-IND-01|EXP-1998-IND-01]], India, Licencia de Falmar-IV, fabricación extranjera. La firma no prueba entrega ni cobro.
+- **2001 · C3:** [[12_Militar/03_Armada/Exportaciones navales A099 A101#EXP-2001-CHL-01|EXP-2001-CHL-01]], Chile, Refit de fragatas y sostenimiento. La firma no prueba entrega ni cobro.
+- **2004 · C3:** [[12_Militar/03_Armada/Exportaciones navales A099 A101#EXP-2004-PHL-01|EXP-2004-PHL-01]], Filipinas, OPV de exportación, sin misil estándar. La firma no prueba entrega ni cobro.
+- **2009 · C3:** [[12_Militar/03_Armada/Exportaciones navales A099 A101#EXP-2009-PRT-01|EXP-2009-PRT-01]], Portugal, Falmar-V y apoyo logístico. La firma no prueba entrega ni cobro.
+- **2012 · C3:** [[12_Militar/03_Armada/Exportaciones navales A099 A101#EXP-2012-IDN-01|EXP-2012-IDN-01]], Indonesia, Modernización de 2 corbetas y radares. La firma no prueba entrega ni cobro.
+- **2015 · C3:** [[12_Militar/03_Armada/Exportaciones navales A099 A101#EXP-2015-CHL-01|EXP-2015-CHL-01]], Chile, Sensores, CMS y soporte multianual. La firma no prueba entrega ni cobro.
+- **2018 · C3:** [[12_Militar/03_Armada/Exportaciones navales A099 A101#EXP-2018-NZL-01|EXP-2018-NZL-01]], Nueva Zelanda, Vigilancia costera y enlaces no protegidos. La firma no prueba entrega ni cobro.
+- **2021 · C3:** [[12_Militar/03_Armada/Exportaciones navales A099 A101#EXP-2021-PHL-01|EXP-2021-PHL-01]], Filipinas, Falmar-V de exportación. La firma no prueba entrega ni cobro.
+- **2023 · C3:** [[12_Militar/03_Armada/Exportaciones navales A099 A101#EXP-2023-CHL-01|EXP-2023-CHL-01]], Chile, Sostenimiento y digitalización de flota. La firma no prueba entrega ni cobro.
+- **2025 · C3:** [[12_Militar/03_Armada/Exportaciones navales A099 A101#EXP-2025-IND-01|EXP-2025-IND-01]], India, Integración de sensores y formación. La firma no prueba entrega ni cobro.
 
 ### Hitos de ejecución E1 por año
 
-- **1888 · E1:** [[12_Militar/03_Armada/Exportaciones A099 A101/EXP-1887-CHL-01|EXP-1887-CHL-01]], Chile: aceptacion hito, 1 hitos. ID editorial A101-EXP-1887-CHL-01-H01.
-- **1889 · E1:** [[12_Militar/03_Armada/Exportaciones A099 A101/EXP-1887-CHL-01|EXP-1887-CHL-01]], Chile: aceptacion hito, 1 hitos. ID editorial A101-EXP-1887-CHL-01-H02.
-- **1891 · E1:** [[12_Militar/03_Armada/Exportaciones A099 A101/EXP-1887-CHL-01|EXP-1887-CHL-01]], Chile: aceptacion hito, 1 hitos. ID editorial A101-EXP-1887-CHL-01-H03.
-- **1892 · E1:** [[12_Militar/03_Armada/Exportaciones A099 A101/EXP-1887-CHL-01|EXP-1887-CHL-01]], Chile: aceptacion hito, 1 hitos. ID editorial A101-EXP-1887-CHL-01-H04.
-- **1898 · E1:** [[12_Militar/03_Armada/Exportaciones A099 A101/EXP-1896-PRT-01|EXP-1896-PRT-01]], Portugal: aceptacion bien, 1 cascos nuevos. ID editorial A101-EXP-1896-PRT-01-H01.
-- **1899 · E1:** [[12_Militar/03_Armada/Exportaciones A099 A101/EXP-1896-PRT-01|EXP-1896-PRT-01]], Portugal: aceptacion bien, 1 cascos nuevos. ID editorial A101-EXP-1896-PRT-01-H02.
-- **1910 · E1:** [[12_Militar/03_Armada/Exportaciones A099 A101/EXP-1908-CHL-01|EXP-1908-CHL-01]], Chile: aceptacion servicio, 1 lote óptica y repuestos. ID editorial A101-EXP-1908-CHL-01-H01.
-- **1912 · E1:** [[12_Militar/03_Armada/Exportaciones A099 A101/EXP-1908-CHL-01|EXP-1908-CHL-01]], Chile: cierre tecnico, sin cantidad de bienes fijada. ID editorial A101-EXP-1908-CHL-01-H02.
-- **1915 · E1:** [[12_Militar/03_Armada/Exportaciones A099 A101/EXP-1913-BRA-01|EXP-1913-BRA-01]], Brasil: aceptacion servicio, 1 intervenciones sobre cascos. ID editorial A101-EXP-1913-BRA-01-H01.
-- **1916 · E1:** [[12_Militar/03_Armada/Exportaciones A099 A101/EXP-1913-BRA-01|EXP-1913-BRA-01]], Brasil: aceptacion servicio, 1 intervenciones sobre cascos. ID editorial A101-EXP-1913-BRA-01-H02.
-- **1930 · E1:** [[12_Militar/03_Armada/Exportaciones A099 A101/EXP-1927-CHL-01|EXP-1927-CHL-01]], Chile: aceptacion servicio, 1 instalación. ID editorial A101-EXP-1927-CHL-01-H01.
-- **1931 · E1:** [[12_Militar/03_Armada/Exportaciones A099 A101/EXP-1927-CHL-01|EXP-1927-CHL-01]], Chile: cierre formacion, sin cantidad de bienes fijada. ID editorial A101-EXP-1927-CHL-01-H02.
-- **1935 · E1:** [[12_Militar/03_Armada/Exportaciones A099 A101/EXP-1934-PRT-01|EXP-1934-PRT-01]], Portugal: aceptacion bien, 12 torpedos. ID editorial A101-EXP-1934-PRT-01-H01.
-- **1936 · E1:** [[12_Militar/03_Armada/Exportaciones A099 A101/EXP-1934-PRT-01|EXP-1934-PRT-01]], Portugal: aceptacion bien, 12 torpedos. ID editorial A101-EXP-1934-PRT-01-H02.
-- **1937 · E1:** [[12_Militar/03_Armada/Exportaciones A099 A101/EXP-1934-PRT-01|EXP-1934-PRT-01]], Portugal: aceptacion bien, 12 torpedos. ID editorial A101-EXP-1934-PRT-01-H03.
-- **1950 · E1:** [[12_Militar/03_Armada/Exportaciones A099 A101/EXP-1948-NZL-01|EXP-1948-NZL-01]], Nueva Zelanda: aceptacion bien, 2 radares. ID editorial A101-EXP-1948-NZL-01-H01.
-- **1951 · E1:** [[12_Militar/03_Armada/Exportaciones A099 A101/EXP-1948-NZL-01|EXP-1948-NZL-01]], Nueva Zelanda: aceptacion bien, 2 radares. ID editorial A101-EXP-1948-NZL-01-H02.
-- **1952 · E1:** [[12_Militar/03_Armada/Exportaciones A099 A101/EXP-1948-NZL-01|EXP-1948-NZL-01]], Nueva Zelanda: cierre formacion, sin cantidad de bienes fijada. ID editorial A101-EXP-1948-NZL-01-H03.
-- **1958 · E1:** [[12_Militar/03_Armada/Exportaciones A099 A101/EXP-1956-CHL-01|EXP-1956-CHL-01]], Chile: aceptacion servicio, 1 intervenciones sobre cascos. ID editorial A101-EXP-1956-CHL-01-H01.
-- **1959 · E1:** [[12_Militar/03_Armada/Exportaciones A099 A101/EXP-1956-CHL-01|EXP-1956-CHL-01]], Chile: aceptacion servicio, 1 intervenciones sobre cascos. ID editorial A101-EXP-1956-CHL-01-H02.
-- **1960 · E1:** [[12_Militar/03_Armada/Exportaciones A099 A101/EXP-1956-CHL-01|EXP-1956-CHL-01]], Chile: aceptacion servicio, 1 intervenciones sobre cascos. ID editorial A101-EXP-1956-CHL-01-H03.
-- **1968 · E1:** [[12_Militar/03_Armada/Exportaciones A099 A101/EXP-1966-PER-01|EXP-1966-PER-01]], Perú: aceptacion bien, 16 torpedos. ID editorial A101-EXP-1966-PER-01-H01.
-- **1969 · E1:** [[12_Militar/03_Armada/Exportaciones A099 A101/EXP-1966-PER-01|EXP-1966-PER-01]], Perú: aceptacion bien, 16 torpedos. ID editorial A101-EXP-1966-PER-01-H02.
-- **1970 · E1:** [[12_Militar/03_Armada/Exportaciones A099 A101/EXP-1966-PER-01|EXP-1966-PER-01]], Perú: aceptacion bien, 16 torpedos. ID editorial A101-EXP-1966-PER-01-H03.
-- **1970 · E1:** [[12_Militar/03_Armada/Exportaciones A099 A101/EXP-1968-PRT-01|EXP-1968-PRT-01]], Portugal: aceptacion bien, 2 sistemas. ID editorial A101-EXP-1968-PRT-01-H01.
-- **1972 · E1:** [[12_Militar/03_Armada/Exportaciones A099 A101/EXP-1968-PRT-01|EXP-1968-PRT-01]], Portugal: aceptacion bien, 2 sistemas. ID editorial A101-EXP-1968-PRT-01-H02.
-- **1976 · E1:** [[12_Militar/03_Armada/Exportaciones A099 A101/EXP-1974-CHL-01|EXP-1974-CHL-01]], Chile: aceptacion bien, 1 cascos nuevos. ID editorial A101-EXP-1974-CHL-01-H01.
-- **1977 · E1:** [[12_Militar/03_Armada/Exportaciones A099 A101/EXP-1974-CHL-01|EXP-1974-CHL-01]], Chile: aceptacion bien, 1 cascos nuevos. ID editorial A101-EXP-1974-CHL-01-H02.
-- **1977 · E1:** [[12_Militar/03_Armada/Exportaciones A099 A101/EXP-1975-CHL-02|EXP-1975-CHL-02]], Chile: aceptacion bien, 8 misiles. ID editorial A101-EXP-1975-CHL-02-H01.
-- **1978 · E1:** [[12_Militar/03_Armada/Exportaciones A099 A101/EXP-1974-CHL-01|EXP-1974-CHL-01]], Chile: aceptacion bien, 1 cascos nuevos. ID editorial A101-EXP-1974-CHL-01-H03.
-- **1978 · E1:** [[12_Militar/03_Armada/Exportaciones A099 A101/EXP-1975-CHL-02|EXP-1975-CHL-02]], Chile: aceptacion bien, 8 misiles. ID editorial A101-EXP-1975-CHL-02-H02.
-- **1979 · E1:** [[12_Militar/03_Armada/Exportaciones A099 A101/EXP-1974-CHL-01|EXP-1974-CHL-01]], Chile: aceptacion bien, 1 cascos nuevos. ID editorial A101-EXP-1974-CHL-01-H04.
-- **1979 · E1:** [[12_Militar/03_Armada/Exportaciones A099 A101/EXP-1975-CHL-02|EXP-1975-CHL-02]], Chile: aceptacion bien, 8 misiles. ID editorial A101-EXP-1975-CHL-02-H03.
-- **1980 · E1:** [[12_Militar/03_Armada/Exportaciones A099 A101/EXP-1975-CHL-02|EXP-1975-CHL-02]], Chile: aceptacion bien, 8 misiles. ID editorial A101-EXP-1975-CHL-02-H04.
-- **1982 · E1:** [[12_Militar/03_Armada/Exportaciones A099 A101/EXP-1978-IDN-01|EXP-1978-IDN-01]], Indonesia: aceptacion bien, 1 cascos nuevos. ID editorial A101-EXP-1978-IDN-01-H01.
-- **1984 · E1:** [[12_Militar/03_Armada/Exportaciones A099 A101/EXP-1978-IDN-01|EXP-1978-IDN-01]], Indonesia: aceptacion bien, 1 cascos nuevos. ID editorial A101-EXP-1978-IDN-01-H02.
-- **1985 · E1:** [[12_Militar/03_Armada/Exportaciones A099 A101/EXP-1983-PER-01|EXP-1983-PER-01]], Perú: aceptacion bien, 10 misiles. ID editorial A101-EXP-1983-PER-01-H01.
-- **1986 · E1:** [[12_Militar/03_Armada/Exportaciones A099 A101/EXP-1983-PER-01|EXP-1983-PER-01]], Perú: aceptacion bien, 10 misiles. ID editorial A101-EXP-1983-PER-01-H02.
-- **1987 · E1:** [[12_Militar/03_Armada/Exportaciones A099 A101/EXP-1983-PER-01|EXP-1983-PER-01]], Perú: aceptacion bien, 10 misiles. ID editorial A101-EXP-1983-PER-01-H03.
-- **1988 · E1:** [[12_Militar/03_Armada/Exportaciones A099 A101/EXP-1983-PER-01|EXP-1983-PER-01]], Perú: aceptacion bien, 10 misiles. ID editorial A101-EXP-1983-PER-01-H04.
-- **1989 · E1:** [[12_Militar/03_Armada/Exportaciones A099 A101/EXP-1986-CHL-01|EXP-1986-CHL-01]], Chile: aceptacion servicio, 1 intervenciones sobre cascos. ID editorial A101-EXP-1986-CHL-01-H01.
-- **1991 · E1:** [[12_Militar/03_Armada/Exportaciones A099 A101/EXP-1986-CHL-01|EXP-1986-CHL-01]], Chile: aceptacion servicio, 1 intervenciones sobre cascos. ID editorial A101-EXP-1986-CHL-01-H02.
-- **1996 · E1:** [[12_Militar/03_Armada/Exportaciones A099 A101/EXP-1993-BRA-01|EXP-1993-BRA-01]], Brasil: aceptacion bien, 1 sistemas CMS. ID editorial A101-EXP-1993-BRA-01-H01.
-- **1997 · E1:** [[12_Militar/03_Armada/Exportaciones A099 A101/EXP-1993-BRA-01|EXP-1993-BRA-01]], Brasil: aceptacion bien, 1 sistemas CMS. ID editorial A101-EXP-1993-BRA-01-H02.
-- **1999 · E1:** [[12_Militar/03_Armada/Exportaciones A099 A101/EXP-1993-BRA-01|EXP-1993-BRA-01]], Brasil: aceptacion bien, 2 sistemas CMS. ID editorial A101-EXP-1993-BRA-01-H03.
-- **2001 · E1:** [[12_Militar/03_Armada/Exportaciones A099 A101/EXP-1998-IND-01|EXP-1998-IND-01]], India: transferencia documental, sin cantidad de bienes fijada. ID editorial A101-EXP-1998-IND-01-H01.
-- **2003 · E1:** [[12_Militar/03_Armada/Exportaciones A099 A101/EXP-1998-IND-01|EXP-1998-IND-01]], India: fabricacion extranjera, 20 misiles bajo licencia. ID editorial A101-EXP-1998-IND-01-H02.
-- **2004 · E1:** [[12_Militar/03_Armada/Exportaciones A099 A101/EXP-1998-IND-01|EXP-1998-IND-01]], India: fabricacion extranjera, 30 misiles bajo licencia. ID editorial A101-EXP-1998-IND-01-H03.
-- **2004 · E1:** [[12_Militar/03_Armada/Exportaciones A099 A101/EXP-2001-CHL-01|EXP-2001-CHL-01]], Chile: aceptacion servicio, 1 intervenciones sobre cascos. ID editorial A101-EXP-2001-CHL-01-H01.
-- **2005 · E1:** [[12_Militar/03_Armada/Exportaciones A099 A101/EXP-2001-CHL-01|EXP-2001-CHL-01]], Chile: aceptacion servicio, 1 intervenciones sobre cascos. ID editorial A101-EXP-2001-CHL-01-H02.
-- **2006 · E1:** [[12_Militar/03_Armada/Exportaciones A099 A101/EXP-1998-IND-01|EXP-1998-IND-01]], India: fabricacion extranjera, 30 misiles bajo licencia. ID editorial A101-EXP-1998-IND-01-H04.
-- **2007 · E1:** [[12_Militar/03_Armada/Exportaciones A099 A101/EXP-2001-CHL-01|EXP-2001-CHL-01]], Chile: aceptacion servicio, 1 intervenciones sobre cascos. ID editorial A101-EXP-2001-CHL-01-H03.
-- **2007 · E1:** [[12_Militar/03_Armada/Exportaciones A099 A101/EXP-2004-PHL-01|EXP-2004-PHL-01]], Filipinas: aceptacion bien, 1 cascos nuevos. ID editorial A101-EXP-2004-PHL-01-H01.
-- **2008 · E1:** [[12_Militar/03_Armada/Exportaciones A099 A101/EXP-1998-IND-01|EXP-1998-IND-01]], India: fabricacion extranjera, 40 misiles bajo licencia. ID editorial A101-EXP-1998-IND-01-H05.
-- **2008 · E1:** [[12_Militar/03_Armada/Exportaciones A099 A101/EXP-2004-PHL-01|EXP-2004-PHL-01]], Filipinas: aceptacion bien, 1 cascos nuevos. ID editorial A101-EXP-2004-PHL-01-H02.
-- **2010 · E1:** [[12_Militar/03_Armada/Exportaciones A099 A101/EXP-2004-PHL-01|EXP-2004-PHL-01]], Filipinas: aceptacion bien, 1 cascos nuevos. ID editorial A101-EXP-2004-PHL-01-H03.
-- **2011 · E1:** [[12_Militar/03_Armada/Exportaciones A099 A101/EXP-2009-PRT-01|EXP-2009-PRT-01]], Portugal: aceptacion bien, 12 misiles. ID editorial A101-EXP-2009-PRT-01-H01.
-- **2012 · E1:** [[12_Militar/03_Armada/Exportaciones A099 A101/EXP-2009-PRT-01|EXP-2009-PRT-01]], Portugal: aceptacion bien, 12 misiles. ID editorial A101-EXP-2009-PRT-01-H02.
-- **2014 · E1:** [[12_Militar/03_Armada/Exportaciones A099 A101/EXP-2009-PRT-01|EXP-2009-PRT-01]], Portugal: aceptacion bien, 12 misiles. ID editorial A101-EXP-2009-PRT-01-H03.
-- **2015 · E1:** [[12_Militar/03_Armada/Exportaciones A099 A101/EXP-2012-IDN-01|EXP-2012-IDN-01]], Indonesia: aceptacion servicio, 1 intervenciones sobre cascos. ID editorial A101-EXP-2012-IDN-01-H01.
-- **2017 · E1:** [[12_Militar/03_Armada/Exportaciones A099 A101/EXP-2012-IDN-01|EXP-2012-IDN-01]], Indonesia: aceptacion servicio, 1 intervenciones sobre cascos. ID editorial A101-EXP-2012-IDN-01-H02.
-- **2017 · E1:** [[12_Militar/03_Armada/Exportaciones A099 A101/EXP-2015-CHL-01|EXP-2015-CHL-01]], Chile: aceptacion bien, 1 sistemas. ID editorial A101-EXP-2015-CHL-01-H01.
-- **2019 · E1:** [[12_Militar/03_Armada/Exportaciones A099 A101/EXP-2015-CHL-01|EXP-2015-CHL-01]], Chile: aceptacion bien, 1 sistemas. ID editorial A101-EXP-2015-CHL-01-H02.
-- **2021 · E1:** [[12_Militar/03_Armada/Exportaciones A099 A101/EXP-2015-CHL-01|EXP-2015-CHL-01]], Chile: aceptacion bien, 1 sistemas. ID editorial A101-EXP-2015-CHL-01-H03.
-- **2021 · E1:** [[12_Militar/03_Armada/Exportaciones A099 A101/EXP-2018-NZL-01|EXP-2018-NZL-01]], Nueva Zelanda: aceptacion fase, sin cantidad de bienes fijada. ID editorial A101-EXP-2018-NZL-01-H01.
-- **2022 · E1:** [[12_Militar/03_Armada/Exportaciones A099 A101/EXP-2018-NZL-01|EXP-2018-NZL-01]], Nueva Zelanda: aceptacion fase, sin cantidad de bienes fijada. ID editorial A101-EXP-2018-NZL-01-H02.
-- **2023 · E1:** [[12_Militar/03_Armada/Exportaciones A099 A101/EXP-2015-CHL-01|EXP-2015-CHL-01]], Chile: aceptacion bien, 1 sistemas. ID editorial A101-EXP-2015-CHL-01-H04.
-- **2024 · E1:** [[12_Militar/03_Armada/Exportaciones A099 A101/EXP-2018-NZL-01|EXP-2018-NZL-01]], Nueva Zelanda: aceptacion fase, sin cantidad de bienes fijada. ID editorial A101-EXP-2018-NZL-01-H03.
-- **2024 · E1:** [[12_Militar/03_Armada/Exportaciones A099 A101/EXP-2021-PHL-01|EXP-2021-PHL-01]], Filipinas: aceptacion bien, 8 misiles. ID editorial A101-EXP-2021-PHL-01-H01.
-- **2025 · E1:** [[12_Militar/03_Armada/Exportaciones A099 A101/EXP-2021-PHL-01|EXP-2021-PHL-01]], Filipinas: aceptacion bien, 8 misiles. ID editorial A101-EXP-2021-PHL-01-H02.
-- **2025 · E1:** [[12_Militar/03_Armada/Exportaciones A099 A101/EXP-2023-CHL-01|EXP-2023-CHL-01]], Chile: aceptacion hito, 1 hitos. ID editorial A101-EXP-2023-CHL-01-H01.
-- **2026 · E1:** [[12_Militar/03_Armada/Exportaciones A099 A101/EXP-2021-PHL-01|EXP-2021-PHL-01]], Filipinas: aceptacion bien, 8 misiles. ID editorial A101-EXP-2021-PHL-01-H03.
-- **2026 · E1:** [[12_Militar/03_Armada/Exportaciones A099 A101/EXP-2023-CHL-01|EXP-2023-CHL-01]], Chile: aceptacion hito, 1 hitos. ID editorial A101-EXP-2023-CHL-01-H02.
-- **2026 · E1:** [[12_Militar/03_Armada/Exportaciones A099 A101/EXP-2025-IND-01|EXP-2025-IND-01]], India: actividad inicial, sin cantidad de bienes fijada. ID editorial A101-EXP-2025-IND-01-H01.
+- **1888 · E1:** [[12_Militar/03_Armada/Exportaciones navales A099 A101#EXP-1887-CHL-01|EXP-1887-CHL-01]], Chile: aceptacion hito, 1 hitos. ID editorial A101-EXP-1887-CHL-01-H01.
+- **1889 · E1:** [[12_Militar/03_Armada/Exportaciones navales A099 A101#EXP-1887-CHL-01|EXP-1887-CHL-01]], Chile: aceptacion hito, 1 hitos. ID editorial A101-EXP-1887-CHL-01-H02.
+- **1891 · E1:** [[12_Militar/03_Armada/Exportaciones navales A099 A101#EXP-1887-CHL-01|EXP-1887-CHL-01]], Chile: aceptacion hito, 1 hitos. ID editorial A101-EXP-1887-CHL-01-H03.
+- **1892 · E1:** [[12_Militar/03_Armada/Exportaciones navales A099 A101#EXP-1887-CHL-01|EXP-1887-CHL-01]], Chile: aceptacion hito, 1 hitos. ID editorial A101-EXP-1887-CHL-01-H04.
+- **1898 · E1:** [[12_Militar/03_Armada/Exportaciones navales A099 A101#EXP-1896-PRT-01|EXP-1896-PRT-01]], Portugal: aceptacion bien, 1 cascos nuevos. ID editorial A101-EXP-1896-PRT-01-H01.
+- **1899 · E1:** [[12_Militar/03_Armada/Exportaciones navales A099 A101#EXP-1896-PRT-01|EXP-1896-PRT-01]], Portugal: aceptacion bien, 1 cascos nuevos. ID editorial A101-EXP-1896-PRT-01-H02.
+- **1910 · E1:** [[12_Militar/03_Armada/Exportaciones navales A099 A101#EXP-1908-CHL-01|EXP-1908-CHL-01]], Chile: aceptacion servicio, 1 lote óptica y repuestos. ID editorial A101-EXP-1908-CHL-01-H01.
+- **1912 · E1:** [[12_Militar/03_Armada/Exportaciones navales A099 A101#EXP-1908-CHL-01|EXP-1908-CHL-01]], Chile: cierre tecnico, sin cantidad de bienes fijada. ID editorial A101-EXP-1908-CHL-01-H02.
+- **1915 · E1:** [[12_Militar/03_Armada/Exportaciones navales A099 A101#EXP-1913-BRA-01|EXP-1913-BRA-01]], Brasil: aceptacion servicio, 1 intervenciones sobre cascos. ID editorial A101-EXP-1913-BRA-01-H01.
+- **1916 · E1:** [[12_Militar/03_Armada/Exportaciones navales A099 A101#EXP-1913-BRA-01|EXP-1913-BRA-01]], Brasil: aceptacion servicio, 1 intervenciones sobre cascos. ID editorial A101-EXP-1913-BRA-01-H02.
+- **1930 · E1:** [[12_Militar/03_Armada/Exportaciones navales A099 A101#EXP-1927-CHL-01|EXP-1927-CHL-01]], Chile: aceptacion servicio, 1 instalación. ID editorial A101-EXP-1927-CHL-01-H01.
+- **1931 · E1:** [[12_Militar/03_Armada/Exportaciones navales A099 A101#EXP-1927-CHL-01|EXP-1927-CHL-01]], Chile: cierre formacion, sin cantidad de bienes fijada. ID editorial A101-EXP-1927-CHL-01-H02.
+- **1935 · E1:** [[12_Militar/03_Armada/Exportaciones navales A099 A101#EXP-1934-PRT-01|EXP-1934-PRT-01]], Portugal: aceptacion bien, 12 torpedos. ID editorial A101-EXP-1934-PRT-01-H01.
+- **1936 · E1:** [[12_Militar/03_Armada/Exportaciones navales A099 A101#EXP-1934-PRT-01|EXP-1934-PRT-01]], Portugal: aceptacion bien, 12 torpedos. ID editorial A101-EXP-1934-PRT-01-H02.
+- **1937 · E1:** [[12_Militar/03_Armada/Exportaciones navales A099 A101#EXP-1934-PRT-01|EXP-1934-PRT-01]], Portugal: aceptacion bien, 12 torpedos. ID editorial A101-EXP-1934-PRT-01-H03.
+- **1950 · E1:** [[12_Militar/03_Armada/Exportaciones navales A099 A101#EXP-1948-NZL-01|EXP-1948-NZL-01]], Nueva Zelanda: aceptacion bien, 2 radares. ID editorial A101-EXP-1948-NZL-01-H01.
+- **1951 · E1:** [[12_Militar/03_Armada/Exportaciones navales A099 A101#EXP-1948-NZL-01|EXP-1948-NZL-01]], Nueva Zelanda: aceptacion bien, 2 radares. ID editorial A101-EXP-1948-NZL-01-H02.
+- **1952 · E1:** [[12_Militar/03_Armada/Exportaciones navales A099 A101#EXP-1948-NZL-01|EXP-1948-NZL-01]], Nueva Zelanda: cierre formacion, sin cantidad de bienes fijada. ID editorial A101-EXP-1948-NZL-01-H03.
+- **1958 · E1:** [[12_Militar/03_Armada/Exportaciones navales A099 A101#EXP-1956-CHL-01|EXP-1956-CHL-01]], Chile: aceptacion servicio, 1 intervenciones sobre cascos. ID editorial A101-EXP-1956-CHL-01-H01.
+- **1959 · E1:** [[12_Militar/03_Armada/Exportaciones navales A099 A101#EXP-1956-CHL-01|EXP-1956-CHL-01]], Chile: aceptacion servicio, 1 intervenciones sobre cascos. ID editorial A101-EXP-1956-CHL-01-H02.
+- **1960 · E1:** [[12_Militar/03_Armada/Exportaciones navales A099 A101#EXP-1956-CHL-01|EXP-1956-CHL-01]], Chile: aceptacion servicio, 1 intervenciones sobre cascos. ID editorial A101-EXP-1956-CHL-01-H03.
+- **1968 · E1:** [[12_Militar/03_Armada/Exportaciones navales A099 A101#EXP-1966-PER-01|EXP-1966-PER-01]], Perú: aceptacion bien, 16 torpedos. ID editorial A101-EXP-1966-PER-01-H01.
+- **1969 · E1:** [[12_Militar/03_Armada/Exportaciones navales A099 A101#EXP-1966-PER-01|EXP-1966-PER-01]], Perú: aceptacion bien, 16 torpedos. ID editorial A101-EXP-1966-PER-01-H02.
+- **1970 · E1:** [[12_Militar/03_Armada/Exportaciones navales A099 A101#EXP-1966-PER-01|EXP-1966-PER-01]], Perú: aceptacion bien, 16 torpedos. ID editorial A101-EXP-1966-PER-01-H03.
+- **1970 · E1:** [[12_Militar/03_Armada/Exportaciones navales A099 A101#EXP-1968-PRT-01|EXP-1968-PRT-01]], Portugal: aceptacion bien, 2 sistemas. ID editorial A101-EXP-1968-PRT-01-H01.
+- **1972 · E1:** [[12_Militar/03_Armada/Exportaciones navales A099 A101#EXP-1968-PRT-01|EXP-1968-PRT-01]], Portugal: aceptacion bien, 2 sistemas. ID editorial A101-EXP-1968-PRT-01-H02.
+- **1976 · E1:** [[12_Militar/03_Armada/Exportaciones navales A099 A101#EXP-1974-CHL-01|EXP-1974-CHL-01]], Chile: aceptacion bien, 1 cascos nuevos. ID editorial A101-EXP-1974-CHL-01-H01.
+- **1977 · E1:** [[12_Militar/03_Armada/Exportaciones navales A099 A101#EXP-1974-CHL-01|EXP-1974-CHL-01]], Chile: aceptacion bien, 1 cascos nuevos. ID editorial A101-EXP-1974-CHL-01-H02.
+- **1977 · E1:** [[12_Militar/03_Armada/Exportaciones navales A099 A101#EXP-1975-CHL-02|EXP-1975-CHL-02]], Chile: aceptacion bien, 8 misiles. ID editorial A101-EXP-1975-CHL-02-H01.
+- **1978 · E1:** [[12_Militar/03_Armada/Exportaciones navales A099 A101#EXP-1974-CHL-01|EXP-1974-CHL-01]], Chile: aceptacion bien, 1 cascos nuevos. ID editorial A101-EXP-1974-CHL-01-H03.
+- **1978 · E1:** [[12_Militar/03_Armada/Exportaciones navales A099 A101#EXP-1975-CHL-02|EXP-1975-CHL-02]], Chile: aceptacion bien, 8 misiles. ID editorial A101-EXP-1975-CHL-02-H02.
+- **1979 · E1:** [[12_Militar/03_Armada/Exportaciones navales A099 A101#EXP-1974-CHL-01|EXP-1974-CHL-01]], Chile: aceptacion bien, 1 cascos nuevos. ID editorial A101-EXP-1974-CHL-01-H04.
+- **1979 · E1:** [[12_Militar/03_Armada/Exportaciones navales A099 A101#EXP-1975-CHL-02|EXP-1975-CHL-02]], Chile: aceptacion bien, 8 misiles. ID editorial A101-EXP-1975-CHL-02-H03.
+- **1980 · E1:** [[12_Militar/03_Armada/Exportaciones navales A099 A101#EXP-1975-CHL-02|EXP-1975-CHL-02]], Chile: aceptacion bien, 8 misiles. ID editorial A101-EXP-1975-CHL-02-H04.
+- **1982 · E1:** [[12_Militar/03_Armada/Exportaciones navales A099 A101#EXP-1978-IDN-01|EXP-1978-IDN-01]], Indonesia: aceptacion bien, 1 cascos nuevos. ID editorial A101-EXP-1978-IDN-01-H01.
+- **1984 · E1:** [[12_Militar/03_Armada/Exportaciones navales A099 A101#EXP-1978-IDN-01|EXP-1978-IDN-01]], Indonesia: aceptacion bien, 1 cascos nuevos. ID editorial A101-EXP-1978-IDN-01-H02.
+- **1985 · E1:** [[12_Militar/03_Armada/Exportaciones navales A099 A101#EXP-1983-PER-01|EXP-1983-PER-01]], Perú: aceptacion bien, 10 misiles. ID editorial A101-EXP-1983-PER-01-H01.
+- **1986 · E1:** [[12_Militar/03_Armada/Exportaciones navales A099 A101#EXP-1983-PER-01|EXP-1983-PER-01]], Perú: aceptacion bien, 10 misiles. ID editorial A101-EXP-1983-PER-01-H02.
+- **1987 · E1:** [[12_Militar/03_Armada/Exportaciones navales A099 A101#EXP-1983-PER-01|EXP-1983-PER-01]], Perú: aceptacion bien, 10 misiles. ID editorial A101-EXP-1983-PER-01-H03.
+- **1988 · E1:** [[12_Militar/03_Armada/Exportaciones navales A099 A101#EXP-1983-PER-01|EXP-1983-PER-01]], Perú: aceptacion bien, 10 misiles. ID editorial A101-EXP-1983-PER-01-H04.
+- **1989 · E1:** [[12_Militar/03_Armada/Exportaciones navales A099 A101#EXP-1986-CHL-01|EXP-1986-CHL-01]], Chile: aceptacion servicio, 1 intervenciones sobre cascos. ID editorial A101-EXP-1986-CHL-01-H01.
+- **1991 · E1:** [[12_Militar/03_Armada/Exportaciones navales A099 A101#EXP-1986-CHL-01|EXP-1986-CHL-01]], Chile: aceptacion servicio, 1 intervenciones sobre cascos. ID editorial A101-EXP-1986-CHL-01-H02.
+- **1996 · E1:** [[12_Militar/03_Armada/Exportaciones navales A099 A101#EXP-1993-BRA-01|EXP-1993-BRA-01]], Brasil: aceptacion bien, 1 sistemas CMS. ID editorial A101-EXP-1993-BRA-01-H01.
+- **1997 · E1:** [[12_Militar/03_Armada/Exportaciones navales A099 A101#EXP-1993-BRA-01|EXP-1993-BRA-01]], Brasil: aceptacion bien, 1 sistemas CMS. ID editorial A101-EXP-1993-BRA-01-H02.
+- **1999 · E1:** [[12_Militar/03_Armada/Exportaciones navales A099 A101#EXP-1993-BRA-01|EXP-1993-BRA-01]], Brasil: aceptacion bien, 2 sistemas CMS. ID editorial A101-EXP-1993-BRA-01-H03.
+- **2001 · E1:** [[12_Militar/03_Armada/Exportaciones navales A099 A101#EXP-1998-IND-01|EXP-1998-IND-01]], India: transferencia documental, sin cantidad de bienes fijada. ID editorial A101-EXP-1998-IND-01-H01.
+- **2003 · E1:** [[12_Militar/03_Armada/Exportaciones navales A099 A101#EXP-1998-IND-01|EXP-1998-IND-01]], India: fabricacion extranjera, 20 misiles bajo licencia. ID editorial A101-EXP-1998-IND-01-H02.
+- **2004 · E1:** [[12_Militar/03_Armada/Exportaciones navales A099 A101#EXP-1998-IND-01|EXP-1998-IND-01]], India: fabricacion extranjera, 30 misiles bajo licencia. ID editorial A101-EXP-1998-IND-01-H03.
+- **2004 · E1:** [[12_Militar/03_Armada/Exportaciones navales A099 A101#EXP-2001-CHL-01|EXP-2001-CHL-01]], Chile: aceptacion servicio, 1 intervenciones sobre cascos. ID editorial A101-EXP-2001-CHL-01-H01.
+- **2005 · E1:** [[12_Militar/03_Armada/Exportaciones navales A099 A101#EXP-2001-CHL-01|EXP-2001-CHL-01]], Chile: aceptacion servicio, 1 intervenciones sobre cascos. ID editorial A101-EXP-2001-CHL-01-H02.
+- **2006 · E1:** [[12_Militar/03_Armada/Exportaciones navales A099 A101#EXP-1998-IND-01|EXP-1998-IND-01]], India: fabricacion extranjera, 30 misiles bajo licencia. ID editorial A101-EXP-1998-IND-01-H04.
+- **2007 · E1:** [[12_Militar/03_Armada/Exportaciones navales A099 A101#EXP-2001-CHL-01|EXP-2001-CHL-01]], Chile: aceptacion servicio, 1 intervenciones sobre cascos. ID editorial A101-EXP-2001-CHL-01-H03.
+- **2007 · E1:** [[12_Militar/03_Armada/Exportaciones navales A099 A101#EXP-2004-PHL-01|EXP-2004-PHL-01]], Filipinas: aceptacion bien, 1 cascos nuevos. ID editorial A101-EXP-2004-PHL-01-H01.
+- **2008 · E1:** [[12_Militar/03_Armada/Exportaciones navales A099 A101#EXP-1998-IND-01|EXP-1998-IND-01]], India: fabricacion extranjera, 40 misiles bajo licencia. ID editorial A101-EXP-1998-IND-01-H05.
+- **2008 · E1:** [[12_Militar/03_Armada/Exportaciones navales A099 A101#EXP-2004-PHL-01|EXP-2004-PHL-01]], Filipinas: aceptacion bien, 1 cascos nuevos. ID editorial A101-EXP-2004-PHL-01-H02.
+- **2010 · E1:** [[12_Militar/03_Armada/Exportaciones navales A099 A101#EXP-2004-PHL-01|EXP-2004-PHL-01]], Filipinas: aceptacion bien, 1 cascos nuevos. ID editorial A101-EXP-2004-PHL-01-H03.
+- **2011 · E1:** [[12_Militar/03_Armada/Exportaciones navales A099 A101#EXP-2009-PRT-01|EXP-2009-PRT-01]], Portugal: aceptacion bien, 12 misiles. ID editorial A101-EXP-2009-PRT-01-H01.
+- **2012 · E1:** [[12_Militar/03_Armada/Exportaciones navales A099 A101#EXP-2009-PRT-01|EXP-2009-PRT-01]], Portugal: aceptacion bien, 12 misiles. ID editorial A101-EXP-2009-PRT-01-H02.
+- **2014 · E1:** [[12_Militar/03_Armada/Exportaciones navales A099 A101#EXP-2009-PRT-01|EXP-2009-PRT-01]], Portugal: aceptacion bien, 12 misiles. ID editorial A101-EXP-2009-PRT-01-H03.
+- **2015 · E1:** [[12_Militar/03_Armada/Exportaciones navales A099 A101#EXP-2012-IDN-01|EXP-2012-IDN-01]], Indonesia: aceptacion servicio, 1 intervenciones sobre cascos. ID editorial A101-EXP-2012-IDN-01-H01.
+- **2017 · E1:** [[12_Militar/03_Armada/Exportaciones navales A099 A101#EXP-2012-IDN-01|EXP-2012-IDN-01]], Indonesia: aceptacion servicio, 1 intervenciones sobre cascos. ID editorial A101-EXP-2012-IDN-01-H02.
+- **2017 · E1:** [[12_Militar/03_Armada/Exportaciones navales A099 A101#EXP-2015-CHL-01|EXP-2015-CHL-01]], Chile: aceptacion bien, 1 sistemas. ID editorial A101-EXP-2015-CHL-01-H01.
+- **2019 · E1:** [[12_Militar/03_Armada/Exportaciones navales A099 A101#EXP-2015-CHL-01|EXP-2015-CHL-01]], Chile: aceptacion bien, 1 sistemas. ID editorial A101-EXP-2015-CHL-01-H02.
+- **2021 · E1:** [[12_Militar/03_Armada/Exportaciones navales A099 A101#EXP-2015-CHL-01|EXP-2015-CHL-01]], Chile: aceptacion bien, 1 sistemas. ID editorial A101-EXP-2015-CHL-01-H03.
+- **2021 · E1:** [[12_Militar/03_Armada/Exportaciones navales A099 A101#EXP-2018-NZL-01|EXP-2018-NZL-01]], Nueva Zelanda: aceptacion fase, sin cantidad de bienes fijada. ID editorial A101-EXP-2018-NZL-01-H01.
+- **2022 · E1:** [[12_Militar/03_Armada/Exportaciones navales A099 A101#EXP-2018-NZL-01|EXP-2018-NZL-01]], Nueva Zelanda: aceptacion fase, sin cantidad de bienes fijada. ID editorial A101-EXP-2018-NZL-01-H02.
+- **2023 · E1:** [[12_Militar/03_Armada/Exportaciones navales A099 A101#EXP-2015-CHL-01|EXP-2015-CHL-01]], Chile: aceptacion bien, 1 sistemas. ID editorial A101-EXP-2015-CHL-01-H04.
+- **2024 · E1:** [[12_Militar/03_Armada/Exportaciones navales A099 A101#EXP-2018-NZL-01|EXP-2018-NZL-01]], Nueva Zelanda: aceptacion fase, sin cantidad de bienes fijada. ID editorial A101-EXP-2018-NZL-01-H03.
+- **2024 · E1:** [[12_Militar/03_Armada/Exportaciones navales A099 A101#EXP-2021-PHL-01|EXP-2021-PHL-01]], Filipinas: aceptacion bien, 8 misiles. ID editorial A101-EXP-2021-PHL-01-H01.
+- **2025 · E1:** [[12_Militar/03_Armada/Exportaciones navales A099 A101#EXP-2021-PHL-01|EXP-2021-PHL-01]], Filipinas: aceptacion bien, 8 misiles. ID editorial A101-EXP-2021-PHL-01-H02.
+- **2025 · E1:** [[12_Militar/03_Armada/Exportaciones navales A099 A101#EXP-2023-CHL-01|EXP-2023-CHL-01]], Chile: aceptacion hito, 1 hitos. ID editorial A101-EXP-2023-CHL-01-H01.
+- **2026 · E1:** [[12_Militar/03_Armada/Exportaciones navales A099 A101#EXP-2021-PHL-01|EXP-2021-PHL-01]], Filipinas: aceptacion bien, 8 misiles. ID editorial A101-EXP-2021-PHL-01-H03.
+- **2026 · E1:** [[12_Militar/03_Armada/Exportaciones navales A099 A101#EXP-2023-CHL-01|EXP-2023-CHL-01]], Chile: aceptacion hito, 1 hitos. ID editorial A101-EXP-2023-CHL-01-H02.
+- **2026 · E1:** [[12_Militar/03_Armada/Exportaciones navales A099 A101#EXP-2025-IND-01|EXP-2025-IND-01]], India: actividad inicial, sin cantidad de bienes fijada. ID editorial A101-EXP-2025-IND-01-H01.
 
 ### Límites del corte y continuidad prevista
 
@@ -1181,3 +1181,1230 @@ Fechas narrativas adoptadas por instrucción del autor del 10 de noviembre de 20
 - **1913:** Retiro narrativo de Vëantur 04; termina el servicio de la clase antes de 1914.
 
 [[00_Canon/Integraciones V16/Acumulativa A103 Clase Vëantur y relevo de Círdan I|Resolución A103]] · [[12_Militar/03_Armada/Clase Vëantur 1884-1913|Clase Vëantur]]
+
+
+## Integración A104 Desarrollo naval e industria
+
+Esta resolución prevalece sobre hitos anteriores afectados. Fechas anuales adoptadas narrativamente; los objetivos industriales no acreditan recepción. [[00_Canon/Integraciones V16/Acumulativa A104 Desarrollo naval e industria militar|Resolución A104]]
+
+- **1888 — ANP01-GG75-01:** paso a segunda línea.
+- **1888 — ANP01-GG75-02:** paso a segunda línea.
+- **1888 — Programa Tarannon:** autorización inicial de dos capitales de turbina.
+- **1889 — ANP01-EAR-01:** paso a segunda línea.
+- **1889 — ANP01-EAR-02:** paso a segunda línea.
+- **1889 — ANP01-TAR-01:** inicio de construcción.
+- **1890 — ANP01-GG75-03:** paso a segunda línea.
+- **1890 — ANP01-GG75-04:** paso a segunda línea.
+- **1891 — ANP01-EAR-03:** paso a segunda línea.
+- **1891 — ANP01-EAR-04:** paso a segunda línea.
+- **1891 — Programa Anárion de escuadra:** autorización de ocho unidades de referencia.
+- **1892 — ANP01-ANA-01:** inicio de construcción.
+- **1892 — ANP01-GG75-05:** paso a segunda línea.
+- **1892 — ANP01-GG75-06:** paso a segunda línea.
+- **1892 — ANP01-TAR-02:** inicio de construcción.
+- **1893 — ANP01-ANA-02:** inicio de construcción.
+- **1894 — ANP01-ANA-03:** inicio de construcción.
+- **1894 — ANP01-EAC-01:** inicio de construcción.
+- **1894 — ANP01-EAC-02:** inicio de construcción.
+- **1894 — ANP01-TAR-01:** entrada en servicio.
+- **1895 — ANP01-ANA-01:** entrada en servicio.
+- **1895 — ANP01-ANA-04:** inicio de construcción.
+- **1895 — ANP01-EAC-03:** inicio de construcción.
+- **1895 — ANP01-EAC-04:** inicio de construcción.
+- **1895 — ANP01-GG75-01:** retiro del servicio naval activo.
+- **1895 — ANP01-RME-01:** inicio de construcción.
+- **1895 — ANP01-RME-02:** inicio de construcción.
+- **1896 — ANP01-ANA-02:** entrada en servicio.
+- **1896 — ANP01-ANA-05:** inicio de construcción.
+- **1896 — ANP01-EAC-01:** botadura objetivo.
+- **1896 — ANP01-EAC-02:** botadura objetivo.
+- **1896 — ANP01-EAC-05:** inicio de construcción.
+- **1896 — ANP01-EAC-06:** inicio de construcción.
+- **1896 — ANP01-EAR-01:** retiro del servicio naval activo.
+- **1896 — ANP01-PEL-01:** inicio de construcción.
+- **1896 — ANP01-PEL-02:** inicio de construcción.
+- **1896 — ANP01-REO-01:** inicio de construcción.
+- **1896 — ANP01-RME-03:** inicio de construcción.
+- **1896 — ANP01-RME-04:** inicio de construcción.
+- **1896 — Programa Tarannon:** continuidad de dos adicionales; serie total de cuatro.
+- **1897 — ANP01-ANA-03:** entrada en servicio.
+- **1897 — ANP01-ANA-06:** inicio de construcción.
+- **1897 — ANP01-EAC-01:** entrada en servicio.
+- **1897 — ANP01-EAC-02:** entrada en servicio.
+- **1897 — ANP01-EAC-03:** botadura objetivo.
+- **1897 — ANP01-EAC-04:** botadura objetivo.
+- **1897 — ANP01-EAC-07:** inicio de construcción.
+- **1897 — ANP01-EAC-08:** inicio de construcción.
+- **1897 — ANP01-FDD-01:** inicio de construcción.
+- **1897 — ANP01-FDD-02:** inicio de construcción.
+- **1897 — ANP01-FDD-03:** inicio de construcción.
+- **1897 — ANP01-FDD-04:** inicio de construcción.
+- **1897 — ANP01-GG75-02:** retiro del servicio naval activo.
+- **1897 — ANP01-PEL-01:** botadura objetivo.
+- **1897 — ANP01-PEL-02:** botadura objetivo.
+- **1897 — ANP01-PEL-03:** inicio de construcción.
+- **1897 — ANP01-PEL-04:** inicio de construcción.
+- **1897 — ANP01-RME-01:** botadura objetivo.
+- **1897 — ANP01-RME-02:** botadura objetivo.
+- **1897 — ANP01-RME-05:** inicio de construcción.
+- **1897 — ANP01-RME-06:** inicio de construcción.
+- **1897 — ANP01-TAR-02:** entrada en servicio.
+- **1897 — ANP01-TAR-03:** inicio de construcción.
+- **1898 — ANP01-ANA-04:** entrada en servicio.
+- **1898 — ANP01-ANA-07:** inicio de construcción.
+- **1898 — ANP01-EAC-03:** entrada en servicio.
+- **1898 — ANP01-EAC-04:** entrada en servicio.
+- **1898 — ANP01-EAC-05:** botadura objetivo.
+- **1898 — ANP01-EAC-06:** botadura objetivo.
+- **1898 — ANP01-EAC-09:** inicio de construcción.
+- **1898 — ANP01-EAC-10:** inicio de construcción.
+- **1898 — ANP01-EAR-02:** retiro del servicio naval activo.
+- **1898 — ANP01-FDD-05:** inicio de construcción.
+- **1898 — ANP01-FDD-06:** inicio de construcción.
+- **1898 — ANP01-FDD-07:** inicio de construcción.
+- **1898 — ANP01-FDD-08:** inicio de construcción.
+- **1898 — ANP01-FTP-01:** inicio de construcción.
+- **1898 — ANP01-FTP-02:** inicio de construcción.
+- **1898 — ANP01-FTP-03:** inicio de construcción.
+- **1898 — ANP01-FTP-04:** inicio de construcción.
+- **1898 — ANP01-PEL-01:** entrada en servicio.
+- **1898 — ANP01-PEL-02:** entrada en servicio.
+- **1898 — ANP01-PEL-03:** botadura objetivo.
+- **1898 — ANP01-PEL-04:** botadura objetivo.
+- **1898 — ANP01-PEL-05:** inicio de construcción.
+- **1898 — ANP01-PEL-06:** inicio de construcción.
+- **1898 — ANP01-REO-02:** inicio de construcción.
+- **1898 — ANP01-RME-01:** entrada en servicio.
+- **1898 — ANP01-RME-02:** entrada en servicio.
+- **1898 — ANP01-RME-03:** botadura objetivo.
+- **1898 — ANP01-RME-04:** botadura objetivo.
+- **1898 — ANP01-RME-07:** inicio de construcción.
+- **1899 — ANP01-ANA-05:** entrada en servicio.
+- **1899 — ANP01-ANA-08:** inicio de construcción.
+- **1899 — ANP01-EAC-05:** entrada en servicio.
+- **1899 — ANP01-EAC-06:** entrada en servicio.
+- **1899 — ANP01-EAC-07:** botadura objetivo.
+- **1899 — ANP01-EAC-08:** botadura objetivo.
+- **1899 — ANP01-EAC-11:** inicio de construcción.
+- **1899 — ANP01-EAC-12:** inicio de construcción.
+- **1899 — ANP01-FDD-01:** botadura objetivo.
+- **1899 — ANP01-FDD-02:** botadura objetivo.
+- **1899 — ANP01-FDD-03:** botadura objetivo.
+- **1899 — ANP01-FDD-04:** botadura objetivo.
+- **1899 — ANP01-FDD-09:** inicio de construcción.
+- **1899 — ANP01-FDD-10:** inicio de construcción.
+- **1899 — ANP01-FDD-11:** inicio de construcción.
+- **1899 — ANP01-FDD-12:** inicio de construcción.
+- **1899 — ANP01-FTP-01:** botadura objetivo.
+- **1899 — ANP01-FTP-02:** botadura objetivo.
+- **1899 — ANP01-FTP-03:** botadura objetivo.
+- **1899 — ANP01-FTP-04:** botadura objetivo.
+- **1899 — ANP01-FTP-05:** inicio de construcción.
+- **1899 — ANP01-FTP-06:** inicio de construcción.
+- **1899 — ANP01-FTP-07:** inicio de construcción.
+- **1899 — ANP01-FTP-08:** inicio de construcción.
+- **1899 — ANP01-GG75-03:** retiro del servicio naval activo.
+- **1899 — ANP01-PEL-03:** entrada en servicio.
+- **1899 — ANP01-PEL-04:** entrada en servicio.
+- **1899 — ANP01-PEL-05:** botadura objetivo.
+- **1899 — ANP01-PEL-06:** botadura objetivo.
+- **1899 — ANP01-PEL-07:** inicio de construcción.
+- **1899 — ANP01-PEL-08:** inicio de construcción.
+- **1899 — ANP01-REO-01:** botadura objetivo.
+- **1899 — ANP01-RME-03:** entrada en servicio.
+- **1899 — ANP01-RME-04:** entrada en servicio.
+- **1899 — ANP01-RME-05:** botadura objetivo.
+- **1899 — ANP01-RME-06:** botadura objetivo.
+- **1899 — ANP01-RME-08:** inicio de construcción.
+- **1899 — ANP01-TAR-04:** inicio de construcción.
+- **1900 — ANP01-ANA-06:** entrada en servicio.
+- **1900 — ANP01-EAC-07:** entrada en servicio.
+- **1900 — ANP01-EAC-08:** entrada en servicio.
+- **1900 — ANP01-EAR-03:** retiro del servicio naval activo.
+- **1900 — ANP01-FDD-01:** entrada en servicio.
+- **1900 — ANP01-FDD-02:** entrada en servicio.
+- **1900 — ANP01-FDD-03:** entrada en servicio.
+- **1900 — ANP01-FDD-04:** entrada en servicio.
+- **1900 — ANP01-FDD-05:** botadura objetivo.
+- **1900 — ANP01-FDD-06:** botadura objetivo.
+- **1900 — ANP01-FDD-07:** botadura objetivo.
+- **1900 — ANP01-FDD-08:** botadura objetivo.
+- **1900 — ANP01-FDD-13:** inicio de construcción.
+- **1900 — ANP01-FDD-14:** inicio de construcción.
+- **1900 — ANP01-FDD-15:** inicio de construcción.
+- **1900 — ANP01-FDD-16:** inicio de construcción.
+- **1900 — ANP01-FTP-01:** entrada en servicio.
+- **1900 — ANP01-FTP-02:** entrada en servicio.
+- **1900 — ANP01-FTP-03:** entrada en servicio.
+- **1900 — ANP01-FTP-04:** entrada en servicio.
+- **1900 — ANP01-FTP-05:** botadura objetivo.
+- **1900 — ANP01-FTP-06:** botadura objetivo.
+- **1900 — ANP01-FTP-07:** botadura objetivo.
+- **1900 — ANP01-FTP-08:** botadura objetivo.
+- **1900 — ANP01-FTP-09:** inicio de construcción.
+- **1900 — ANP01-FTP-10:** inicio de construcción.
+- **1900 — ANP01-FTP-11:** inicio de construcción.
+- **1900 — ANP01-FTP-12:** inicio de construcción.
+- **1900 — ANP01-PEL-05:** entrada en servicio.
+- **1900 — ANP01-PEL-06:** entrada en servicio.
+- **1900 — ANP01-PEL-07:** botadura objetivo.
+- **1900 — ANP01-PEL-08:** botadura objetivo.
+- **1900 — ANP01-PEL-09:** inicio de construcción.
+- **1900 — ANP01-PEL-10:** inicio de construcción.
+- **1900 — ANP01-REO-01:** entrada en servicio.
+- **1900 — ANP01-REO-03:** inicio de construcción.
+- **1900 — ANP01-RME-05:** entrada en servicio.
+- **1900 — ANP01-RME-06:** entrada en servicio.
+- **1900 — ANP01-RME-07:** botadura objetivo.
+- **1901 — ANP01-ANA-07:** entrada en servicio.
+- **1901 — ANP01-EAC-01:** primera carena mayor planificada.
+- **1901 — ANP01-EAC-02:** primera carena mayor planificada.
+- **1901 — ANP01-EAC-09:** botadura objetivo.
+- **1901 — ANP01-EAC-10:** botadura objetivo.
+- **1901 — ANP01-FDD-05:** entrada en servicio.
+- **1901 — ANP01-FDD-06:** entrada en servicio.
+- **1901 — ANP01-FDD-07:** entrada en servicio.
+- **1901 — ANP01-FDD-08:** entrada en servicio.
+- **1901 — ANP01-FDD-09:** botadura objetivo.
+- **1901 — ANP01-FDD-10:** botadura objetivo.
+- **1901 — ANP01-FDD-11:** botadura objetivo.
+- **1901 — ANP01-FDD-12:** botadura objetivo.
+- **1901 — ANP01-FDD-17:** inicio de construcción.
+- **1901 — ANP01-FDD-18:** inicio de construcción.
+- **1901 — ANP01-FDD-19:** inicio de construcción.
+- **1901 — ANP01-FDD-20:** inicio de construcción.
+- **1901 — ANP01-FTP-05:** entrada en servicio.
+- **1901 — ANP01-FTP-06:** entrada en servicio.
+- **1901 — ANP01-FTP-07:** entrada en servicio.
+- **1901 — ANP01-FTP-08:** entrada en servicio.
+- **1901 — ANP01-FTP-09:** botadura objetivo.
+- **1901 — ANP01-FTP-10:** botadura objetivo.
+- **1901 — ANP01-FTP-11:** botadura objetivo.
+- **1901 — ANP01-FTP-12:** botadura objetivo.
+- **1901 — ANP01-FTP-13:** inicio de construcción.
+- **1901 — ANP01-FTP-14:** inicio de construcción.
+- **1901 — ANP01-FTP-15:** inicio de construcción.
+- **1901 — ANP01-FTP-16:** inicio de construcción.
+- **1901 — ANP01-GG75-04:** retiro del servicio naval activo.
+- **1901 — ANP01-PEL-07:** entrada en servicio.
+- **1901 — ANP01-PEL-08:** entrada en servicio.
+- **1901 — ANP01-PEL-09:** botadura objetivo.
+- **1901 — ANP01-PEL-10:** botadura objetivo.
+- **1901 — ANP01-PEL-11:** inicio de construcción.
+- **1901 — ANP01-REO-02:** botadura objetivo.
+- **1901 — ANP01-REO-04:** inicio de construcción.
+- **1901 — ANP01-RME-07:** entrada en servicio.
+- **1901 — ANP01-RME-08:** botadura objetivo.
+- **1901 — Industria y combustible:** inicio objetivo de implantación CSNR, pilotos de líquido y bancos diésel; capacidades sujetas a recepción.
+- **1902 — ANP01-ANA-08:** entrada en servicio.
+- **1902 — ANP01-EAC-03:** primera carena mayor planificada.
+- **1902 — ANP01-EAC-04:** primera carena mayor planificada.
+- **1902 — ANP01-EAC-09:** entrada en servicio.
+- **1902 — ANP01-EAC-10:** entrada en servicio.
+- **1902 — ANP01-EAR-04:** retiro del servicio naval activo.
+- **1902 — ANP01-FDD-09:** entrada en servicio.
+- **1902 — ANP01-FDD-10:** entrada en servicio.
+- **1902 — ANP01-FDD-11:** entrada en servicio.
+- **1902 — ANP01-FDD-12:** entrada en servicio.
+- **1902 — ANP01-FDD-13:** botadura objetivo.
+- **1902 — ANP01-FDD-14:** botadura objetivo.
+- **1902 — ANP01-FDD-15:** botadura objetivo.
+- **1902 — ANP01-FDD-16:** botadura objetivo.
+- **1902 — ANP01-FDD-21:** inicio de construcción.
+- **1902 — ANP01-FDD-22:** inicio de construcción.
+- **1902 — ANP01-FDD-23:** inicio de construcción.
+- **1902 — ANP01-FDD-24:** inicio de construcción.
+- **1902 — ANP01-FTP-09:** entrada en servicio.
+- **1902 — ANP01-FTP-10:** entrada en servicio.
+- **1902 — ANP01-FTP-11:** entrada en servicio.
+- **1902 — ANP01-FTP-12:** entrada en servicio.
+- **1902 — ANP01-FTP-13:** botadura objetivo.
+- **1902 — ANP01-FTP-14:** botadura objetivo.
+- **1902 — ANP01-FTP-15:** botadura objetivo.
+- **1902 — ANP01-FTP-16:** botadura objetivo.
+- **1902 — ANP01-FTP-17:** inicio de construcción.
+- **1902 — ANP01-FTP-18:** inicio de construcción.
+- **1902 — ANP01-FTP-19:** inicio de construcción.
+- **1902 — ANP01-FTP-20:** inicio de construcción.
+- **1902 — ANP01-PEL-01:** primera carena mayor planificada.
+- **1902 — ANP01-PEL-02:** primera carena mayor planificada.
+- **1902 — ANP01-PEL-09:** entrada en servicio.
+- **1902 — ANP01-PEL-10:** entrada en servicio.
+- **1902 — ANP01-PEL-11:** botadura objetivo.
+- **1902 — ANP01-REO-02:** entrada en servicio.
+- **1902 — ANP01-RME-01:** primera carena mayor planificada.
+- **1902 — ANP01-RME-02:** primera carena mayor planificada.
+- **1902 — ANP01-RME-08:** entrada en servicio.
+- **1902 — ANP01-TAR-03:** entrada en servicio.
+- **1903 — ANP01-EAC-05:** primera carena mayor planificada.
+- **1903 — ANP01-EAC-06:** primera carena mayor planificada.
+- **1903 — ANP01-EAC-11:** botadura objetivo.
+- **1903 — ANP01-EAC-12:** botadura objetivo.
+- **1903 — ANP01-FDD-01:** primera carena mayor planificada.
+- **1903 — ANP01-FDD-02:** primera carena mayor planificada.
+- **1903 — ANP01-FDD-03:** primera carena mayor planificada.
+- **1903 — ANP01-FDD-04:** primera carena mayor planificada.
+- **1903 — ANP01-FDD-13:** entrada en servicio.
+- **1903 — ANP01-FDD-14:** entrada en servicio.
+- **1903 — ANP01-FDD-15:** entrada en servicio.
+- **1903 — ANP01-FDD-16:** entrada en servicio.
+- **1903 — ANP01-FDD-17:** botadura objetivo.
+- **1903 — ANP01-FDD-18:** botadura objetivo.
+- **1903 — ANP01-FDD-19:** botadura objetivo.
+- **1903 — ANP01-FDD-20:** botadura objetivo.
+- **1903 — ANP01-FTP-01:** primera carena mayor planificada.
+- **1903 — ANP01-FTP-02:** primera carena mayor planificada.
+- **1903 — ANP01-FTP-03:** primera carena mayor planificada.
+- **1903 — ANP01-FTP-04:** primera carena mayor planificada.
+- **1903 — ANP01-FTP-13:** entrada en servicio.
+- **1903 — ANP01-FTP-14:** entrada en servicio.
+- **1903 — ANP01-FTP-15:** entrada en servicio.
+- **1903 — ANP01-FTP-16:** entrada en servicio.
+- **1903 — ANP01-FTP-17:** botadura objetivo.
+- **1903 — ANP01-FTP-18:** botadura objetivo.
+- **1903 — ANP01-FTP-19:** botadura objetivo.
+- **1903 — ANP01-FTP-20:** botadura objetivo.
+- **1903 — ANP01-FTP-21:** inicio de construcción.
+- **1903 — ANP01-FTP-22:** inicio de construcción.
+- **1903 — ANP01-FTP-23:** inicio de construcción.
+- **1903 — ANP01-FTP-24:** inicio de construcción.
+- **1903 — ANP01-GG75-05:** retiro del servicio naval activo.
+- **1903 — ANP01-PEL-03:** primera carena mayor planificada.
+- **1903 — ANP01-PEL-04:** primera carena mayor planificada.
+- **1903 — ANP01-PEL-11:** entrada en servicio.
+- **1903 — ANP01-PEL-12:** inicio de construcción.
+- **1903 — ANP01-REO-03:** botadura objetivo.
+- **1903 — ANP01-RME-03:** primera carena mayor planificada.
+- **1903 — ANP01-RME-04:** primera carena mayor planificada.
+- **1904 — ANP01-EAC-07:** primera carena mayor planificada.
+- **1904 — ANP01-EAC-08:** primera carena mayor planificada.
+- **1904 — ANP01-EAC-11:** entrada en servicio.
+- **1904 — ANP01-EAC-12:** entrada en servicio.
+- **1904 — ANP01-FDD-05:** primera carena mayor planificada.
+- **1904 — ANP01-FDD-06:** primera carena mayor planificada.
+- **1904 — ANP01-FDD-07:** primera carena mayor planificada.
+- **1904 — ANP01-FDD-08:** primera carena mayor planificada.
+- **1904 — ANP01-FDD-17:** entrada en servicio.
+- **1904 — ANP01-FDD-18:** entrada en servicio.
+- **1904 — ANP01-FDD-19:** entrada en servicio.
+- **1904 — ANP01-FDD-20:** entrada en servicio.
+- **1904 — ANP01-FDD-21:** botadura objetivo.
+- **1904 — ANP01-FDD-22:** botadura objetivo.
+- **1904 — ANP01-FDD-23:** botadura objetivo.
+- **1904 — ANP01-FDD-24:** botadura objetivo.
+- **1904 — ANP01-FTP-05:** primera carena mayor planificada.
+- **1904 — ANP01-FTP-06:** primera carena mayor planificada.
+- **1904 — ANP01-FTP-07:** primera carena mayor planificada.
+- **1904 — ANP01-FTP-08:** primera carena mayor planificada.
+- **1904 — ANP01-FTP-17:** entrada en servicio.
+- **1904 — ANP01-FTP-18:** entrada en servicio.
+- **1904 — ANP01-FTP-19:** entrada en servicio.
+- **1904 — ANP01-FTP-20:** entrada en servicio.
+- **1904 — ANP01-FTP-21:** botadura objetivo.
+- **1904 — ANP01-FTP-22:** botadura objetivo.
+- **1904 — ANP01-FTP-23:** botadura objetivo.
+- **1904 — ANP01-FTP-24:** botadura objetivo.
+- **1904 — ANP01-PEL-05:** primera carena mayor planificada.
+- **1904 — ANP01-PEL-06:** primera carena mayor planificada.
+- **1904 — ANP01-PEL-12:** botadura objetivo.
+- **1904 — ANP01-REO-01:** primera carena mayor planificada.
+- **1904 — ANP01-REO-03:** entrada en servicio.
+- **1904 — ANP01-REO-04:** botadura objetivo.
+- **1904 — ANP01-RME-05:** primera carena mayor planificada.
+- **1904 — ANP01-RME-06:** primera carena mayor planificada.
+- **1904 — ANP01-TAR-04:** entrada en servicio.
+- **1904 — GCO-15:** primero de cuatro patrulleros de vapor a líquido; siguientes objetivos 1905, 1906 y 1907.
+- **1905 — ANP01-FDD-09:** primera carena mayor planificada.
+- **1905 — ANP01-FDD-10:** primera carena mayor planificada.
+- **1905 — ANP01-FDD-11:** primera carena mayor planificada.
+- **1905 — ANP01-FDD-12:** primera carena mayor planificada.
+- **1905 — ANP01-FDD-21:** entrada en servicio.
+- **1905 — ANP01-FDD-22:** entrada en servicio.
+- **1905 — ANP01-FDD-23:** entrada en servicio.
+- **1905 — ANP01-FDD-24:** entrada en servicio.
+- **1905 — ANP01-FTP-09:** primera carena mayor planificada.
+- **1905 — ANP01-FTP-10:** primera carena mayor planificada.
+- **1905 — ANP01-FTP-11:** primera carena mayor planificada.
+- **1905 — ANP01-FTP-12:** primera carena mayor planificada.
+- **1905 — ANP01-FTP-21:** entrada en servicio.
+- **1905 — ANP01-FTP-22:** entrada en servicio.
+- **1905 — ANP01-FTP-23:** entrada en servicio.
+- **1905 — ANP01-FTP-24:** entrada en servicio.
+- **1905 — ANP01-GG75-06:** retiro del servicio naval activo.
+- **1905 — ANP01-PEL-07:** primera carena mayor planificada.
+- **1905 — ANP01-PEL-08:** primera carena mayor planificada.
+- **1905 — ANP01-PEL-12:** entrada en servicio.
+- **1905 — ANP01-REO-04:** entrada en servicio.
+- **1905 — ANP01-RME-07:** primera carena mayor planificada.
+- **1906 — ANP01-EAC-09:** primera carena mayor planificada.
+- **1906 — ANP01-EAC-10:** primera carena mayor planificada.
+- **1906 — ANP01-FDD-13:** primera carena mayor planificada.
+- **1906 — ANP01-FDD-14:** primera carena mayor planificada.
+- **1906 — ANP01-FDD-15:** primera carena mayor planificada.
+- **1906 — ANP01-FDD-16:** primera carena mayor planificada.
+- **1906 — ANP01-FTP-13:** primera carena mayor planificada.
+- **1906 — ANP01-FTP-14:** primera carena mayor planificada.
+- **1906 — ANP01-FTP-15:** primera carena mayor planificada.
+- **1906 — ANP01-FTP-16:** primera carena mayor planificada.
+- **1906 — ANP01-PEL-09:** primera carena mayor planificada.
+- **1906 — ANP01-PEL-10:** primera carena mayor planificada.
+- **1906 — ANP01-REO-02:** primera carena mayor planificada.
+- **1906 — ANP01-RME-08:** primera carena mayor planificada.
+- **1907 — ANP01-FDD-17:** primera carena mayor planificada.
+- **1907 — ANP01-FDD-18:** primera carena mayor planificada.
+- **1907 — ANP01-FDD-19:** primera carena mayor planificada.
+- **1907 — ANP01-FDD-20:** primera carena mayor planificada.
+- **1907 — ANP01-FTP-17:** primera carena mayor planificada.
+- **1907 — ANP01-FTP-18:** primera carena mayor planificada.
+- **1907 — ANP01-FTP-19:** primera carena mayor planificada.
+- **1907 — ANP01-FTP-20:** primera carena mayor planificada.
+- **1907 — ANP01-PEL-11:** primera carena mayor planificada.
+- **1908 — ANP01-EAC-11:** primera carena mayor planificada.
+- **1908 — ANP01-EAC-12:** primera carena mayor planificada.
+- **1908 — ANP01-FDD-21:** primera carena mayor planificada.
+- **1908 — ANP01-FDD-22:** primera carena mayor planificada.
+- **1908 — ANP01-FDD-23:** primera carena mayor planificada.
+- **1908 — ANP01-FDD-24:** primera carena mayor planificada.
+- **1908 — ANP01-FTP-21:** primera carena mayor planificada.
+- **1908 — ANP01-FTP-22:** primera carena mayor planificada.
+- **1908 — ANP01-FTP-23:** primera carena mayor planificada.
+- **1908 — ANP01-FTP-24:** primera carena mayor planificada.
+- **1908 — ANP01-REO-03:** primera carena mayor planificada.
+- **1908 — Desarrollo diésel:** evaluación 1908–1912 de serie de patrulla tras aceptación; no entrada garantizada.
+- **1908 — Ámbito reconstruido:** 200 incorporados al cierre; cuatro Tarannon; no inventario nacional completo.
+- **1909 — ANP01-PEL-12:** primera carena mayor planificada.
+- **1909 — ANP01-REO-04:** primera carena mayor planificada.
+- **1910 — ANP01-ANA-01:** paso a segunda línea.
+- **1910 — ANP01-ANA-02:** paso a segunda línea.
+- **1911 — ANP01-ANA-03:** paso a segunda línea.
+- **1911 — ANP01-ANA-04:** paso a segunda línea.
+- **1911 — ANP01-TAR-01:** paso a segunda línea.
+- **1912 — ANP01-ANA-05:** paso a segunda línea.
+- **1912 — ANP01-ANA-06:** paso a segunda línea.
+- **1912 — ANP01-FDD-01:** paso a segunda línea.
+- **1912 — ANP01-FDD-02:** paso a segunda línea.
+- **1912 — ANP01-FDD-03:** paso a segunda línea.
+- **1912 — ANP01-FDD-04:** paso a segunda línea.
+- **1912 — ANP01-FTP-01:** paso a segunda línea.
+- **1912 — ANP01-FTP-02:** paso a segunda línea.
+- **1912 — ANP01-FTP-03:** paso a segunda línea.
+- **1912 — ANP01-FTP-04:** paso a segunda línea.
+- **1913 — ANP01-ANA-07:** paso a segunda línea.
+- **1913 — ANP01-ANA-08:** paso a segunda línea.
+- **1913 — ANP01-FDD-05:** paso a segunda línea.
+- **1913 — ANP01-FDD-06:** paso a segunda línea.
+- **1913 — ANP01-FDD-07:** paso a segunda línea.
+- **1913 — ANP01-FDD-08:** paso a segunda línea.
+- **1913 — ANP01-FTP-05:** paso a segunda línea.
+- **1913 — ANP01-FTP-06:** paso a segunda línea.
+- **1913 — ANP01-FTP-07:** paso a segunda línea.
+- **1913 — ANP01-FTP-08:** paso a segunda línea.
+- **1913 — ANP01-TAR-02:** paso a segunda línea.
+- **1914 — ANP01-FDD-09:** paso a segunda línea.
+- **1914 — ANP01-FDD-10:** paso a segunda línea.
+- **1914 — ANP01-FDD-11:** paso a segunda línea.
+- **1914 — ANP01-FDD-12:** paso a segunda línea.
+- **1914 — ANP01-FTP-09:** paso a segunda línea.
+- **1914 — ANP01-FTP-10:** paso a segunda línea.
+- **1914 — ANP01-FTP-11:** paso a segunda línea.
+- **1914 — ANP01-FTP-12:** paso a segunda línea.
+- **1915 — ANP01-EAC-01:** paso a segunda línea.
+- **1915 — ANP01-EAC-02:** paso a segunda línea.
+- **1915 — ANP01-FDD-13:** paso a segunda línea.
+- **1915 — ANP01-FDD-14:** paso a segunda línea.
+- **1915 — ANP01-FDD-15:** paso a segunda línea.
+- **1915 — ANP01-FDD-16:** paso a segunda línea.
+- **1915 — ANP01-FTP-13:** paso a segunda línea.
+- **1915 — ANP01-FTP-14:** paso a segunda línea.
+- **1915 — ANP01-FTP-15:** paso a segunda línea.
+- **1915 — ANP01-FTP-16:** paso a segunda línea.
+- **1915 — ANP01-TAR-01:** retiro del servicio naval activo.
+- **1915 — ANP01-TAR-03:** paso a segunda línea.
+- **1916 — ANP01-ANA-01:** retiro del servicio naval activo.
+- **1916 — ANP01-EAC-03:** paso a segunda línea.
+- **1916 — ANP01-EAC-04:** paso a segunda línea.
+- **1916 — ANP01-FDD-17:** paso a segunda línea.
+- **1916 — ANP01-FDD-18:** paso a segunda línea.
+- **1916 — ANP01-FDD-19:** paso a segunda línea.
+- **1916 — ANP01-FDD-20:** paso a segunda línea.
+- **1916 — ANP01-FTP-17:** paso a segunda línea.
+- **1916 — ANP01-FTP-18:** paso a segunda línea.
+- **1916 — ANP01-FTP-19:** paso a segunda línea.
+- **1916 — ANP01-FTP-20:** paso a segunda línea.
+- **1916 — ANP01-PEL-01:** paso a segunda línea.
+- **1916 — ANP01-PEL-02:** paso a segunda línea.
+- **1916 — ANP01-RME-01:** paso a segunda línea.
+- **1916 — ANP01-RME-02:** paso a segunda línea.
+- **1917 — ANP01-EAC-05:** paso a segunda línea.
+- **1917 — ANP01-EAC-06:** paso a segunda línea.
+- **1917 — ANP01-FDD-21:** paso a segunda línea.
+- **1917 — ANP01-FDD-22:** paso a segunda línea.
+- **1917 — ANP01-FDD-23:** paso a segunda línea.
+- **1917 — ANP01-FDD-24:** paso a segunda línea.
+- **1917 — ANP01-FTP-21:** paso a segunda línea.
+- **1917 — ANP01-FTP-22:** paso a segunda línea.
+- **1917 — ANP01-FTP-23:** paso a segunda línea.
+- **1917 — ANP01-FTP-24:** paso a segunda línea.
+- **1917 — ANP01-PEL-03:** paso a segunda línea.
+- **1917 — ANP01-PEL-04:** paso a segunda línea.
+- **1917 — ANP01-RME-03:** paso a segunda línea.
+- **1917 — ANP01-RME-04:** paso a segunda línea.
+- **1917 — ANP01-TAR-04:** paso a segunda línea.
+- **1918 — ANP01-ANA-02:** retiro del servicio naval activo.
+- **1918 — ANP01-EAC-07:** paso a segunda línea.
+- **1918 — ANP01-EAC-08:** paso a segunda línea.
+- **1918 — ANP01-PEL-05:** paso a segunda línea.
+- **1918 — ANP01-PEL-06:** paso a segunda línea.
+- **1918 — ANP01-REO-01:** paso a segunda línea.
+- **1918 — ANP01-RME-05:** paso a segunda línea.
+- **1918 — ANP01-RME-06:** paso a segunda línea.
+- **1919 — ANP01-PEL-07:** paso a segunda línea.
+- **1919 — ANP01-PEL-08:** paso a segunda línea.
+- **1919 — ANP01-RME-07:** paso a segunda línea.
+- **1920 — ANP01-ANA-03:** retiro del servicio naval activo.
+- **1920 — ANP01-EAC-09:** paso a segunda línea.
+- **1920 — ANP01-EAC-10:** paso a segunda línea.
+- **1920 — ANP01-FDD-01:** retiro propuesto.
+- **1920 — ANP01-FDD-02:** retiro propuesto.
+- **1920 — ANP01-FDD-03:** retiro propuesto.
+- **1920 — ANP01-FDD-04:** retiro propuesto.
+- **1920 — ANP01-FTP-01:** retiro propuesto.
+- **1920 — ANP01-FTP-02:** retiro propuesto.
+- **1920 — ANP01-FTP-03:** retiro propuesto.
+- **1920 — ANP01-FTP-04:** retiro propuesto.
+- **1920 — ANP01-PEL-09:** paso a segunda línea.
+- **1920 — ANP01-PEL-10:** paso a segunda línea.
+- **1920 — ANP01-REO-02:** paso a segunda línea.
+- **1920 — ANP01-RME-08:** paso a segunda línea.
+- **1920 — ANP01-TAR-02:** retiro del servicio naval activo.
+- **1921 — ANP01-ANA-04:** retiro del servicio naval activo.
+- **1921 — ANP01-FDD-05:** retiro propuesto.
+- **1921 — ANP01-FDD-06:** retiro propuesto.
+- **1921 — ANP01-FDD-07:** retiro propuesto.
+- **1921 — ANP01-FDD-08:** retiro propuesto.
+- **1921 — ANP01-FTP-05:** retiro propuesto.
+- **1921 — ANP01-FTP-06:** retiro propuesto.
+- **1921 — ANP01-FTP-07:** retiro propuesto.
+- **1921 — ANP01-FTP-08:** retiro propuesto.
+- **1921 — ANP01-PEL-11:** paso a segunda línea.
+- **1922 — ANP01-ANA-05:** retiro del servicio naval activo.
+- **1922 — ANP01-EAC-11:** paso a segunda línea.
+- **1922 — ANP01-EAC-12:** paso a segunda línea.
+- **1922 — ANP01-FDD-09:** retiro propuesto.
+- **1922 — ANP01-FDD-10:** retiro propuesto.
+- **1922 — ANP01-FDD-11:** retiro propuesto.
+- **1922 — ANP01-FDD-12:** retiro propuesto.
+- **1922 — ANP01-FTP-09:** retiro propuesto.
+- **1922 — ANP01-FTP-10:** retiro propuesto.
+- **1922 — ANP01-FTP-11:** retiro propuesto.
+- **1922 — ANP01-FTP-12:** retiro propuesto.
+- **1922 — ANP01-REO-03:** paso a segunda línea.
+- **1923 — ANP01-ANA-06:** retiro del servicio naval activo.
+- **1923 — ANP01-EAC-01:** retiro propuesto.
+- **1923 — ANP01-EAC-02:** retiro propuesto.
+- **1923 — ANP01-FDD-13:** retiro propuesto.
+- **1923 — ANP01-FDD-14:** retiro propuesto.
+- **1923 — ANP01-FDD-15:** retiro propuesto.
+- **1923 — ANP01-FDD-16:** retiro propuesto.
+- **1923 — ANP01-FTP-13:** retiro propuesto.
+- **1923 — ANP01-FTP-14:** retiro propuesto.
+- **1923 — ANP01-FTP-15:** retiro propuesto.
+- **1923 — ANP01-FTP-16:** retiro propuesto.
+- **1923 — ANP01-PEL-01:** retiro propuesto.
+- **1923 — ANP01-PEL-02:** retiro propuesto.
+- **1923 — ANP01-PEL-12:** paso a segunda línea.
+- **1923 — ANP01-REO-04:** paso a segunda línea.
+- **1923 — ANP01-TAR-03:** retiro del servicio naval activo.
+- **1924 — ANP01-ANA-07:** retiro del servicio naval activo.
+- **1924 — ANP01-EAC-03:** retiro propuesto.
+- **1924 — ANP01-EAC-04:** retiro propuesto.
+- **1924 — ANP01-FDD-17:** retiro propuesto.
+- **1924 — ANP01-FDD-18:** retiro propuesto.
+- **1924 — ANP01-FDD-19:** retiro propuesto.
+- **1924 — ANP01-FDD-20:** retiro propuesto.
+- **1924 — ANP01-FTP-17:** retiro propuesto.
+- **1924 — ANP01-FTP-18:** retiro propuesto.
+- **1924 — ANP01-FTP-19:** retiro propuesto.
+- **1924 — ANP01-FTP-20:** retiro propuesto.
+- **1924 — ANP01-PEL-03:** retiro propuesto.
+- **1924 — ANP01-PEL-04:** retiro propuesto.
+- **1925 — ANP01-ANA-08:** retiro del servicio naval activo.
+- **1925 — ANP01-EAC-05:** retiro propuesto.
+- **1925 — ANP01-EAC-06:** retiro propuesto.
+- **1925 — ANP01-FDD-21:** retiro propuesto.
+- **1925 — ANP01-FDD-22:** retiro propuesto.
+- **1925 — ANP01-FDD-23:** retiro propuesto.
+- **1925 — ANP01-FDD-24:** retiro propuesto.
+- **1925 — ANP01-FTP-21:** retiro propuesto.
+- **1925 — ANP01-FTP-22:** retiro propuesto.
+- **1925 — ANP01-FTP-23:** retiro propuesto.
+- **1925 — ANP01-FTP-24:** retiro propuesto.
+- **1925 — ANP01-PEL-05:** retiro propuesto.
+- **1925 — ANP01-PEL-06:** retiro propuesto.
+- **1925 — ANP01-REO-01:** retiro propuesto.
+- **1925 — ANP01-RME-01:** retiro propuesto.
+- **1925 — ANP01-RME-02:** retiro propuesto.
+- **1925 — ANP01-TAR-04:** retiro del servicio naval activo.
+- **1926 — ANP01-EAC-07:** retiro propuesto.
+- **1926 — ANP01-EAC-08:** retiro propuesto.
+- **1926 — ANP01-PEL-07:** retiro propuesto.
+- **1926 — ANP01-PEL-08:** retiro propuesto.
+- **1926 — ANP01-RME-03:** retiro propuesto.
+- **1926 — ANP01-RME-04:** retiro propuesto.
+- **1927 — ANP01-PEL-09:** retiro propuesto.
+- **1927 — ANP01-PEL-10:** retiro propuesto.
+- **1927 — ANP01-REO-02:** retiro propuesto.
+- **1927 — ANP01-RME-05:** retiro propuesto.
+- **1927 — ANP01-RME-06:** retiro propuesto.
+- **1928 — ANP01-EAC-09:** retiro propuesto.
+- **1928 — ANP01-EAC-10:** retiro propuesto.
+- **1928 — ANP01-PEL-11:** retiro propuesto.
+- **1928 — ANP01-RME-07:** retiro propuesto.
+- **1929 — ANP01-REO-03:** retiro propuesto.
+- **1929 — ANP01-RME-08:** retiro propuesto.
+- **1930 — ANP01-EAC-11:** retiro propuesto.
+- **1930 — ANP01-EAC-12:** retiro propuesto.
+- **1930 — ANP01-PEL-12:** retiro propuesto.
+- **1930 — ANP01-REO-04:** retiro propuesto.
+
+Las demás altas, bajas y capacidades de auxiliares, patrulleros e industria se conservan en el registro integrado A104 y en los bloques específicos del antecedente v15; las previsiones no se convierten en entregas acreditadas.
+
+
+### Calendario individual complementario del registro A104
+
+Se incluyen fechas conocidas o adoptadas de auxiliares, patrulleros y supervivientes fuera de los 106 registros principales. Un alta antigua sin fecha individual se mantiene sin dato; 1900 como umbral de cálculo no se convierte en fecha de incorporación. Los retiros son horizontes narrativos donde así se indica en la fuente.
+
+- **1884 — ANP01-CT75-01:** retiro; alcance y condición según registro A104.
+- **1884 — ANP01-FT75-01:** retiro; alcance y condición según registro A104.
+- **1885 — ANP01-CT75-02:** retiro; alcance y condición según registro A104.
+- **1885 — ANP01-FT75-02:** retiro; alcance y condición según registro A104.
+- **1885 — ANP01-HF75-01:** retiro; alcance y condición según registro A104.
+- **1885 — ANP01-T87-01:** inicio de construcción; alcance y condición según registro A104.
+- **1886 — ANP01-A75-ALM-05:** retiro; alcance y condición según registro A104.
+- **1886 — ANP01-A75-COL-09:** retiro; alcance y condición según registro A104.
+- **1886 — ANP01-A75-COL-10:** retiro; alcance y condición según registro A104.
+- **1886 — ANP01-A75-HID-03:** retiro; alcance y condición según registro A104.
+- **1886 — ANP01-A75-HOS-01:** retiro; alcance y condición según registro A104.
+- **1886 — ANP01-A75-INS-01:** retiro; alcance y condición según registro A104.
+- **1886 — ANP01-A75-PAT-01:** retiro; alcance y condición según registro A104.
+- **1886 — ANP01-A75-REM-07:** retiro; alcance y condición según registro A104.
+- **1886 — ANP01-A75-REM-08:** retiro; alcance y condición según registro A104.
+- **1886 — ANP01-A75-REM-09:** retiro; alcance y condición según registro A104.
+- **1886 — ANP01-A75-REP-03:** retiro; alcance y condición según registro A104.
+- **1886 — ANP01-A75-TRA-01:** retiro; alcance y condición según registro A104.
+- **1886 — ANP01-A75-TRA-02:** retiro; alcance y condición según registro A104.
+- **1886 — ANP01-CT75-03:** retiro; alcance y condición según registro A104.
+- **1886 — ANP01-FT75-03:** retiro; alcance y condición según registro A104.
+- **1886 — ANP01-HF75-02:** retiro; alcance y condición según registro A104.
+- **1886 — ANP01-T87-02:** inicio de construcción; alcance y condición según registro A104.
+- **1887 — ANP01-A75-ALM-06:** retiro; alcance y condición según registro A104.
+- **1887 — ANP01-A75-COL-11:** retiro; alcance y condición según registro A104.
+- **1887 — ANP01-A75-REM-10:** retiro; alcance y condición según registro A104.
+- **1887 — ANP01-A75-REM-11:** retiro; alcance y condición según registro A104.
+- **1887 — ANP01-A75-REP-04:** retiro; alcance y condición según registro A104.
+- **1887 — ANP01-A75-TRA-03:** retiro; alcance y condición según registro A104.
+- **1887 — ANP01-CT75-04:** retiro; alcance y condición según registro A104.
+- **1887 — ANP01-FT75-04:** retiro; alcance y condición según registro A104.
+- **1887 — ANP01-HF75-03:** retiro; alcance y condición según registro A104.
+- **1887 — ANP01-T87-01:** entrada en servicio; alcance y condición según registro A104.
+- **1888 — ANP01-A75-ALM-07:** retiro; alcance y condición según registro A104.
+- **1888 — ANP01-A75-COL-12:** retiro; alcance y condición según registro A104.
+- **1888 — ANP01-A75-HID-04:** retiro; alcance y condición según registro A104.
+- **1888 — ANP01-A75-HOS-02:** retiro; alcance y condición según registro A104.
+- **1888 — ANP01-A75-INS-02:** retiro; alcance y condición según registro A104.
+- **1888 — ANP01-A75-PAT-02:** retiro; alcance y condición según registro A104.
+- **1888 — ANP01-A75-REM-12:** retiro; alcance y condición según registro A104.
+- **1888 — ANP01-A75-REM-13:** retiro; alcance y condición según registro A104.
+- **1888 — ANP01-A75-TRA-04:** retiro; alcance y condición según registro A104.
+- **1888 — ANP01-A75-TRA-05:** retiro; alcance y condición según registro A104.
+- **1888 — ANP01-CT75-05:** retiro; alcance y condición según registro A104.
+- **1888 — ANP01-FT75-05:** retiro; alcance y condición según registro A104.
+- **1888 — ANP01-HF75-04:** retiro; alcance y condición según registro A104.
+- **1889 — ANP01-A75-ALM-08:** retiro; alcance y condición según registro A104.
+- **1889 — ANP01-A75-COL-13:** retiro; alcance y condición según registro A104.
+- **1889 — ANP01-A75-REM-14:** retiro; alcance y condición según registro A104.
+- **1889 — ANP01-A75-REM-15:** retiro; alcance y condición según registro A104.
+- **1889 — ANP01-A75-REP-05:** retiro; alcance y condición según registro A104.
+- **1889 — ANP01-A75-TRA-06:** retiro; alcance y condición según registro A104.
+- **1889 — ANP01-CA75-01:** retiro; alcance y condición según registro A104.
+- **1889 — ANP01-CT75-06:** retiro; alcance y condición según registro A104.
+- **1889 — ANP01-FA75-01:** retiro; alcance y condición según registro A104.
+- **1889 — ANP01-FT75-06:** retiro; alcance y condición según registro A104.
+- **1889 — ANP01-HF75-05:** retiro; alcance y condición según registro A104.
+- **1889 — ANP01-RA75-01:** retiro; alcance y condición según registro A104.
+- **1889 — ANP01-T87-02:** entrada en servicio; alcance y condición según registro A104.
+- **1889 — VAE-REF-01:** entrada en servicio; alcance y condición según registro A104.
+- **1890 — ANP01-A75-COL-14:** retiro; alcance y condición según registro A104.
+- **1890 — ANP01-A75-INS-03:** retiro; alcance y condición según registro A104.
+- **1890 — ANP01-A75-PAT-03:** retiro; alcance y condición según registro A104.
+- **1890 — ANP01-A75-REM-16:** retiro; alcance y condición según registro A104.
+- **1890 — ANP01-A75-REM-17:** retiro; alcance y condición según registro A104.
+- **1890 — ANP01-A75-REP-06:** retiro; alcance y condición según registro A104.
+- **1890 — ANP01-A75-TRA-07:** retiro; alcance y condición según registro A104.
+- **1890 — ANP01-A75-TRA-08:** retiro; alcance y condición según registro A104.
+- **1890 — ANP01-AUX-ALM-01:** inicio de construcción; alcance y condición según registro A104.
+- **1890 — ANP01-AUX-COL-01:** inicio de construcción; alcance y condición según registro A104.
+- **1890 — ANP01-AUX-HOS-01:** inicio de construcción; alcance y condición según registro A104.
+- **1890 — ANP01-AUX-REP-01:** inicio de construcción; alcance y condición según registro A104.
+- **1890 — ANP01-AUX-TRA-01:** inicio de construcción; alcance y condición según registro A104.
+- **1890 — ANP01-CA75-02:** retiro; alcance y condición según registro A104.
+- **1890 — ANP01-CT75-07:** retiro; alcance y condición según registro A104.
+- **1890 — ANP01-FA75-02:** retiro; alcance y condición según registro A104.
+- **1890 — ANP01-FT75-07:** retiro; alcance y condición según registro A104.
+- **1890 — ANP01-GCO-01:** inicio de construcción; alcance y condición según registro A104.
+- **1890 — ANP01-GCO-02:** inicio de construcción; alcance y condición según registro A104.
+- **1890 — ANP01-HF75-06:** retiro; alcance y condición según registro A104.
+- **1890 — ANP01-RA75-02:** retiro; alcance y condición según registro A104.
+- **1890 — VAE-REF-02:** entrada en servicio; alcance y condición según registro A104.
+- **1891 — ANP01-A75-ALM-09:** retiro; alcance y condición según registro A104.
+- **1891 — ANP01-A75-COL-15:** retiro; alcance y condición según registro A104.
+- **1891 — ANP01-A75-HID-05:** retiro; alcance y condición según registro A104.
+- **1891 — ANP01-A75-HOS-03:** retiro; alcance y condición según registro A104.
+- **1891 — ANP01-A75-REM-18:** retiro; alcance y condición según registro A104.
+- **1891 — ANP01-A75-REM-19:** retiro; alcance y condición según registro A104.
+- **1891 — ANP01-A75-TRA-09:** retiro; alcance y condición según registro A104.
+- **1891 — ANP01-AU75-01:** retiro; alcance y condición según registro A104.
+- **1891 — ANP01-AUX-COL-02:** inicio de construcción; alcance y condición según registro A104.
+- **1891 — ANP01-AUX-HID-01:** inicio de construcción; alcance y condición según registro A104.
+- **1891 — ANP01-AUX-REM-01:** inicio de construcción; alcance y condición según registro A104.
+- **1891 — ANP01-AUX-REM-02:** inicio de construcción; alcance y condición según registro A104.
+- **1891 — ANP01-AUX-TRA-02:** inicio de construcción; alcance y condición según registro A104.
+- **1891 — ANP01-CA75-03:** retiro; alcance y condición según registro A104.
+- **1891 — ANP01-CT75-08:** retiro; alcance y condición según registro A104.
+- **1891 — ANP01-FA75-03:** retiro; alcance y condición según registro A104.
+- **1891 — ANP01-FT75-08:** retiro; alcance y condición según registro A104.
+- **1891 — ANP01-GCO-03:** inicio de construcción; alcance y condición según registro A104.
+- **1891 — ANP01-GFL-01:** inicio de construcción; alcance y condición según registro A104.
+- **1891 — ANP01-GFL-02:** inicio de construcción; alcance y condición según registro A104.
+- **1891 — ANP01-GPT-01:** inicio de construcción; alcance y condición según registro A104.
+- **1891 — ANP01-HF75-07:** retiro; alcance y condición según registro A104.
+- **1891 — ANP01-RA75-03:** retiro; alcance y condición según registro A104.
+- **1892 — ANP01-A75-ALM-10:** retiro; alcance y condición según registro A104.
+- **1892 — ANP01-A75-COL-16:** retiro; alcance y condición según registro A104.
+- **1892 — ANP01-A75-INS-04:** retiro; alcance y condición según registro A104.
+- **1892 — ANP01-A75-PAT-04:** retiro; alcance y condición según registro A104.
+- **1892 — ANP01-A75-REM-20:** retiro; alcance y condición según registro A104.
+- **1892 — ANP01-A75-REM-21:** retiro; alcance y condición según registro A104.
+- **1892 — ANP01-A75-REP-07:** retiro; alcance y condición según registro A104.
+- **1892 — ANP01-A75-TRA-10:** retiro; alcance y condición según registro A104.
+- **1892 — ANP01-A75-TRA-11:** retiro; alcance y condición según registro A104.
+- **1892 — ANP01-AU75-02:** retiro; alcance y condición según registro A104.
+- **1892 — ANP01-AUX-ALM-02:** inicio de construcción; alcance y condición según registro A104.
+- **1892 — ANP01-AUX-COL-03:** inicio de construcción; alcance y condición según registro A104.
+- **1892 — ANP01-AUX-HID-02:** inicio de construcción; alcance y condición según registro A104.
+- **1892 — ANP01-AUX-REM-03:** inicio de construcción; alcance y condición según registro A104.
+- **1892 — ANP01-AUX-REP-02:** inicio de construcción; alcance y condición según registro A104.
+- **1892 — ANP01-AUX-TRA-03:** inicio de construcción; alcance y condición según registro A104.
+- **1892 — ANP01-CA75-04:** retiro; alcance y condición según registro A104.
+- **1892 — ANP01-CT75-09:** retiro; alcance y condición según registro A104.
+- **1892 — ANP01-FA75-04:** retiro; alcance y condición según registro A104.
+- **1892 — ANP01-FT75-09:** retiro; alcance y condición según registro A104.
+- **1892 — ANP01-GCO-01:** entrada en servicio; alcance y condición según registro A104.
+- **1892 — ANP01-GCO-02:** entrada en servicio; alcance y condición según registro A104.
+- **1892 — ANP01-GCO-04:** inicio de construcción; alcance y condición según registro A104.
+- **1892 — ANP01-GCO-05:** inicio de construcción; alcance y condición según registro A104.
+- **1892 — ANP01-GFL-01:** entrada en servicio; alcance y condición según registro A104.
+- **1892 — ANP01-GFL-02:** entrada en servicio; alcance y condición según registro A104.
+- **1892 — ANP01-GFL-03:** inicio de construcción; alcance y condición según registro A104.
+- **1892 — ANP01-GPT-01:** entrada en servicio; alcance y condición según registro A104.
+- **1892 — ANP01-GPT-02:** inicio de construcción; alcance y condición según registro A104.
+- **1892 — ANP01-HF75-08:** retiro; alcance y condición según registro A104.
+- **1892 — ANP01-HO75-01:** retiro; alcance y condición según registro A104.
+- **1892 — ANP01-RA75-04:** retiro; alcance y condición según registro A104.
+- **1892 — VAE-REF-03:** entrada en servicio; alcance y condición según registro A104.
+- **1893 — ANP01-A75-ALM-11:** retiro; alcance y condición según registro A104.
+- **1893 — ANP01-A75-COL-17:** retiro; alcance y condición según registro A104.
+- **1893 — ANP01-A75-REM-22:** retiro; alcance y condición según registro A104.
+- **1893 — ANP01-A75-REM-23:** retiro; alcance y condición según registro A104.
+- **1893 — ANP01-A75-REP-08:** retiro; alcance y condición según registro A104.
+- **1893 — ANP01-A75-TRA-12:** retiro; alcance y condición según registro A104.
+- **1893 — ANP01-AL75-01:** retiro; alcance y condición según registro A104.
+- **1893 — ANP01-AU75-03:** retiro; alcance y condición según registro A104.
+- **1893 — ANP01-AUX-ALM-01:** entrada en servicio; alcance y condición según registro A104.
+- **1893 — ANP01-AUX-COL-01:** entrada en servicio; alcance y condición según registro A104.
+- **1893 — ANP01-AUX-COL-04:** inicio de construcción; alcance y condición según registro A104.
+- **1893 — ANP01-AUX-HID-01:** entrada en servicio; alcance y condición según registro A104.
+- **1893 — ANP01-AUX-HOS-01:** entrada en servicio; alcance y condición según registro A104.
+- **1893 — ANP01-AUX-HOS-02:** inicio de construcción; alcance y condición según registro A104.
+- **1893 — ANP01-AUX-REM-01:** entrada en servicio; alcance y condición según registro A104.
+- **1893 — ANP01-AUX-REM-02:** entrada en servicio; alcance y condición según registro A104.
+- **1893 — ANP01-AUX-REM-04:** inicio de construcción; alcance y condición según registro A104.
+- **1893 — ANP01-AUX-REP-01:** entrada en servicio; alcance y condición según registro A104.
+- **1893 — ANP01-AUX-TRA-01:** entrada en servicio; alcance y condición según registro A104.
+- **1893 — ANP01-AUX-TRA-04:** inicio de construcción; alcance y condición según registro A104.
+- **1893 — ANP01-CA75-05:** retiro; alcance y condición según registro A104.
+- **1893 — ANP01-CT75-10:** retiro; alcance y condición según registro A104.
+- **1893 — ANP01-FA75-05:** retiro; alcance y condición según registro A104.
+- **1893 — ANP01-FT75-10:** retiro; alcance y condición según registro A104.
+- **1893 — ANP01-GCO-03:** entrada en servicio; alcance y condición según registro A104.
+- **1893 — ANP01-GCO-06:** inicio de construcción; alcance y condición según registro A104.
+- **1893 — ANP01-GFL-03:** entrada en servicio; alcance y condición según registro A104.
+- **1893 — ANP01-GFL-04:** inicio de construcción; alcance y condición según registro A104.
+- **1893 — ANP01-GPT-02:** entrada en servicio; alcance y condición según registro A104.
+- **1893 — ANP01-GPT-03:** inicio de construcción; alcance y condición según registro A104.
+- **1893 — ANP01-HF75-09:** retiro; alcance y condición según registro A104.
+- **1893 — ANP01-HO75-02:** retiro; alcance y condición según registro A104.
+- **1893 — ANP01-RA75-05:** retiro; alcance y condición según registro A104.
+- **1893 — ANP01-SY75-01:** retiro; alcance y condición según registro A104.
+- **1893 — VAE-REF-04:** entrada en servicio; alcance y condición según registro A104.
+- **1894 — ANP01-A75-ALM-12:** retiro; alcance y condición según registro A104.
+- **1894 — ANP01-A75-COL-18:** retiro; alcance y condición según registro A104.
+- **1894 — ANP01-A75-HID-06:** retiro; alcance y condición según registro A104.
+- **1894 — ANP01-A75-HOS-04:** retiro; alcance y condición según registro A104.
+- **1894 — ANP01-A75-INS-05:** retiro; alcance y condición según registro A104.
+- **1894 — ANP01-A75-PAT-05:** retiro; alcance y condición según registro A104.
+- **1894 — ANP01-A75-REM-24:** retiro; alcance y condición según registro A104.
+- **1894 — ANP01-A75-REM-25:** retiro; alcance y condición según registro A104.
+- **1894 — ANP01-A75-TRA-13:** retiro; alcance y condición según registro A104.
+- **1894 — ANP01-A75-TRA-14:** retiro; alcance y condición según registro A104.
+- **1894 — ANP01-AL75-02:** retiro; alcance y condición según registro A104.
+- **1894 — ANP01-AU75-04:** retiro; alcance y condición según registro A104.
+- **1894 — ANP01-AUX-ALM-03:** inicio de construcción; alcance y condición según registro A104.
+- **1894 — ANP01-AUX-COL-02:** entrada en servicio; alcance y condición según registro A104.
+- **1894 — ANP01-AUX-COL-05:** inicio de construcción; alcance y condición según registro A104.
+- **1894 — ANP01-AUX-HID-02:** entrada en servicio; alcance y condición según registro A104.
+- **1894 — ANP01-AUX-HID-03:** inicio de construcción; alcance y condición según registro A104.
+- **1894 — ANP01-AUX-REM-03:** entrada en servicio; alcance y condición según registro A104.
+- **1894 — ANP01-AUX-REM-05:** inicio de construcción; alcance y condición según registro A104.
+- **1894 — ANP01-AUX-REM-06:** inicio de construcción; alcance y condición según registro A104.
+- **1894 — ANP01-AUX-REP-03:** inicio de construcción; alcance y condición según registro A104.
+- **1894 — ANP01-AUX-TRA-02:** entrada en servicio; alcance y condición según registro A104.
+- **1894 — ANP01-AUX-TRA-05:** inicio de construcción; alcance y condición según registro A104.
+- **1894 — ANP01-CA75-06:** retiro; alcance y condición según registro A104.
+- **1894 — ANP01-CT75-11:** retiro; alcance y condición según registro A104.
+- **1894 — ANP01-FA75-06:** retiro; alcance y condición según registro A104.
+- **1894 — ANP01-FT75-11:** retiro; alcance y condición según registro A104.
+- **1894 — ANP01-GCO-04:** entrada en servicio; alcance y condición según registro A104.
+- **1894 — ANP01-GCO-05:** entrada en servicio; alcance y condición según registro A104.
+- **1894 — ANP01-GCO-07:** inicio de construcción; alcance y condición según registro A104.
+- **1894 — ANP01-GFL-04:** entrada en servicio; alcance y condición según registro A104.
+- **1894 — ANP01-GFL-05:** inicio de construcción; alcance y condición según registro A104.
+- **1894 — ANP01-GPT-03:** entrada en servicio; alcance y condición según registro A104.
+- **1894 — ANP01-GPT-04:** inicio de construcción; alcance y condición según registro A104.
+- **1894 — ANP01-HF75-10:** retiro; alcance y condición según registro A104.
+- **1894 — ANP01-HO75-03:** retiro; alcance y condición según registro A104.
+- **1894 — ANP01-P75-01:** retiro; alcance y condición según registro A104.
+- **1894 — ANP01-RA75-06:** retiro; alcance y condición según registro A104.
+- **1894 — ANP01-SY75-02:** retiro; alcance y condición según registro A104.
+- **1895 — ANP01-A75-COL-19:** retiro; alcance y condición según registro A104.
+- **1895 — ANP01-A75-REM-26:** retiro; alcance y condición según registro A104.
+- **1895 — ANP01-A75-REM-27:** retiro; alcance y condición según registro A104.
+- **1895 — ANP01-A75-REP-09:** retiro; alcance y condición según registro A104.
+- **1895 — ANP01-A75-TRA-15:** retiro; alcance y condición según registro A104.
+- **1895 — ANP01-AL75-03:** retiro; alcance y condición según registro A104.
+- **1895 — ANP01-AU75-05:** retiro; alcance y condición según registro A104.
+- **1895 — ANP01-AUX-ALM-02:** entrada en servicio; alcance y condición según registro A104.
+- **1895 — ANP01-AUX-COL-03:** entrada en servicio; alcance y condición según registro A104.
+- **1895 — ANP01-AUX-COL-06:** inicio de construcción; alcance y condición según registro A104.
+- **1895 — ANP01-AUX-REM-04:** entrada en servicio; alcance y condición según registro A104.
+- **1895 — ANP01-AUX-REM-07:** inicio de construcción; alcance y condición según registro A104.
+- **1895 — ANP01-AUX-REP-02:** entrada en servicio; alcance y condición según registro A104.
+- **1895 — ANP01-AUX-TRA-03:** entrada en servicio; alcance y condición según registro A104.
+- **1895 — ANP01-AUX-TRA-06:** inicio de construcción; alcance y condición según registro A104.
+- **1895 — ANP01-CA75-07:** retiro; alcance y condición según registro A104.
+- **1895 — ANP01-CT75-12:** retiro; alcance y condición según registro A104.
+- **1895 — ANP01-EPR-01:** retiro; alcance y condición según registro A104.
+- **1895 — ANP01-FA75-07:** retiro; alcance y condición según registro A104.
+- **1895 — ANP01-FT75-12:** retiro; alcance y condición según registro A104.
+- **1895 — ANP01-GCO-06:** entrada en servicio; alcance y condición según registro A104.
+- **1895 — ANP01-GCO-08:** inicio de construcción; alcance y condición según registro A104.
+- **1895 — ANP01-GCO-09:** inicio de construcción; alcance y condición según registro A104.
+- **1895 — ANP01-GFL-05:** entrada en servicio; alcance y condición según registro A104.
+- **1895 — ANP01-GFL-06:** inicio de construcción; alcance y condición según registro A104.
+- **1895 — ANP01-GPT-04:** entrada en servicio; alcance y condición según registro A104.
+- **1895 — ANP01-GPT-05:** inicio de construcción; alcance y condición según registro A104.
+- **1895 — ANP01-HF75-11:** retiro; alcance y condición según registro A104.
+- **1895 — ANP01-HO75-04:** retiro; alcance y condición según registro A104.
+- **1895 — ANP01-P75-02:** retiro; alcance y condición según registro A104.
+- **1895 — ANP01-RA75-07:** retiro; alcance y condición según registro A104.
+- **1895 — ANP01-SY75-03:** retiro; alcance y condición según registro A104.
+- **1896 — ANP01-A75-ALM-13:** retiro; alcance y condición según registro A104.
+- **1896 — ANP01-A75-COL-20:** retiro; alcance y condición según registro A104.
+- **1896 — ANP01-A75-INS-06:** retiro; alcance y condición según registro A104.
+- **1896 — ANP01-A75-PAT-06:** retiro; alcance y condición según registro A104.
+- **1896 — ANP01-A75-REM-28:** retiro; alcance y condición según registro A104.
+- **1896 — ANP01-A75-REM-29:** retiro; alcance y condición según registro A104.
+- **1896 — ANP01-A75-REP-10:** retiro; alcance y condición según registro A104.
+- **1896 — ANP01-A75-TRA-16:** retiro; alcance y condición según registro A104.
+- **1896 — ANP01-A75-TRA-17:** retiro; alcance y condición según registro A104.
+- **1896 — ANP01-AL75-04:** retiro; alcance y condición según registro A104.
+- **1896 — ANP01-AU75-06:** retiro; alcance y condición según registro A104.
+- **1896 — ANP01-AUX-COL-04:** entrada en servicio; alcance y condición según registro A104.
+- **1896 — ANP01-AUX-COL-07:** inicio de construcción; alcance y condición según registro A104.
+- **1896 — ANP01-AUX-HID-03:** entrada en servicio; alcance y condición según registro A104.
+- **1896 — ANP01-AUX-HID-04:** inicio de construcción; alcance y condición según registro A104.
+- **1896 — ANP01-AUX-HOS-02:** entrada en servicio; alcance y condición según registro A104.
+- **1896 — ANP01-AUX-REM-05:** entrada en servicio; alcance y condición según registro A104.
+- **1896 — ANP01-AUX-REM-06:** entrada en servicio; alcance y condición según registro A104.
+- **1896 — ANP01-AUX-REM-08:** inicio de construcción; alcance y condición según registro A104.
+- **1896 — ANP01-AUX-TRA-04:** entrada en servicio; alcance y condición según registro A104.
+- **1896 — ANP01-AUX-TRA-07:** inicio de construcción; alcance y condición según registro A104.
+- **1896 — ANP01-CA75-08:** retiro; alcance y condición según registro A104.
+- **1896 — ANP01-FA75-08:** retiro; alcance y condición según registro A104.
+- **1896 — ANP01-GCO-07:** entrada en servicio; alcance y condición según registro A104.
+- **1896 — ANP01-GCO-10:** inicio de construcción; alcance y condición según registro A104.
+- **1896 — ANP01-GFL-06:** entrada en servicio; alcance y condición según registro A104.
+- **1896 — ANP01-GFL-07:** inicio de construcción; alcance y condición según registro A104.
+- **1896 — ANP01-GPT-05:** entrada en servicio; alcance y condición según registro A104.
+- **1896 — ANP01-GPT-06:** inicio de construcción; alcance y condición según registro A104.
+- **1896 — ANP01-HF75-12:** retiro; alcance y condición según registro A104.
+- **1896 — ANP01-HO75-05:** retiro; alcance y condición según registro A104.
+- **1896 — ANP01-P75-03:** retiro; alcance y condición según registro A104.
+- **1896 — ANP01-R75-01:** retiro; alcance y condición según registro A104.
+- **1896 — ANP01-RA75-08:** retiro; alcance y condición según registro A104.
+- **1896 — ANP01-SY75-04:** retiro; alcance y condición según registro A104.
+- **1897 — ANP01-A75-ALM-14:** retiro; alcance y condición según registro A104.
+- **1897 — ANP01-A75-COL-21:** retiro; alcance y condición según registro A104.
+- **1897 — ANP01-A75-HID-07:** retiro; alcance y condición según registro A104.
+- **1897 — ANP01-A75-HOS-05:** retiro; alcance y condición según registro A104.
+- **1897 — ANP01-A75-REM-30:** retiro; alcance y condición según registro A104.
+- **1897 — ANP01-A75-REM-31:** retiro; alcance y condición según registro A104.
+- **1897 — ANP01-A75-TRA-18:** retiro; alcance y condición según registro A104.
+- **1897 — ANP01-AL75-05:** retiro; alcance y condición según registro A104.
+- **1897 — ANP01-AU75-07:** retiro; alcance y condición según registro A104.
+- **1897 — ANP01-AUX-ALM-03:** entrada en servicio; alcance y condición según registro A104.
+- **1897 — ANP01-AUX-ALM-04:** inicio de construcción; alcance y condición según registro A104.
+- **1897 — ANP01-AUX-COL-05:** entrada en servicio; alcance y condición según registro A104.
+- **1897 — ANP01-AUX-COL-08:** inicio de construcción; alcance y condición según registro A104.
+- **1897 — ANP01-AUX-HOS-03:** inicio de construcción; alcance y condición según registro A104.
+- **1897 — ANP01-AUX-REM-07:** entrada en servicio; alcance y condición según registro A104.
+- **1897 — ANP01-AUX-REM-09:** inicio de construcción; alcance y condición según registro A104.
+- **1897 — ANP01-AUX-REP-03:** entrada en servicio; alcance y condición según registro A104.
+- **1897 — ANP01-AUX-REP-04:** inicio de construcción; alcance y condición según registro A104.
+- **1897 — ANP01-AUX-TRA-05:** entrada en servicio; alcance y condición según registro A104.
+- **1897 — ANP01-AUX-TRA-08:** inicio de construcción; alcance y condición según registro A104.
+- **1897 — ANP01-CA75-09:** retiro; alcance y condición según registro A104.
+- **1897 — ANP01-EPR-02:** retiro; alcance y condición según registro A104.
+- **1897 — ANP01-FA75-09:** retiro; alcance y condición según registro A104.
+- **1897 — ANP01-GCO-08:** entrada en servicio; alcance y condición según registro A104.
+- **1897 — ANP01-GCO-09:** entrada en servicio; alcance y condición según registro A104.
+- **1897 — ANP01-GCO-11:** inicio de construcción; alcance y condición según registro A104.
+- **1897 — ANP01-GFL-07:** entrada en servicio; alcance y condición según registro A104.
+- **1897 — ANP01-GFL-08:** inicio de construcción; alcance y condición según registro A104.
+- **1897 — ANP01-GPT-06:** entrada en servicio; alcance y condición según registro A104.
+- **1897 — ANP01-GPT-07:** inicio de construcción; alcance y condición según registro A104.
+- **1897 — ANP01-HF75-13:** retiro; alcance y condición según registro A104.
+- **1897 — ANP01-HO75-06:** retiro; alcance y condición según registro A104.
+- **1897 — ANP01-MT75-01:** retiro; alcance y condición según registro A104.
+- **1897 — ANP01-P75-04:** retiro; alcance y condición según registro A104.
+- **1897 — ANP01-R75-02:** retiro; alcance y condición según registro A104.
+- **1897 — ANP01-RA75-09:** retiro; alcance y condición según registro A104.
+- **1897 — ANP01-SY75-05:** retiro; alcance y condición según registro A104.
+- **1897 — ANP01-TR75-01:** retiro; alcance y condición según registro A104.
+- **1898 — ANP01-A75-ALM-15:** retiro; alcance y condición según registro A104.
+- **1898 — ANP01-A75-COL-22:** retiro; alcance y condición según registro A104.
+- **1898 — ANP01-A75-INS-07:** retiro; alcance y condición según registro A104.
+- **1898 — ANP01-A75-PAT-07:** retiro; alcance y condición según registro A104.
+- **1898 — ANP01-A75-REM-32:** retiro; alcance y condición según registro A104.
+- **1898 — ANP01-A75-REM-33:** retiro; alcance y condición según registro A104.
+- **1898 — ANP01-A75-REP-11:** retiro; alcance y condición según registro A104.
+- **1898 — ANP01-A75-TRA-19:** retiro; alcance y condición según registro A104.
+- **1898 — ANP01-A75-TRA-20:** retiro; alcance y condición según registro A104.
+- **1898 — ANP01-AL75-06:** retiro; alcance y condición según registro A104.
+- **1898 — ANP01-AU75-08:** retiro; alcance y condición según registro A104.
+- **1898 — ANP01-AUX-COL-06:** entrada en servicio; alcance y condición según registro A104.
+- **1898 — ANP01-AUX-HID-04:** entrada en servicio; alcance y condición según registro A104.
+- **1898 — ANP01-AUX-HID-05:** inicio de construcción; alcance y condición según registro A104.
+- **1898 — ANP01-AUX-REM-08:** entrada en servicio; alcance y condición según registro A104.
+- **1898 — ANP01-AUX-REM-10:** inicio de construcción; alcance y condición según registro A104.
+- **1898 — ANP01-AUX-TRA-06:** entrada en servicio; alcance y condición según registro A104.
+- **1898 — ANP01-CA75-10:** retiro; alcance y condición según registro A104.
+- **1898 — ANP01-FA75-10:** retiro; alcance y condición según registro A104.
+- **1898 — ANP01-GCO-10:** entrada en servicio; alcance y condición según registro A104.
+- **1898 — ANP01-GCO-12:** inicio de construcción; alcance y condición según registro A104.
+- **1898 — ANP01-GFL-08:** entrada en servicio; alcance y condición según registro A104.
+- **1898 — ANP01-GFL-09:** inicio de construcción; alcance y condición según registro A104.
+- **1898 — ANP01-GPT-07:** entrada en servicio; alcance y condición según registro A104.
+- **1898 — ANP01-HF75-14:** retiro; alcance y condición según registro A104.
+- **1898 — ANP01-HO75-07:** retiro; alcance y condición según registro A104.
+- **1898 — ANP01-MT75-02:** retiro; alcance y condición según registro A104.
+- **1898 — ANP01-P75-05:** retiro; alcance y condición según registro A104.
+- **1898 — ANP01-R75-03:** retiro; alcance y condición según registro A104.
+- **1898 — ANP01-RA75-10:** retiro; alcance y condición según registro A104.
+- **1898 — ANP01-SY75-06:** retiro; alcance y condición según registro A104.
+- **1898 — ANP01-T87-01:** retiro; alcance y condición según registro A104.
+- **1898 — ANP01-TR75-02:** retiro; alcance y condición según registro A104.
+- **1898 — C75-REF-01:** retiro; alcance y condición según registro A104.
+- **1899 — ANP01-A75-COL-23:** retiro; alcance y condición según registro A104.
+- **1899 — ANP01-A75-REM-34:** retiro; alcance y condición según registro A104.
+- **1899 — ANP01-A75-REM-35:** retiro; alcance y condición según registro A104.
+- **1899 — ANP01-A75-TRA-21:** retiro; alcance y condición según registro A104.
+- **1899 — ANP01-AL75-07:** retiro; alcance y condición según registro A104.
+- **1899 — ANP01-AUX-ALM-05:** inicio de construcción; alcance y condición según registro A104.
+- **1899 — ANP01-AUX-COL-07:** entrada en servicio; alcance y condición según registro A104.
+- **1899 — ANP01-AUX-COL-09:** inicio de construcción; alcance y condición según registro A104.
+- **1899 — ANP01-AUX-REM-09:** entrada en servicio; alcance y condición según registro A104.
+- **1899 — ANP01-AUX-REP-05:** inicio de construcción; alcance y condición según registro A104.
+- **1899 — ANP01-AUX-TRA-07:** entrada en servicio; alcance y condición según registro A104.
+- **1899 — ANP01-AUX-TRA-09:** inicio de construcción; alcance y condición según registro A104.
+- **1899 — ANP01-CA75-11:** retiro; alcance y condición según registro A104.
+- **1899 — ANP01-EPR-03:** retiro; alcance y condición según registro A104.
+- **1899 — ANP01-FA75-11:** retiro; alcance y condición según registro A104.
+- **1899 — ANP01-GCO-11:** entrada en servicio; alcance y condición según registro A104.
+- **1899 — ANP01-GFL-09:** entrada en servicio; alcance y condición según registro A104.
+- **1899 — ANP01-GFL-10:** inicio de construcción; alcance y condición según registro A104.
+- **1899 — ANP01-GPT-08:** inicio de construcción; alcance y condición según registro A104.
+- **1899 — ANP01-HF75-15:** retiro; alcance y condición según registro A104.
+- **1899 — ANP01-HO75-08:** retiro; alcance y condición según registro A104.
+- **1899 — ANP01-MT75-03:** retiro; alcance y condición según registro A104.
+- **1899 — ANP01-P75-06:** retiro; alcance y condición según registro A104.
+- **1899 — ANP01-R75-04:** retiro; alcance y condición según registro A104.
+- **1899 — ANP01-RA75-11:** retiro; alcance y condición según registro A104.
+- **1899 — ANP01-SY75-07:** retiro; alcance y condición según registro A104.
+- **1899 — ANP01-T87-02:** retiro; alcance y condición según registro A104.
+- **1899 — ANP01-TR75-03:** retiro; alcance y condición según registro A104.
+- **1900 — ANP01-A75-ALM-16:** retiro; alcance y condición según registro A104.
+- **1900 — ANP01-A75-COL-24:** retiro; alcance y condición según registro A104.
+- **1900 — ANP01-A75-HID-08:** retiro; alcance y condición según registro A104.
+- **1900 — ANP01-A75-HOS-06:** retiro; alcance y condición según registro A104.
+- **1900 — ANP01-A75-INS-08:** retiro; alcance y condición según registro A104.
+- **1900 — ANP01-A75-PAT-08:** retiro; alcance y condición según registro A104.
+- **1900 — ANP01-A75-REM-36:** retiro; alcance y condición según registro A104.
+- **1900 — ANP01-A75-REP-12:** retiro; alcance y condición según registro A104.
+- **1900 — ANP01-A75-TRA-22:** retiro; alcance y condición según registro A104.
+- **1900 — ANP01-AL75-08:** retiro; alcance y condición según registro A104.
+- **1900 — ANP01-AUX-ALM-04:** entrada en servicio; alcance y condición según registro A104.
+- **1900 — ANP01-AUX-COL-08:** entrada en servicio; alcance y condición según registro A104.
+- **1900 — ANP01-AUX-HID-05:** entrada en servicio; alcance y condición según registro A104.
+- **1900 — ANP01-AUX-HOS-03:** entrada en servicio; alcance y condición según registro A104.
+- **1900 — ANP01-AUX-REM-10:** entrada en servicio; alcance y condición según registro A104.
+- **1900 — ANP01-AUX-REM-11:** inicio de construcción; alcance y condición según registro A104.
+- **1900 — ANP01-AUX-REP-04:** entrada en servicio; alcance y condición según registro A104.
+- **1900 — ANP01-AUX-TRA-08:** entrada en servicio; alcance y condición según registro A104.
+- **1900 — ANP01-CA75-12:** retiro; alcance y condición según registro A104.
+- **1900 — ANP01-EPR-04:** retiro; alcance y condición según registro A104.
+- **1900 — ANP01-FA75-12:** retiro; alcance y condición según registro A104.
+- **1900 — ANP01-GCO-12:** entrada en servicio; alcance y condición según registro A104.
+- **1900 — ANP01-GCO-13:** inicio de construcción; alcance y condición según registro A104.
+- **1900 — ANP01-GFL-10:** entrada en servicio; alcance y condición según registro A104.
+- **1900 — ANP01-GPT-08:** entrada en servicio; alcance y condición según registro A104.
+- **1900 — ANP01-HF75-16:** retiro; alcance y condición según registro A104.
+- **1900 — ANP01-HO75-09:** retiro; alcance y condición según registro A104.
+- **1900 — ANP01-MT75-04:** retiro; alcance y condición según registro A104.
+- **1900 — ANP01-P75-07:** retiro; alcance y condición según registro A104.
+- **1900 — ANP01-R75-05:** retiro; alcance y condición según registro A104.
+- **1900 — ANP01-RA75-12:** retiro; alcance y condición según registro A104.
+- **1900 — ANP01-SY75-08:** retiro; alcance y condición según registro A104.
+- **1900 — ANP01-TR75-04:** retiro; alcance y condición según registro A104.
+- **1900 — C75-REF-02:** retiro; alcance y condición según registro A104.
+- **1901 — ANP01-A75-ALM-01:** retiro; alcance y condición según registro A104.
+- **1901 — ANP01-A75-COL-01:** retiro; alcance y condición según registro A104.
+- **1901 — ANP01-A75-HID-01:** retiro; alcance y condición según registro A104.
+- **1901 — ANP01-A75-REM-01:** retiro; alcance y condición según registro A104.
+- **1901 — ANP01-A75-REP-01:** retiro; alcance y condición según registro A104.
+- **1901 — ANP01-AUX-COL-10:** inicio de construcción; alcance y condición según registro A104.
+- **1901 — ANP01-AUX-TRA-10:** inicio de construcción; alcance y condición según registro A104.
+- **1901 — ANP01-GCO-14:** inicio de construcción; alcance y condición según registro A104.
+- **1901 — ANP01-GFL-11:** inicio de construcción; alcance y condición según registro A104.
+- **1901 — ANP01-GPT-09:** inicio de construcción; alcance y condición según registro A104.
+- **1901 — ANP01-HO75-10:** retiro; alcance y condición según registro A104.
+- **1901 — ANP01-P75-08:** retiro; alcance y condición según registro A104.
+- **1901 — ANP01-R75-06:** retiro; alcance y condición según registro A104.
+- **1901 — ANP01-TR75-05:** retiro; alcance y condición según registro A104.
+- **1902 — ANP01-A75-ALM-02:** retiro; alcance y condición según registro A104.
+- **1902 — ANP01-A75-COL-02:** retiro; alcance y condición según registro A104.
+- **1902 — ANP01-A75-HID-02:** retiro; alcance y condición según registro A104.
+- **1902 — ANP01-A75-REM-02:** retiro; alcance y condición según registro A104.
+- **1902 — ANP01-A75-REP-02:** retiro; alcance y condición según registro A104.
+- **1902 — ANP01-AUX-ALM-05:** entrada en servicio; alcance y condición según registro A104.
+- **1902 — ANP01-AUX-COL-09:** entrada en servicio; alcance y condición según registro A104.
+- **1902 — ANP01-AUX-REM-11:** entrada en servicio; alcance y condición según registro A104.
+- **1902 — ANP01-AUX-REP-05:** entrada en servicio; alcance y condición según registro A104.
+- **1902 — ANP01-AUX-TRA-09:** entrada en servicio; alcance y condición según registro A104.
+- **1902 — ANP01-EPR-05:** retiro; alcance y condición según registro A104.
+- **1902 — ANP01-GCO-13:** entrada en servicio; alcance y condición según registro A104.
+- **1902 — ANP01-GCO-15:** inicio de construcción; alcance y condición según registro A104.
+- **1902 — ANP01-GFL-11:** entrada en servicio; alcance y condición según registro A104.
+- **1902 — ANP01-GFL-12:** inicio de construcción; alcance y condición según registro A104.
+- **1902 — ANP01-GPT-09:** entrada en servicio; alcance y condición según registro A104.
+- **1902 — ANP01-HO75-11:** retiro; alcance y condición según registro A104.
+- **1902 — ANP01-P75-09:** retiro; alcance y condición según registro A104.
+- **1902 — ANP01-R75-07:** retiro; alcance y condición según registro A104.
+- **1902 — ANP01-TR75-06:** retiro; alcance y condición según registro A104.
+- **1902 — C75-REF-03:** retiro; alcance y condición según registro A104.
+- **1903 — ANP01-A75-ALM-03:** retiro; alcance y condición según registro A104.
+- **1903 — ANP01-A75-COL-03:** retiro; alcance y condición según registro A104.
+- **1903 — ANP01-A75-REM-03:** retiro; alcance y condición según registro A104.
+- **1903 — ANP01-AUX-HOS-04:** inicio de construcción; alcance y condición según registro A104.
+- **1903 — ANP01-GCO-14:** entrada en servicio; alcance y condición según registro A104.
+- **1903 — ANP01-GCO-16:** inicio de construcción; alcance y condición según registro A104.
+- **1903 — ANP01-GFL-12:** entrada en servicio; alcance y condición según registro A104.
+- **1903 — ANP01-GFL-13:** inicio de construcción; alcance y condición según registro A104.
+- **1903 — ANP01-GPT-10:** inicio de construcción; alcance y condición según registro A104.
+- **1903 — ANP01-HO75-12:** retiro; alcance y condición según registro A104.
+- **1903 — ANP01-P75-10:** retiro; alcance y condición según registro A104.
+- **1903 — ANP01-R75-08:** retiro; alcance y condición según registro A104.
+- **1903 — ANP01-TR75-07:** retiro; alcance y condición según registro A104.
+- **1904 — ANP01-A75-ALM-04:** retiro; alcance y condición según registro A104.
+- **1904 — ANP01-A75-COL-04:** retiro; alcance y condición según registro A104.
+- **1904 — ANP01-A75-REM-04:** retiro; alcance y condición según registro A104.
+- **1904 — ANP01-AUX-COL-10:** entrada en servicio; alcance y condición según registro A104.
+- **1904 — ANP01-AUX-COL-11:** inicio de construcción; alcance y condición según registro A104.
+- **1904 — ANP01-AUX-TRA-10:** entrada en servicio; alcance y condición según registro A104.
+- **1904 — ANP01-AUX-TRA-11:** inicio de construcción; alcance y condición según registro A104.
+- **1904 — ANP01-EPR-06:** retiro; alcance y condición según registro A104.
+- **1904 — ANP01-GCO-15:** entrada en servicio; alcance y condición según registro A104.
+- **1904 — ANP01-GCO-17:** inicio de construcción; alcance y condición según registro A104.
+- **1904 — ANP01-GFL-13:** entrada en servicio; alcance y condición según registro A104.
+- **1904 — ANP01-GFL-14:** inicio de construcción; alcance y condición según registro A104.
+- **1904 — ANP01-GPT-10:** entrada en servicio; alcance y condición según registro A104.
+- **1904 — ANP01-HO75-13:** retiro; alcance y condición según registro A104.
+- **1904 — ANP01-LOG-COL-01:** inicio de construcción; alcance y condición según registro A104.
+- **1904 — ANP01-LOG-COL-02:** inicio de construcción; alcance y condición según registro A104.
+- **1904 — ANP01-P75-11:** retiro; alcance y condición según registro A104.
+- **1904 — ANP01-R75-09:** retiro; alcance y condición según registro A104.
+- **1904 — ANP01-TR75-08:** retiro; alcance y condición según registro A104.
+- **1904 — C75-REF-04:** retiro; alcance y condición según registro A104.
+- **1905 — ANP01-A75-COL-05:** retiro; alcance y condición según registro A104.
+- **1905 — ANP01-A75-REM-05:** retiro; alcance y condición según registro A104.
+- **1905 — ANP01-GCO-16:** entrada en servicio; alcance y condición según registro A104.
+- **1905 — ANP01-GCO-18:** inicio de construcción; alcance y condición según registro A104.
+- **1905 — ANP01-GFL-14:** entrada en servicio; alcance y condición según registro A104.
+- **1905 — ANP01-HO75-14:** retiro; alcance y condición según registro A104.
+- **1905 — ANP01-LOG-COL-03:** inicio de construcción; alcance y condición según registro A104.
+- **1905 — ANP01-LOG-COL-04:** inicio de construcción; alcance y condición según registro A104.
+- **1905 — ANP01-P75-12:** retiro; alcance y condición según registro A104.
+- **1905 — ANP01-R75-10:** retiro; alcance y condición según registro A104.
+- **1905 — ANP01-TR75-09:** retiro; alcance y condición según registro A104.
+- **1906 — ANP01-A75-COL-06:** retiro; alcance y condición según registro A104.
+- **1906 — ANP01-A75-REM-06:** retiro; alcance y condición según registro A104.
+- **1906 — ANP01-AUX-HOS-04:** entrada en servicio; alcance y condición según registro A104.
+- **1906 — ANP01-EPR-07:** retiro; alcance y condición según registro A104.
+- **1906 — ANP01-GCO-17:** entrada en servicio; alcance y condición según registro A104.
+- **1906 — ANP01-TR75-10:** retiro; alcance y condición según registro A104.
+- **1906 — C75-REF-05:** retiro; alcance y condición según registro A104.
+- **1907 — ANP01-A75-COL-07:** retiro; alcance y condición según registro A104.
+- **1907 — ANP01-AUX-ALM-06:** inicio de construcción; alcance y condición según registro A104.
+- **1907 — ANP01-AUX-COL-11:** entrada en servicio; alcance y condición según registro A104.
+- **1907 — ANP01-AUX-COL-12:** inicio de construcción; alcance y condición según registro A104.
+- **1907 — ANP01-AUX-REP-06:** inicio de construcción; alcance y condición según registro A104.
+- **1907 — ANP01-AUX-TRA-11:** entrada en servicio; alcance y condición según registro A104.
+- **1907 — ANP01-AUX-TRA-12:** inicio de construcción; alcance y condición según registro A104.
+- **1907 — ANP01-GCO-18:** entrada en servicio; alcance y condición según registro A104.
+- **1907 — ANP01-LOG-COL-01:** entrada en servicio; alcance y condición según registro A104.
+- **1907 — ANP01-LOG-COL-02:** entrada en servicio; alcance y condición según registro A104.
+- **1907 — ANP01-TR75-11:** retiro; alcance y condición según registro A104.
+- **1907 — VAE-REF-01:** retiro; alcance y condición según registro A104.
+- **1908 — ANP01-AUX-HID-06:** inicio de construcción; alcance y condición según registro A104.
+- **1908 — ANP01-AUX-REM-12:** inicio de construcción; alcance y condición según registro A104.
+- **1908 — ANP01-EPR-08:** retiro; alcance y condición según registro A104.
+- **1908 — ANP01-LOG-COL-03:** entrada en servicio; alcance y condición según registro A104.
+- **1908 — ANP01-LOG-COL-04:** entrada en servicio; alcance y condición según registro A104.
+- **1908 — ANP01-TR75-12:** retiro; alcance y condición según registro A104.
+- **1908 — C75-REF-06:** retiro; alcance y condición según registro A104.
+- **1909 — ANP01-TR75-13:** retiro; alcance y condición según registro A104.
+- **1909 — VAE-REF-02:** retiro; alcance y condición según registro A104.
+- **1910 — ANP01-AUX-ALM-06:** entrada en servicio; alcance y condición según registro A104.
+- **1910 — ANP01-AUX-COL-12:** entrada en servicio; alcance y condición según registro A104.
+- **1910 — ANP01-AUX-HID-06:** entrada en servicio; alcance y condición según registro A104.
+- **1910 — ANP01-AUX-REM-12:** entrada en servicio; alcance y condición según registro A104.
+- **1910 — ANP01-AUX-REP-06:** entrada en servicio; alcance y condición según registro A104.
+- **1910 — ANP01-AUX-TRA-12:** entrada en servicio; alcance y condición según registro A104.
+- **1910 — ANP01-TR75-14:** retiro; alcance y condición según registro A104.
+- **1911 — VAE-REF-03:** retiro; alcance y condición según registro A104.
+- **1913 — VAE-REF-04:** retiro; alcance y condición según registro A104.
+- **1918 — ANP01-AUX-ALM-01:** retiro; alcance y condición según registro A104.
+- **1918 — ANP01-AUX-COL-01:** retiro; alcance y condición según registro A104.
+- **1918 — ANP01-AUX-HID-01:** retiro; alcance y condición según registro A104.
+- **1918 — ANP01-AUX-HOS-01:** retiro; alcance y condición según registro A104.
+- **1918 — ANP01-AUX-REM-01:** retiro; alcance y condición según registro A104.
+- **1918 — ANP01-AUX-REM-02:** retiro; alcance y condición según registro A104.
+- **1918 — ANP01-AUX-REP-01:** retiro; alcance y condición según registro A104.
+- **1918 — ANP01-AUX-TRA-01:** retiro; alcance y condición según registro A104.
+- **1919 — ANP01-AUX-COL-02:** retiro; alcance y condición según registro A104.
+- **1919 — ANP01-AUX-HID-02:** retiro; alcance y condición según registro A104.
+- **1919 — ANP01-AUX-REM-03:** retiro; alcance y condición según registro A104.
+- **1919 — ANP01-AUX-TRA-02:** retiro; alcance y condición según registro A104.
+- **1920 — ANP01-A75-COL-08:** retiro; alcance y condición según registro A104.
+- **1920 — ANP01-AUX-ALM-02:** retiro; alcance y condición según registro A104.
+- **1920 — ANP01-AUX-COL-03:** retiro; alcance y condición según registro A104.
+- **1920 — ANP01-AUX-REM-04:** retiro; alcance y condición según registro A104.
+- **1920 — ANP01-AUX-REP-02:** retiro; alcance y condición según registro A104.
+- **1920 — ANP01-AUX-TRA-03:** retiro; alcance y condición según registro A104.
+- **1920 — ANP01-GCO-01:** retiro; alcance y condición según registro A104.
+- **1920 — ANP01-GCO-02:** retiro; alcance y condición según registro A104.
+- **1920 — ANP01-GFL-01:** retiro; alcance y condición según registro A104.
+- **1920 — ANP01-GFL-02:** retiro; alcance y condición según registro A104.
+- **1920 — ANP01-GPT-01:** retiro; alcance y condición según registro A104.
+- **1921 — ANP01-AUX-COL-04:** retiro; alcance y condición según registro A104.
+- **1921 — ANP01-AUX-HID-03:** retiro; alcance y condición según registro A104.
+- **1921 — ANP01-AUX-HOS-02:** retiro; alcance y condición según registro A104.
+- **1921 — ANP01-AUX-REM-05:** retiro; alcance y condición según registro A104.
+- **1921 — ANP01-AUX-REM-06:** retiro; alcance y condición según registro A104.
+- **1921 — ANP01-AUX-TRA-04:** retiro; alcance y condición según registro A104.
+- **1921 — ANP01-GCO-03:** retiro; alcance y condición según registro A104.
+- **1921 — ANP01-GFL-03:** retiro; alcance y condición según registro A104.
+- **1921 — ANP01-GPT-02:** retiro; alcance y condición según registro A104.
+- **1922 — ANP01-AUX-ALM-03:** retiro; alcance y condición según registro A104.
+- **1922 — ANP01-AUX-COL-05:** retiro; alcance y condición según registro A104.
+- **1922 — ANP01-AUX-REM-07:** retiro; alcance y condición según registro A104.
+- **1922 — ANP01-AUX-REP-03:** retiro; alcance y condición según registro A104.
+- **1922 — ANP01-AUX-TRA-05:** retiro; alcance y condición según registro A104.
+- **1922 — ANP01-GCO-04:** retiro; alcance y condición según registro A104.
+- **1922 — ANP01-GCO-05:** retiro; alcance y condición según registro A104.
+- **1922 — ANP01-GFL-04:** retiro; alcance y condición según registro A104.
+- **1922 — ANP01-GPT-03:** retiro; alcance y condición según registro A104.
+- **1923 — ANP01-AUX-COL-06:** retiro; alcance y condición según registro A104.
+- **1923 — ANP01-AUX-HID-04:** retiro; alcance y condición según registro A104.
+- **1923 — ANP01-AUX-REM-08:** retiro; alcance y condición según registro A104.
+- **1923 — ANP01-AUX-TRA-06:** retiro; alcance y condición según registro A104.
+- **1923 — ANP01-GCO-06:** retiro; alcance y condición según registro A104.
+- **1923 — ANP01-GFL-05:** retiro; alcance y condición según registro A104.
+- **1923 — ANP01-GPT-04:** retiro; alcance y condición según registro A104.
+- **1924 — ANP01-AUX-COL-07:** retiro; alcance y condición según registro A104.
+- **1924 — ANP01-AUX-REM-09:** retiro; alcance y condición según registro A104.
+- **1924 — ANP01-AUX-TRA-07:** retiro; alcance y condición según registro A104.
+- **1924 — ANP01-GCO-07:** retiro; alcance y condición según registro A104.
+- **1924 — ANP01-GFL-06:** retiro; alcance y condición según registro A104.
+- **1924 — ANP01-GPT-05:** retiro; alcance y condición según registro A104.
+- **1925 — ANP01-AUX-ALM-04:** retiro; alcance y condición según registro A104.
+- **1925 — ANP01-AUX-COL-08:** retiro; alcance y condición según registro A104.
+- **1925 — ANP01-AUX-HID-05:** retiro; alcance y condición según registro A104.
+- **1925 — ANP01-AUX-HOS-03:** retiro; alcance y condición según registro A104.
+- **1925 — ANP01-AUX-REM-10:** retiro; alcance y condición según registro A104.
+- **1925 — ANP01-AUX-REP-04:** retiro; alcance y condición según registro A104.
+- **1925 — ANP01-AUX-TRA-08:** retiro; alcance y condición según registro A104.
+- **1925 — ANP01-GCO-08:** retiro; alcance y condición según registro A104.
+- **1925 — ANP01-GCO-09:** retiro; alcance y condición según registro A104.
+- **1925 — ANP01-GFL-07:** retiro; alcance y condición según registro A104.
+- **1925 — ANP01-GPT-06:** retiro; alcance y condición según registro A104.
+- **1926 — ANP01-GCO-10:** retiro; alcance y condición según registro A104.
+- **1926 — ANP01-GFL-08:** retiro; alcance y condición según registro A104.
+- **1926 — ANP01-GPT-07:** retiro; alcance y condición según registro A104.
+- **1927 — ANP01-AUX-ALM-05:** retiro; alcance y condición según registro A104.
+- **1927 — ANP01-AUX-COL-09:** retiro; alcance y condición según registro A104.
+- **1927 — ANP01-AUX-REM-11:** retiro; alcance y condición según registro A104.
+- **1927 — ANP01-AUX-REP-05:** retiro; alcance y condición según registro A104.
+- **1927 — ANP01-AUX-TRA-09:** retiro; alcance y condición según registro A104.
+- **1927 — ANP01-GCO-11:** retiro; alcance y condición según registro A104.
+- **1927 — ANP01-GFL-09:** retiro; alcance y condición según registro A104.
+- **1928 — ANP01-GCO-12:** retiro; alcance y condición según registro A104.
+- **1928 — ANP01-GFL-10:** retiro; alcance y condición según registro A104.
+- **1928 — ANP01-GPT-08:** retiro; alcance y condición según registro A104.
+- **1929 — ANP01-AUX-COL-10:** retiro; alcance y condición según registro A104.
+- **1929 — ANP01-AUX-TRA-10:** retiro; alcance y condición según registro A104.
+- **1930 — ANP01-GCO-13:** retiro; alcance y condición según registro A104.
+- **1930 — ANP01-GFL-11:** retiro; alcance y condición según registro A104.
+- **1930 — ANP01-GPT-09:** retiro; alcance y condición según registro A104.
+- **1931 — ANP01-AUX-HOS-04:** retiro; alcance y condición según registro A104.
+- **1931 — ANP01-GCO-14:** retiro; alcance y condición según registro A104.
+- **1931 — ANP01-GFL-12:** retiro; alcance y condición según registro A104.
+- **1932 — ANP01-AUX-COL-11:** retiro; alcance y condición según registro A104.
+- **1932 — ANP01-AUX-TRA-11:** retiro; alcance y condición según registro A104.
+- **1932 — ANP01-GCO-15:** retiro; alcance y condición según registro A104.
+- **1932 — ANP01-GFL-13:** retiro; alcance y condición según registro A104.
+- **1932 — ANP01-GPT-10:** retiro; alcance y condición según registro A104.
+- **1932 — ANP01-LOG-COL-01:** retiro; alcance y condición según registro A104.
+- **1932 — ANP01-LOG-COL-02:** retiro; alcance y condición según registro A104.
+- **1933 — ANP01-GCO-16:** retiro; alcance y condición según registro A104.
+- **1933 — ANP01-GFL-14:** retiro; alcance y condición según registro A104.
+- **1933 — ANP01-LOG-COL-03:** retiro; alcance y condición según registro A104.
+- **1933 — ANP01-LOG-COL-04:** retiro; alcance y condición según registro A104.
+- **1934 — ANP01-GCO-17:** retiro; alcance y condición según registro A104.
+- **1935 — ANP01-AUX-ALM-06:** retiro; alcance y condición según registro A104.
+- **1935 — ANP01-AUX-COL-12:** retiro; alcance y condición según registro A104.
+- **1935 — ANP01-AUX-HID-06:** retiro; alcance y condición según registro A104.
+- **1935 — ANP01-AUX-REM-12:** retiro; alcance y condición según registro A104.
+- **1935 — ANP01-AUX-REP-06:** retiro; alcance y condición según registro A104.
+- **1935 — ANP01-AUX-TRA-12:** retiro; alcance y condición según registro A104.
+- **1935 — ANP01-GCO-18:** retiro; alcance y condición según registro A104.

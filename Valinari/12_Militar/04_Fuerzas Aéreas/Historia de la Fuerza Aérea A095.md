@@ -257,4 +257,4 @@ Se cierran las tareas de incorporación editorial de A094 automotriz y A095 aér
 
 [[00_Canon/Integraciones V16/Integración A102 automotriz y aérea|Integración A102]] · [[08_Economia/Industria automotriz 1880-2026|Industria automotriz A094]]
 
-[[12_Militar/04_Fuerzas Aéreas/Programas A095/Programas aéreos A095|Programas aéreos A095]]
+[[12_Militar/04_Fuerzas Aéreas/Programas aéreos A095#Programas aéreos A095|Programas aéreos A095]]
