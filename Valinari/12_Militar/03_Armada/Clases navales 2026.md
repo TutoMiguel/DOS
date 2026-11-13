@@ -1,14 +1,13 @@
 ---
-canon: V17.7 A105
+canon: V17.8 A106
 estado: consolidado sin cambio de hechos de las fuentes
-actualizado: 2026-11-11
+actualizado: 2026-11-12
 ---
 
-## Resolución vigente A105 para el corte de 1891
+## Revisión vigente V17 8 A106
 
-Se ratifican dieciocho acorazados incorporados, seis posiciones de primera línea y doce de segunda, con tres capitales en construcción aparte. La reconstrucción de 239 identidades del ámbito catalogado comprende veinte presencias definidas y 219 candidaturas provisionales; no es inventario nacional ni disponibilidad simultánea. A104 mantiene sus cuatro Tarannon y los diseños ampliados. [[00_Canon/Integraciones V16/Acumulativa A105 Armada de Valinor en 1891|Resolución A105 Armada de 1891]] · [[12_Militar/03_Armada/Armada#Armada de Valinor en 1891|Desarrollo de la Armada en 1891]]
+Integrados ANP 02 y su auditoría, incluidos los bloques 50 a 54 por orden del autor de 12 de noviembre de 2026. Se conservan 427 unidades de referencia en 1980 y 615 plataformas en 2026. Las resoluciones A106 prevalecen sobre las tablas anteriores incompatibles; los datos materiales desconocidos conservan su condición. [[00_Canon/Integraciones V16/Acumulativa A106 Armada e industria naval 1891-2026|Resolución A106 Armada e industria naval]]
 
-Esta resolución contextualiza 1891 y conserva las configuraciones y cantidades de otros periodos de esta ficha.
 
 # Clases navales 2026
 
@@ -892,4 +891,108 @@ Fuente técnica integrada: [[12_Militar/03_Armada/AM1 Armada 1875-2026|AM1 Armad
 - [[01_Cronologia/Cronología Territorial V16|Cronología maestra]]
 - [[12_Militar/03_Armada/AM1 Armada 1875-2026|AM1 Armada 1875–2026]]
 
+
+
+
+## Desarrollo adoptado A106
+
+## Bloque 50 Generaciones y retiros entre 2000 y 2026
+
+Se conserva el corte narrativo de 490 buques tripulados de 2000, adoptado mediante A106, y el inventario vigente de 2026 de 615 plataformas. El enlace debe explicar reemplazos, crecimiento y cambios de clasificación; la diferencia de 125 no es una serie de altas sin retiros.
+
+Se adopta completar antes de 2026 la salida de los seis cruceros supervivientes de 2000, de Gil-galad III y de Círdan II y III, Mithlond y Nimrodel históricos conforme a sus ventanas y resoluciones. No reaparecen como escoltas especializados con otro nombre sin conversión registrada. Las familias que continúan utilizan cascos nuevos y reformas compatibles por generación, conservando el historial de cada unidad.
+
+Para los 24 Gil-galad de 2026 se adopta un reparto de doce IV y doce V. El programa IV de doce se completa con las cuatro entregas posteriores a 2000; el bloque V aporta doce desde el horizonte de 2012. Gil-galad VI conserva sus primeras incorporaciones previstas desde 2027 y no se incluye en 2026. El reparto IV/V se adopta mediante A106 dentro del total vigente; no es un listado nominal recuperado.
+
+Los veinte Círdan IV adoptados en 2000 forman parte de la continuidad moderna. La salida de 24 Círdan II/III y dieciocho Mithlond/Nimrodel de aquel corte deja veinte posiciones modernas; alcanzar 64 Círdan/Voronwë requiere 44 incorporaciones netas adicionales dentro del ámbito moderno, con sustituciones que se individualizarán. Esa necesidad contable no fija cuántos son IV o Voronwë en 2026 ni cuándo fue recibido cada casco.
+
+Se mantienen inicio de obras Voronwë desde 2022 y primeras incorporaciones desde 2026, con relevo hasta 2033. El agregado 64 permanece vigente y su desglose exacto sigue pendiente de listado nominal, como establece la ficha específica. No se completa ese pendiente con un reparto inventado ni se mantienen simultáneamente un IV sustituido y su sucesor dentro de la misma posición sin revisar el total.
+
+## Bloque 51 Fuerza aeronaval y transición de portaaviones
+
+### Composición vigente y trayectoria propuesta
+
+| Grupo de 2026 | Cantidad vigente | Desarrollo adoptado para explicar el enlace |
+| --- | --- | --- |
+| Telperion nucleares | 4 | Incorporaciones objetivo escalonadas en 2018, 2020, 2023 y 2026 |
+| Convencionales Anárion II/Elwing I/Aldarion I | 3 | Una posición de cada familia, reparto nuevo adoptado |
+| Varda II–III ligeros STOVL | 4 | Dos II y dos III, conforme a referencias de generación |
+
+Los cuatro Telperion son nuevas construcciones y no Aulë II renombrados. La secuencia anual de Telperion se adopta narrativamente mediante A106 dentro de la cantidad vigente; no acredita nombres, matrículas, fechas diarias de aceptación o disponibilidad de la última unidad. Conserva comienzo de programa desde 2010 y primer servicio desde 2018.
+
+Se adopta que los Aulë II completen su retiro dentro del horizonte previo hasta 2015, con selección de continuidad y recepción de relevos. El último Anárion I y los Varda I salen conforme a su relevo, sin mantenerlos en 2026. De los cuatro Anárion II adoptados en 2000 se conservaría una posición apta en 2026, tras salida escalonada de las otras tres; Elwing I y Aldarion I aportarían las otras dos convencionales, con referencias desde 2005 y 2018 respectivamente.
+
+El reparto de una convencional por familia queda adoptado por A106 y no cambia el agregado canónico de tres. No se infieren sus nombres o configuración exacta. Varda II conserva primeras entregas desde 2005 y Varda III desde 2025, sin trasladar sus prestaciones a Varda I ni adelantar todos los lotes a la primera fecha de clase.
+
+### Capacidad y disponibilidad
+
+Las alas aéreas, equipos y personal se concilian con A095 aérea y la aviación naval separada. La capacidad nominal de una cubierta no acredita aeronaves disponibles ni operación permanente de toda la fuerza. Una unidad recién incorporada necesita preparación y apoyo antes de sostener su misión.
+
+Se mantienen seguridad y mantenimiento nuclear específicos y configuración por lote. Las reformas integrales de media vida se distinguen de reparaciones y actualizaciones parciales; no se repiten reconstrucciones profundas para rejuvenecer el casco o anticipar prestaciones futuras. El programa no adopta despliegues, campañas o pérdidas.
+
+## Bloque 52 Escoltas sensores y capacidad ASW moderna
+
+### Categorías exclusivas
+
+Se conservan 24 destructores Gil-galad, 64 fragatas Círdan/Voronwë, 72 corbetas Calenport y treinta escoltas especializados, 190 unidades de superficie de combate. Las funciones parcialmente compartidas no permiten contar una fragata ASW también como escolta especializada.
+
+Se adopta denominar Gondolin a una línea de dieciocho escoltas especializados ASW y Doriath a otra de doce AAW, manteniendo el agregado de treinta. Los nombres y el reparto se adoptan narrativamente mediante A106; no se presentan como identidades nominales recuperadas del inventario administrativo. Sus diseños se desarrollarán a partir de las bandas de la ficha específica y con recepción propia, sin asignar ahora máximos de potencia, velocidad o sensores a todas las unidades.
+
+Las 72 Calenport corresponden a cohortes modernas y reformas compatibles. Eglarest de 2000 completa su salida como clase independiente antes de 2026 según la trayectoria propuesta; no se convierte en Calenport por renombrado. Los reemplazos y el crecimiento hasta 72 deberán individualizarse sin extender indefinidamente las reconstrucciones de cascos antiguos.
+
+### Información y equipos de plataforma
+
+Se conserva Palantír-2087V CIP como adaptación ficticia valinari del concepto de sonar remolcado de baja frecuencia y profundidad variable en plataformas compatibles, complementado por sonar de casco, helicópteros, patrulla aérea y otros medios. Su aceptación no acredita instalación universal ni prestaciones idénticas en todos los buques. Se mantiene la distinción de las referencias británicas y no se introduce una designación incorrecta por similitud de nombre.
+
+Palantír-4D, AESA, guerra electrónica y sistemas de mando se incorporan según generaciones y lotes. La ficha de plataforma debe distinguir búsqueda, identificación, control de tiro y coordinación. La disponibilidad nacional de un sensor no equipa todos los cascos ni elimina límites acústicos, meteorológicos o de comunicación.
+
+OceanNet mantiene 1959 como inicio operativo y sus etapas posteriores de interoperabilidad. Los sensores, archivos e información compartida aumentan posibilidades de coordinación, sin una imagen perfecta o enlaces submarinos continuos por inferencia. El proyecto Aeglos de sensores o vehículos y las modernizaciones futuras de 2025–2045 se distinguen del submarino especial homónimo y de equipos ya aceptados.
+
+## Bloque 53 Submarinos medios no tripulados y vigilancia
+
+### Cincuenta y cuatro submarinos vigentes
+
+Se conservan diez Arnor II–IV estratégicos, dieciocho Eärendil II–IV de ataque nuclear, dieciocho Tolfalas II–IV convencionales/AIP y ocho especiales Aeglos y rescate Falathar. Los numerales indican generaciones y no la conversión sucesiva de un casco. El reparto nominal por generación y configuración requiere su registro y no se completa aquí por inferencia.
+
+Se adopta completar la salida de los Eärendil nucleares iniciales y de los Tolfalas convencionales más antiguos antes del corte, sustituyéndolos por generaciones dentro de los totales vigentes. La transición estratégica combina retiros Arnor II aptos para baja y nuevas incorporaciones III/IV, sin retirar toda la familia a la vez. Los dos especializados Aeglos de 2000 se concilian con los demás de la familia y Falathar sin mantener los Ossë anteriores por el mero hecho de compartir misión.
+
+El primer horizonte Falathar se mantiene desde 2022 y no se adelanta a 2000. Los equipos de rescate y vehículos embarcados no se cuentan automáticamente como plataformas independientes. La misión nuclear, convencional, especial o rescate conserva apoyo y preparación propios, sin atribuir capacidades de una a todas las demás.
+
+### Vigilancia y vehículos independientes
+
+Se conservan ochenta OPV Sírënandë y setenta patrulleros rápidos. Se adopta desarrollar estos últimos como familia moderna de vigilancia rápida Malaca, con generaciones y cascos por conciliar, sin modificar su agregado. La continuidad del nombre no conserva todos los patrulleros de 2000 ni convierte sus veinte lanchas misilísticas en otros veinte buques adicionales.
+
+Se adopta completar el retiro de la categoría independiente de lanchas misilísticas anterior antes de 2026, con sus funciones de superficie redistribuidas a diseños adecuados. Un patrullero puede tener equipos de misión aceptados sin pasar a contarse de nuevo como lancha de otra categoría. Los despliegues y armamento concreto se determinan por ficha y lote.
+
+Los treinta de guerra de minas y veinte hidrográficos tienen categorías propias. Los veinte vehículos navales no tripulados del inventario son plataformas independientes a efectos de su registro; no toda embarcación auxiliar, dron o vehículo de inspección embarcado constituye otra alta. Cuando actúen desde un buque de apoyo, se registra su identidad y relación sin duplicar una misma plataforma en dos familias.
+
+## Bloque 54 Cierre del enlace con 2026 y preparación editorial
+
+### Inventario vigente que se conserva
+
+| Grupo canónico | Composición de referencia | Cantidad |
+| --- | --- | --- |
+| Portaaviones | 4 nucleares, 3 convencionales y 4 ligeros | 11 |
+| Submarinos | 10 estratégicos, 18 de ataque, 18 convencionales y 8 especiales/rescate | 54 |
+| Superficie de combate | 24 destructores, 64 fragatas, 72 corbetas y 30 especializados | 190 |
+| Anfibios | 14 de asalto y 20 LPD/LSD | 34 |
+| Patrulla vigilancia y servicios | 80 OPV, 70 rápidos, 30 minas, 20 hidrográficos y 20 no tripulados | 220 |
+| Auxiliares | Logística y mando/apoyo por funciones | 106 |
+| Total vigente | 595 buques tripulados y 20 plataformas no tripuladas | 615 |
+
+La hipótesis de 449 disponibles se conserva como simulación de ciclo ordinario y no medición de estado observado. Los identificadores administrativos A092 de 2026 no son nombres o matrículas históricas acreditadas y no se reemplazan por identidades inventadas en esta acumulativa.
+
+### Apoyo y comparabilidad con 2000
+
+Los 106 auxiliares incluyen veinte petroleros, dieciocho reabastecedores, doce transportes estratégicos, diez hospitales, doce talleres, diez oceanográficos, ocho de salvamento y rescate y dieciséis de mando/comunicaciones y apoyo. Se cuentan los veinte hidrográficos fuera de esos 106, conforme al inventario vigente, sin que un mismo casco complete ambas posiciones.
+
+La comparación con los 120 auxiliares de 2000 debe reconocer la separación de hidrografía y categorías actuales antes de atribuir crecimiento o reducción. El agregado de apoyo incluye reemplazos, ampliaciones y reclasificaciones; no se transforma automáticamente todo buque anterior en otra categoría para alcanzar la cifra.
+
+La diferencia entre los 490 buques adoptados de 2000 y las 615 plataformas vigentes de 2026 equivale aritméticamente a 105 posiciones tripuladas netas más veinte no tripuladas. No representa esas mismas cantidades de construcciones totales: en el intervalo hay altas, retiros y conversiones por familias. La fuerza de 1980 de 427 permanece sin cambio.
+
+### Industria mantenimiento y trazabilidad
+
+Los programas modernos requieren integración eléctrica, acústica, electrónica, software, aeronáutica y seguridad nuclear donde corresponda, con proveedores cualificados y apoyo de reparación. Los objetivos de cifra no certifican personal, presupuesto, materiales o disponibilidad de astilleros. La automatización y mantenimiento predictivo se incorporan por plataforma y aceptación, no por simple actualización del vocabulario.
+
+Se preservan originales, configuraciones y nivel de evidencia. A094 automotriz/A095 aérea permanecen separados de A094 defensa/A095 antibuque; A101 conserva E1 y alternativas E2/E3 no acumulables. Los desarrollos posteriores a 2026 se mantienen como objetivos futuros y no se cuentan como equipos o buques ya operativos.
 

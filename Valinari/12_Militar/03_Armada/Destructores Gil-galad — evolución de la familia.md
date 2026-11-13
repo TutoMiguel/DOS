@@ -1,15 +1,13 @@
 ---
 tipo: ficha de familia naval
-canon: V17.7 A105
+canon: V17.8 A106
 estado: vigente
 fecha_referencia: 1973-2026
 ---
 
-## Resolución vigente A105 para el corte de 1891
+## Revisión vigente V17 8 A106
 
-Se ratifican dieciocho acorazados incorporados, seis posiciones de primera línea y doce de segunda, con tres capitales en construcción aparte. La reconstrucción de 239 identidades del ámbito catalogado comprende veinte presencias definidas y 219 candidaturas provisionales; no es inventario nacional ni disponibilidad simultánea. A104 mantiene sus cuatro Tarannon y los diseños ampliados. [[00_Canon/Integraciones V16/Acumulativa A105 Armada de Valinor en 1891|Resolución A105 Armada de 1891]] · [[12_Militar/03_Armada/Armada#Armada de Valinor en 1891|Desarrollo de la Armada en 1891]]
-
-Esta resolución contextualiza 1891 y conserva las configuraciones y cantidades de otros periodos de esta ficha.
+Integrados ANP 02 y su auditoría, incluidos los bloques 50 a 54 por orden del autor de 12 de noviembre de 2026. Se conservan 427 unidades de referencia en 1980 y 615 plataformas en 2026. Las resoluciones A106 prevalecen sobre las tablas anteriores incompatibles; los datos materiales desconocidos conservan su condición. [[00_Canon/Integraciones V16/Acumulativa A106 Armada e industria naval 1891-2026|Resolución A106 Armada e industria naval]]
 
 
 # Destructores Gil-galad
@@ -104,3 +102,54 @@ La tabla de 1980 debe conservar **12 destructores Gil-galad agregados**, compart
 - [[12_Militar/03_Armada/Clases navales 2026#Destructores Gil-galad de defensa aérea — 2026|Destructores Gil-galad de defensa aérea — 2026]]
 - Naval History and Heritage Command, USS *Spruance*: https://www.history.navy.mil/research/histories/ship-histories/danfs/s/spruance.html
 - NAVSEA, historia de destructores y propulsión de turbina de gas: https://www.navsea.navy.mil/Media/News/Article-View/Article/1635780/weaponry-technology-threats-improve-destroyers-over-time/
+
+
+## Desarrollo adoptado A106
+
+## Bloque 43 Misiles mando e información naval
+
+### Introducción por sistemas y lotes
+
+Se adopta extender defensa aérea, ataque de superficie y guerra electrónica mediante programas propios, preservando las primeras instalaciones y referencias vigentes. El misil requiere lanzador, sensores, control, munición, seguridad, repuestos y personal; su existencia nacional no acredita instalación ni eficacia idéntica en todos los cascos.
+
+Los cruceros y destructores se especializan en mando, defensa aérea, ASW y empleo de superficie sin hacer todas las plataformas equivalentes. Los equipos ópticos y artillería mantienen funciones compatibles. La reforma conserva configuración anterior y posterior, con límites de energía, estabilidad y espacios. No se atribuyen misiles o radares posteriores a su cronología por pertenecer a un lote modernizado.
+
+Las Nosselië se desarrollan como línea nueva de 24 lanchas de referencia en 1980, distintas de las veinte Forlond I misilísticas anteriores. Se adopta completar el relevo de Forlond durante los años setenta conforme entren Nosselië, sin cambiar únicamente el nombre de los mismos cascos. Los torpederos y anfibios Forlond históricos siguen siendo otras identidades.
+
+### OceanNet y mando
+
+Se conserva OceanNet operativa desde 1959 y su consolidación institucional e interoperabilidad de 1969. La propuesta desarrolla incorporación gradual de nodos, comunicaciones y procesamiento según equipos y enlaces disponibles. La referencia antigua a una red solo precursora en los setenta se concilia como ampliación naval por etapas, no como retraso de la fecha operativa general.
+
+Los enlaces no garantizan una imagen táctica instantánea y completa en todos los barcos. El mando debe conservar procedimientos de radio y operación degradada. No se atribuyen conectividad submarina continua ni arquitecturas digitales modernas por tener acceso a una red de tierra o estación.
+
+Se adopta relacionar sensores, operadores, identificación y decisión con responsabilidades claras. La recepción de un radar de búsqueda no acredita todas las funciones de control de armas. La capacidad de una unidad para aportar información no la hace equivalente a un centro de mando mayor ni desplaza por sí sola sus funciones anteriores.
+
+### Doctrina de empleo y seguridad de integración
+
+La fuerza aeronaval, las agrupaciones de superficie, submarinos y estaciones cooperan conservando misiones y disponibilidad propias. La concentración en un teatro necesita apoyo y reduce cobertura en otro; no se deduce dominio permanente de todas las rutas a partir de la suma nacional.
+
+Los programas de disuasión y operaciones convencionales tienen mandos y decisiones específicos por definir. Este bloque no adopta guerras, patrullas, pérdidas, objetivos o resultados. El desarrollo se limita a organización, integración técnica y trayectoria industrial.
+
+## Bloque 45 Relevo y conciliación de generaciones entre 1980 y 2000
+
+Se conserva la referencia de 427 unidades de 1980 aceptada para la trayectoria de esta acumulativa. La transición propuesta prioriza relevo de cascos, información, mantenimiento y misiones, sin asignar automáticamente las prestaciones de 2000 a barcos anteriores.
+
+La tabla tardía AM1 sitúa Gil-galad III desde 1978 y IV desde 1997. Se adopta afinar el desglose de los doce Gil-galad de 1980 como diez II y dos III, sustituyendo la lectura anterior de doce II sin cambiar la cantidad familiar de referencia. La precisión generacional es una revisión nueva propuesta, no una corrección ya publicada.
+
+Gil-galad III se desarrollaría como veinte nuevas construcciones incorporadas entre 1978 y 1995; IV como doce de programa, ocho incorporadas objetivo entre 1997 y 2000 y cuatro posteriores hasta 2005. Los veinte III y ocho IV compondrían los 28 destructores de referencia de 2000. Gil-galad II, Beleg II y Ossë II completarían su salida activa antes del corte, con relevos y reformas de continuidad compatibles. No se renombran Beleg u Ossë como Gil-galad para cerrar la cantidad.
+
+Los cruceros conservan una presencia menor: se adopta retener cuatro Eärendil III y dos Noldor I en 2000, con los restantes cruceros de la referencia de 1980 retirados gradualmente. La supervivencia hasta ese corte requiere selección y reforma justificadas; no se inventan resultados de inspección. Esos seis no se incluyen también entre destructores.
+
+Para las fragatas antiguas se mantienen los horizontes de retiro por generaciones y la continuidad de Mithlond y Nimrodel que se concilie en el bloque 47. Las corbetas reconstruidas de los años setenta no reciben otra vida ilimitada: su relevo debe considerar edad del casco original, no solo la fecha de reforma.
+
+## Bloque 50 Generaciones y retiros entre 2000 y 2026
+
+Se conserva el corte narrativo de 490 buques tripulados de 2000, adoptado mediante A106, y el inventario vigente de 2026 de 615 plataformas. El enlace debe explicar reemplazos, crecimiento y cambios de clasificación; la diferencia de 125 no es una serie de altas sin retiros.
+
+Se adopta completar antes de 2026 la salida de los seis cruceros supervivientes de 2000, de Gil-galad III y de Círdan II y III, Mithlond y Nimrodel históricos conforme a sus ventanas y resoluciones. No reaparecen como escoltas especializados con otro nombre sin conversión registrada. Las familias que continúan utilizan cascos nuevos y reformas compatibles por generación, conservando el historial de cada unidad.
+
+Para los 24 Gil-galad de 2026 se adopta un reparto de doce IV y doce V. El programa IV de doce se completa con las cuatro entregas posteriores a 2000; el bloque V aporta doce desde el horizonte de 2012. Gil-galad VI conserva sus primeras incorporaciones previstas desde 2027 y no se incluye en 2026. El reparto IV/V se adopta mediante A106 dentro del total vigente; no es un listado nominal recuperado.
+
+Los veinte Círdan IV adoptados en 2000 forman parte de la continuidad moderna. La salida de 24 Círdan II/III y dieciocho Mithlond/Nimrodel de aquel corte deja veinte posiciones modernas; alcanzar 64 Círdan/Voronwë requiere 44 incorporaciones netas adicionales dentro del ámbito moderno, con sustituciones que se individualizarán. Esa necesidad contable no fija cuántos son IV o Voronwë en 2026 ni cuándo fue recibido cada casco.
+
+Se mantienen inicio de obras Voronwë desde 2022 y primeras incorporaciones desde 2026, con relevo hasta 2033. El agregado 64 permanece vigente y su desglose exacto sigue pendiente de listado nominal, como establece la ficha específica. No se completa ese pendiente con un reparto inventado ni se mantienen simultáneamente un IV sustituido y su sucesor dentro de la misma posición sin revisar el total.

@@ -1,7 +1,7 @@
 # Cronología maestra atlántica de la Unión Valinoriana
 
 
-Estado: VIGENTE V17.7 A105, con A092 y A093 conservadas. Las decisiones expresas posteriores del autor prevalecen sobre V16.3. Tol Eressëa 20–40 y Groenlandia 55–75 d. C.; poblaciones antiguas conservadas por ámbito.
+Estado: VIGENTE V17.8 A106, con A092 y A093 conservadas. Las decisiones expresas posteriores del autor prevalecen sobre V16.3. Tol Eressëa 20–40 y Groenlandia 55–75 d. C.; poblaciones antiguas conservadas por ámbito.
 
 * **2026 clasificación editorial:** Islandia y Groenlandia son unidades federales externas al Reino; 2026 no es primera incorporación histórica.
 * **2026 cuentas conciliadas:** 481 + 37 + 5,5 = 523,5 millones; externas vigentes 42,5. PIB PPA 58,50 + 7,00 = 65,50 billones; los 0,95 de Islandia y Groenlandia ya están incluidos en las externas.
@@ -2425,3 +2425,42 @@ Se incluyen fechas conocidas o adoptadas de auxiliares, patrulleros y supervivie
 - **1892:** Se conserva el servicio de Vëantur 03 y el final de primera línea transitoria de Círdan 05–06 y Gil-galad 05–06; comienzan Anárion y Tarannon 02 según su calendario.
 - **1893:** Se conserva el servicio de Vëantur 04 y la conclusión de su serie de cuatro.
 - **1894:** Se conserva el primer servicio de Tarannon; la Armada de 1891 no lo incluye como incorporado.
+
+
+## Integración A106 Renovación naval y desarrollo industrial de 1891 a 2026
+
+[[00_Canon/Integraciones V16/Acumulativa A106 Armada e industria naval 1891-2026|Resolución A106 Armada e industria naval]]
+
+Prevalece esta conciliación sobre entradas anteriores incompatibles; originales y perímetros se conservan. Ningún corte expresa disponibilidad simultánea.
+
+- **1891:** Se conserva íntegro el corte A105; no se suman los tres capitales en obra.
+- **1900–1905:** Ciryatan identifica los cuatro exploradores ya comprendidos en las veinticuatro unidades; conservar calendarios A104.
+- **1914:** Programas parcialmente incorporados; separar fuerzas combatientes, patrulla y apoyo.
+- **1920:** Objetivo auxiliar 110; nodriza experimental es conversión dentro del transporte, no un casco adicional.
+- **1928:** Nargothrond experimental procede de conversión civil distinta de la nodriza.
+- **1930:** Programas Eregion, Osgiliath, Nimras y Elenna II parcialmente incorporados; no confundir programa con presencia.
+- **1940:** Inicio aceptado del programa Aulë I, que enmienda el antecedente de 1943.
+- **1945:** Corte narrativo 325: incluye 51 supervivientes, además del ámbito parcial de 274. Catorce Mithlond I ya incorporados; estreno exacto pendiente.
+- **1948:** Retiro objetivo de Nargothrond.
+- **1952:** Finalización objetivo de los ocho Aulë I y retiro escalonado de los capitales pesados retenidos.
+- **1955:** Arranque de la serie moderna Círdan según ficha específica; separado del acorazado homónimo de 1875.
+- **1959:** OceanNet operativa; no implica integración naval digital completa.
+- **1960:** Corte narrativo 431, todo submarino contado es convencional; nueve portaaviones convencionales. Ocho Mithlond II y seis Nimrodel II incorporados; estrenos exactos pendientes.
+- **1965:** Inicio de construcción del Aulë II nuclear según precedencia aceptada; no se coloca en servicio en 1960.
+- **1969:** Consolidación OceanNet; integración gradual por equipos y plataformas.
+- **1970 / 1975:** Primeras incorporaciones de los dos Aulë II nucleares.
+- **1970–1979:** Retiro objetivo escalonado de Aulë I.
+- **1980:** Conservar 427 y categorías vigentes; los doce Gil-galad familiares se reparten diez II y dos III.
+- **1983:** Hito de protocolo OceanNet conservado; sin instalarlo retroactivamente en toda la flota.
+- **1995–2000:** Veinte Círdan IV incorporados al corte 2000 dentro de un total de 62 fragatas y escoltas.
+- **2000:** Corte narrativo 490; subtotal AM1 464 más seis cruceros y veinte lanchas.
+- **2026:** Se conservan 615 plataformas: 595 tripuladas y veinte no tripuladas. A106 adopta el enlace de los bloques 50 a 54 sin modificar cantidades ni categorías.
+- **2018, 2020, 2023 y 2026:** Incorporaciones narrativas escalonadas de los cuatro Telperion; nombres y matrículas individuales pendientes.
+- **2022:** Comienzan obras Voronwë; la recepción inicial se mantiene desde 2026 y el relevo hasta 2033.
+- **2025–2026:** La fuerza ligera embarcada de 2026 comprende dos Varda II y dos III dentro de cuatro ligeros; no se trasladan esas configuraciones a Varda I.
+- **2026:** Los tres portaaviones convencionales se distribuyen en una posición Anárion II, una Elwing I y una Aldarion I.
+- **2026:** Los 24 Gil-galad se reparten doce IV y doce V; ninguna incorporación VI antes de 2027. Se conservan 64 Círdan/Voronwë sin reparto nominal inferido.
+- **2026:** Se adoptan Gondolin para dieciocho escoltas especializados ASW y Doriath para doce AAW, dentro de treinta; Malaca identifica la familia de setenta patrulleros rápidos.
+- **2026:** Se retira antes o al corte la categoría independiente de lanchas misilísticas y las líneas antiguas fijadas en 50–53, sin sumarlas a sus sucesores. Las bajas concretas por casco siguen pendientes.
+- **2026:** La hipótesis 449 disponibles permanece simulación, sin convertirla en estado observado.
+- **2027–2033:** Horizontes futuros: primeras incorporaciones Gil-galad VI desde 2027 y continuidad del relevo Voronwë; no se suman a la fuerza operativa de 2026.

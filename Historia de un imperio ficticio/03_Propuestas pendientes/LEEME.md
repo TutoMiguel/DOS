@@ -6,3 +6,8 @@
 Consulta el [Índice de canon, Word, cronología y acumulativas](../00_Abrir%20proyecto/Índice%20de%20canon%2C%20Word%2C%20cronolog%C3%ADa%20y%20acumulativas.md) para acceder a las versiones vigentes del vault y a las demás acumulativas.
 
 A094 automotriz y A095 aérea: integradas y desarrolladas en V17.4 A102. A089 ya forma parte del maestro; sus métricas conservan los límites de planificación y auditoría establecidos. Las carpetas históricas no constituyen una cola automática de integración.
+
+
+## Cierre de acumulativas V17.8 A106
+
+ANP 01 ya integrada mediante A104. ANP 02 y auditoría integradas mediante A106, incluidos bloques 50–54 por orden de integración del autor. No quedan propuestas ANP02 pendientes de aceptación. Los originales AM1 y A089 de esta carpeta son antecedentes ya integrados, sin duplicación. Continúan los datos materiales, métricas y expedientes pendientes; integrar no inventa pruebas o cifras.

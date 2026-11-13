@@ -1,14 +1,13 @@
 ---
-canon: V17.7 A105
+canon: V17.8 A106
 estado: consolidado sin cambio de hechos de las fuentes
-actualizado: 2026-11-11
+actualizado: 2026-11-12
 ---
 
-## Resolución vigente A105 para el corte de 1891
+## Revisión vigente V17 8 A106
 
-Se ratifican dieciocho acorazados incorporados, seis posiciones de primera línea y doce de segunda, con tres capitales en construcción aparte. La reconstrucción de 239 identidades del ámbito catalogado comprende veinte presencias definidas y 219 candidaturas provisionales; no es inventario nacional ni disponibilidad simultánea. A104 mantiene sus cuatro Tarannon y los diseños ampliados. [[00_Canon/Integraciones V16/Acumulativa A105 Armada de Valinor en 1891|Resolución A105 Armada de 1891]] · [[12_Militar/03_Armada/Armada#Armada de Valinor en 1891|Desarrollo de la Armada en 1891]]
+Integrados ANP 02 y su auditoría, incluidos los bloques 50 a 54 por orden del autor de 12 de noviembre de 2026. Se conservan 427 unidades de referencia en 1980 y 615 plataformas en 2026. Las resoluciones A106 prevalecen sobre las tablas anteriores incompatibles; los datos materiales desconocidos conservan su condición. [[00_Canon/Integraciones V16/Acumulativa A106 Armada e industria naval 1891-2026|Resolución A106 Armada e industria naval]]
 
-Esta resolución contextualiza 1891 y conserva las configuraciones y cantidades de otros periodos de esta ficha.
 
 # Clases navales 1980
 
@@ -420,3 +419,144 @@ Fuente técnica integrada: [[12_Militar/03_Armada/AM1 Armada 1875-2026|AM1 Armad
 - [[12_Militar/03_Armada/AM1 Armada 1875-2026|AM1 Armada 1875–2026]]
 
 
+
+
+## Desarrollo adoptado A106
+
+## Bloque 40 Relevo de generaciones entre 1960 y 1980
+
+### Principio de continuidad
+
+Se conserva el objetivo narrativo de 431 del corte de 1960 adoptado mediante A106 y la composición de referencia vigente de 427 en 1980. La diferencia neta de cuatro no implica retirar solo cuatro buques: se adopta un relevo amplio de cascos y equipos mientras las funciones se redistribuyen y los programas se completan.
+
+Los ocho Aulë I completarían su retiro escalonado entre 1970 y 1979, con tres Anárion I ya incorporados y entrada gradual de Aulë II y Varda I. El horizonte de retiro es una propuesta de conciliación respecto a las bandas AM1 discrepantes, conservando los originales y evitando llevar la generación convencional anterior al inventario de 1980 por inferencia.
+
+Los cruceros Turgon I, Eärendil II y Rómenna II anteriores, destructores y escoltas de 1940 y las corbetas anteriores completarían sus salidas antes del corte de 1980 conforme a estado y relevo. Los retiros de Eregion, Osgiliath, Nimras y Elenna II anteriores a 1960 se mantienen. No se prolongan esos cascos para completar clases de nombre parecido de 1980.
+
+### Composición por generaciones propuesta
+
+Se adopta conservar en 1980 cuatro de los cinco Turgon II, seis Eärendil III y cuatro de los cinco Noldor I: catorce cruceros. En 1980 se conservan diez Gil-galad II y se incorporan dos III, junto a dieciséis Beleg II y ocho Ossë II: 36 destructores. La precisión posterior del bloque 45 gobierna este reparto. Las dos bajas de crucero y catorce salidas de los programas históricos de destructores se escalonan por aptitud y función; no se atribuyen pérdidas de guerra.
+
+Las fragatas Mithlond II y Nimrodel II conservarían doce y ocho posiciones, respectivamente, después de retiros o sustituciones dentro de sus programas. El resto de las 56 fragatas/escoltas corresponde a 36 Círdan de generaciones distintas, desarrollados en el bloque 42. Los numerales y tipos se mantienen y las referencias no prueban que un mismo casco haya cambiado de clase por cada actualización.
+
+La construcción de nuevas unidades y las reformas de supervivientes deben conservar espacio de taller, personal y repuestos. Una baja libera recursos potenciales pero no habilita automáticamente a su dotación en la tecnología del sucesor. Las conversiones se registran por identidad material y se cuentan en una sola categoría.
+
+## Bloque 41 Programas nucleares y fuerza aeronaval
+
+### Siete portaaviones de la referencia de 1980
+
+Se adopta completar dos Aulë II nucleares con primeras incorporaciones objetivo en 1970 y 1975, dentro del horizonte de construcción desde 1965 ya adoptado mediante A106. Los tres Anárion I convencionales conservan sus entregas de 1960, 1963 y 1965. Dos Varda I ligeros se incorporarían como objetivo en 1970 y 1974, diferenciados de las generaciones STOVL posteriores.
+
+La fuerza de referencia de 1980 queda en dos Aulë II, tres Anárion I y dos Varda I. No incluye Aulë I ya retirados, Nargothrond o la nodriza experimental. Aulë II son nuevas construcciones nucleares y no conversiones automáticas de los Aulë I convencionales.
+
+La escala y equipos iniciales se desarrollarán por diseño y recepción, sin atribuir a las primeras entregas toda la configuración posterior de la ficha de 1980. La aptitud de aeronaves, helicópteros y medios de cubierta se concilia con A095 aérea y aviación naval separada. Los perfiles Varda II y III posteriores no se incorporan a Varda I por compartir nombre.
+
+### Fuerza submarina de referencia
+
+| Tipo y familia en 1980 | Cantidad de referencia conservada | Desarrollo adoptado |
+| --- | --- | --- |
+| Arnor estratégico nuclear | 6 | Nuevas construcciones de los años setenta |
+| Eärendil de ataque nuclear | 12 | Programa inicial con incorporaciones desde el horizonte de 1970 |
+| Tolfalas convencional | 18 | Selección de transición y nuevas cohortes convencionales |
+| Ossë especial | 6 | Nuevas unidades y conversiones registradas por misión |
+
+Se adopta que Arnor estratégico incorpore sus primeras unidades desde 1972 y complete seis hacia 1980. Eärendil de ataque incorporaría doce durante 1970–1980, sujeto a programa industrial, seguridad y aceptación. Son cantidades nuevas de trayectoria adoptadas para enlazar con las referencias de 1980, no buques nucleares ya existentes en 1960.
+
+La referencia de generación inicial nuclear se identifica siempre con tipo y época. Arnor convencional de 1940 o de transición no se transforma en estratégico nuclear; Eärendil convencional no se nucleariza. Los numerales de las series estratégicas y nucleares posteriores se conservan para su propia cronología, evitando confundirlos con el romano I usado en otros tipos históricos.
+
+Se adopta completar la salida de los Arnor y Eärendil convencionales antes de 1980. Para Tolfalas, diez posiciones de la cohorte convencional de transición se mantendrían y ocho nuevas se incorporarían entre 1968 y 1978, hasta dieciocho. No se introduce AIP de generaciones posteriores.
+
+Los seis Ossë especiales se adoptan como cuatro nuevas construcciones de 1965–1975 y dos conversiones registradas de cascos convencionales aptos de la cohorte anterior. La selección material y equipos de misión permanecen pendientes. No se cuentan las dos conversiones también dentro de la fuerza convencional ni se transforman en nucleares. Las otras posiciones anteriores se concilian con retiros.
+
+### Industria y límites
+
+La fuerza nuclear requiere personal, seguridad, formación, mantenimiento e infraestructura propios, con supervisión y recepción diferenciadas. Los programas submarinos y de superficie no son intercambiables. El aprendizaje iniciado en los años cincuenta no acredita por sí solo disponibilidad de cada planta o buque de los setenta.
+
+La función estratégica corresponde a un programa de disuasión y mando separado, con sistemas y aceptación propios por definir en el canon de plataforma. No se adoptan aquí especificaciones de reactores, armamento estratégico, patrullas, guerras ni resultados. Las cantidades de 1980 se conservan y la viabilidad de la trayectoria industrial propuesta sigue sujeta a comprobación.
+
+## Bloque 42 Sistema antisubmarino y evolución de las fragatas
+
+### Composición Círdan adoptada para 1980
+
+Se conserva la primera generación moderna desde 1955, Círdan II en el horizonte 1965–1975 y Círdan III desde 1975. Se adopta completar los 24 Círdan iniciales hasta 1965 y conservar doce al cierre de 1980. Círdan II tendría dieciséis nuevas construcciones y Círdan III un programa de dieciséis, ocho incorporadas como objetivo en 1980 y ocho posteriores hasta 1985.
+
+La composición Círdan en 1980 sería doce iniciales, dieciséis II y ocho III: 36, más doce Mithlond y ocho Nimrodel para las 56 fragatas/escoltas de referencia. Es una propuesta de desglose generacional; no se presenta como reparto que ya estuviese nominalmente documentado.
+
+Las generaciones II y III son nuevas construcciones con diferencias de diseño y sistema. Los Círdan iniciales pueden recibir reformas compatibles sin cambiar automáticamente de generación por instalar una radio o un sonar. Los retiros de doce iniciales antes de 1980 se escalonan por estado y relevo, manteniendo formación y continuidad de servicio.
+
+### Integración de medios
+
+El sistema ASW adoptado combina sonar de casco, escucha y sensores remolcados en plataformas y lotes aceptados, helicópteros navales, patrulla aérea y submarinos, con estaciones de información y meteorología. La combinación mejora la posibilidad de observar y coordinar, pero no garantiza contacto permanente o detección en cualquier mar.
+
+Se conserva la evolución de la ficha Círdan: casco y helicóptero iniciales, sonar remolcado y defensa local en II, y mejoras de firma, armamento y guerra electrónica en III. Cada equipo necesita recepción e integración. Palantír-2087V CIP y configuraciones modernas no se trasladan a los años setenta por analogía.
+
+La aviación fija y helicópteros se concilian con A095 y las aeronaves efectivamente aptas. Los buques no disponen de un medio aéreo ilimitado por tener espacio para embarcarlo. Las unidades de sonar remolcado deben comprobar maniobra, ruido y compatibilidad; un equipo nuevo no se instala sin obra en toda la familia.
+
+### Mantenimiento y formación
+
+Se adopta reforzar especialidades de acústica, electricidad, motores, instrumentos y aeronáutica naval, con análisis de información y entrenamiento coordinado. El operador, el equipo y la información de otra plataforma aportan capacidades diferentes. El sistema debe poder actuar con información incompleta y comunicaciones limitadas, sin presentar una imagen submarina perfecta.
+
+Los programas convencionales y nucleares conservan necesidades de apoyo distintas. Las estaciones y talleres regionales facilitan continuidad, mientras grandes intervenciones y recepción permanecen en centros aptos. La eficacia no se expresa como un porcentaje universal de mejora para todas las clases.
+
+## Bloque 43 Misiles mando e información naval
+
+### Introducción por sistemas y lotes
+
+Se adopta extender defensa aérea, ataque de superficie y guerra electrónica mediante programas propios, preservando las primeras instalaciones y referencias vigentes. El misil requiere lanzador, sensores, control, munición, seguridad, repuestos y personal; su existencia nacional no acredita instalación ni eficacia idéntica en todos los cascos.
+
+Los cruceros y destructores se especializan en mando, defensa aérea, ASW y empleo de superficie sin hacer todas las plataformas equivalentes. Los equipos ópticos y artillería mantienen funciones compatibles. La reforma conserva configuración anterior y posterior, con límites de energía, estabilidad y espacios. No se atribuyen misiles o radares posteriores a su cronología por pertenecer a un lote modernizado.
+
+Las Nosselië se desarrollan como línea nueva de 24 lanchas de referencia en 1980, distintas de las veinte Forlond I misilísticas anteriores. Se adopta completar el relevo de Forlond durante los años setenta conforme entren Nosselië, sin cambiar únicamente el nombre de los mismos cascos. Los torpederos y anfibios Forlond históricos siguen siendo otras identidades.
+
+### OceanNet y mando
+
+Se conserva OceanNet operativa desde 1959 y su consolidación institucional e interoperabilidad de 1969. La propuesta desarrolla incorporación gradual de nodos, comunicaciones y procesamiento según equipos y enlaces disponibles. La referencia antigua a una red solo precursora en los setenta se concilia como ampliación naval por etapas, no como retraso de la fecha operativa general.
+
+Los enlaces no garantizan una imagen táctica instantánea y completa en todos los barcos. El mando debe conservar procedimientos de radio y operación degradada. No se atribuyen conectividad submarina continua ni arquitecturas digitales modernas por tener acceso a una red de tierra o estación.
+
+Se adopta relacionar sensores, operadores, identificación y decisión con responsabilidades claras. La recepción de un radar de búsqueda no acredita todas las funciones de control de armas. La capacidad de una unidad para aportar información no la hace equivalente a un centro de mando mayor ni desplaza por sí sola sus funciones anteriores.
+
+### Doctrina de empleo y seguridad de integración
+
+La fuerza aeronaval, las agrupaciones de superficie, submarinos y estaciones cooperan conservando misiones y disponibilidad propias. La concentración en un teatro necesita apoyo y reduce cobertura en otro; no se deduce dominio permanente de todas las rutas a partir de la suma nacional.
+
+Los programas de disuasión y operaciones convencionales tienen mandos y decisiones específicos por definir. Este bloque no adopta guerras, patrullas, pérdidas, objetivos o resultados. El desarrollo se limita a organización, integración técnica y trayectoria industrial.
+
+## Bloque 44 Conciliación con la composición de referencia de 1980
+
+### Cantidades que se conservan
+
+| Categoría | Referencia de 1980 conservada |
+| --- | --- |
+| Portaaviones | 7: dos Aulë II, tres Anárion I y dos Varda I |
+| Cruceros | 14: cuatro Turgon, seis Eärendil y cuatro Noldor |
+| Destructores | 36: doce Gil-galad, dieciséis Beleg y ocho Ossë |
+| Fragatas y escoltas | 56: 36 Círdan, doce Mithlond y ocho Nimrodel |
+| Corbetas | 50: treinta Calenport y veinte Eglarest |
+| Lanchas misilísticas | 24 Nosselië |
+| Submarinos | 42: seis Arnor, doce Eärendil, dieciocho Tolfalas y seis Ossë |
+| Anfibios | 34: seis Aranath, ocho Pelargir, doce Forlond y ocho Andúnië |
+| Contramedidas | 26: dieciocho Amon Sûl y ocho Menel |
+| Patrulla | 60: treinta Sírënandë y treinta Malaca |
+| Auxiliares | 78, con funciones y familias propias |
+| Total de referencia | 427 |
+
+Las cantidades ya son referencia vigente y no se aprueban otra vez como nuevas construcciones. Estos bloques fijan la trayectoria narrativa adoptada para explicarlas. El corte de 431 de 1960 adoptado mediante A106 tiene otro reparto de generaciones y alcance; no debe interpretarse la diferencia neta como cuatro bajas sin reemplazos.
+
+### Corbetas patrulla y servicios
+
+Se adopta completar los objetivos de treinta Calenport y veinte Eglarest mediante 32 construcciones nuevas y dieciocho reconstrucciones seleccionadas de corbetas tardías aptas: veinte Calenport y doce Eglarest nuevos, más diez y ocho reconstrucciones respectivamente. Es una opción de programa nueva, condicionada a estructura, tamaño y compatibilidad. Las unidades convertidas salen de su categoría o clase anterior y mantienen identidad material, sin contar dos cascos.
+
+La reconstrucción no consiste en renombrar Pelargir III o Alqualondë III. Las configuraciones de Calenport y Eglarest deben cumplirse y recibirse. Si una conversión no se justifica, se sustituirá la posición por construcción nueva mediante revisión expresa antes de considerarla incorporada. El horizonte de retiros de las otras corbetas se concilia con el relevo, no con una baja masiva sin preparación.
+
+El objetivo de sesenta de patrulla se alcanza por cohortes: retirar las dieciocho unidades antiguas de 1940, conservar o relevar según estado las 32 adiciones de transición y prever 28 posiciones nuevas o de reemplazo, incluidas las diez de crecimiento neto hacia sesenta. Las familias Sírënandë y Malaca conservan sus cohortes y configuraciones por lote. No se trasladan automáticamente sensores modernos a los cascos anteriores.
+
+Los 34 anfibios y 26 de contramedidas requieren relevo y ampliación por función; no se presupone que los cascos de 1940 permanezcan todos en 1980. La continuidad de un nombre familiar se distingue de cada generación y conversión. Los dos ámbitos no se suman también como transportes o minadores auxiliares.
+
+### Auxiliares y balance industrial
+
+Los 78 auxiliares de 1980 constituyen el total de esa categoría de referencia, con servicios navales regionales y oceánicos incluidos. No se añaden otros 35 por mantener la delimitación propuesta de 1960: aquella división es una etapa organizativa, no una reserva invisible fuera de la cifra de 1980. Los servicios transferidos a instalaciones de tierra, al comercio o retirados dejan de contarse como buques navales activos.
+
+La reducción neta de cien a 78 necesita sustituciones y selección por función y carga útil, no solo veintidós retiros. La capacidad efectiva se comprobará con requisitos de transporte, combustible y reparación donde sea necesario. Los 78 no incluyen los sesenta de patrulla, las cincuenta corbetas o las 24 lanchas misilísticas.
+
+La expansión nuclear, aeronaval, electrónica y de misiles exige producción cualificada y una cadena de mantenimiento que no se deduce de capacidad siderúrgica general. Se adopta conservar proveedores alternativos, formación anticipada y reserva de reparación. Los programas pueden escalonarse si no se sostiene la recepción de equipos o personal.

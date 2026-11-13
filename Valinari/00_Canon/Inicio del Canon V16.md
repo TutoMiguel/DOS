@@ -1,8 +1,13 @@
 ---
 tipo: indice
-canon: V17.7 A105
+canon: V17.8 A106
 estado: vigente
 ---
+
+## Revisión vigente V17 8 A106
+
+Integrados ANP 02 y su auditoría, incluidos los bloques 50 a 54 por orden del autor de 12 de noviembre de 2026. Se conservan 427 unidades de referencia en 1980 y 615 plataformas en 2026. Las resoluciones A106 prevalecen sobre las tablas anteriores incompatibles; los datos materiales desconocidos conservan su condición. [[00_Canon/Integraciones V16/Acumulativa A106 Armada e industria naval 1891-2026|Resolución A106 Armada e industria naval]]
+
 
 ## Resolución vigente A105 para el corte de 1891
 
@@ -23,7 +28,7 @@ Esta es la entrada principal del canon de Valinari.
 - [[00_Canon/Integraciones V16/A091_Estrategia_digital_y_decisiones_3_14|Estrategia digital A091]]
 - [[00_Canon/Integraciones V16/Propuestas pendientes tras revisión V16.1|Resoluciones V16.2]]
 
-- [[Canon V16 Maestro]] — vigente, revisión V17.7 A105
+- [[Canon V16 Maestro]] — vigente, revisión V17.8 A106
 - [[00_Canon/Cifras Oficiales V16]]
 - [[00_Canon/Registro de Cambios]]
 - [[00_Canon/Auditoría de Coherencia V16]]

@@ -1,10 +1,15 @@
 ---
 tipo: registro de decisiones
-canon: V16
+canon: V17.8 A106
 revision: V16.2
 estado: cerrado; una tarea editorial de catálogo continúa
-actualizado: 2026-11-08
+actualizado: 2026-11-12
 ---
+
+## Revisión vigente V17 8 A106
+
+Integrados ANP 02 y su auditoría, incluidos los bloques 50 a 54 por orden del autor de 12 de noviembre de 2026. Se conservan 427 unidades de referencia en 1980 y 615 plataformas en 2026. Las resoluciones A106 prevalecen sobre las tablas anteriores incompatibles; los datos materiales desconocidos conservan su condición. [[00_Canon/Integraciones V16/Acumulativa A106 Armada e industria naval 1891-2026|Resolución A106 Armada e industria naval]]
+
 # Registro de decisiones y tareas editoriales
 
 | ID | Resolución | Estado V16.2 |
@@ -24,3 +29,8 @@ Los nombres adoptados y su clasificación se encuentran en [[00_Canon/Canon V16 
 ## Continuidad V17.4 A102
 
 Las decisiones históricas DEC-001 a DEC-004 conservan su estado. A094 automotriz y A095 aérea quedan integradas; sus pendientes de documentación y aplicación se consultan en [[00_Canon/Integraciones V16/Pendientes materiales A102]].
+
+
+## Pendientes conservados tras A106
+
+No quedan bloques ANP02 pendientes de aceptación. Siguen sin dato los años iniciales exactos y cascos de determinadas series, correspondencias nominales de generaciones, aptitud de reconstrucciones, matrículas, presupuestos, pruebas y recepciones. La orden de integrar no rellena esos campos con ceros ni con documentación inventada. Los pendientes A102 y A101 se conservan.

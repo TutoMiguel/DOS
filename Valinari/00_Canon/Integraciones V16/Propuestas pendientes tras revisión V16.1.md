@@ -1,9 +1,14 @@
 ---
 tipo: registro de propuestas
-canon: V16
+canon: V17.8 A106
 revision_editorial: V16.2
 estado: resuelto en V16.2; trabajo editorial pendiente
 ---
+
+## Cierre de cola editorial A106
+
+ANP 01 ya integrada por A104 y ANP 02 integrada por A106, incluidos 50–54 y el paquete de auditoría. Las carpetas conservan originales; no quedan propuestas de ANP 02 pendientes de aceptación. Continúan pendientes materiales y trabajo editorial de detalle, no una cola de reintegración. [[00_Canon/Integraciones V16/Acumulativa A106 Armada e industria naval 1891-2026|Resolución A106 Armada e industria naval]]
+
 # Propuestas pendientes tras revisión V16.1
 
 **Estado actualizado:** decisiones canónicas V16.2 integradas el 2026-11-08.

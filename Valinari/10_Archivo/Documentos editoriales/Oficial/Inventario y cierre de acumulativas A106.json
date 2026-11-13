@@ -1,0 +1,32 @@
+[
+  {
+    "paquete": "ANP01 v15 y registro industrial civil",
+    "tratamiento": "ya integrado A104; se conserva sin duplicar y se cierra el rótulo de pendiente",
+    "nuevo_conteo": false
+  },
+  {
+    "paquete": "ANP02 v15 bloques 01 y 04–49",
+    "tratamiento": "integrado A106",
+    "nuevo_conteo": false
+  },
+  {
+    "paquete": "ANP02 bloques 50–54",
+    "tratamiento": "adoptados por orden de integración e integrados A106",
+    "nuevo_conteo": false
+  },
+  {
+    "paquete": "Auditoría ANP02 y paquete de revisión",
+    "tratamiento": "resoluciones aplicadas; restricciones desconocidas conservadas",
+    "nuevo_conteo": false
+  },
+  {
+    "paquete": "ANP02 02–03 y anexos v1",
+    "tratamiento": "originales exploratorios sin autoridad canónica",
+    "nuevo_conteo": false
+  },
+  {
+    "paquete": "AM1, A089, A094 automotriz, A095 aérea y acumulativas anteriores A105",
+    "tratamiento": "ya integradas; métricas y pendientes materiales no inventados",
+    "nuevo_conteo": false
+  }
+]

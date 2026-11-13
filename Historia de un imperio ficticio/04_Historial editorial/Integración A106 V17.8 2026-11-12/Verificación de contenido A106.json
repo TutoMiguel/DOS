@@ -1,0 +1,24 @@
+{
+  "apto_para_publicacion": true,
+  "bloques_normativos": 52,
+  "inventarios_1980_y_2026_conservados_por_categoria": true,
+  "totales": {
+    "1945": 325,
+    "1960": 431,
+    "1980": 427,
+    "2000": 490,
+    "2026": 615
+  },
+  "programas_1945": 268,
+  "incorporados_programas_1945": 174,
+  "entregas_posteriores": 94,
+  "bajas_destructores_1960_1980_corregidas": 14,
+  "word_markdown_equivalentes": true,
+  "bloques_historicos_word_cambiados": [
+    2,
+    3,
+    4
+  ],
+  "sin_fecha_exacta_inventada_para_Mithlond_y_Nimrodel": true,
+  "fuentes_activas_sin_cambios_antes_publicacion": true
+}

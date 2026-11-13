@@ -1,9 +1,14 @@
 ---
 tipo: panel de control
-canon: V17.7 A105
+canon: V17.8 A106
 estado: vigente
-ultima_revision: 2026-11-10
+ultima_revision: 2026-11-12
 ---
+
+## Revisión vigente V17 8 A106
+
+Integrados ANP 02 y su auditoría, incluidos los bloques 50 a 54 por orden del autor de 12 de noviembre de 2026. Se conservan 427 unidades de referencia en 1980 y 615 plataformas en 2026. Las resoluciones A106 prevalecen sobre las tablas anteriores incompatibles; los datos materiales desconocidos conservan su condición. [[00_Canon/Integraciones V16/Acumulativa A106 Armada e industria naval 1891-2026|Resolución A106 Armada e industria naval]]
+
 
 ## Resolución vigente A105 para el corte de 1891
 
@@ -18,7 +23,7 @@ Integrada ANP 01 v15 con cuatro Tarannon, tres diseños ampliados, modernizació
 
 ## Estado general
 
-- Canon vigente: V17.7 A105; nombre de archivo V16 conservado para enlaces.
+- Canon vigente: V17.8 A106; nombre de archivo V16 conservado para enlaces.
 - Alcance territorial: Federación más Protectorados.
 - Aliados de Gwaith Aear: fuera del catálogo operativo.
 - Última auditoría: [[00_Canon/Auditoría de Coherencia V16]].

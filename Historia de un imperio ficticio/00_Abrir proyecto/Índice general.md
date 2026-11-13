@@ -54,6 +54,11 @@ Clase Vëantur de cuatro acorazados y relevo gradual de Círdan I. El maestro nu
 Integrada ANP 01 v15 con cuatro Tarannon, Rómenna de 6.200 t, explorador de 7.600 t y Pelargir de 4.400 t. Maestro vigente Canon V17.6 Maestro A104.docx; copias V16 contienen idéntica revisión. Catálogo CMN 4. La carpeta militar se consolida de 179 a 58 notas con mapa de rutas y originales respaldados.
 
 
-## Revisión vigente V17.7 A105
+## Antecedente V17.7 A105
 
 Integrado el desarrollo de la Armada de 1891 en maestro, Word oficial, cronología y Obsidian. Dieciocho acorazados incorporados, tres capitales en construcción y dos demostradores con alta. Las 239 identidades del ámbito incluyen 219 candidaturas provisionales; no son un censo nacional. Se conserva A104 y sus diseños. Catálogo CMN 5; carpeta militar de 58 notas.
+
+
+## Revisión vigente V17.8 A106
+
+Integradas ANP 02 y su auditoría en maestro, Word oficial, cronología y Obsidian; incluye adopción de 50–54 por orden del autor. Catálogo CMN 6; 58 notas militares conservadas. Cantidades de 1980 y 2026 intactas: 427 y 615. ANP 01 ya estaba integrada mediante A104 y no vuelve a sumarse. Las restricciones de ingeniería y campos desconocidos permanecen explícitos.

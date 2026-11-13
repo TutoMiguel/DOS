@@ -1,14 +1,13 @@
 ---
-canon: V17.7 A105
+canon: V17.8 A106
 estado: resolución vigente y perfiles antecedentes diferenciados
-actualizado: 2026-11-11
+actualizado: 2026-11-12
 ---
 
-## Resolución vigente A105 para el corte de 1891
+## Revisión vigente V17 8 A106
 
-Se ratifican dieciocho acorazados incorporados, seis posiciones de primera línea y doce de segunda, con tres capitales en construcción aparte. La reconstrucción de 239 identidades del ámbito catalogado comprende veinte presencias definidas y 219 candidaturas provisionales; no es inventario nacional ni disponibilidad simultánea. A104 mantiene sus cuatro Tarannon y los diseños ampliados. [[00_Canon/Integraciones V16/Acumulativa A105 Armada de Valinor en 1891|Resolución A105 Armada de 1891]] · [[12_Militar/03_Armada/Armada#Armada de Valinor en 1891|Desarrollo de la Armada en 1891]]
+Integrados ANP 02 y su auditoría, incluidos los bloques 50 a 54 por orden del autor de 12 de noviembre de 2026. Se conservan 427 unidades de referencia en 1980 y 615 plataformas en 2026. Las resoluciones A106 prevalecen sobre las tablas anteriores incompatibles; los datos materiales desconocidos conservan su condición. [[00_Canon/Integraciones V16/Acumulativa A106 Armada e industria naval 1891-2026|Resolución A106 Armada e industria naval]]
 
-Esta resolución contextualiza 1891 y conserva las configuraciones y cantidades de otros periodos de esta ficha.
 
 # Desarrollo naval de 1882 a 1945
 
@@ -500,3 +499,812 @@ La Armada de 1891 dispone de una base territorial extensa y una línea pesada en
 
 Quedan pendientes altas antiguas individuales, inspecciones, nombres y matrículas, bases, dotaciones completas y reducidas, distribución territorial, disponibilidad diaria, carga útil de carboneros, existencias, rutas, costes y capacidad efectiva de talleres y diques de ese año. La siguiente etapa debe individualizar estaciones y ciclos de los seis acorazados de primera línea y sus cruceros de apoyo, sin convertir los 239 candidatos en un estado de fuerza acreditado.
 
+
+
+## Desarrollo adoptado A106
+
+## Bloque 05 Renovación de la flota y desarrollo industrial hasta 1905
+
+### Calendario canónico que se conserva
+
+| Etapa | Programas e hitos vigentes | Significado de la transición |
+| --- | --- | --- |
+| 1891–1893 | Dos Vëantur ya incorporados; los otros dos entran en 1892 y 1893 | Consolidar una primera serie moderna y liberar antiguos de la primera línea |
+| 1894–1897 | Tarannon 01 entra en 1894 y 02 en 1897; Anárion empieza servicio en 1895 | Aprender con turbinas en paralelo a una serie convencional mantenible |
+| 1897–1902 | Comienzan entregas de Eärendil acorazados en 1897 y del programa nuevo de estaciones en 1898; Anárion completa sus ocho altas en 1902 | Renovar exploración y estaciones mientras madura la fuerza pesada |
+| 1900–1905 | Primeros Forlond nuevos en 1900 y entregas hasta 1905; últimos Eärendil acorazados en 1904; programa de 24 cruceros y corbetas completado en 1905 | Ampliar protección de escuadra y presencia territorial |
+| 1902–1905 | Tarannon 03 y 04 entran en 1902 y 1904; comienza el patrullero de vapor a líquido en 1904 | Extender soluciones seleccionadas sin generalizar su instalación a toda la flota |
+
+Las fechas y cantidades anteriores proceden de A104 y A105 y no constituyen autorizaciones adicionales. Los perfiles posteriores a 1905 permanecen fuera del alcance de este bloque.
+
+### Renovación por funciones
+
+Se adopta explicar la sustitución por capacidades que pasan gradualmente a los nuevos buques. Vëantur y Anárion asumen progresivamente la fuerza de línea; Tarannon desarrolla una vía experimental que después puede aportar experiencia a nuevas series. Los cruceros nuevos permiten relevar a los históricos en exploración y estaciones; los destructores y torpederos nuevos refuerzan misiones de su propio tipo.
+
+La nueva fuerza conserva las identidades adoptadas: cuatro Vëantur, ocho Anárion convencionales y cuatro Tarannon. Los doce Eärendil acorazados son construcciones diferentes de los protegidos antiguos. El programa nuevo de veinticuatro mantiene ocho Rómenna de estación de 6.200 t, cuatro exploradores de 7.600 t y doce Pelargir de 4.400 t. Los 48 Forlond nuevos se reparten en 24 destructores y 24 torpederos, sin sumar otra vez las unidades históricas homónimas.
+
+Un reemplazo de función no exige retirar un casco antiguo el mismo día que entra uno nuevo. Se conserva un solapamiento limitado para aprendizaje y formación, seguido por segunda línea, instrucción, reserva o retiro conforme a los calendarios adoptados. Las reformas compatibles mejoran seguridad y utilidad restante; una reconstrucción profunda debe justificarse frente a una nueva construcción.
+
+### Industria especializada y aprendizaje acumulativo
+
+Se adopta presentar el desarrollo industrial como una cadena de especialidades coordinadas. Los centros principales integran capitales y trabajos complejos; la red civil construye o repara cascos compatibles; proveedores de acero, calderas, máquinas, ejes, artillería e instrumentos crecen mediante pedidos escalonados y recepción de calidad. La capacidad del conjunto depende de sus cuellos de botella, no solo del número de astilleros.
+
+La vía convencional y la experimental deben coexistir durante la transición. Las máquinas alternativas proporcionan continuidad y una base de repuestos; la turbina recibe bancos, personal e integración propios. La experiencia se conserva entre lotes mediante revisión de defectos y mejoras registradas, sin convertir una innovación en instalación automática en todos los buques.
+
+El complejo siderúrgico naval de Rhûn conserva su implantación por fases desde 1901. El arranque utiliza también semiproductos comprados mientras se califican líneas y productos propios. La chapa aceptada no equivale automáticamente a blindaje, ejes o tubos de artillería; cada producto requiere equipos y ensayos específicos. La producción futura no explica retrospectivamente el suministro de 1891.
+
+### Combustible y disponibilidad
+
+El carbón sigue sosteniendo la flota durante el periodo. La adopción de vapor con combustible líquido en nuevas unidades seleccionadas desde 1904 permite estudiar mejoras de permanencia y operación, vinculadas a depósitos, transporte, equipos y formación. El desarrollo diésel mantiene su programa independiente y aceptación posterior. No se retiran carboneros o repuestos de vapor por existir una tecnología nueva.
+
+Se adopta que el aumento de disponibilidad se explique mediante reparación más previsible, mejor acceso a piezas, relevos y especialización de misiones. Una unidad económica de estación puede liberar a un crucero de tareas rutinarias, pero necesita aceptación y abastecimiento propios. El efecto se expresa primero como una capacidad plausible; cualquier porcentaje o ahorro preciso requiere un estudio específico.
+
+### Resultado narrativo de la renovación
+
+Hacia 1905, los calendarios adoptados permiten narrar una Armada con programas modernos más completos, exploración diferenciada, fuerzas ligeras nuevas y una industria en consolidación. La coexistencia de plantas, generaciones y compromisos territoriales sigue imponiendo costes y mantenimiento. Esta evolución no certifica todas las infraestructuras previstas ni la disponibilidad simultánea de las series completas.
+
+## Pendientes que merecen desarrollo posterior
+
+Se mantienen como prioridades la conciliación de las altas antiguas que afectan al inventario, la identidad Ciryatan del explorador oceánico, las funciones regionales principales y el relevo posterior a 1905. Las campañas concretas justificarán recuperar cálculos de viaje, combustible o mantenimiento cuando sean necesarios. No se exige completar los anexos diarios para avanzar en el desarrollo general del canon.
+
+## Bloque 06 Ciryatan como identidad adoptada del explorador oceánico
+
+### Decisión adoptada e identidad
+
+Se adopta Ciryatan como nombre del explorador oceánico de cuatro unidades, resolviendo el campo que permanecía pendiente en A104 y A105. La denominación identifica exclusivamente esta clase de crucero explorador de comienzos del siglo XX. En las fuentes navales y el maestro revisados no se localizó una clase Ciryatan previa. Se adopta sin numeral generacional hasta que exista una sucesión que lo requiera.
+
+Ciryatan no añade cuatro barcos al programa. Asigna identidad a los cuatro códigos ANP01-REO-01 a 04 ya individualizados. La estructura conserva ocho Rómenna de estación, cuatro Ciryatan exploradores y doce Pelargir nuevas, veinticuatro cascos en total. No se cambian las cantidades de las familias históricas homónimas ni sus calendarios.
+
+### Misión y diferencia respecto a los demás cruceros
+
+La clase proporciona reconocimiento oceánico, contacto con fuerzas adversarias y coordinación de fuerzas ligeras, con capacidad de operar por delante de la agrupación pesada dentro de sus límites. Debe observar, comunicar y conservar libertad de movimiento; no se le atribuye combate sostenido contra acorazados o cruceros acorazados por disponer de turbinas.
+
+Los Rómenna de estación priorizan rutas, destacamentos, habitabilidad y sostenimiento mediante máquinas alternativas. Los Ciryatan concentran esfuerzo en velocidad, exploración y aprendizaje de planta de turbina. Los Eärendil acorazados aportan una función de exploración y protección más resistente frente a cruceros enemigos, con otra distribución de protección y armamento. Compartir una misión parcial no convierte estos diseños en intercambiables.
+
+| Línea | Unidades de programa | Función principal | Planta de referencia |
+| --- | --- | --- | --- |
+| Rómenna de estación nuevos | 8 | Presencia oceánica y protección de rutas | Triple expansión |
+| Ciryatan exploradores adoptados | 4 | Reconocimiento y coordinación de fuerzas ligeras | Turbinas de vapor |
+| Pelargir nuevas | 12 | Servicio de estación y escolta regional | Triple expansión |
+
+### Características que se conservan de A104
+
+| Campo | Referencia del explorador, sin aumento nuevo |
+| --- | --- |
+| Desplazamiento normal | 7.600 t |
+| Propulsión | Turbinas de vapor, carbón y cuatro ejes |
+| Potencia y velocidad objetivo | 27.000 shp y 24 nudos de prueba |
+| Alcance objetivo | 5.000 mn a diez nudos |
+| Batería principal | Ocho piezas de 152 mm |
+| Dotación de referencia | 520 |
+| Incorporaciones adoptadas | 1900, 1902, 1904 y 1905 |
+
+Las demás dimensiones y equipos conservan A104. La protección principal es de cubierta y local, sin atribuirle el cinturón de un crucero acorazado. Son objetivos de diseño y no resultados certificados. El alcance, la máxima velocidad y la protección no se presentan como máximos simultáneos. No se añade radio aceptada sin su expediente de instalación y pruebas, ni radar o sonar moderno.
+
+### Camino de desarrollo e industria
+
+La explicación propuesta parte de la experiencia de cruceros y avisos de los años ochenta y del desarrollo de turbinas de 1882 y 1887. La planta grande de Tarannon aporta aprendizaje de integración, condensación y mantenimiento; no demuestra que sus componentes sean intercambiables con los del explorador. Se define una serie corta para obtener experiencia oceánica sin depender de que todos los cruceros nuevos adopten la misma maquinaria.
+
+Los cascos se incorporan escalonadamente entre 1900 y 1905. La continuidad de obra admite mejoras de integración entre unidades, conservando la clase y registrando cualquier cambio real. No se inventan averías o ensayos exitosos para justificarla. La producción necesita talleres de precisión, hélices, condensación y formación especializada; las reductoras maduras no se presumen por existir una turbina.
+
+El nombre Ciryatan facilitaría consultar la clase y separar el antiguo perfil amplio llamado Rómenna de la línea nueva de estación. La integración A106 concilia las menciones afectadas mediante esta resolución de identidad y procedencia; los IDs REO siguen siendo vínculos editoriales y no matrículas. Los antecedentes se conservan.
+
+### Evolución de función
+
+Al aparecer cruceros más rápidos después de 1910, los Ciryatan podrán conservar exploración secundaria, coordinación regional o instrucción especializada según sus reformas y estado. No se aumenta su velocidad para mantenerlos en primera línea ni se adelantan retiros ya fijados sin una decisión posterior. La sucesión por misión permite aprovechar los cascos sin convertirlos en diseños nuevos mediante modernización automática.
+
+## Bloque 10 Clases de cruceros fuerzas ligeras y submarinos
+
+### Identidades adoptadas dentro de programas aceptados
+
+Se adoptan Lindon y Vinyamar para las dos líneas de crucero del programa de veinticuatro; Angren y Nimloth para los 48 destructores y 24 torpederos nuevos; y Elenna para los veinticuatro submarinos de primera generación. Las cantidades y el corte de 1914 desarrollan el bloque 08 ya adoptado mediante A106. Los nombres, perfiles y distribución funcional de este bloque son decisiones nuevas adoptadas; no añaden otra vez sus cantidades al programa.
+
+En el catálogo y las fichas navales revisados no se localizaron clases previas con estas denominaciones. Se utilizan con tipo y época y sin numeral hasta que exista una sucesión. La ausencia en esas fuentes no se presenta como búsqueda exhaustiva de toda la nomenclatura del mundo ficticio.
+
+| Clase propuesta | Tipo y misión principal | Programa completo | Incorporados adoptados en 1914 |
+| --- | --- | --- | --- |
+| Lindon | Crucero explorador de flota | 12 | 6 |
+| Vinyamar | Crucero de protección de rutas y estaciones | 12 | 6 |
+| Angren | Destructor de escuadra | 48 | 24 |
+| Nimloth | Torpedero regional | 24 | 12 |
+| Elenna | Submarino convencional de primera generación | 24 | 8 |
+
+Las incorporaciones iniciales conservan el horizonte desde 1910 y los programas continúan hasta 1918 según el bloque 08. Las configuraciones siguientes son objetivos iniciales de diseño, sin balances de pesos ni pruebas certificados. No se fijan cascos diarios, fabricantes o costes inexistentes.
+
+### Lindon y Vinyamar como soluciones diferentes
+
+Lindon prioriza velocidad, reconocimiento y enlace con la escuadra. Se adopta una referencia de 6.500 t normales, turbinas de vapor, 28 nudos de prueba objetivo y ocho piezas de 152 mm. La protección se concentra en cubierta y zonas vitales, sin atribuirle el combate de un crucero acorazado. Su autonomía debe sostener exploración y acompañamiento, con alcance definitivo pendiente de diseño.
+
+Vinyamar prioriza autonomía, habitabilidad, embarcaciones y servicios para estaciones lejanas, con una referencia de 7.200 t normales, turbinas de vapor, 26 nudos objetivo y ocho piezas de 152 mm. El mayor desplazamiento no obliga a mayor velocidad; se utiliza para equilibrar sostenimiento y capacidad de misión. El alcance y la distribución de protección requieren ficha de diseño, sin inventar combustible disponible en todas las estaciones.
+
+Ambas líneas pueden compartir artillería y equipos compatibles después de comprobar interfaces, pero no se declaran cascos o plantas idénticos. Lindon asume gradualmente exploración principal junto a los nuevos capitales. Vinyamar refuerza rutas y permite transferir Rómenna y Pelargir a funciones compatibles con su generación. Los cuatro Ciryatan conservan su propia identidad y calendarios; no se convierten en Lindon ni se eleva automáticamente su velocidad.
+
+### Angren y Nimloth
+
+Angren se adopta como destructor de 1.200 t normales y 32 nudos de prueba objetivo, con turbinas de vapor, tres piezas de 102 mm y cuatro tubos de 450 mm. Debe acompañar a la fuerza dentro de su autonomía, defender frente a torpederos y realizar ataque de superficie. Su avance respecto al Forlond anterior incluye comportamiento marinero, alcance útil y organización de servicios, además de velocidad.
+
+Nimloth se adopta como torpedero regional de 750 t normales y 29 nudos objetivo, con turbinas, dos piezas de 76 mm y dos tubos de 450 mm. Su menor coste de misión y dependencia de bases justifican mantener una línea regional en lugar de atribuir a todos los ligeros la misma función oceánica. Coste monetario, consumo y radio operativo quedan pendientes de estudio; no se promete un ahorro exacto por tamaño.
+
+Los calibres de torpedo adoptados corresponden a configuración inicial y no se sustituyen por 533 mm sin una decisión de lote o reforma. La capacidad antisubmarina no se incorpora como equipo maduro de origen. Los 24 destructores y 24 torpederos Forlond anteriores siguen sus calendarios y no se transforman en Angren o Nimloth por compartir una misión.
+
+### Elenna y la primera capacidad submarina
+
+Elenna se adopta como familia convencional con referencia de 900 t en superficie, 16 nudos en superficie y ocho sumergido como objetivos, propulsión diésel-eléctrica y cuatro tubos de 450 mm. No se presupone la misma velocidad, alcance y permanencia máxima simultáneamente. El desplazamiento sumergido, capacidad de batería y alcance definitivo se mantienen pendientes.
+
+Los ocho primeros se destinan al aprendizaje operativo y consolidación de mantenimiento antes de completar el programa. Númenor conserva el ámbito de referencia para construcción y apoyo. Las primeras unidades deben validar integración de motores, baterías, ventilación, seguridad, observación y formación; la disponibilidad de una turbina avanzada en otra clase no resuelve estos sistemas.
+
+La familia puede evolucionar por lotes, pero un cambio sustancial de tamaño, casco resistente o misión debe identificarse como variante o clase posterior. No se atribuyen prestaciones de submarinos de entreguerras a la configuración inicial, ni sonar moderno o empleo sumergido prolongado ajeno a sus baterías.
+
+### Implantación industrial
+
+Los nuevos diseños se articulan con las especialidades existentes: integración de cruceros en centros compatibles de Pelargir y Calenport, construcción ligera y recepción en Forlond y su red, y programa submarino de referencia en Númenor. Son ámbitos de coordinación, no adjudicaciones ni capacidades de grada verificadas. Maquinaria, calderas, transmisiones, armamento y equipos requieren proveedores y recepción propios.
+
+Se recomienda desarrollar primero diseños repetibles y registrar mejoras entre lotes. La diversidad de cinco líneas debe justificarse por misión y evitar una multiplicación innecesaria de componentes. Compartir equipos se hace después de comprobar compatibilidad; no exige unificar cascos que responden a servicios diferentes.
+
+## Bloque 11 Auxiliares y apoyo de la fuerza de 1914
+
+### Base y objetivo adoptado
+
+El registro A104–A105 conserva un ámbito auxiliar conciliado que, aplicando sus mismas altas y retiros, arroja 63 unidades al cierre de 1914. Es una base de cálculo del ámbito registrado, no un censo independiente ni disponibilidad simultánea; los antiguos sin alta individual no reciben una fecha nueva. No se suman otra vez transportes armados históricos o carboneros ya incluidos.
+
+Se adopta ampliar ese ámbito a ochenta auxiliares en 1914 mediante diecisiete construcciones adicionales para funciones identificadas. La referencia de 110 hacia 1920 se mantiene como objetivo de composición total, incluyendo supervivientes y reemplazos, no como 110 nuevas construcciones.
+
+| Función | Base registrada en 1914 | Objetivo adoptado en 1914 | Objetivo adoptado hacia 1920 |
+| --- | --- | --- | --- |
+| Carboneros | 15 | 18 | 18 |
+| Tanques de combustible líquido | 2 | 4 | 8 |
+| Transportes | 12 | 14 | 20 |
+| Almacén y abastecimiento | 6 | 8 | 14 |
+| Remolcadores | 12 | 12 | 18 |
+| Reparación y taller | 6 | 8 | 10 |
+| Hospitales | 4 | 4 | 6 |
+| Hidrográficos | 6 | 6 | 6 |
+| Minadores especializados | 0 en este ámbito conciliado | 4 | 6 |
+| Buques escuela auxiliares | 0 en este ámbito conciliado | 2 | 4 |
+| Total del ámbito | 63 | 80 | 110 |
+
+Los ceros de minadores y escuela expresan ausencia de unidades incorporadas en el ámbito auxiliar utilizado, no prueba de inexistencia nacional. La propuesta individualiza cuatro minadores especializados y dos escuelas de nueva construcción en lugar de inferirlos de cañoneras o convertir acorazados retirados sin expediente. Si otra fuente identifica cascos que cubran esas posiciones, debe conciliárselos antes de autorizar construcciones duplicadas.
+
+Las diecisiete adiciones hasta 1914 serían tres carboneros, dos tanques, dos transportes, dos almacenes, dos talleres, cuatro minadores y dos escuelas. Se sitúan como objetivo de la expansión de apoyo previa al corte, con preparación industrial y entregas escalonadas por definir, sin fechas individuales inventadas. Estos tres carboneros son adicionales a los cuatro de relevo 1907–1908 ya incluidos en la base A104; no se cuentan dos veces.
+
+### Carbón y líquido durante la transición
+
+Los carboneros siguen sosteniendo la flota de carbón y las estaciones. El aumento de tanques acompaña la incorporación de equipos a combustible líquido y no justifica retirar de inmediato toda la cadena anterior. Los depósitos reciben productos aptos para sus equipos, con control de calidad y seguridad; combustible de caldera y diésel no se consideran intercambiables por pertenecer ambos a la cadena líquida.
+
+El objetivo de cuatro tanques en 1914 y ocho hacia 1920 ofrece crecimiento escalonado de transporte. Su suficiencia no se deduce del número de cascos: requiere carga útil, rutas y disponibilidad cuando una misión concreta lo exija. El canon puede fijar la función y evolución sin inventar un flujo diario nacional.
+
+### Reparación transportes y servicios especializados
+
+Los talleres y almacenes proporcionan reparación compatible, repuestos y apoyo de estación; no sustituyen un gran dique ni pueden renovar toda la planta de un capital en el mar. Los remolcadores apoyan puertos, salvamento y maniobras dentro de sus capacidades. Transportes y hospitales sostienen personal, carga y sanidad con necesidades de seguridad y servicios propias.
+
+Los hidrográficos mantienen su función de levantamiento y navegación segura, sin convertir un buque de guerra en hidrográfico por disponer de instrumentos. Los minadores especializados sirven a la defensa de accesos y procedimientos de minas de su época; su inclusión no acredita una capacidad moderna de contramedidas. Los buques escuela preparan dotaciones y especialidades y se cuentan como auxiliares propios, sin duplicar acorazados que también realicen instrucción.
+
+Se adopta una red de servicios regionales para evitar enviar cada reparación menor a los centros de capitales. Las obras complejas y la recepción militar conservan centros y personal especializados. La capacidad regional se establece por equipos y alcance de trabajo, no por declarar que todo puerto dispone de dique o de grandes talleres.
+
+### Sustitución de antiguos y objetivo de 1920
+
+El mismo registro base deja 45 auxiliares supervivientes en 1920 frente a 63 en 1914: dieciocho salen del ámbito por los retiros adoptados. Si las diecisiete nuevas construcciones adoptadas hasta 1914 siguen en servicio en 1920, el objetivo de 110 exigiría otras 48 incorporaciones entre 1915 y 1920. No bastaría con treinta, porque el crecimiento neto debe cubrir también los retiros.
+
+Esas 48 son una necesidad derivada del objetivo adoptado, no una producción acreditada ni un pedido ejecutado. El registro desglosa su distribución por función para revisar prioridades. Las capacidades de astilleros, suministros y personal deben sostener las entregas; si no lo hacen, se desplaza el horizonte del objetivo en lugar de prolongar silenciosamente bajas o suponer barcos existentes.
+
+### Composición delimitada de 1914 y límites
+
+Con el subtotal de 160 del bloque 08, los 42 patrulleros y cañoneras del programa A104, cuyos calendarios los mantienen dentro de servicio en ese año, y los ochenta auxiliares aquí adoptados, el ámbito reconstruido alcanzaría 282 unidades. Esta suma incorpora las diecisiete adiciones auxiliares y los programas nuevos del bloque 08 adoptados narrativamente. No es un censo nacional cerrado ni una fuerza simultáneamente desplegable.
+
+Cada categoría tiene límites claros: los minadores y escuelas están dentro de los ochenta auxiliares, los torpederos dentro de los ligeros del bloque 08, y las cañoneras y patrulleros dentro de sus 42. No se suman nuevamente por desempeñar funciones de vigilancia, instrucción o apoyo. Las clases anteriores y las nuevas se distinguen por tipo y generación.
+
+## Bloque 12 Construcción proveedores y sostenimiento industrial
+
+### Red de especialidades propuesta
+
+Se adopta organizar los programas aceptados mediante polos de integración y una red de proveedores, utilizando las referencias existentes sin declarar fábricas o diques nuevos por cada función. La prioridad es completar buques mantenibles y conservar reparación suficiente mientras entran nuevas clases.
+
+| Polo de referencia | Especialidad propuesta | Relación con los programas |
+| --- | --- | --- |
+| Nueva Tirion | Línea de batalla e integración de plantas grandes | Prioridad Anárion II, turbinas y recepción de capitales |
+| Armenelos en Númenor/Terranova | Capitales rápidos y apoyo pesado occidental | Gil-galad de batalla y participación compatible en otros capitales |
+| Pelargir y Calenport | Cruceros, calderería e integración de equipos | Lindon y Vinyamar, con reparto de trabajos por capacidad |
+| Forlond y red de establecimientos compatibles | Construcción ligera y reparación regional | Angren, Nimloth y mantenimiento de generaciones anteriores |
+| Númenor y centros de apoyo asociados | Construcción e integración submarina especializada | Elenna y sus talleres, baterías, motores y formación |
+| Rhûn e Hithlum | Productos siderúrgicos, mecanizado y reparación de equipos compatibles | Suministro por especificación, repuestos y mantenimiento |
+
+Los ámbitos de Armenelos y Númenor pueden compartir territorio sin que sus instalaciones o trabajadores se cuenten dos veces. Un polo no equivale a una sola empresa y la tabla no asigna contratos históricos ni certifica capacidad anual. Los centros ya relacionados con construcción civil mantienen una parte de actividad comercial y de reparación, en lugar de suponerse libres para pedidos navales ilimitados.
+
+### Secuencia de desarrollo
+
+Se adopta reservar al inicio del programa la capacidad necesaria de grandes piezas, artillería, blindaje y maquinaria, antes de comprometer la expansión simultánea de todos los cascos. Anárion II constituye la prioridad de línea; el arranque limitado de Gil-galad permite aprender y reducir competencia por los mismos suministros. Los lotes posteriores se incorporan conforme la recepción de los primeros confirme el diseño y el sostenimiento.
+
+Cruceros y fuerzas ligeras pueden producirse en paralelo donde sus instalaciones sean compatibles. Su aparente menor tamaño no garantiza que motores, calderas, engranajes, tubos, armamento y pruebas estén disponibles. El programa Elenna conserva una cadena especializada que no se obtiene trasladando sin preparación un taller de turbinas de superficie.
+
+El plan industrial comprende reparación, terminación de buques avanzados y nuevas obras. Si aparece una limitación, se protege seguridad y mantenimiento, se terminan cascos maduros y se escalonan nuevos inicios. No se llena una grada para después ocultar la ausencia de equipos de terminación. Los contratos civiles de apoyo y compras a proveedores alternativos se contemplan como recursos posibles, sin presentarlos como adjudicaciones ejecutadas.
+
+### Suministro nacional y aprendizaje
+
+El CSNR se consolida por productos aceptados y por la demanda naval, civil y ferroviaria que pueda sostenerse. La chapa estructural, chapa de caldera, piezas forjadas, blindajes y tubos de artillería conservan especificaciones y recepción distintas. Se adopta fortalecer forjas, mecanizado, laboratorios y talleres especializados como complementos de la siderurgia, sin declarar al complejo proveedor universal.
+
+La mejora entre lotes debe registrarse como cambio de construcción, reforma o nueva variante según su alcance. Se comparten interfaces y repuestos cuando se compruebe compatibilidad, evitando homogeneidad ficticia de todos los equipos. Las mejoras se explican mediante experiencia, herramientas y formación; no se inventan resultados de ensayos.
+
+La conclusión de este bloque es una estructura industrial propuesta, no una capacidad total demostrada. Los programas hasta 1917–1918 y el objetivo auxiliar de 1920 siguen condicionados a materiales, financiación, personal y recepción. Su escala se revisará por lotes e hitos, sin volver al calendario diario.
+
+## Bloque 16 Aviación naval inicial y primeras respuestas antisubmarinas
+
+### Coherencia con el programa aéreo A095
+
+La historia aérea vigente sitúa ensayos de aeroplanos y motores en 1904–1907, vuelo motorizado reconocido en 1906, escuela militar de vuelo y mantenimiento en 1909 y Servicio Aeronáutico Militar permanente en 1912. La resolución de 1926 establece una Fuerza Aérea independiente y conserva aviación naval separada. Este bloque desarrolla la aplicación marítima dentro de esa secuencia; no crea antes de tiempo una Fuerza Aérea independiente ni identifica A095 aérea con A095 antibuque.
+
+Se adopta que la aviación naval nazca como especialización marítima del proceso aeronáutico existente, coordinada con la Armada para reconocimiento, puertos, navegación, meteorología y comunicaciones. La existencia de O-12 Meneldir desde 1912 permite estudiar una adaptación marítima, pero no acredita una variante de hidroavión ya construida o aceptada. Flotadores, estructura, corrosión, operación desde agua y mantenimiento requieren desarrollo propio.
+
+### Secuencia propuesta de capacidades
+
+| Etapa de desarrollo | Capacidad que se busca | Límite conservado |
+| --- | --- | --- |
+| Primera mitad de la década de 1910 | Observación litoral y experimentación marítima | Sin cobertura aérea permanente de flota |
+| 1916–1920 | Programa piloto de hidroaviones y apoyo naval móvil | Recepción de aeronaves y plataforma condicionada a pruebas |
+| Década de 1920 | Integración progresiva de exploración aérea y estudio de aviación de cubierta | No se cuentan portaaviones por perfiles técnicos sin resolver |
+
+Se adopta una sola nodriza experimental por conversión de un transporte adecuado, con selección de casco y fecha de aceptación pendientes. Su función es proporcionar apoyo, mantenimiento y operación compatible de hidroaviones; no se le atribuye una cubierta de vuelo de portaaviones por cambiar de nombre.
+
+La nodriza ocuparía una posición dentro del objetivo auxiliar de 110 hacia 1920. Si se acepta, la distribución del bloque 11 pasaría de veinte transportes a diecinueve transportes y una nodriza, conservando el total. No se adopta aquí un casco adicional ni una segunda conversión. La selección debe comprobar si existe un transporte apto y si su cambio de cometido deja cubierto el servicio anterior. Si no resulta viable, el programa permanece en instalaciones costeras hasta nueva decisión, sin contar una nodriza incorporada de hecho.
+
+La dotación aérea y los especialistas de mantenimiento no se obtienen íntegramente de la tripulación del transporte. Se adopta formar equipos marítimos específicos, coordinar recepción de aeronaves y suministros y establecer procedimientos de seguridad de combustible y operación. No se fijan ahora número de aeronaves, salidas, costes o resultados de ensayo.
+
+### Reconocimiento y conexión con la fuerza naval
+
+El primer valor de la aviación se sitúa en ampliar observación litoral, comunicar avistamientos y aprender a operar con puertos y buques. La meteorología, autonomía, visibilidad y fiabilidad limitan lo realizable. El aviso aéreo puede complementar exploración de cruceros, pero no sustituye de inmediato la vigilancia continua ni garantiza localizar fuerzas submarinas.
+
+Se adopta conservar una cadena común de información entre estaciones, radio naval y fuerzas de superficie, sin atribuir enlaces digitales o comunicaciones continuas. La formación aeronáutica y la naval se coordinan para evitar sistemas incompatibles y para que el crecimiento del nuevo medio no duplique mandos y plantillas sin necesidad.
+
+### Primera respuesta antisubmarina
+
+Se mantiene la ausencia de radar y sonar operativo de servicio en 1914. La aparición de Elenna obliga a mejorar vigilancia, avisos, protección de accesos y ejercicios de cooperación con buques de superficie. Tener submarinos propios facilita aprender sus limitaciones, pero no produce automáticamente una capacidad antisubmarina madura.
+
+Se adopta un programa de ensayos durante 1916–1920 con un grupo reducido de unidades existentes aptas para estudiar escucha, observación y armamento antisubmarino de la época. No se asigna una nueva clase de escolta ni se equipa toda la serie Angren por inferencia. Hidrófonos y cargas de profundidad, donde se elijan, necesitan cronología de prueba, instalación y aceptación por lote; este bloque no fija prestaciones ni declara instalaciones operativas sin esas etapas.
+
+La doctrina inicial debe reconocer incertidumbre de detección y localización, dependencia del estado de mar y necesidad de coordinar información. Aviación, patrulla de superficie y estaciones pueden cooperar con medios de su época sin convertirse en una red ASW moderna. Se adopta desarrollar procedimientos e instructores antes de multiplicar equipos.
+
+### Prioridad industrial y límite
+
+La industria de apoyo debe enlazar motores aeronáuticos, estructuras, equipos marítimos y mantenimiento con el proceso A095 ya existente. Se preserva la especialización naval para operación sobre agua y en buques. La experimentación acústica y los equipos submarinos reciben sus propios laboratorios y recepción cuando se definan, sin confundir sonar moderno con cualquier aparato de escucha.
+
+El resultado adoptado es una capacidad experimental que crea conocimiento y permite decisiones posteriores. No se inventan campañas, detecciones exitosas, pérdidas o participación en guerras para justificar su progreso. La fecha exacta de primera aceptación de cada equipo permanece pendiente.
+
+## Bloque 17 Consolidación y relevo de la Armada entre 1920 y 1930
+
+### Completar la transición antes de abrir otra expansión general
+
+Se adopta que la década comience consolidando los programas previstos hasta 1917–1918 y el apoyo auxiliar hacia 1920. Las doce unidades Anárion II y seis Gil-galad de batalla son cantidades de programa aceptadas para acumulativa, sujetas a que sus entregas se sostengan. No se afirma que todos hayan alcanzado disponibilidad plena en la misma fecha.
+
+La prioridad de la primera etapa sería terminar recepciones, formar relevos, corregir problemas registrados y sostener repuestos y reparación. No se recomienda duplicar de inmediato la fuerza de capitales ni crear una nueva generación pesada por el mero cambio de década. Los perfiles de acorazado rápido y portaaviones de 1919–1938 son referencias de diseño que todavía necesitan decisiones de programa e identidad.
+
+### Salida de las generaciones anteriores
+
+Los cinco Anárion convencionales restantes al cierre de 1920 y los dos Tarannon concluyen sus retiros adoptados hasta 1925. Los Forlond anteriores también completan su salida conforme al horizonte ya adoptado. Esta continuidad libera parte de los cometidos y recursos, pero su personal requiere preparación para equipos nuevos antes de poder cubrir esas vacantes.
+
+Los Eärendil acorazados, Rómenna nuevos, Ciryatan y Pelargir del programa de comienzos de siglo tienen retiros escalonados hasta 1930. No se retiran todos en 1920 ni se mantiene cada casco hasta la última fecha de su familia. Sus reemplazos deben prepararse por misión: exploración, estación, escolta regional y formación, sin una equivalencia obligatoria de uno por uno.
+
+La continuidad de parte de los patrulleros y auxiliares más allá de 1930 conserva sus propios calendarios. No se declara retirada toda la generación anterior por haber completado el relevo de capitales y cruceros.
+
+### Prioridades de evolución por función
+
+| Área | Prioridad propuesta durante 1920–1930 |
+| --- | --- |
+| Línea pesada | Fiabilidad, recepción de reformas compatibles y preparación conjunta |
+| Exploración | Comunicación, alcance útil y relevo de cruceros anteriores |
+| Estaciones | Reemplazos mantenibles y adaptación a rutas lejanas |
+| Ligeros | Aptitud de acompañamiento y desarrollo de escolta especializada según aceptación |
+| Submarinos | Seguridad, autonomía útil, motores y mantenimiento por lotes |
+| Aviación naval | Consolidar observación y evaluar la necesidad de aviación de cubierta |
+| Auxiliares | Mantener combustible, reparación y transporte mientras envejecen los nuevos programas |
+
+Las prioridades no acreditan nuevas clases o instalaciones. Los nombres Lindon, Vinyamar, Angren, Nimloth y Elenna conservan su identidad inicial. Un sucesor con diferencias importantes debe recibir una variante o generación explícita en lugar de trasladar silenciosamente sus prestaciones a los cascos originales.
+
+### Modernización selectiva
+
+Se adopta evaluar reformas de comunicaciones, dirección óptica, servicios auxiliares, ventilación, seguridad y equipos propios de cada misión. Las mejoras de planta y combustible requieren viabilidad de espacios, pesos y suministros; no se adopta conversión general a petróleo o diésel.
+
+La defensa frente a aeronaves y submarinos gana una línea propia de desarrollo. Los montajes, sensores y procedimientos se introducirán cuando correspondan a la cronología y hayan sido aceptados. No se atribuye radar operativo general en la década ni sonar en todos los escoltas por disponer de perfiles técnicos posteriores.
+
+Se recomienda evitar reconstrucciones profundas de los cruceros que ya tienen retiro cercano en el calendario A104. El esfuerzo principal debe concentrarse en los sucesores que sostendrán esas funciones, reservando reparaciones de continuidad para los antiguos que aún puedan hacerlo con seguridad. La excepción necesitaría una justificación individual y una resolución expresa.
+
+### Decisión aeronáutica de la década
+
+El programa experimental del bloque 16 debe permitir decidir si Valinor necesita una primera plataforma de aviación de cubierta. Se adopta evaluar una conversión limitada antes de autorizar una serie completa de portaaviones. Casco, cantidad y fecha de servicio quedan pendientes de ese estudio; la nodriza de hidroaviones no se transforma automáticamente en portaaviones.
+
+La reorganización aérea de 1926 conserva la aviación naval separada conforme a A095. Se adopta coordinar formación, compras y especialidades compartidas con la Fuerza Aérea independiente, mientras mando de operaciones navales, mantenimiento embarcado y equipos marítimos mantienen responsabilidades propias. Esta coordinación no modifica la resolución política vigente.
+
+### Industria y planificación del relevo
+
+La red industrial debe pasar de crecer mediante grandes pedidos a sostener mantenimiento y renovación continuos. Se adoptan series sucesivas y compatibles que mantengan experiencia en talleres y proveedores, sin justificar sobreproducción por conservar actividad. Los pedidos civiles y la reparación comercial forman parte de esa continuidad según contratos reales por definir.
+
+Grandes reformas, bajas y nuevas construcciones se consideran conjuntamente para evitar que toda una misión quede sin relevo. La ampliación de capacidad se justifica por necesidades comprobadas, calidad y plazos, conservando proveedores alternativos. El complejo siderúrgico y las plantas de maquinaria siguen siendo complementarios y no una sola fábrica que resuelva cualquier producto naval.
+
+### Resultado y decisiones posteriores
+
+Hacia 1930 se adopta una Armada con generaciones de comienzos de siglo ya retiradas o en su fase final, programas de 1910–1918 consolidados y capacidades aérea y antisubmarina en desarrollo propio. El resultado conserva sus condiciones de diseño y recepción; no presupone participación bélica.
+
+## Bloque 18 Sucesores de exploración y estaciones
+
+### Dos líneas adoptadas para el relevo
+
+Se adoptan Eregion como nueva clase de crucero explorador y Osgiliath como crucero de estación. Desarrollan el relevo de los Eärendil acorazados, Rómenna, Ciryatan y Pelargir de comienzos de siglo conforme a sus retiros adoptados, en cooperación con los Lindon y Vinyamar que siguen incorporados. No sustituyen los nombres de esas clases ni prolongan sus cascos por inferencia.
+
+| Clase propuesta | Programa | Objetivo incorporado al cierre de 1930 | Referencia inicial de diseño |
+| --- | --- | --- | --- |
+| Eregion, explorador | 8 | 4 | 7.800 t normales, 30 nudos de prueba objetivo, ocho piezas de 152 mm |
+| Osgiliath, estación | 12 | 8 | 6.000 t normales, 24 nudos de prueba objetivo, seis piezas de 152 mm |
+
+Se adopta comenzar el desarrollo de Osgiliath en 1922 y sus incorporaciones desde 1924; Eregion se desarrolla desde 1924 con primeras incorporaciones desde 1927. Ambos programas se completarían hacia 1933, sujeto a recepción industrial. Los perfiles son objetivos nuevos de anteproyecto y no balances de pesos ni pruebas certificados.
+
+Eregion prioriza exploración y coordinación con fuerzas de flota, con turbinas de vapor y calderas de combustible líquido. Osgiliath prioriza autonomía, habitabilidad, embarcaciones y mantenimiento de estación, con planta de vapor y combustible líquido de diseño apto para ese servicio. Su menor velocidad respecto a los perfiles de crucero de flota expresa una misión económica de estación, no una lectura que acumule todos los máximos de las bandas técnicas.
+
+La protección, potencia, alcance, dimensiones y dotaciones se resolverán en fichas de clase. No se añaden radar, aviación embarcada o dirección de tiro de generaciones posteriores por pertenecer a los años veinte. La adopción de combustible líquido requiere depósitos, transporte y capacidad de reparación en las estaciones asignadas.
+
+### Relevo funcional y continuidad
+
+Los veinte nuevos cascos adoptados no reemplazan uno por uno a los 36 cruceros y corbetas del ámbito anterior que concluyen su retiro hacia 1930. El resto del relevo descansa en Lindon, Vinyamar y redistribución de cometidos. El tamaño de la fuerza debe atender a cobertura y sostenimiento, sin mantener una cantidad antigua por inercia.
+
+Osgiliath no debe asumir todas las misiones de escolta antisubmarina por ser un buque de estación; esa función recibe un diseño específico en el bloque 20. Eregion y los capitales conservan cometidos de exploración y concentración distintos. Las reformas de Lindon y Vinyamar se registran donde sean viables, sin elevar automáticamente sus prestaciones a las de Eregion.
+
+## Bloque 19 Primera plataforma experimental de aviación de cubierta
+
+### Identidad y programa adoptados
+
+Se adopta denominar Nargothrond a un único portaaviones experimental obtenido por conversión de un casco civil adecuado. El estudio se abriría en 1923, la obra se plantearía desde 1924 y la entrada objetivo en servicio sería 1928, condicionada a selección de casco, estabilidad, maquinaria, operación aérea y pruebas.
+
+Se toma como referencia de anteproyecto unas 14.000 t normales, 22 nudos de prueba objetivo y capacidad nominal de hasta dieciséis aeronaves ligeras aptas. Esa capacidad no equivale a dieciséis disponibles de manera permanente ni a un ala aérea ya existente. Las aeronaves y su adaptación naval se conciliarán con A095 aérea; no se cuenta una variante embarcada por el solo hecho de existir un avión terrestre.
+
+El perfil de portaaviones de flota entre guerras conservado en Desarrollo naval representa otro alcance. Nargothrond sería una plataforma experimental de conversión, más limitada, sin utilizar los máximos del perfil para convertirlo en un portaaviones de flota de primera línea.
+
+### Relación con nodriza e inventario
+
+La nodriza experimental aceptada en el bloque 16 conserva su función de hidroaviones dentro del objetivo auxiliar de 110: diecinueve transportes y una nodriza en lugar de veinte transportes. Nargothrond es otro programa. No se transforma esa nodriza por una frase ni se la cuenta simultáneamente como auxiliar y portaaviones.
+
+La opción preferida es adquirir un casco civil fuera del inventario naval y convertirlo. Si se realiza, supone una incorporación naval adicional por conversión, no una nueva construcción de casco ni una posición incluida en los 110 auxiliares. Si después se elige un casco ya naval, la resolución deberá registrar la baja en su categoría de origen y la nueva categoría, manteniendo la misma identidad material.
+
+### Función y límites
+
+La prioridad es desarrollar aterrizaje y despegue de cubierta, organización de vuelo, mantenimiento, control y seguridad, además de explorar el empleo de reconocimiento y protección aérea limitada. No se le atribuye capacidad equivalente a un portaaviones rápido de flota ni cobertura permanente de la escuadra.
+
+La velocidad condiciona su empleo y el despliegue debe contar con escolta, apoyo, combustible y meteorología. Si el casco seleccionado no permite operación segura, se modifica el diseño o se retrasa la incorporación; no se considera buque aceptado por tener nombre y fecha objetivo. No se introduce una serie de portaaviones adicional hasta obtener experiencia y decidir su función.
+
+La reorganización de 1926 mantiene aviación naval separada conforme al programa aéreo vigente. Se adopta compartir especialidades y enseñanza compatibles con la Fuerza Aérea, conservando responsabilidades propias de operación y mantenimiento embarcado. No se inventan normas de creación o resultados de ensayos.
+
+## Bloque 20 Escolta antisubmarina especializada
+
+### Clase Nimras propuesta
+
+Se adopta Nimras como escolta regional y de rutas, con un programa inicial de doce nuevas construcciones: seis incorporadas como objetivo al cierre de 1930 y las seis restantes hacia 1933. El desarrollo comenzaría en 1925 y las primeras altas se plantean desde 1927. El nombre debe consultarse con tipo y época para distinguirlo de Barad Nimras, la base de Gibraltar.
+
+La referencia inicial sería 1.300 t normales, dos motores diésel, dos ejes y 19 nudos de prueba objetivo. Dos piezas de 102 mm proporcionan defensa de superficie y las cargas de profundidad se instalarían solo con su equipo y aceptación propios. Potencia, autonomía, dotación, cantidades de munición y equipos concretos permanecen pendientes de ficha de diseño.
+
+La planta diésel se adopta por el aprendizaje previo de motores navales, submarinos y patrulla, pero exige un equipo aceptado para la potencia y régimen de este diseño. No se obtiene multiplicando sin ingeniería los motores de Elenna ni afirmando intercambiabilidad de combustibles.
+
+### Capacidad acústica y cronología
+
+La cronología de Radar y Sensores sitúa el desarrollo de sonar y capacidades relacionadas en 1930–1945, mientras los bloques anteriores conservan ausencia de sonar operativo de servicio en 1914. Nimras comienza con vigilancia y escucha limitada, y con hidrófonos solo cuando los ensayos y la recepción del programa específico lo permitan.
+
+El equipo activo se estudiaría desde el horizonte de 1930 conforme a esa cronología; no se declara instalado, operativo ni eficaz de forma general en los años veinte. Cualquier adopción temprana excepcional necesitaría una divergencia y resolución explícitas que este bloque no propone. Los principios acústicos, limitaciones del ruido y condiciones del mar deben reflejarse en el empleo sin inventar alcances garantizados.
+
+Nimras complementa destructores Angren y torpederos Nimloth; no los sustituye en todas sus funciones. Su velocidad y misión favorecen protección de rutas y apoyo regional, sin atribuirle acompañamiento permanente de la agrupación más rápida. Las reformas antisubmarinas de otras clases se registrarán por lote o casco y no serán automáticas.
+
+### Lugar en la fuerza
+
+Los doce Nimras son combatientes de escolta y se cuentan aparte de los 110 auxiliares, los programas de destructores y los 42 patrulleros y cañoneras A104. Si se decide convertir otro casco en vez de construir una unidad, debe modificarse el programa con trazabilidad; no se cuentan ambos resultados como nuevas altas.
+
+Se recomienda concentrar inicialmente formación y recepción de equipos en pocos centros compatibles, y extender despliegues después. El programa no acredita que todos los convoyes o estaciones tengan un escolta especializado ni que exista una red ASW moderna.
+
+## Bloque 21 Segunda generación submarina
+
+### Elenna II como nueva clase
+
+Se adopta Elenna II para doce submarinos de nueva construcción, distintos de los veinticuatro Elenna iniciales. Su desarrollo comenzaría en 1924 y la primera incorporación objetivo sería 1928; cuatro estarían incorporados como objetivo en 1930 y los ocho restantes hacia 1933, según aceptación.
+
+El anteproyecto se orienta a unas 1.300 t en superficie, 18 nudos en superficie y nueve sumergido como objetivos, planta diésel-eléctrica y seis tubos de 533 mm. Se busca mejor autonomía de superficie, habitabilidad y sostenimiento de patrulla dentro de la tecnología de la época. El desplazamiento sumergido, batería, alcance y seguridad de inmersión quedan pendientes de diseño y pruebas; no se introducen prestaciones de submarinos posteriores.
+
+El cambio de tamaño, casco, maquinaria y armamento justifica identidad de segunda generación. El numeral no acredita que los primeros Elenna hayan sido reconstruidos. Las mejoras de baterías, ventilación, motores y auxiliares requieren equipos propios, no una mejora porcentual universal de los cascos anteriores.
+
+### Transición y munición
+
+Los Elenna iniciales continúan según su estado y calendarios que se concilien, con posibles funciones de instrucción y patrulla compatibles. El bloque no adopta retiros anticipados ni declara que toda la primera generación siga disponible hasta 1933. Una reasignación a escuela no la suma de nuevo a los auxiliares.
+
+Los tubos de 533 mm son configuración inicial de Elenna II; no se sustituyen los de 450 mm de los primeros Elenna por inferencia. La industria y la logística deberán sostener dos calibres mientras existan usuarios, con estiba, mantenimiento y formación específicos. La estandarización futura se decide por generación y coste de transición, no borrando el equipo anterior.
+
+El programa mantiene a Númenor como ámbito de referencia para integración especializada, sin crear un nuevo centro certificado por cada clase. Motores, baterías, equipos eléctricos y seguridad requieren proveedores y recepción propios. La capacidad submarina se expande después de validar equipos y personal, sin presuponer experiencia de guerra que el canon no ha decidido.
+
+## Bloque 22 Equilibrio industrial y límites del programa hacia 1930
+
+### Alcance combinado de los cinco bloques
+
+| Programa nuevo adoptado | Cantidad completa | Incorporados objetivo al cierre de 1930 | Continuidad |
+| --- | --- | --- | --- |
+| Eregion exploradores | 8 | 4 | Resto hacia 1933 |
+| Osgiliath de estación | 12 | 8 | Resto hacia 1933 |
+| Nargothrond experimental | 1 conversión civil | 1 | Sin serie posterior adoptada |
+| Nimras escoltas | 12 | 6 | Resto hacia 1933 |
+| Elenna II submarinos | 12 | 4 | Resto hacia 1933 |
+| Total del nuevo ámbito | 44 construcciones y 1 conversión | 23 incorporaciones objetivo | No es inventario nacional |
+
+Las veintitrés incorporaciones objetivo comprenden veintidós nuevas construcciones y una conversión civil. Son adicionales a los programas anteriores y están parcialmente compensadas por los retiros A104 que se mantienen. No se suman para afirmar un total nacional en 1930 sin conciliar todas las bajas y categorías. Tampoco se equipara una conversión a la misma carga industrial de un crucero nuevo.
+
+No se adopta una nueva serie de acorazados o cruceros de batalla en estos bloques. La fuerza pesada reciente conserva prioridad de mantenimiento y reformas compatibles. Los perfiles de acorazado rápido de entreguerras permanecen como referencias hasta una decisión de programa independiente.
+
+### Reparto de trabajo y aprendizaje
+
+Los cruceros sucesores se coordinan con las especialidades de Pelargir y Calenport y sus proveedores. La conversión de Nargothrond necesita un centro con geometría, maquinaria y acceso adecuados, por seleccionar; no se adjudica automáticamente al taller naval más conocido. Su programa aéreo se enlaza con A095 aérea y con equipos de cubierta específicos.
+
+Nimras permite desarrollar construcción y reparación compatibles con proveedores de motores, cascos medianos y equipos especializados, manteniendo recepción militar y formación. Elenna II conserva su cadena submarina diferenciada. Rhûn y otros proveedores aportan productos aceptados, mientras grandes forjas, tubos y equipos de precisión mantienen procesos propios.
+
+La reserva de reparación no se consume íntegra para cumplir las fechas nuevas. Si los programas compiten por plantas, acero especial, equipos o personal, se priorizan continuidad del servicio y terminación de cascos maduros. Se escalonan nuevas obras antes de dar por construidas ampliaciones industriales no comprobadas.
+
+### Logística y personal
+
+El crecimiento de usuarios de combustible líquido exige transporte, depósitos, calidad y seguridad, conservando carbón y repuestos para quienes aún los necesiten. La nodriza se mantiene dentro del objetivo de 110 auxiliares; el portaaviones experimental y los escoltas son categorías separadas. No se amplía silenciosamente la capacidad de apoyo por añadir nuevos combatientes.
+
+Las dotaciones nuevas se forman con tiempo y los cuadros de recepción y mantenimiento se distinguen de los alumnos. La aviación de cubierta, los escoltas con equipo especializado y la nueva generación submarina necesitan habilitaciones propias. No se crean cifras de plantilla adicionales en este bloque ni se cuentan veteranos simultáneamente en dos destinos.
+
+### Decisiones que prepara esta propuesta
+
+## Bloque 23 Reformas selectivas y función de la fuerza pesada
+
+### Alcance adoptado
+
+Se recomienda mantener Anárion II y Gil-galad de batalla como líneas pesadas diferenciadas durante su vida útil, con programas de reforma por lotes y comprobación individual. Estos bloques no autorizan otra serie de capitales ni prolongan automáticamente los horizontes AM1. Sus ventanas de familia hasta aproximadamente 1945 no demuestran que todos los cascos permanezcan activos hasta ese año.
+
+La decisión de reformar debe comparar vida estructural restante, utilidad de misión y carga industrial con la alternativa de relevar funciones. Las unidades que no justifiquen una reconstrucción pueden recibir reparación de seguridad y un cometido más limitado, o una propuesta de retiro que debe aprobarse y registrarse. No se inventan pérdidas o guerras para explicar su salida.
+
+### Dos niveles de intervención
+
+| Nivel | Alcance adoptado | Resultado que puede afirmarse |
+| --- | --- | --- |
+| Conservación y actualización limitada | Seguridad, maquinaria, auxiliares, comunicaciones y óptica compatibles | Recuperar fiabilidad y actualizar equipos concretos |
+| Reconstrucción selectiva | Obras estructurales o de planta y redistribución significativa de equipos | Una configuración posterior diferenciada, solo tras ingeniería y aceptación |
+
+La clasificación no fija porcentajes de rendimiento. Reparar calderas y condensación puede recuperar servicio sin aumentar velocidad máxima. Un cambio de planta debe comprobar bancadas, espacios, transmisión, ventilación, combustible y estabilidad. La disponibilidad de combustible líquido no convierte todas las calderas antiguas en equipos adecuados para él.
+
+### Anárion II y Gil galad
+
+En Anárion II se adopta priorizar fiabilidad de planta, protección de servicios vitales, comunicaciones y dirección óptica de tiro, junto con defensa frente a amenazas aéreas según equipos aceptados. Su batería principal conserva la configuración de construcción o reforma documentada; no pasa a calibres mayores por aplicar un perfil de acorazado rápido posterior.
+
+Gil-galad de batalla conserva su equilibrio de velocidad, armamento y protección. La reforma puede mejorar seguridad, servicios y equipos dentro de límites comprobados, pero no le atribuye protección de acorazado sin coste de peso y rendimiento. Se mantiene una función de exploración pesada y respuesta rápida compatible con su configuración, con reevaluación si la evolución de amenazas reduce su utilidad.
+
+Los añadidos de puestos, telémetros, armamento antiaéreo, equipos y antenas necesitan control de pesos altos y dotación. No se instala en todos los barcos una batería universal solo para simplificar el catálogo. La reforma de un lote no prueba que otro haya recibido los mismos equipos.
+
+### Integración de sensores y evolución de función
+
+Se adopta mantener los medios ópticos como base durante la primera parte del proceso. El desarrollo de radar de 1930–1945 se incorpora mediante ensayos, recepción y reformas seleccionadas; no se adelanta una cobertura naval general a comienzos de la década ni se promete control radar de tiro en cada capital.
+
+Una unidad con radar de búsqueda inicial no dispone por ello de todas las funciones de control de tiro o coordinación aérea. Los sistemas contemporáneos, comunicaciones y equipos requieren procedimientos y personal específicos. OceanNet y sistemas digitales posteriores permanecen fuera de este horizonte.
+
+Al aumentar la importancia de la aviación naval, los capitales pueden aportar protección de superficie y apoyo compatible sin convertir su velocidad en aptitud automática para acompañar a cualquier portaaviones. Su integración depende de misión, mar, combustible y preparación. La línea pesada mantiene utilidad dentro de una fuerza más diversa y no monopoliza todos los servicios oceánicos.
+
+### Secuencia industrial y trazabilidad
+
+Se adopta evaluar reformas desde comienzos de los años treinta y ejecutarlas escalonadamente donde exista justificación, manteniendo fuerza preparada y capacidad para nuevas clases y auxiliares. Las fechas y cascos concretos quedan pendientes; no se crea un calendario de reconstrucciones integrales para doce o seis unidades por inferencia.
+
+Nueva Tirion y Armenelos conservan funciones de referencia para integración pesada, con proveedores de calderas, maquinaria, grandes piezas e instrumentos. Los trabajos necesitan capacidad real de dique, talleres y personal y no se suman encima de todos los programas anteriores como si fueran libres.
+
+Cada configuración posterior deberá conservar identidad, equipos originales, fecha de obra y aceptación, reformas parciales y límites restantes. Los retiros A104 de generaciones anteriores permanecen sin modificación. Los programas de capitales rápidos y nuevos diseños de 1919–1938 y 1939–1945 seguirán como decisiones separadas hasta que se adopten clases y cantidades propias.
+
+## Bloque 24 Aviación embarcada y escolta antisubmarina entre 1930 y 1945
+
+### De la plataforma experimental al programa de aviación de flota
+
+Nargothrond conserva su entrada objetivo de 1928 y su carácter de conversión experimental, condicionado a selección de casco y recepción. Si el programa es aceptado técnicamente, se adopta utilizar su experiencia para definir una nueva construcción de aviación de flota durante los años treinta. Si no se sostiene, la etapa posterior se revisa antes de dar por existente un grupo aéreo operativo.
+
+AM1 contiene Aulë I como referencia de portaaviones con servicio desde 1945, dentro de una reconstrucción de trabajo de ocho unidades. Se recomienda desarrollar Aulë I como programa de nueva construcción distinto de Nargothrond y conservar 1945 como primer horizonte de servicio de esa referencia. Este bloque no aprueba ocho incorporados en 1945, no fija un total de serie ni considera cumplida su ventana posterior hasta 1970.
+
+La nodriza de hidroaviones permanece separada y dentro del objetivo auxiliar donde se la aceptó. Nargothrond mantiene su identidad material y categoría; no se convierte en Aulë I por cambio de nombre. Una reforma o retiro de cualquiera de ellos se resuelve mediante expediente propio, sin duplicación de casco.
+
+### Capacidades que deben madurar
+
+Se adopta que el aprendizaje abarque operación de cubierta, control de vuelo, mantenimiento y reparación de aeronaves, seguridad de combustible y coordinación con escoltas y reconocimiento. La capacidad nominal de embarque de Nargothrond no se presenta como un ala siempre disponible ni se traslada automáticamente al diseño Aulë.
+
+Las aeronaves navales se conciliarán con A095 aérea, incluyendo cambios de estructura, corrosión, equipos y operación embarcada cuando sean necesarios. La reorganización de 1926 mantiene aviación naval separada y cooperación en especialidades compartidas. Un modelo terrestre no se convierte en avión embarcado mediante una etiqueta ni se cuenta un grupo aéreo a partir de un perfil de portaaviones.
+
+### Desarrollo acústico por etapas
+
+| Etapa de propuesta | Prioridad |
+| --- | --- |
+| Primera mitad de los años treinta | Ensayos de equipos acústicos activos y procedimientos con unidades seleccionadas |
+| Segunda mitad de los años treinta | Recepción de primeras configuraciones y formación especializada donde se complete el ensayo |
+| 1940–1945 | Ampliación por lotes y diseños apropiados, ligada a suministro y aceptación |
+
+La secuencia desarrolla el horizonte 1930–1945 de Radar y Sensores. Es un programa adoptado y no evidencia de que un equipo funcionara en una fecha concreta. La escucha, detección activa, localización y capacidad de ataque son funciones relacionadas pero no equivalentes; el rendimiento depende de ruido propio, mar, fondo, equipo y personal.
+
+Se adopta priorizar recepción en Nimras y después en unidades compatibles de otras clases, sin instalar sonar en todos los Angren, cruceros o patrulleros por inferencia. Los equipos y armas requieren configuración y aceptación propias. La aviación puede aportar información y cooperación dentro de sus prestaciones, sin sonoboyas, helicópteros o redes acústicas modernas trasladadas a esa época.
+
+### Continuidad de las escoltas y referencias de 1945
+
+Los perfiles AM1 de Mithlond I y Nimrodel I ofrecen referencias de escolta oceánica y convoy para el periodo posterior, con servicio inicial aproximado desde 1940. Se recomienda desarrollarlos como sucesores especializados que aprovechen experiencia de Nimras sin confundirlos con una reconstrucción automática de sus cascos.
+
+Las cantidades quedan conciliadas por los bloques 25 a 34: los programas completos se distinguen de las incorporaciones al corte y de los supervivientes. La prioridad propuesta es separar escolta oceánica, acompañamiento rápido y protección litoral para que cada función tenga un diseño y apoyo adecuados.
+
+Nimras mantiene utilidad según configuración y estado, con reformas justificadas donde quede vida suficiente. Los tipos iniciales de submarino y sus sucesores no se mantienen todos hasta 1945 sin revisar retiros; tampoco se les atribuye el equipamiento de perfiles posteriores a partir de un nombre familiar compartido.
+
+### Apoyo a una fuerza aeronaval y antisubmarina
+
+El nuevo empleo requiere talleres de instrumentos, acústica, radio y electricidad, además de repuestos, aeronáutica y apoyo a motores y baterías. La experiencia previa ayuda, pero no certifica cada nuevo producto. Se adopta formar operadores e instructores al mismo tiempo que se reciben equipos y conservar documentación de fallos, cambios y pruebas.
+
+La combinación de portaaviones, capitales, escoltas y auxiliares necesita coordinación de mantenimiento y suministro, con apoyo regional que reduzca desplazamientos innecesarios. No se incrementa por este bloque el objetivo auxiliar de 110 ni se lo conserva congelado hasta 1945: sus bajas y necesidades posteriores deberán conciliarse en un bloque propio.
+
+### Límites de recepción
+
+Este desarrollo no adopta guerras, pérdidas, resultados de detección, composición nacional de 1945 o el total orientativo de 368 de AM1. Se conservan esos datos como referencias por resolver, con separación de programas completos e incorporados en el corte.
+
+## Bloque 25 Programa Aulë I de aviación de flota
+
+### Cantidad y entrada gradual adoptadas
+
+Se adopta interpretar los ocho Aulë I de AM1 como programa completo de nueva construcción y no como ocho incorporados en 1945. El programa se definiría desde 1938, con primeras obras desde 1940 y dos incorporaciones objetivo al cierre de 1945. Los seis restantes se entregarían escalonadamente hasta 1952, sujetos a capacidad, diseño y recepción. El horizonte de servicio posterior no acredita supervivencia de todos hasta 1970.
+
+La referencia inicial de diseño sería unas 28.000 t normales, turbinas de vapor con calderas de combustible líquido y 28 nudos de prueba objetivo. Se adopta capacidad nominal de hasta sesenta aeronaves de generaciones aptas, con ala efectiva, tipos y disponibilidad pendientes de A095 aérea y de aceptación naval. Las dimensiones, potencia y protección requieren ingeniería propia. No se acumulan los máximos de perfiles anteriores para fijar una capacidad superior.
+
+### Función y continuidad con la experimentación
+
+Aulë I busca integrar aviación en exploración, protección y operaciones navales dentro de las posibilidades de sus aeronaves y escoltas. La autonomía aérea no se deduce del alcance del buque y el máximo de aeronaves embarcables no es una disponibilidad permanente.
+
+Nargothrond aporta experiencia si su conversión y recepción se completan, pero mantiene identidad independiente. No se convierte en uno de los ocho Aulë I ni se añade otra vez por realizar instrucción. La nodriza de hidroaviones sigue siendo otra plataforma dentro del ámbito auxiliar correspondiente.
+
+El diseño y las primeras unidades deben formar personal de cubierta, mantenimiento, mando aéreo y servicios, con cooperación A095 y aviación naval separada conforme a 1926. No se cuentan aviones terrestres como embarcados sin adaptación, formación y recepción. La denominación Aulë debe acompañarse de tipo y generación para distinguir el portaaviones de auxiliares y otros buques homónimos.
+
+### Industria y aceptación
+
+Se adopta coordinar integración en centros pesados compatibles de Nueva Tirion y Armenelos, con adjudicación definitiva y capacidad por verificar. Los equipos aeronáuticos, ascensores, cubierta, hangares, combustible y seguridad requieren procesos propios; no son un crucero ampliado con una superficie plana.
+
+El inicio de dos unidades permite revisar resultados antes de sostener el resto de la serie. Las fechas objetivo se escalonan si no existen equipos, personal o instalaciones, sin declarar ejecutadas ampliaciones industriales. Los primeros servicios se sitúan en 1945 como referencia AM1 y no implican participación en una guerra ni resultados de combate adoptados.
+
+## Bloque 26 Nuevos cruceros de mando exploración y protección
+
+### Tres líneas de referencia AM1
+
+Se adopta desarrollar los dieciocho cruceros AM1 como tres programas de seis unidades. Doce estarían incorporados como objetivo en 1945, cuatro de cada línea; los seis restantes hasta 1950. Las primeras incorporaciones se plantean desde 1938 para Turgon I y desde 1940 para Eärendil II y Rómenna II, con obras y recepción por definir.
+
+| Clase propuesta a partir de AM1 | Función principal | Programa | Incorporados objetivo en 1945 |
+| --- | --- | --- | --- |
+| Turgon I | Mando y protección de agrupaciones | 6 | 4 |
+| Eärendil II, crucero | Exploración pesada y combate de superficie | 6 | 4 |
+| Rómenna II | Exploración y protección de rutas | 6 | 4 |
+
+Turgon I debe priorizar comunicaciones, coordinación y defensa antiaérea compatible con equipos de su época. Eärendil II desarrolla un crucero pesado con batería de referencia de 203 mm. Rómenna II desarrolla una línea ligera con piezas de 152 mm. La artillería de Turgon y los montajes concretos se resolverán según su función, sin asignar una batería universal por compartir categoría.
+
+Se conservan como bandas de estudio los 28–32 nudos y la propulsión de turbinas de vapor AM1. Desplazamiento, potencia, autonomía, dotaciones y protección se definirán por diseño; no se seleccionan máximos simultáneos ni se atribuyen sensores de décadas posteriores. La capacidad antiaérea exige armas, dirección, munición y personal propios.
+
+### Sucesión sin duplicación de generaciones
+
+Los programas son nuevas construcciones y no nuevas denominaciones de Lindon, Vinyamar, Eregion u Osgiliath. Los anteriores continúan o se retiran según su configuración y calendarios que se concilien; una función compartida no demuestra conversión de casco. Eärendil II crucero se distingue de los submarinos y salvamento de la misma familia nominal. Rómenna II es nueva generación y no confirma un cambio de nombre de los ocho Rómenna de estación A104.
+
+La producción se distribuiría entre centros compatibles de cruceros, con participación de proveedores especializados y reserva de reparación. No se presupone capacidad para terminar los dieciocho antes de 1945 por estar incluidos en una tabla titulada con ese año. La expansión de radar y control de tiro se instala según lotes y recepción; las primeras unidades pueden conservar configuraciones distintas.
+
+## Bloque 27 Destructores escoltas y corbetas de nueva generación
+
+### Programas y corte adoptados
+
+Se recomienda distinguir tres niveles de servicio: destructores para agrupaciones rápidas, fragatas para protección oceánica y corbetas para rutas y áreas regionales compatibles.
+
+| Línea | Programa completo | Incorporados objetivo en 1945 |
+| --- | --- | --- |
+| Gil-galad I, destructor | 18 | 12 |
+| Beleg I, destructor | 18 | 12 |
+| Ossë I, destructor | 18 | 12 |
+| Mithlond I, fragata | 20 | 14 |
+| Nimrodel I, fragata | 22 | 14 |
+| Pelargir II, corbeta | 24 | 16 |
+| Alqualondë II, corbeta | 18 | 12 |
+
+Las primeras incorporaciones se sitúan desde el horizonte AM1 de 1940 y los programas continuarían hasta 1950. Son cantidades nuevas adoptadas para conciliar el corte y no disponibilidad simultánea. Las unidades que no se incorporen en 1945 permanecen como entregas posteriores, no barcos presentes por autorización.
+
+### Funciones e integración técnica
+
+Gil-galad I prioriza acompañamiento y defensa de agrupaciones; Beleg I, cooperación antisubmarina y escolta; Ossë I, cometidos de flota y ataque de superficie. La especialización no elimina funciones comunes ni garantiza los mismos sensores en todos los cascos. Gil-galad I destructor se distingue expresamente de los cruceros de batalla y acorazados históricos.
+
+Mithlond I se orienta a escolta oceánica con mejores condiciones de acompañamiento dentro de sus bandas. Nimrodel I prioriza protección de convoyes y sostenimiento de rutas. Aprovechan experiencia de Nimras, pero son nuevos diseños; no se reclasifican todos los Nimras como fragatas para completar la cantidad.
+
+Pelargir II y Alqualondë II desarrollan escolta regional, patrulla y protección de convoy según autonomía y mar. El tamaño menor no implica uso indiscriminado en cualquier océano. Las armas antisubmarinas y acústica se asignan donde exista equipo y preparación, sin convertir toda corbeta en una plataforma ASW equivalente a una fragata.
+
+Se mantienen turbinas en destructores y plantas económicas de vapor o diésel según diseño en escoltas, sujetas a motores y mantenimiento aceptados. Radar y sonar se introducen según el horizonte 1930–1945, por lotes e instalación comprobada. No se instala dirección radar de tiro a partir de un equipo de búsqueda ni se confunden capacidades acústicas iniciales con las de sistemas modernos.
+
+### Industria y continuidad anterior
+
+La producción necesita diseños repetibles, proveedores compatibles, herramientas, recepción y formación. Se adopta reservar obras complejas a centros adecuados y utilizar la red civil donde pueda cumplir especificaciones, sin atribuir capacidad militar completa a todo establecimiento.
+
+Los programas Angren, Nimloth y Nimras se conciliarán con bajas, reformas y funciones restantes; no se sumarán todos como plenamente activos en 1945 sin comprobar su horizonte. Las nuevas series no justifican mantener indefinidamente a las anteriores ni retirarlas todas al mismo tiempo.
+
+## Bloque 28 Submarinos y servicios especializados
+
+### Generaciones submarinas de referencia
+
+Se adopta desarrollar la referencia AM1 de 38 submarinos como cuatro programas distintos, con 24 incorporados objetivo al cierre de 1945 y el resto hasta 1950.
+
+| Clase propuesta a partir de AM1 | Función de referencia | Programa | Incorporados objetivo en 1945 |
+| --- | --- | --- | --- |
+| Arnor I, submarino | Patrulla oceánica de mayor alcance | 8 | 4 |
+| Eärendil I, submarino | Servicio oceánico de propósito general | 10 | 6 |
+| Tolfalas I | Defensa y patrulla regional compatible | 16 | 12 |
+| Ossë I, submarino | Experimentación y misiones especiales por definir | 4 | 2 |
+
+Las primeras incorporaciones conservan el horizonte desde 1940. Se adopta propulsión diésel-eléctrica, baterías y armamento propio de cada diseño, con diferencias de autonomía y habitabilidad. La asignación de misiones no fija prestaciones todavía inexistentes. Ossë especial no acredita minisubmarinos, fuerzas especiales o equipos concretos no desarrollados.
+
+Elenna y Elenna II mantienen su identidad anterior y requieren conciliación de retiros, instrucción y servicio restante. No se convierten en Arnor o Eärendil por compartir planta. Los nombres se consultan siempre con tipo y generación para distinguir submarinos, cruceros y destructores.
+
+La escucha y los equipos acústicos iniciales se incorporan conforme a aceptación. El radar de superficie, donde se elija y reciba, no funciona como detección submarina ni permite su uso bajo el agua. Se conserva la limitación de baterías y no se atribuyen capacidades nucleares, sistemas de décadas posteriores o permanencias sumergidas ajenas a la tecnología.
+
+### Anfibios contramedidas y patrulla
+
+Las referencias AM1 permiten proponer programas especializados, separados de transportes auxiliares y cañoneras anteriores:
+
+| Programa | Cantidad de referencia | Incorporados objetivo en 1945 |
+| --- | --- | --- |
+| Aranath I, anfibios | 4 | 2 |
+| Pelargir I, anfibios | 8 | 6 |
+| Forlond I, anfibios | 10 | 8 |
+| Andúnië I, anfibios | 6 | 4 |
+| Amon Sûl I, contramedidas de minas | 14 | 10 |
+| Menel I, contramedidas de minas | 6 | 4 |
+| Sírënandë I, patrulla | 10 | 6 |
+| Malaca I, patrulla | 8 | 4 |
+
+Los programas continuarían hasta 1950. Los anfibios son nuevas construcciones o conversiones que se individualizarán; el objetivo de incorporar veinte no autoriza contar un transporte convertido también como auxiliar. En caso de conversión se registrará la salida de categoría de origen. Los métodos de desembarco y equipos requieren diseños propios y no equivalen por nombre a plataformas modernas.
+
+Los veinte de contramedidas forman un programa diferente de los minadores del objetivo auxiliar previo. Barrido, búsqueda y protección contra minas requieren equipos y formación específicos. La capacidad de búsqueda acústica de minas no se deduce automáticamente de instalar sonar antisubmarino; su aceptación será propia. Los patrulleros de 1940 se distinguen del programa de 42 A104 y de familias homónimas posteriores.
+
+## Bloque 29 Conciliación del corte de 1945 y apoyo industrial
+
+### Separar alcance de programa e incorporación
+
+La tabla AM1 de 368 se conserva como antecedente orientativo. Se adopta reinterpretar sus categorías de combate y especializadas como programas completos con entregas posteriores a 1945. El objetivo de cien auxiliares se trata como composición de apoyo del corte, incluyendo supervivientes y sustituciones por función, no como cien cascos nuevos añadidos a todos los anteriores.
+
+| Categoría del nuevo ámbito | Referencia AM1 de programa u objetivo | Incorporados u objetivo de composición en 1945 |
+| --- | --- | --- |
+| Aulë I portaaviones | 8 | 2 |
+| Cruceros de nueva generación | 18 | 12 |
+| Destructores nuevos | 54 | 36 |
+| Fragatas nuevas | 42 | 28 |
+| Corbetas nuevas | 42 | 28 |
+| Patrulleros nuevos | 18 | 10 |
+| Submarinos nuevos | 38 | 24 |
+| Anfibios especializados | 28 | 20 |
+| Contramedidas de minas | 20 | 14 |
+| Auxiliares por función | 100 | 100 como objetivo por conciliar |
+| Total del ámbito de referencia | 368 | 274, condicionado al apoyo adoptado |
+
+De los 274, 174 corresponden a incorporaciones objetivo de programas delimitados y cien al objetivo auxiliar. Es un ámbito parcial y condicionado: no incluye automáticamente todos los supervivientes de capitales, cruceros, escoltas y otras categorías anteriores ni demuestra cien auxiliares efectivamente disponibles. El total nacional de 1945 sigue sin cerrar hasta conciliar esas continuidades y bajas. No se fuerza una cifra para reproducir el encabezado AM1.
+
+### Auxiliares y coherencia de funciones
+
+Se recomienda revisar el objetivo de 110 hacia 1920 contra retiros y nuevas necesidades, en lugar de congelarlo hasta 1945 o sumarlo íntegro a otros cien. Combustible, reparación, transporte, sanidad, hidrografía, remolque y comunicaciones deben explicar la composición de apoyo. Los nombres auxiliares Aulë, Eärendil u otros no crean vínculos de casco con portaaviones y cruceros homónimos.
+
+La nodriza experimental, Nargothrond y eventuales escuelas o conversiones mantienen registros de identidad y categoría. Su supervivencia en 1945 requiere decisión; no se los considera retirados ni activos por inferencia. Los minadores anteriores se concilian con su misión y bajas, sin confundirlos con las nuevas contramedidas.
+
+### Producción sostenimiento y personal
+
+El programa de aviación demanda capacidad de integración pesada y equipos propios; las escoltas y submarinos requieren series y proveedores especializados. La construcción en paralelo no demuestra que grandes piezas, motores, instrumentos y personal puedan sostener todas las fechas. Se adopta proteger mantenimiento y terminar unidades maduras antes de abrir pedidos que no dispongan de equipos.
+
+La electrificación, instrumentos y sensores amplían la necesidad de técnicos y talleres. Sus operadores se forman con los equipos recibidos y no se cuentan en varios destinos simultáneos. La disponibilidad de radar o sonar no sustituye procedimientos, reparación y repuestos. La cadena aeronáutica se coordina con A095 aérea y aviación naval separada, sin adoptar aeronaves por la capacidad nominal del portaaviones.
+
+### Alcance de la decisión propuesta
+
+La aceptación de estos cinco bloques fijaría nombres y cantidades de programa, objetivos parciales en 1945 y continuidad de entregas posterior, con ingeniería, bajas y apoyo pendientes de conciliación. No adoptaría el total nacional 368 ni campañas, guerras, pérdidas, tratados o resultados históricos externos.
+
+## Bloque 30 Supervivientes anteriores y composición propuesta de 1945
+
+### Selección narrativa de continuidad
+
+Se adopta conservar en 1945 un grupo limitado de generaciones anteriores, condicionado a inspección y reformas justificadas, para mantener continuidad mientras se reciben las nuevas series. Estas cantidades son decisiones nuevas para revisión y no supervivencias recuperadas de documentación. Las pérdidas o guerras no decididas no se utilizan para justificar el balance.
+
+| Clase anterior | Supervivientes adoptados al cierre de 1945 | Función propuesta |
+| --- | --- | --- |
+| Anárion II acorazados | 4 | Reserva pesada preparada y cometidos compatibles |
+| Gil-galad de batalla | 2 | Apoyo de superficie compatible con su configuración |
+| Nargothrond | 1 | Portaaviones de instrucción y experimentación |
+| Eregion | 8 | Exploración y coordinación según estado |
+| Osgiliath | 12 | Estaciones y protección de rutas |
+| Nimras | 12 | Escolta especializada con equipos aceptados |
+| Elenna II | 12 | Patrulla e instrucción submarina según configuración |
+| Total anterior no auxiliar | 51 | Sin disponibilidad simultánea garantizada |
+
+Se recomienda seleccionar para la continuidad pesada las unidades más recientes y aptas del programa, sin fijar matrículas ni resultados de inspección inexistentes. Conservar cuatro Anárion II y dos Gil-galad después de 1945 amplía expresamente el horizonte aproximado AM1 de esas familias: es una propuesta de excepción temporal, no una lectura que ya constase vigente. Su retiro escalonado se completaría hacia 1952, antes si el estado lo exige mediante resolución.
+
+Los veinte Eregion y Osgiliath, doce Nimras y doce Elenna II son programas de los años veinte y treinta aceptados para acumulativa. La propuesta conserva sus cantidades hasta 1945 como objetivo narrativo, sin acreditar aptitud de cada casco ni convertir todas sus reformas en idénticas. Los programas anteriores que no aparecen en esta selección reciben tratamiento expreso de retiro en el bloque 31.
+
+### Objetivo de composición resultante
+
+Al añadir estos 51 al ámbito de 274 aceptado en el bloque 29 se obtiene una composición propuesta de 325. Se trata de un objetivo narrativo del catálogo conciliado, no de un censo documental ni de una medición de disponibilidad. Se aplican las bajas, conversiones y composición auxiliar adoptadas en los bloques 31 y 32.
+
+| Categoría | Cantidad propuesta en 1945 |
+| --- | --- |
+| Portaaviones, incluidos dos Aulë I y Nargothrond | 3 |
+| Acorazados Anárion II anteriores | 4 |
+| Cruceros de batalla Gil-galad anteriores | 2 |
+| Cruceros, doce nuevos y veinte Eregion/Osgiliath | 32 |
+| Destructores nuevos | 36 |
+| Fragatas y escoltas especializados, incluidos doce Nimras | 40 |
+| Corbetas nuevas | 28 |
+| Patrulleros nuevos | 10 |
+| Submarinos, incluidos doce Elenna II | 36 |
+| Anfibios especializados | 20 |
+| Contramedidas de minas | 14 |
+| Auxiliares por función | 100 |
+| Total adoptado del ámbito conciliado | 325 |
+
+La agrupación de fragatas y escoltas no cambia el tipo histórico Nimras ni le atribuye velocidad o autonomía de una fragata oceánica. Nargothrond se cuenta como portaaviones por su categoría, aunque su función principal sea instrucción, y no como uno de los buques escuela auxiliares. El corte no altera las cantidades de 1980 o 2026.
+
+## Bloque 31 Bajas conversiones y continuidad de identidad
+
+### Bajas adoptadas para cerrar el corte
+
+Se adopta retirar del servicio naval activo antes o durante 1945 las ocho unidades Anárion II y cuatro Gil-galad de batalla que no integren la selección anterior. La secuencia se decidirá por lotes y estado, manteniendo continuidad hasta recibir los relevos. No se atribuyen hundimientos o pérdidas bélicas; el retiro no fija desguace, venta o exportación.
+
+Lindon, Vinyamar, Angren, Nimloth y Elenna iniciales completarían su salida de servicio activo hacia 1945, mediante retiros escalonados que deberán desarrollarse en la futura integración. Esta resolución propuesta concreta o revisa sus horizontes de familia para evitar sumarlos íntegros a las nuevas generaciones. No se presenta como una baja que ya estuviera individualizada en A104.
+
+Los retiros A104 de clases anteriores, incluidos Vëantur, Anárion convencionales, Tarannon, Eärendil acorazados, Rómenna, Ciryatan, Pelargir y Forlond históricos, permanecen sin modificación. El programa de 42 cañoneras y patrulleros A104 conserva sus bajas anteriores al corte de 1945 y no se suma a los nuevos patrulleros.
+
+### Nodriza Nargothrond y escuelas
+
+Se adopta retirar la nodriza experimental de hidroaviones hacia 1940 conforme la observación costera y la aviación de cubierta dispongan de medios más apropiados, sin transferir automáticamente su casco a otra categoría. Su posición se concilia dentro del relevo auxiliar, no como una desaparición sin registro.
+
+Nargothrond conservaría instrucción y experimentación hasta un retiro objetivo en 1948, sujeto a seguridad y aptitud. La supervivencia hasta 1945 y esa salida posterior son decisiones nuevas adoptadas. La función de escuela no lo duplica como auxiliar ni lo convierte en uno de los Aulë I. Si una inspección impide continuar, el relevo de formación deberá resolverse con una unidad preparada antes de considerar cumplida su misión.
+
+Los buques escuela auxiliares del objetivo de cien conservan otros cometidos de formación básica y especialidades. Un capital que instruya personal sigue dentro de su propia categoría mientras no exista conversión registrada. Cascos en pontón, desguace o depósito fuera del servicio naval no se cuentan como unidades incorporadas.
+
+### Regla para otras conversiones
+
+Toda conversión debe conservar identidad material, categoría de origen, obra, nueva función y aceptación. Una unidad pasa de una categoría a otra y no incrementa el total de cascos por el cambio de misión. Si procede de adquisición civil, la entrada naval se registra una vez; si el origen ya es naval, se concilian la salida y el alta de categoría.
+
+Se adopta revisar futuras conversiones anfibias o de apoyo con esta regla antes de consolidar el corte. No se aprueban por ahora cascos adicionales para suplir supuestas conversiones ni se presupone que un transporte es apto para aviación, anfibios u hospital por su tamaño.
+
+## Bloque 32 Composición y renovación del apoyo auxiliar
+
+### Objetivo funcional de cien
+
+Se adopta esta distribución de apoyo para 1945, separada de los programas de combate y contramedidas. Los nombres auxiliares AM1 se conservarán como familias o referencias hasta que se concilie su correspondencia exacta por función, sin asignar todos sus nombres y cantidades por inferencia.
+
+| Función principal | Objetivo 1945 | Supervivientes anteriores adoptados | Incorporaciones de relevo adoptadas |
+| --- | --- | --- | --- |
+| Carboneros | 8 | 6 | 2 |
+| Tanques de combustible líquido | 18 | 2 | 16 |
+| Almacén y abastecimiento | 16 | 4 | 12 |
+| Transportes | 14 | 6 | 8 |
+| Remolcadores | 12 | 6 | 6 |
+| Reparación y taller | 10 | 2 | 8 |
+| Hospitales | 6 | 2 | 4 |
+| Hidrográficos | 6 | 2 | 4 |
+| Minadores | 2 | 2 | 0 |
+| Buques escuela auxiliares | 4 | 0 | 4 |
+| Comunicaciones y apoyo especializado | 4 | 0 | 4 |
+| Total | 100 | 32 | 68 |
+
+Las 32 supervivencias son posiciones de selección adoptadas, no cascos ya acreditados como aptos en 1945. Deben elegirse entre unidades compatibles de los programas anteriores con sus altas, edad y estado. Las 68 incorporaciones de relevo pueden incluir nuevas construcciones o adquisiciones y conversiones aceptadas, con origen y fechas por definir. No se declara que las 68 sean obligatoriamente cascos nuevos de astillero.
+
+### Relación con el objetivo de 1920
+
+Si se completa el objetivo previo de 110 y no se introducen otras altas o bajas intermedias, conservar 32 de esas posiciones hasta 1945 implica 78 salidas y 68 incorporaciones de relevo para llegar a cien. Es una conciliación de objetivos que depende de la ejecución del programa de 1920; no una serie histórica documentada ni prueba de que todos sus buques existían.
+
+La composición prioriza transporte líquido, repuestos y reparación sin eliminar carbón para los usuarios restantes. No se deriva suficiencia de carga útil a partir del número de tanques o carboneros. Una misión concreta requerirá comprobar rutas, volúmenes y ciclos, sin imponer ahora un cálculo diario nacional.
+
+### Categorías y capacidades
+
+Los dos minadores se incluyen en los cien auxiliares y no son los catorce nuevos buques de contramedidas. Los hidrográficos y los cuatro de comunicaciones/apoyo son posiciones distintas por función principal; un mismo casco no completa ambas cantidades. Los talleres flotantes no sustituyen grandes diques ni garantizan reparar toda la planta de un capital en el mar.
+
+Las escuelas auxiliares tampoco incluyen Nargothrond, y los transportes no conservan simultáneamente cascos ya reclasificados como anfibios. La selección de hospitales o apoyo especializado debe comprobar instalaciones y personal propios. Los nombres familiares repetidos no acreditan continuidad material entre buques de categorías diferentes.
+
+## Bloque 34 Equilibrio industrial y transición de 1945 a 1952
+
+### Entregas pendientes y relevo anterior
+
+Al cierre de 1945 quedarían 94 incorporaciones del programa no auxiliar de 268 pendiente según el bloque 29: seis Aulë I hasta 1952 y 88 unidades de las otras categorías hacia 1950. Son entregas objetivo posteriores y no se cuentan dentro de los 325. La puesta en servicio efectiva exige mantener diseño, financiación, proveedores y recepción.
+
+Al mismo tiempo, Nargothrond y la fuerza pesada retenida completan sus salidas adoptadas en 1948 y hacia 1952. Otros Eregion, Osgiliath, Nimras y Elenna II deberán recibir calendarios de reforma o retiro propios según edad y misión. No se presupone que todos continúen cuando finalicen los programas nuevos ni se mantienen indefinidamente para aumentar una cifra de flota.
+
+### Prioridad de producción y mantenimiento
+
+Se adopta priorizar terminar unidades avanzadas y aceptar equipos fiables antes de acelerar todas las series. La construcción de portaaviones exige centros pesados y una cadena aeronáutica; escoltas, submarinos, anfibios y servicios necesitan especialistas y proveedores propios. El número de astilleros no acredita una capacidad de integración equivalente en cada uno.
+
+La reserva de reparación debe sostener simultáneamente unidades nuevas y supervivientes. Los retiros pueden liberar recursos, pero las competencias no pasan sin formación a otras plantas y equipos. Se mantienen estándares por generación y repuestos compatibles, sin suponer que una mejora de proveedor esté instalada automáticamente en cada buque.
+
+### Apoyo auxiliar y tecnologías posteriores
+
+El objetivo de cien auxiliares se revisará con las necesidades de los seis portaaviones posteriores y las demás entregas; no se lo declara suficiente hasta 1952 por repetición. Su evolución debe explicar compras, sustituciones y reparto por funciones antes de fijar otra cantidad.
+
+La aviación embarcada se concilia con A095 y su industria. Las nuevas aplicaciones de sensores, armas y plantas seguirán sus hitos de desarrollo y aceptación. Este bloque no introduce nuclearización, misiles o sistemas digitales por el solo cambio de década.
+
+Estos cinco bloques ofrecen una composición narrativa coherente de 1945 y su continuidad, con categorías exclusivas y reglas explícitas de supervivencia y retiro. No sustituyen fuentes por pruebas inventadas ni adoptan guerras, pérdidas o tratados. La cifra de 325 expresa una decisión propuesta sobre el ámbito del catálogo, diferente del antecedente AM1 de 368.

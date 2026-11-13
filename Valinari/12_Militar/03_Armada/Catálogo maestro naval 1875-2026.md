@@ -1,17 +1,16 @@
 ---
 tipo: catálogo maestro naval
-canon_base: V17.7 A105
-revision_catalogo: CMN 5
-actualizado: 2026-11-11
+canon_base: V17.8 A106
+revision_catalogo: CMN 6
+actualizado: 2026-11-12
 alcance: 1875–2026
 estado: consolidación documental con discrepancias abiertas
 ---
 
-## Resolución vigente A105 para el corte de 1891
+## Revisión vigente V17 8 A106
 
-Se ratifican dieciocho acorazados incorporados, seis posiciones de primera línea y doce de segunda, con tres capitales en construcción aparte. La reconstrucción de 239 identidades del ámbito catalogado comprende veinte presencias definidas y 219 candidaturas provisionales; no es inventario nacional ni disponibilidad simultánea. A104 mantiene sus cuatro Tarannon y los diseños ampliados. [[00_Canon/Integraciones V16/Acumulativa A105 Armada de Valinor en 1891|Resolución A105 Armada de 1891]] · [[12_Militar/03_Armada/Armada#Armada de Valinor en 1891|Desarrollo de la Armada en 1891]]
+Integrados ANP 02 y su auditoría, incluidos los bloques 50 a 54 por orden del autor de 12 de noviembre de 2026. Se conservan 427 unidades de referencia en 1980 y 615 plataformas en 2026. Las resoluciones A106 prevalecen sobre las tablas anteriores incompatibles; los datos materiales desconocidos conservan su condición. [[00_Canon/Integraciones V16/Acumulativa A106 Armada e industria naval 1891-2026|Resolución A106 Armada e industria naval]]
 
-Esta resolución contextualiza 1891 y conserva las configuraciones y cantidades de otros periodos de esta ficha.
 
 # Catálogo maestro naval de Valinor 1875 a 2026
 
@@ -6876,3 +6875,58 @@ Quedan pendientes altas antiguas individuales, inspecciones, nombres y matrícul
 | ANP01-A75-PAT-08 | Servicio de puerto y patrulla auxiliar | candidatura provisional | sin dato | 1900 |
 | ANP01-T87-01 | ANP01-T87 | definida narrativamente | 1887 | 1898 |
 | ANP01-T87-02 | ANP01-T87 | definida narrativamente | 1889 | 1899 |
+
+
+# Integración A106 Armada e industria naval de 1891 a 2026
+
+## Alcance y autoridad
+
+El 12 de noviembre de 2026 el autor ordena integrar todas las acumulativas y paquetes de revisión pendientes en canon maestro, Word, cronología y Obsidian. Esta orden adopta también las propuestas de los bloques 50 a 54 de ANP 02. La revisión vigente pasa a V17.8 A106 y el catálogo a CMN 6.
+
+Se integran los 52 bloques normativos de ANP 02, numerados 01 y 04 a 54, y las resoluciones de su auditoría. Los antiguos 02 y 03 y sus cálculos diarios permanecen como antecedentes exploratorios, sin autoridad canónica. ANP 01 ya fue integrada en A104 y no vuelve a sumarse; AM1, A089, A094 automotriz y A095 aérea ya estaban incorporadas. Sus carpetas históricas no constituyen nuevas órdenes de duplicación. Los pendientes materiales, de evidencia, identificación y recepción se mantienen como campos pendientes.
+
+Esta resolución gobierna las redacciones anteriores incompatibles. La aceptación editorial de una trayectoria o calendario no acredita una construcción material, ensayo, recepción, presupuesto o disponibilidad observada. Se conservan los originales y los valores anteriores como antecedentes trazables, sin interpolar identidades ni años desconocidos.
+
+A101 conserva E1 como reconstrucción narrativa. E2 y E3 son alternativas no acumulables. Los ámbitos A094 automotriz y A095 aérea permanecen separados de A094 defensa y A095 antibuque. Las características originales identifican el estado de construcción; toda reforma posterior exige compatibilidad, recepción y registro por casco o lote y conserva la identidad y antigüedad del casco.
+
+## Cortes conciliados y cantidades conservadas
+
+| Corte | Total del ámbito | Naturaleza |
+| --- | ---: | --- |
+| 1891 | 18 acorazados incorporados | Seis posiciones de primera línea y doce secundarias; tres capitales en construcción aparte; resto del inventario con pendientes A105 |
+| 1914 | 282 | 160 del ámbito combatiente más 42 cañoneras y patrulleros y ochenta auxiliares; no censo nacional cerrado |
+| 1945 | 325 | 274 del ámbito parcial más 51 supervivientes |
+| 1960 | 431 | Composición ANP 02 adoptada; 408 AM1 es antecedente de otro alcance |
+| 1980 | 427 | Cantidades y categorías vigentes conservadas |
+| 2000 | 490 | 464 AM1 más seis cruceros y veinte lanchas |
+| 2026 | 615 | Cantidades y categorías vigentes conservadas; 595 tripulados y veinte no tripulados |
+
+Son cortes del catálogo narrativo con perímetros definidos, no disponibilidad simultánea ni censos nominales probados. Las diferencias netas entre cortes no equivalen a construcciones totales: deben conciliar altas, bajas, conversiones y clasificación.
+
+## Resoluciones cronológicas y de identidad
+
+Mithlond I tiene catorce incorporados en 1945; su primer servicio debe ser como máximo 1945, con año exacto e inicio de construcción pendientes. Mithlond II tiene ocho incorporados en 1960 y dieciséis al completar el programa hacia 1968; su primer servicio debe ser como máximo 1960. Nimrodel II tiene seis en 1960 y doce hacia 1968; tampoco puede estrenarse toda la generación en 1963. Las tablas tardías incompatibles se sustituyen por estos límites y no se inventa un año inicial.
+
+Círdan moderna conserva el arranque específico de 1955 y sus generaciones desde 1965, 1975 y 1995, distinguiendo programa y recepción de cada casco. De los veinticuatro iniciales, doce siguen en el corte de 1980; la selección de las otras doce salidas permanece pendiente de identidad. La tabla antigua que iniciaba todo retiro en 1988 no gobierna ese corte.
+
+Calenport, Eglarest y Nosselië ya están presentes en 1980. Las fechas tardías de 2003, 2012 y 1985 no pueden actuar como estrenos universales de esas familias. Se conservan las cohortes históricas y se diferencian de diseños modernos sin adjudicar numerales ni años nuevos carentes de decisión. Turgon, Beleg y Ossë se identifican por familia, tipo, generación y época para distinguir sus líneas históricas de escoltas modernos homónimos.
+
+Aulë I conserva inicio de obra en 1940, ocho incorporaciones hasta 1952 y retiro objetivo 1970 a 1979. Aulë II nuclear conserva inicio de obras en 1965 e incorporaciones en 1970 y 1975; ninguno está incorporado en 1960. OceanNet está operativa desde 1959, con consolidación de 1969 y protocolo de 1983; no es sólo una precursora en los setenta ni equipa automáticamente cada plataforma.
+
+En 1980 los doce Gil-galad familiares se reparten en diez II y dos III, según la precisión del bloque 45. Los dieciséis Beleg II y ocho Ossë II completan los 36 destructores. El reemplazo comprende catorce salidas de los 48 destructores de segunda generación, además de las dos nuevas incorporaciones III; no doce salidas sin tener en cuenta ese relevo.
+
+## Desarrollo moderno adoptado
+
+En 2026 se adoptan doce Gil-galad IV y doce V dentro de los 24 destructores; VI no incorpora unidades antes de 2027. Se conserva el agregado de 64 Círdan y Voronwë, sin inventar su reparto nominal. Voronwë mantiene obras desde 2022 y primeras incorporaciones desde 2026.
+
+Los cuatro Telperion conservan incorporaciones narrativas en 2018, 2020, 2023 y 2026. Los tres portaaviones convencionales son una posición Anárion II, una Elwing I y una Aldarion I. Los cuatro ligeros se reparten en dos Varda II y dos III. Se adoptan Gondolin como línea de dieciocho escoltas especializados ASW y Doriath como línea de doce AAW, dentro de las treinta posiciones vigentes, sin convertir esas designaciones de clase en matrículas individuales.
+
+La familia moderna Malaca desarrolla las setenta posiciones de patrulla rápida; los numerales y cascos siguen pendientes. Los submarinos conservan diez estratégicos, dieciocho nucleares de ataque, dieciocho convencionales y ocho especiales o rescate, sin inferir su desglose por generaciones. La hipótesis de 449 disponibles en 2026 continúa como simulación de ciclo y no estado observado.
+
+## Desarrollo íntegro por bloques
+
+Los bloques siguientes se integran con las resoluciones anteriores, que sustituyen valores y estados editoriales superados. Los condicionales de ingeniería y recepción se mantienen; describen objetivos y límites de ejecución, no una aprobación editorial pendiente.
+
+
+
+Los registros base CN y los IDs administrativos conservan su procedencia. Los 52 bloques ANP02 describen decisiones y programas; no son 52 nuevos cascos. Los límites y categorías vigentes se registran en CMN6 sin generar nombres ni matrículas individuales.

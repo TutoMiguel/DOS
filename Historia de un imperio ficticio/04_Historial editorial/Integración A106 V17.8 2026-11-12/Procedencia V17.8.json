@@ -1,0 +1,22 @@
+{
+  "revision": "V17.8 A106",
+  "catalogo": "CMN 6",
+  "fecha": "2026-11-12",
+  "canon_markdown_sha256": "a5501faa857eb9d16a88897e3d7e09ec1117367e20bc1136fff2f31289b0d263",
+  "word_sha256": "57496bed3106bb9cbe94b3e29dbd5269762a7bb740f1518ab7f2a7b84002a9c1",
+  "pdf_sha256": "b43bf3ddca3cdfa979f444c587244e5735cb9db4304b74c98d00c350dc5fa79b",
+  "cronologia_sha256": "9b698760b62f3cdc6e1ab5e2260631f6cee591702d0b2ff1ab2de9394653f213",
+  "pdf_pages": 575,
+  "anterior_preservado": "V17.7 A105",
+  "ANP02_bloques_integrados": 52,
+  "ANP02_bloques_exploratorios_no_normativos": [
+    2,
+    3
+  ],
+  "ANP02_50_54_adoptados_por_orden_de_integracion": true,
+  "cantidades_1980": 427,
+  "plataformas_2026": 615,
+  "registro_naval_vigente": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\10_Archivo\\Documentos editoriales\\Oficial\\Registro naval integrado A106.json",
+  "registro_corte_1891": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\10_Archivo\\Documentos editoriales\\Oficial\\Reconstrucción naval 1891 A105.json",
+  "nota": "Verificación local; no confirma sincronización remota OneDrive"
+}
