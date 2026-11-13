@@ -2,15 +2,18 @@
 tipo: catálogo maestro naval
 canon_base: V17.8 A106
 revision_catalogo: CMN 6
-actualizado: 2026-11-12
+actualizado: 2026-11-13
 alcance: 1875–2026
-estado: consolidación documental con discrepancias abiertas
+estado: consolidación documental con resoluciones A106 y pendientes nominales diferenciados
 ---
 
 ## Revisión vigente V17 8 A106
 
 Integrados ANP 02 y su auditoría, incluidos los bloques 50 a 54 por orden del autor de 12 de noviembre de 2026. Se conservan 427 unidades de referencia en 1980 y 615 plataformas en 2026. Las resoluciones A106 prevalecen sobre las tablas anteriores incompatibles; los datos materiales desconocidos conservan su condición. [[00_Canon/Integraciones V16/Acumulativa A106 Armada e industria naval 1891-2026|Resolución A106 Armada e industria naval]]
 
+
+
+Revisión editorial de 13 de noviembre de 2026: DC-01 a DC-12 distinguen las resoluciones vigentes A104–A106 de las identificaciones y calendarios todavía pendientes. Se conserva CMN 6; no se aprueba una nueva integración canónica. CIL01 permanece en espera.
 
 # Catálogo maestro naval de Valinor 1875 a 2026
 
@@ -39,7 +42,7 @@ La modernización conserva identidad y edad del casco. Desde 1945 rige una moder
 
 ## Fuentes rectoras y lectura
 
-- [[00_Canon/Canon V16 Maestro|Maestro vigente V17.4 A102]].
+- [[00_Canon/Canon V16 Maestro|Maestro vigente V17.8 A106]].
 - [[12_Militar/03_Armada/AM1 Armada 1875-2026|AM1 y matrices de generaciones]].
 - [[12_Militar/03_Armada/Desarrollo naval 1882-1945|Perfiles técnicos de 1882 a 1945]].
 - [[12_Militar/03_Armada/Destructores Gil-galad — evolución de la familia|Convención específica de destructores Gil-galad]].
@@ -393,79 +396,103 @@ Las entradas se ordenan por el rótulo de la fuente. Rótulos parecidos no se fu
 | [[#Registro CN-0325|CN-0325]] | A103-C75-05 | casco historico con ID editorial | [[00_Canon/Integraciones V16/Acumulativa A103 Clase Vëantur y relevo de Círdan I|Resolución A103]] |
 | [[#Registro CN-0326|CN-0326]] | A103-C75-06 | casco historico con ID editorial | [[00_Canon/Integraciones V16/Acumulativa A103 Clase Vëantur y relevo de Círdan I|Resolución A103]] |
 
-## Discrepancias y decisiones pendientes
+## Discrepancias: resoluciones vigentes y pendientes nominales
+
+Revisión editorial de 13 de noviembre de 2026 conforme a A104–A106. Se distinguen las reglas ya adoptadas de los datos de identificación, configuración y calendario que siguen pendientes. Las afirmaciones originales permanecen en los registros de evidencia; no prevalecen sobre las resoluciones vigentes. Esta revisión no crea clases, altas ni cantidades nuevas.
 
 ### DC-01 Calenport
 
-La reconstrucción de 1973 presenta Calenport II en servicio 1963–1973; la matriz de generaciones inicia Calenport I en construcción en 1998.
+La reconstrucción de 1973 denomina Calenport II a una línea histórica, mientras una matriz posterior inicia Calenport I en construcción en 1998. A106 confirma la existencia de Calenport anterior a 1980: treinta posiciones en 1980, 35 en 2000 y 72 modernas en 2026. La fecha de 1998 no es el origen universal de la familia.
 
-**Tratamiento:** Separar las denominaciones históricas de las contemporáneas o corregir la numeración mediante resolución; no fusionarlas. Estado: pendiente.
+**Resolución vigente:** distinguir las cohortes históricas de los diseños modernos, conservando las denominaciones de las fuentes con tipo y época; no fusionar los cascos ni imponer una numeración consecutiva no aprobada. El programa de 1980 contempla veinte Calenport nuevas y diez reconstrucciones seleccionadas, condicionadas a viabilidad y recepción. Una reconstrucción conserva identidad y edad del casco y no se cuenta también en su clase anterior. Su sustitución por obra nueva requiere revisión expresa.
+
+**Estado:** precedencia cronológica y separación de cohortes resueltas; numeración definitiva, cascos receptores, altas, bajas y relevo hasta 2026 pendientes.
 
 ### DC-02 Eglarest
 
-Eglarest I figura con servicio 1971–1978 en la reconstrucción de 1973 y 2012–2032 en la matriz posterior.
+La ventana histórica 1971–1978 y la fila posterior 2012–2032 no identifican por sí solas los mismos cascos. A106 conserva veinte Eglarest en 1980 y veinte en 2000, con salida de la línea independiente antes de 2026. El programa de 1980 contempla doce nuevas y ocho reconstrucciones condicionadas.
 
-**Tratamiento:** Conservar ambos testimonios; identificación de generaciones pendiente. Estado: pendiente.
+**Resolución vigente:** conservar la línea histórica y separar el testimonio tardío hasta identificar su procedencia. La fila de 2012–2032 no acredita un programa moderno adicional ni la supervivencia de la cohorte histórica. No convertir Eglarest en Calenport mediante renombrado.
+
+**Estado:** existencia histórica y trayectoria general resueltas; identificación generacional de la fila tardía, reconstrucciones y calendario nominal de retiro pendientes.
 
 ### DC-03 Nosselië
 
-La reconstrucción de 1973 registra Nosselië I misilística con servicio 1970–1977; la matriz posterior registra Nosselië I como patrullero rápido desde 1985.
+La reconstrucción de 1973 registra Nosselië I misilística y una matriz posterior describe un patrullero rápido desde 1985. A106 adopta 24 Nosselië misilísticas de referencia en 1980, distintas de las veinte Forlond misilísticas anteriores. El corte de 2000 conserva veinte lanchas con continuidad y relevo por individualizar. Las setenta patrulleras rápidas de 2026 corresponden a la línea Malaca.
 
-**Tratamiento:** Conciliar generación, misión y fecha sin asumir que son los mismos cascos. Estado: pendiente.
+**Resolución vigente:** separar la identidad misilística histórica de la afirmación de patrulla tardía hasta resolver generación, misión y cascos. No transformar Forlond en Nosselië por cambio de nombre ni identificar automáticamente Nosselië con Malaca.
+
+**Estado:** línea histórica y delimitación de categorías resueltas; correspondencia de la fila de 1985, generaciones y calendarios individuales pendientes.
 
 ### DC-04 Voronwë
 
-La ficha específica distingue construcción desde 2022 y servicio desde 2026; otros pasajes hablan de reemplazo o presencia desde 2022.
+**Resolución vigente:** construcción desde 2022, primeras incorporaciones desde 2026 y relevo con horizonte hasta 2033. Las menciones de presencia o reemplazo desde 2022 se leen como desarrollo del programa u obras, sin acreditar cascos incorporados en ese año. Se distinguen construcción, botadura, pruebas, recepción e incorporación.
 
-**Tratamiento:** Usar las etapas diferenciadas para lectura; no declarar resuelta la discrepancia ni atribuir cascos operativos a 2022. Estado: pendiente.
+**Estado:** secuencia de etapas resuelta; número de Voronwë incorporados al corte de 2026, reparto con Círdan dentro de las 64 fragatas y correspondencia de sustituciones pendientes. No se considera completa la serie por su primera incorporación.
 
 ### DC-05 Círdan moderna
 
-La síntesis de la serie usa ventanas 1955–1965, 1965–1975, 1975–1985 y 1995–2005; la matriz separa inicios de construcción y ventanas de servicio posteriores.
+**Resolución vigente:** prevalece el arranque específico moderno de 1955 y los horizontes generacionales de 1965, 1975 y 1995. Una ventana de programa no equivale a las altas de todos sus cascos. A106 adopta ocho iniciales incorporados en 1960 y 24 hasta 1965; en 1980 conserva doce iniciales, dieciséis II y ocho III, 36 Círdan en total. El programa III completa dieciséis hasta 1985.
 
-**Tratamiento:** Distinguir programa, construcción, botadura y servicio antes de comparar fechas; no convertir automáticamente toda diferencia en contradicción. Estado: pendiente.
+En 2000, las 62 fragatas de la categoría comprenden ocho Círdan II, dieciséis III, veinte IV, doce Mithlond y seis Nimrodel; no son 62 Círdan adicionales. Las reformas posteriores se registran por lote y no se atribuyen retrospectivamente a la entrega inicial. La tabla que iniciaba todos los retiros de la generación inicial en 1988 no gobierna el corte de 1980.
+
+**Estado:** precedencia de la serie y repartos adoptados resueltos; significado preciso de los hitos iniciales, doce salidas de la generación inicial hasta 1980 y fechas de recepción y reforma por casco pendientes.
 
 ### DC-06 Submarinos históricos Arnor y Eärendil
 
-Los rótulos I de la reconstrucción de 1945 describen submarinos diésel-eléctricos; los rótulos I de la reconstrucción de 1973 incluyen SSBN y SSN.
+**Resolución vigente:** las ramas convencionales históricas y las nucleares posteriores son diseños distintos. Los numerales I repetidos se acompañan de tipo y época, sin inferir conversión nuclear. La transición convencional de 1955–1965 comprende dos Arnor, seis Eärendil, doce Tolfalas y cuatro Ossë nuevos, diferenciados de los supervivientes anteriores.
 
-**Tratamiento:** Identidad y numeración por función y época pendientes; no inferir conversión de propulsión. Estado: pendiente.
+Las primeras incorporaciones nucleares Eärendil SSN se sitúan desde 1970 y las Arnor estratégicas desde 1972. En 1980 hay seis Arnor SSBN y doce Eärendil SSN, junto a dieciocho Tolfalas y seis especiales Ossë: 42 submarinos en total.
+
+**Estado:** separación material, funcional y de propulsión resuelta; correspondencia completa de numerales y calendarios nominales pendientes. Las denominaciones editoriales no equivalen a matrículas.
 
 ### DC-07 Aulë I portaaviones
 
-La matriz ofrece retiro 1975–1985 y a la vez dice que los cascos convencionales se retiran antes de 1980.
+**Resolución vigente:** inicio de obras en 1940, programa de ocho convencionales, dos incorporados en 1945 y ocho hasta 1952. Retiro escalonado adoptado entre 1970 y 1979; la antigua ventana 1975–1985 queda como antecedente superado. Ningún Aulë I permanece en el inventario de 1980.
 
-**Tratamiento:** Conciliar la ventana y su nota; no calcular supervivientes exactos. Estado: pendiente.
+Aulë II nuclear es nueva construcción, con obras desde 1965 e incorporaciones en 1970 y 1975; no es conversión de los Aulë I.
+
+**Estado:** ventana normativa de retiro resuelta; bajas por casco y supervivientes exactos en 1973 o 1977 pendientes. No se deducen recuentos anuales de una ventana general.
 
 ### DC-08 Mithlond y otras familias de posguerra
 
-La reconstrucción de 1945 incluye Mithlond I; la matriz específica sitúa construcción desde 1948 y servicio desde 1953.
+**Resolución vigente:** A106 adopta catorce Mithlond I incorporados en 1945 dentro de un programa de veinte. Su primer servicio debe ser como máximo 1945; 1953 no puede inaugurar toda la generación. El inicio exacto de construcción y el primer año de servicio siguen pendientes.
 
-**Tratamiento:** Revisar precedencia y etiqueta histórica sin alterar cantidades de las reconstrucciones. Estado: pendiente.
+Mithlond II tiene ocho incorporados en 1960 y dieciséis al completar el programa hacia 1968. Nimrodel II tiene seis en 1960 y doce hacia 1968. Las tablas tardías que sitúan el estreno universal de estas generaciones después de 1960 no gobiernan esos cortes. No se inventa una fecha inicial ni otra clase para absorber la discrepancia.
+
+**Estado:** precedencia y límites cronológicos resueltos; primeras altas exactas y distribución nominal de lotes pendientes.
 
 ### DC-09 Familias y generaciones repetidas
 
-Los nombres Eärendil, Aulë, Gil-galad, Rómenna, Pelargir y Ossë designan tipos distintos; una continuidad de nombre no demuestra continuidad del diseño.
+**Resolución vigente:** nombre, tipo, generación o cohorte y época forman la identidad editorial. Eärendil, Aulë, Gil-galad, Rómenna, Pelargir y Ossë pueden designar ramas distintas; compartir denominación no demuestra continuidad del diseño o casco. Los puertos y astilleros homónimos tampoco son clases.
 
-**Tratamiento:** Mantener ámbito, tipo y generación como parte de la identidad. Estado: pendiente.
+La resolución de un alias no añade unidades. Una modernización conserva el casco y su edad; una construcción nueva recibe identidad material propia aunque reutilice el nombre. Los registros de evidencia conservan las etiquetas originales y su fuente.
+
+**Estado:** regla de identidad resuelta; tabla completa de correspondencias entre testimonios, ramas y cascos pendiente donde no exista identificación expresa.
 
 ### DC-10 Cuantificación de 1973
 
-Varias ventanas de servicio del desglose atraviesan años posteriores a 1973; los números son reconstrucción estimativa, no altas nominales demostradas al corte.
+**Resolución vigente:** la reconstrucción de 1973 se conserva como antecedente estimativo y no como inventario anual auditado. Las ventanas que atraviesan años posteriores no prueban que todos los cascos estuviesen incorporados al corte. El segundo Aulë II, incorporado en 1975, no puede contarse en 1973. Los desgloses incompatibles con los programas adoptados en A106 tampoco prevalecen.
 
-**Tratamiento:** No usar el desglose como inventario anual auditado; cerrar por cascos y fechas. Estado: pendiente.
+El cierre exige cascos o lotes fechados expresamente adoptados, distinguiendo incorporación, baja, obra, pruebas y fecha desconocida. Reserva y reparación no equivalen a plena disponibilidad operativa. No se interpola un total entre cortes ni se adopta aquí la propuesta conversacional de 1977 como inventario canónico.
+
+**Estado:** condición estimativa y criterio de cómputo resueltos; inventario nominal o por lotes del corte de 1973 pendiente. Se conservan las 427 unidades de referencia de 1980.
 
 ### DC-11 Catálogo 2026
 
-Las 64 fragatas reúnen Círdan y Voronwë; los 30 escoltas reúnen ASW y AAW; algunas fichas aún son agrupaciones por función.
+**Resolución vigente:** 24 destructores Gil-galad, repartidos en doce IV y doce V; VI no incorpora unidades antes de 2027. Las 64 fragatas reúnen Círdan y Voronwë, sin reparto nominal fijado. Los treinta escoltas especializados sí tienen reparto adoptado: dieciocho Gondolin ASW y doce Doriath AAW. Las 72 corbetas corresponden a Calenport modernas.
 
-**Tratamiento:** Desglosar generaciones y variantes sin sumar otra vez los agregados. Estado: pendiente.
+Los 54 submarinos comprenden diez estratégicos, dieciocho SSN, dieciocho SSK y ocho especiales, con detalle generacional pendiente. Los agregados incluyen sus clases y variantes: no se suman otra vez. Una fragata ASW no se cuenta simultáneamente como escolta especializada. Se conservan 615 plataformas de 2026, 595 tripuladas y veinte no tripuladas; inventario no equivale a disponibilidad operativa.
+
+**Estado:** totales y repartos expresamente adoptados resueltos; distribución Círdan/Voronwë, lotes, variantes, matrículas y configuraciones recibidas pendientes donde no estén individualizados.
 
 ### DC-12 Perfiles 1882–1945
 
-Los perfiles técnicos incluyen buque capital de turbina, portaaviones y otros grupos sin clase nominal o número de cascos fijado.
+**Resolución vigente:** el capital de turbina se identifica como Tarannon, cuatro cascos incorporados en 1894, 1897, 1902 y 1904, no cuatro operativos en 1894. Los cuatro exploradores oceánicos se denominan Ciryatan en A106 y ocupan las posiciones existentes del programa de 24, junto a ocho Rómenna de estación y doce Pelargir nuevas. Sus desplazamientos respectivos son 7.600, 6.200 y 4.400 t.
 
-**Tratamiento:** Mantenerlos como perfiles pendientes de asignación, no inventar nombres ni contabilizarlos como clases cerradas. Estado: pendiente.
+Nargothrond corresponde a una conversión civil incorporada en 1928, distinta de Aulë I. Los perfiles ya asignados no se contabilizan de nuevo como clases anónimas adicionales. Los restantes se mantienen como perfiles o anteproyectos hasta una correspondencia expresa; no se reúnen automáticamente todos los máximos de las bandas técnicas en un diseño.
+
+**Estado:** identidades y cantidades de los programas citados resueltas; correspondencia de otros perfiles, clase nominal o número de cascos pendientes cuando no exista decisión expresa.
 
 ## Registros y trazabilidad
 
