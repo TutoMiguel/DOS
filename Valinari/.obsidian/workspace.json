@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "12_Militar/03_Armada/AM1 Armada 1875-2026.md",
+                "file": "12_Militar/03_Armada/Catálogo maestro naval 1875-2026.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "AM1 Armada 1875-2026"
+              "title": "Catálogo maestro naval 1875-2026"
             }
           }
         ],
@@ -221,6 +221,8 @@
   },
   "active": "ce53295adf8198cf",
   "lastOpenFiles": [
+    "12_Militar/03_Armada/Clases navales 2026.md",
+    "12_Militar/03_Armada/AM1 Armada 1875-2026.md",
     "10_Archivo/Documentos editoriales/Oficial/Inventario y cierre de acumulativas A106.json",
     "10_Archivo/Documentos editoriales/Oficial/Resolución A106 ANP02 integrada.md",
     "10_Archivo/Documentos editoriales/Oficial/Registro ANP02 integrado A106.json",
@@ -233,7 +235,6 @@
     "10_Archivo/Documentos editoriales/Oficial/Registros del catálogo naval CMN5.json",
     "10_Archivo/Documentos editoriales/Oficial/Registro naval integrado A105.json",
     "10_Archivo/Documentos editoriales/Oficial/Canon V17.7 Maestro A105.pdf",
-    "10_Archivo/Documentos editoriales/Oficial/Canon V17.7 Maestro A105.docx",
     "00_Canon/Integraciones V16/Acumulativa A105 Armada de Valinor en 1891.md",
     "file:C:/Users/migue/Documents/Codex/2026-11-10/contin-a-el-proyecto-valinor-desde/outputs/Acumulativa_naval_pendiente/Acumulativa naval ANP 01.md",
     "00_Canon/Integraciones V16/Acumulativa A104 Desarrollo naval e industria militar.md",
@@ -257,7 +258,6 @@
     "12_Militar/03_Armada/Escenario de composición naval A093.md",
     "12_Militar/02_Ejército/Ejército.md",
     "12_Militar/02_Ejército/Blindados/Artillería autopropulsada/AAP-72 Aulë.md",
-    "12_Militar/02_Ejército/Blindados/Carros y exploradores/CA-69 Falathar.md",
     "07_Imagenes/Pasted image 20261031203543.png",
     "07_Imagenes/Casa Telcontar.png",
     "07_Imagenes/Casa Eryn Lasgalen.jpg",
