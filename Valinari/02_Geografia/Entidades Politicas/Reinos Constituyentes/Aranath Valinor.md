@@ -3,6 +3,9 @@ tipo: entidad territorial
 estado_canonico: vigente
 canon: V16
 ---
+
+**Perímetro vigente A107.** Las cifras de población, PIB, superficie y totales territoriales anteriores a A107 corresponden al perímetro conciliado A106, no al Reino ampliado por CIL01 y CIL02. El total ampliado queda sin cuantificar; no se asignan ceros a los territorios nuevos. Las cuentas ya existentes se conservan una sola vez. [[00_Canon/Integraciones V16/Resolución A107 CIL01 y CIL02|Resolución A107]]
+
 # Aranath Valinor
 
 Reino constituyente de [[02_Geografia/Entidades Politicas/Federacion Directa/Gwaith Valinor|Gwaith Valinor]]. Incluye el núcleo insular y los territorios directos del Reino. Población: 481 millones. PIB PPA central: 58,50 billones.
@@ -23,7 +26,7 @@ No fijada de forma explícita en esta ficha.
 - [[00_Indice Territorial/Índice Territorial V16|Índice Territorial V16]]
 - [[04_Mapa Politico/Índice Político|Índice Político]]
 - [[08_Economia/ECON-03 Resumen|ECON-03 Resumen]]
-- [[00_Canon/Auditoría de Coherencia V16|Auditoría de Coherencia V16]]
+- [[00_Canon/Integraciones V16/Auditoría de Coherencia V16|Auditoría de Coherencia V16]]
 - [[00_Canon/Canon V16 Maestro|Canon V16 Maestro]]
 - [[00_Canon/Cifras Oficiales V16|Cifras Oficiales V16]]
 - [[00_Canon/Integraciones V16/Integración septentrional Islandia Groenlandia V16|Integración septentrional Islandia Groenlandia V16]]

@@ -1,0 +1,40 @@
+{
+  "revision": "V17.9 A107",
+  "master_blocks": 9776,
+  "native_tables": 354,
+  "mismatches": 0,
+  "previous_blocks_preserved_in_order": 9062,
+  "previous_text_changes": [
+    {
+      "old": "Integración editorial: 2026-11-12",
+      "new": "Integración editorial: 2026-11-13"
+    },
+    {
+      "old": "Revisión editorial: V17.8 A106 Armada e industria naval de 1891 a 2026",
+      "new": "Revisión editorial: V17.9 A107 CIL01 y CIL02"
+    },
+    {
+      "old": "Canon consolidado desde V17.7 A105 mediante integración ANP 02 y auditoría A106. Se conservan originales, E1 y pendientes materiales. Cantidades de 1980 y 2026 intactas; catálogo CMN 6.",
+      "new": "Canon consolidado desde V17.8 A106 mediante CIL01 y CIL02. Se adopta el perímetro territorial ampliado; las cuentas A106 quedan como base anterior y el total nuevo sigue sin cuantificar. Se preservan originales, CMN 6 y pendientes materiales."
+    },
+    {
+      "old": "664 a. C.: tratado comercial con Alejandría, que se convierte en puerto asociado y centro de traducción, medicina, astronomía y administración.",
+      "new": "664 a. C.: contacto o acuerdo con autoridades del delta egipcio; lugar exacto y texto pendientes. La identificación con Alejandría antes de su fundación queda sustituida por A107 R04. La delegación estable alejandrina de 129 d. C. se conserva."
+    }
+  ],
+  "front_notice": true,
+  "standalone": {
+    "CIL01": {
+      "blocks": 594,
+      "tables": 16,
+      "mismatches": 0
+    },
+    "CIL02": {
+      "blocks": 165,
+      "tables": 10,
+      "mismatches": 0
+    }
+  },
+  "CIL01_blocks": 10,
+  "CIL02_deliveries": 2
+}

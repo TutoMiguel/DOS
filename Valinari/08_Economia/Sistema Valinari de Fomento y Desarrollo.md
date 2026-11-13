@@ -5,6 +5,9 @@ estado: vigente
 periodo: "1200–2026"
 actualizado: 2026-11-07
 ---
+
+**Perímetro vigente A107.** Las cifras de población, PIB, superficie y totales territoriales anteriores a A107 corresponden al perímetro conciliado A106, no al Reino ampliado por CIL01 y CIL02. El total ampliado queda sin cuantificar; no se asignan ceros a los territorios nuevos. Las cuentas ya existentes se conservan una sola vez. [[00_Canon/Integraciones V16/Resolución A107 CIL01 y CIL02|Resolución A107]]
+
 # Sistema Valinari de Fomento y Desarrollo
 
 COFOVAL coordina instrumentos públicos de desarrollo. Los consejos de obras de 1200–1700, los fondos del siglo XVIII, las corporaciones del XIX y el sistema federal desde 1958 son fases diferentes. Los rangos temporales aprobados son ventanas de formación institucional, sin convertirlos en fechas exactas de promulgación. Los directorios representativos, la evaluación ambiental formal y los servicios universales corresponden a la organización contemporánea, con antecedentes parciales en siglos anteriores.

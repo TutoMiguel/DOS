@@ -51,6 +51,17 @@ Integrada ANP 01 v15 con cuatro Tarannon, Rómenna de 6.200 t, explorador de 7.6
 Integrado el desarrollo de la Armada de 1891 en maestro, Word oficial, cronología y Obsidian. Dieciocho acorazados incorporados, tres capitales en construcción y dos demostradores con alta. Las 239 identidades del ámbito incluyen 219 candidaturas provisionales; no son un censo nacional. Se conserva A104 y sus diseños. Catálogo CMN 5; carpeta militar de 58 notas.
 
 
-## Revisión vigente V17.8 A106
+## Antecedente V17.8 A106
 
 Integradas ANP 02 y su auditoría en maestro, Word oficial, cronología y Obsidian; incluye adopción de 50–54 por orden del autor. Catálogo CMN 6; 58 notas militares conservadas. Cantidades de 1980 y 2026 intactas: 427 y 615. ANP 01 ya estaba integrada mediante A104 y no vuelve a sumarse. Las restricciones de ingeniería y campos desconocidos permanecen explícitos.
+
+
+## Revisión vigente V17 9 A107
+
+CIL01 v8 y las dos entregas de CIL02 integradas por orden expresa del autor del 13 de noviembre de 2026. Se levanta la espera anterior. Australia Occidental es novena unidad externa; Cabo Verde conserva adhesión condicionada. Las once provincias norteamericanas, Centroamérica y Caribe insular pertenecen al Reino. Las cuentas A106 son perímetro anterior, no total ampliado. CMN 6 y los inventarios navales se conservan.
+
+Maestro Word: C:\Users\migue\OneDrive\DOS\Canon V17.9 Maestro A107.docx
+
+Registro de búsqueda y rutas: C:\Users\migue\OneDrive\DOS\Valinari\10_Archivo\Documentos editoriales\Oficial\Rutas y estado de acumulativas.md
+
+No quedan CIL01 ni CIL02 como acumulativas pendientes de integración. Persisten los pendientes materiales enumerados en A107; no se reintegran los originales históricos.

@@ -1,0 +1,13 @@
+{
+  "approved": true,
+  "date": "2026-11-13",
+  "renderer": "Microsoft Word COM ExportAsFixedFormat; Poppler PNG",
+  "packaged_renderer_fallback": "render_docx.py attempted; LibreOffice soffice.exe unavailable; native Word used",
+  "master_pages": 628,
+  "CIL01_pages": 39,
+  "CIL02_pages": 12,
+  "visual_review": "Final master pages 576–628 in contact sheets, representative table pages 583 590 604 612 622 627 at full rendered resolution; front pages 1 2 and corrected delta page32. Standalone all51 pages reviewed in contact sheets, six changed CIL01 pages rechecked full resolution, other final standalone images pixel-identical to inspected first render. No clipping or overlap detected.",
+  "previous_body": "9062 prior logical blocks preserved in order, four registered text changes; prior XML formatting retained.",
+  "word_sha256": "2bb4b73cd75b362dc5027fbb024944c2259d270ffd8c43a10d244cea049bb03c",
+  "pdf_sha256": "a120b977c077d8f43d744880102cf7432dd152a6f3eb1e63e2d3286fc1dd9771"
+}

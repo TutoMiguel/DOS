@@ -8,6 +8,9 @@ poblacion_operativa_2026: 523500000
 pib_ppa_operativo: 65.50
 resolucion: A092
 ---
+
+**Perímetro vigente A107.** Las cifras de población, PIB, superficie y totales territoriales anteriores a A107 corresponden al perímetro conciliado A106, no al Reino ampliado por CIL01 y CIL02. El total ampliado queda sin cuantificar; no se asignan ceros a los territorios nuevos. Las cuentas ya existentes se conservan una sola vez. [[00_Canon/Integraciones V16/Resolución A107 CIL01 y CIL02|Resolución A107]]
+
 # Gwaith Valinor
 
 La Federación soberana comprende Aranath Valinor y ocho externas directas: Malaca, Hawái, Fiyi, Polinesia, Micronesia, Eryndor, Islandia y Groenlandia. Cuenta constitucional: 515,5 millones de habitantes y 64,98 billones PPA en 2026.
@@ -22,7 +25,7 @@ Harnen es protectorado de Beleg. Sus 8 millones y 0,52 billones se incluyen una 
 - [[00_Indice Territorial/Índice Territorial V16|Índice Territorial V16]]
 - [[04_Mapa Politico/Índice Político|Índice Político]]
 - [[08_Economia/ECON-03 Resumen|ECON-03 Resumen]]
-- [[00_Canon/Auditoría de Coherencia V16|Auditoría de Coherencia V16]]
+- [[00_Canon/Integraciones V16/Auditoría de Coherencia V16|Auditoría de Coherencia V16]]
 - [[00_Canon/Canon V16 Maestro|Canon V16 Maestro]]
 - [[00_Canon/Cifras Oficiales V16|Cifras Oficiales V16]]
 - [[00_Canon/Integraciones V16/Integración septentrional Islandia Groenlandia V16|Integración septentrional Islandia Groenlandia V16]]
@@ -63,3 +66,10 @@ Harnen es protectorado de Beleg. Sus 8 millones y 0,52 billones se incluyen una 
 - [[11_Ciencia y Tecnologia/Inteligencia Artificial|Inteligencia Artificial]]
 - [[12_Militar/02_Ejército/Ejército|Ejército]]
 - [[Inicio Valinari|Inicio Valinari]]
+
+
+## Actualización territorial V17 9 A107
+
+CIL01 y CIL02 integradas por orden del autor el 13 de noviembre de 2026. Las esperas anteriores quedan superadas. Australia Occidental es novena unidad externa; el Caribe insular, Centroamérica y once provincias norteamericanas pertenecen al Reino en 2026. Cabo Verde conserva una adhesión condicionada. Las cifras de población, PIB, superficie y totales territoriales anteriores a A107 corresponden al perímetro conciliado A106, no al Reino ampliado por CIL01 y CIL02. El total ampliado queda sin cuantificar; no se asignan ceros a los territorios nuevos. Las cuentas ya existentes se conservan una sola vez.
+
+[[00_Canon/Integraciones V16/Resolución A107 CIL01 y CIL02|Resolución A107]] · [[00_Canon/Integraciones V16/CIL01 Red cilicia Australia y socios|CIL01]] · [[00_Canon/Integraciones V16/CIL02 América central Caribe y Norteamérica|CIL02]] · [[02_Geografia/Territorios Federales/Australia Occidental/Australia Occidental|Australia Occidental]] · [[02_Geografia/Provincias/CIL02/Índice de provincias CIL02|Once provincias]] · [[02_Geografia/Regiones/Centroamérica del Reino|Centroamérica]] · [[02_Geografia/Regiones/Caribe insular del Reino|Caribe]]

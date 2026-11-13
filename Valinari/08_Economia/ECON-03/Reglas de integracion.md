@@ -3,6 +3,9 @@ tipo: regla contable
 dominio: ECON-03
 canon: V16
 ---
+
+**Perímetro vigente A107.** Las cifras de población, PIB, superficie y totales territoriales anteriores a A107 corresponden al perímetro conciliado A106, no al Reino ampliado por CIL01 y CIL02. El total ampliado queda sin cuantificar; no se asignan ceros a los territorios nuevos. Las cuentas ya existentes se conservan una sola vez. [[00_Canon/Integraciones V16/Resolución A107 CIL01 y CIL02|Resolución A107]]
+
 # Reglas de integración ECON-03
 
 1. Cada territorio económico aparece una sola vez.

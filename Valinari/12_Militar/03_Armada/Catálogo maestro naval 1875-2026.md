@@ -13,7 +13,7 @@ Integrados ANP 02 y su auditoría, incluidos los bloques 50 a 54 por orden del a
 
 
 
-Revisión editorial de 13 de noviembre de 2026: DC-01 a DC-12 distinguen las resoluciones vigentes A104–A106 de las identificaciones y calendarios todavía pendientes. Se conserva CMN 6; no se aprueba una nueva integración canónica. CIL01 permanece en espera.
+Revisión editorial de 13 de noviembre de 2026: DC-01 a DC-12 distinguen las resoluciones vigentes A104–A106 de las identificaciones y calendarios todavía pendientes. Se conserva CMN 6; no se aprueba una nueva integración canónica. La espera de CIL01 fue levantada por la orden territorial A107 del 13 de noviembre de 2026; CIL01 y CIL02 quedan integradas sin alterar CMN 6 ni adoptar cambios navales adicionales de DC01–DC12.
 
 # Catálogo maestro naval de Valinor 1875 a 2026
 

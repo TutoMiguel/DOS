@@ -4,6 +4,9 @@ canon: V16.4
 estado: vigente
 resolucion: A092
 ---
+
+**Perímetro vigente A107.** Las cifras de población, PIB, superficie y totales territoriales anteriores a A107 corresponden al perímetro conciliado A106, no al Reino ampliado por CIL01 y CIL02. El total ampliado queda sin cuantificar; no se asignan ceros a los territorios nuevos. Las cuentas ya existentes se conservan una sola vez. [[00_Canon/Integraciones V16/Resolución A107 CIL01 y CIL02|Resolución A107]]
+
 # Beleg Valinor
 
 Rango rector 2026: 724,5–879,5 millones; PIB PPA 73,35–93,75 billones. No son la suma demostrada de todas las fichas disponibles. El subtotal identificado es 515,5 millones constitucionales + 8 de Harnen + 11,5 de Esgal Nénar = 535. El resto necesario es 189,5–344,5 millones, pendiente de asignación territorial documentada.
@@ -18,7 +21,7 @@ Por la ruta operativa: 523,5 + 11,5 + residuo. Harnen ya está en 523,5 y no se 
 - [[00_Indice Territorial/Índice Territorial V16|Índice Territorial V16]]
 - [[04_Mapa Politico/Índice Político|Índice Político]]
 - [[08_Economia/ECON-03 Resumen|ECON-03 Resumen]]
-- [[00_Canon/Auditoría de Coherencia V16|Auditoría de Coherencia V16]]
+- [[00_Canon/Integraciones V16/Auditoría de Coherencia V16|Auditoría de Coherencia V16]]
 - [[00_Canon/Canon V16 Maestro|Canon V16 Maestro]]
 - [[00_Canon/Cifras Oficiales V16|Cifras Oficiales V16]]
 - [[00_Canon/Enlaces Pendientes|Enlaces Pendientes]]

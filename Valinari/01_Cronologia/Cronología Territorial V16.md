@@ -756,7 +756,7 @@ La rivalidad anglo-valinari produce guerras de corso, bloqueos, disputas por pue
 * **823 a. C.:** reconocimiento de Malta como escala de agua y reparación.
 * **781 a. C.:** primer contacto con las rutas de Chipre y el Mediterráneo oriental.
 * **742 a. C.:** reconocimiento de Creta y del Egeo.
-* **664 a. C.:** primer tratado comercial con Alejandría.
+664 a. C.: contacto o acuerdo con autoridades del delta egipcio; lugar y texto pendientes. A107 R04 sustituye la referencia anacrónica a Alejandría. La delegación de 129 d. C. se conserva.
 * **587 a. C.:** fundación de una estación permanente de agua y reparación en Malta.
 * **548 a. C.:** tratado de navegación y defensa portuaria con Chipre.
 * **476 a. C.:** reconocimiento del paso de Bab el-Mandeb.
@@ -2464,3 +2464,39 @@ Prevalece esta conciliación sobre entradas anteriores incompatibles; originales
 - **2026:** Se retira antes o al corte la categoría independiente de lanchas misilísticas y las líneas antiguas fijadas en 50–53, sin sumarlas a sus sucesores. Las bajas concretas por casco siguen pendientes.
 - **2026:** La hipótesis 449 disponibles permanece simulación, sin convertirla en estado observado.
 - **2027–2033:** Horizontes futuros: primeras incorporaciones Gil-galad VI desde 2027 y continuidad del relevo Voronwë; no se suman a la fuerza operativa de 2026.
+
+
+## Integración territorial A107 CIL01 y CIL02
+
+Adopción narrativa del 13 de noviembre de 2026. Las ventanas se conservan sin convertirlas en años exactos; obras, capacidades y censos siguen pendientes. [[00_Canon/Integraciones V16/Resolución A107 CIL01 y CIL02|Resolución A107]]
+
+- **Siglos III–I a. C. — CIL01:** Agentes y operaciones estacionales en la red cilicia; sin provincia ni soberanía.
+- **Siglos I–II d. C. — CIL01:** Residencia y concesión portuaria en Cilicia; primer año exacto pendiente.
+- **610–650 — CIL01:** Crisis, cierres y renegociaciones cilicias; no nueva Guerra del Orontes adoptada.
+- **Hacia 1520 — CIL01:** Confirmación ficticia de derechos y residencia bajo autoridad otomana competente.
+- **Después de 1574 — CIL01:** Marco otomano comercial y marítimo delimitado; año exacto y texto pendientes.
+- **1600–1630 — Australia Occidental:** Reconocimientos desde la red de Malaca.
+- **1630–1650 — Australia Occidental:** Primeros establecimientos y acuerdos locales; no control total del interior.
+- **1648 — Australia Occidental:** Carta narrativa de establecimientos occidentales.
+- **1650–1750 — Australia Occidental:** Crisis epidémicas regionales y abusos; sin porcentaje uniforme ni mestizaje como causa.
+- **1736 — Australia Occidental:** Ordenanza de socorro y visitas; aplicación y resultados no presuntos.
+- **1784 — Australia Occidental:** Consejo de distritos occidentales.
+- **1832 — Australia Occidental:** Acuerdo anglo-valinari narrativo; delimitación fina y documentación pendientes.
+- **1868 — Australia Occidental:** Carta de autonomía y gobierno responsable.
+- **1912 — Australia Occidental:** Revisión electoral local; no estreno universal de igualdad.
+- **1958 — Australia Occidental:** Acuerdo fiscal y de recursos; porcentajes sin fijar.
+- **1996 — Australia Occidental:** Ley de archivos y reparación; ciudadanía común.
+- **1924 — CIL01:** Normalización comercial y patrimonial bajo soberanía turca.
+- **1955 — CIL01:** Convenio portuario y agroindustrial ficticio con Turquía.
+- **Desde 1985 — CIL01:** Diversificación logística y formativa; no recepción de plantas por inferencia.
+- **1956 — Egipto y Túnez:** Relaciones soberanas; orientación valinoriana de respeto a soberanía egipcia y continuidad negociada.
+- **1967–1975 — Egipto:** Cierre de Suez conservado como límite logístico; Pelargir no reabre el canal.
+- **900–1100 — CIL02:** Crecimiento de núcleos caribeños y presencia localizada en Florida y golfo.
+- **1100–1250 — CIL02:** Consolidación de puertos y corredores interoceánicos; presencia pacífica sostenible.
+- **1150–1350 — California:** Reconocimientos y primeros establecimientos; no provincia completa desde el primer viaje.
+- **1250–1400 — CIL02:** Integración política creciente de Caribe y Centroamérica, con control desigual.
+- **Hacia 1400 — CIL02:** Núcleo central y caribeño consolidado; CIL02 interior todavía en formación.
+- **1400–1700 — CIL02:** Ampliación de jurisdicciones, acuerdos y conflictos con poderes locales y exteriores.
+- **1700–1850 — CIL02:** Regularización posterior de once provincias y coordinación continental.
+- **1850–1950 — CIL02:** Ferrocarriles, industria y redes articulan las provincias; no puertos medievales convertidos automáticamente en metrópolis.
+- **2026 — A107:** Pertenencia del Caribe, Centroamérica y once provincias al Reino; Australia Occidental novena unidad externa. Cabo Verde sigue condicionado. Total ampliado sin cuantificar.

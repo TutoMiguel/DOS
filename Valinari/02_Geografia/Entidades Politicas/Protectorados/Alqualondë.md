@@ -1,11 +1,11 @@
 ---
-tipo: entidad territorial
-estado_canonico: vigente/provisional
-canon: V16
+tipo: puerto asociado
+estado_canonico: puerto asociado con perímetro pendiente
+canon: V17.9 A107
 ---
 # Alqualondë (Chipre)
 
-Protectorado equivalente a Chipre. Capital administrativa propuesta: Nicosia.
+Puerto asociado Alqualondë/Chipre; no protectorado sobre toda la isla. Sede administrativa canónica: Eryn Galen (Nicosia). Perímetro y derechos concretos pendientes. A107 corrige el rótulo antiguo; la ruta de archivo se conserva para mantener enlaces.
 
 ## Datos territoriales normalizados
 

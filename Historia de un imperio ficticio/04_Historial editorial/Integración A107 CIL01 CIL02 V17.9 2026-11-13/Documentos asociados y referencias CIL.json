@@ -1,0 +1,103 @@
+[
+  {
+    "path": "C:\\Users\\migue\\Documents\\Codex\\2026-11-09\\referenced-chatgpt-conversation-this-is-an\\work\\cil02\\CIL02 antes de ampliacion caribena 2026-11-13.md",
+    "bytes": 15689,
+    "sha256": "69b0881c32d3623a2c4c803430fd48034b531efa8a5441be6384b8862791d7ec",
+    "kind": "document",
+    "matches": 4,
+    "treatment": "registro de comprobación histórico preservado; no autoridad canónica adicional"
+  },
+  {
+    "path": "C:\\Users\\migue\\Documents\\Codex\\2026-11-09\\referenced-chatgpt-conversation-this-is-an\\outputs\\CIL02\\Verificación CIL02 y pendientes.json",
+    "bytes": 869,
+    "sha256": "2af5b866f76e763e38da8f8a3c686d50bc6e40ff8ee44c74f99fdbdb0cdc8f53",
+    "kind": "build_or_record",
+    "matches": 6,
+    "treatment": "fuente o registro incorporado por procedencia; original preservado y recibo A107"
+  },
+  {
+    "path": "C:\\Users\\migue\\Documents\\Codex\\2026-11-09\\referenced-chatgpt-conversation-this-is-an\\outputs\\CIL02\\Estado de acumulativas pendientes 2026-11-13.md",
+    "bytes": 6091,
+    "sha256": "2faf469d12581163465e22af5ba042b6422242bc1cea5a9daa4b0a38c11ee1d3",
+    "kind": "document",
+    "matches": 10,
+    "treatment": "fuente o registro incorporado por procedencia; original preservado y recibo A107"
+  },
+  {
+    "path": "C:\\Users\\migue\\Documents\\Codex\\2026-11-09\\referenced-chatgpt-conversation-this-is-an\\outputs\\CIL02\\Acumulativa CIL02 Provincias norteamericanas.md",
+    "bytes": 31408,
+    "sha256": "acf5636149d0bfcffd589776d3499d3a8a1b8b303362c84541cde782d1992d07",
+    "kind": "document",
+    "matches": 14,
+    "treatment": "fuente o registro incorporado por procedencia; original preservado y recibo A107"
+  },
+  {
+    "path": "C:\\Users\\migue\\Documents\\Codex\\2026-11-10\\contin-a-el-proyecto-valinor-desde\\work\\cilicia\\Verificación CIL01.json",
+    "bytes": 760,
+    "sha256": "8aa2557d05bc6d95f9c2ddcd288de4ca7d3f1369c81294536f18e79448fba3bd",
+    "kind": "build_or_record",
+    "matches": 0,
+    "treatment": "registro de comprobación histórico preservado; no autoridad canónica adicional"
+  },
+  {
+    "path": "C:\\Users\\migue\\Documents\\Codex\\2026-11-10\\contin-a-el-proyecto-valinor-desde\\outputs\\Revision_discrepancias_navales_DC01_DC12\\Revisión desarrollada DC01-DC12.md",
+    "bytes": 15590,
+    "sha256": "f7a7e7731086a0223307e82fb1078f9b74eb6792cf259f4e9ed2cabcdb0c6770",
+    "kind": "document",
+    "matches": 1,
+    "treatment": "referencia de espera superada; recibo o nota A107, sin adopción naval adicional"
+  },
+  {
+    "path": "C:\\Users\\migue\\Documents\\Codex\\2026-11-10\\contin-a-el-proyecto-valinor-desde\\outputs\\Revision_discrepancias_navales_DC01_DC12\\Registro de revisión.json",
+    "bytes": 866,
+    "sha256": "c47533d121357da6feb08258a656b37f6f2e21da141ef454f042c852b756170a",
+    "kind": "build_or_record",
+    "matches": 1,
+    "treatment": "referencia de espera superada; recibo o nota A107, sin adopción naval adicional"
+  },
+  {
+    "path": "C:\\Users\\migue\\Documents\\Codex\\2026-11-10\\contin-a-el-proyecto-valinor-desde\\outputs\\Revision_discrepancias_navales_DC01_DC12\\Actualizacion_catalogo\\Registro de actualización.json",
+    "bytes": 821,
+    "sha256": "9473381df48ec11b9d638dec056d3f8ef3d56f3f0a7ffd0b9beab6f157106c59",
+    "kind": "build_or_record",
+    "matches": 1,
+    "treatment": "referencia de espera superada; recibo o nota A107, sin adopción naval adicional"
+  },
+  {
+    "path": "C:\\Users\\migue\\Documents\\Codex\\2026-11-10\\contin-a-el-proyecto-valinor-desde\\outputs\\Revision_discrepancias_navales_DC01_DC12\\Actualizacion_catalogo\\Catálogo maestro naval 1875-2026.md",
+    "bytes": 414557,
+    "sha256": "730a243e16bf3405be003d34fe5f8ea7d2bddc85e1a1c91477f3cd6cd9e3414f",
+    "kind": "document",
+    "matches": 1,
+    "treatment": "referencia de espera superada; recibo o nota A107, sin adopción naval adicional"
+  },
+  {
+    "path": "C:\\Users\\migue\\Documents\\Codex\\2026-11-10\\contin-a-el-proyecto-valinor-desde\\outputs\\Acumulativa_cilicia_CIL01\\Registro CIL01.json",
+    "bytes": 7919,
+    "sha256": "604144bb6ef8032f86048eaac625c176c9c358a55439696a08f6edd20cf2c37d",
+    "kind": "build_or_record",
+    "matches": 18,
+    "treatment": "fuente o registro incorporado por procedencia; original preservado y recibo A107"
+  },
+  {
+    "path": "C:\\Users\\migue\\Documents\\Codex\\2026-11-10\\contin-a-el-proyecto-valinor-desde\\outputs\\Acumulativa_cilicia_CIL01\\Acumulativa CIL01 Red comercial cilicia hasta 2026.md",
+    "bytes": 148879,
+    "sha256": "31cf85fc462bd2dddef58cf06cb1bc0ebf1cd3fe4a7353c00d47cc583393b521",
+    "kind": "document",
+    "matches": 28,
+    "treatment": "fuente o registro incorporado por procedencia; original preservado y recibo A107"
+  },
+  {
+    "path": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\12_Militar\\03_Armada\\Catálogo maestro naval 1875-2026.md",
+    "bytes": 414557,
+    "sha256": "730a243e16bf3405be003d34fe5f8ea7d2bddc85e1a1c91477f3cd6cd9e3414f",
+    "kind": "document",
+    "matches": 1,
+    "treatment": "referencia de espera superada; recibo o nota A107, sin adopción naval adicional"
+  },
+  {
+    "path": "C:\\Users\\migue\\Documents\\Codex\\2026-11-10\\contin-a-el-proyecto-valinor-desde\\outputs\\Desarrollo_cilicio\\Propuesta de red comercial cilicia Antigüedad a 1500.md",
+    "sha256": "23fee2871a84484531501e470326157015b24c68c5d2763858782ca2f61491ad",
+    "treatment": "propuesta de origen recogida en CIL01; conservada íntegra como fuente, sin duplicar su desarrollo"
+  }
+]

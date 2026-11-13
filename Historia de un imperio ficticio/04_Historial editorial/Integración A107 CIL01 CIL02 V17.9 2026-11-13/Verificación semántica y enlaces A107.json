@@ -1,0 +1,52 @@
+{
+  "revision": "V17.9 A107",
+  "new_broken_links": [],
+  "preexisting_unresolved_links": [
+    [
+      "02_Geografia/Aranath Valinor.md",
+      "00_Canon/Auditoría de Coherencia V16"
+    ],
+    [
+      "02_Geografia/Beleg Valinor.md",
+      "00_Canon/Auditoría de Coherencia V16"
+    ],
+    [
+      "02_Geografia/Gwaith Valinor.md",
+      "00_Canon/Auditoría de Coherencia V16"
+    ],
+    [
+      "02_Geografia/Entidades Politicas/Federacion Directa/Gwaith Valinor.md",
+      "00_Canon/Auditoría de Coherencia V16"
+    ],
+    [
+      "02_Geografia/Entidades Politicas/Protectorados/Beleg Valinor.md",
+      "00_Canon/Auditoría de Coherencia V16"
+    ],
+    [
+      "02_Geografia/Entidades Politicas/Reinos Constituyentes/Aranath Valinor.md",
+      "00_Canon/Auditoría de Coherencia V16"
+    ],
+    [
+      "04_Mapa Politico/Reinos Constituyentes/Aranath Valinor.md",
+      "00_Canon/Auditoría de Coherencia V16"
+    ],
+    [
+      "00_Canon/Registro de integración acumulativa V16.md",
+      "Cronología Territorial V16"
+    ]
+  ],
+  "checked_notes": 72,
+  "us_provinces": 11,
+  "new_central_american_equivalents": 6,
+  "external_units": 9,
+  "cape_verde_accession_completed": false,
+  "unknowns_not_zero": true,
+  "naval_quantities_unchanged": [
+    427,
+    615
+  ],
+  "sources_unchanged": 656,
+  "original_zip_crc_ok": true,
+  "complete_CIL01_blocks": 10,
+  "CIL02_deliveries": 2
+}

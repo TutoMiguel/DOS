@@ -1,0 +1,556 @@
+{
+  "revision": "V17.9 A107",
+  "fecha": "2026-11-13",
+  "publicaciones": [
+    {
+      "destino": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\00_Canon\\Integraciones V16\\Resolución A107 CIL01 y CIL02.md",
+      "sha256": "56ad59f0cf52bc8e5fad6d31f2b21136e48bec5fd4a0a7b3818e0e082be230d4",
+      "anterior_sha256": null
+    },
+    {
+      "destino": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\00_Canon\\Integraciones V16\\CIL01 Red cilicia Australia y socios.md",
+      "sha256": "fa7e276ab218aba8f9766b0969893bb35ab4e8256d1a61105eeb2cd7c53befc9",
+      "anterior_sha256": null
+    },
+    {
+      "destino": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\00_Canon\\Integraciones V16\\CIL02 América central Caribe y Norteamérica.md",
+      "sha256": "94aa95f28663a93559cb97dc9f4cd6be5b12f600a40fc2ffcb79865cd6278d5b",
+      "anterior_sha256": null
+    },
+    {
+      "destino": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\00_Canon\\Integraciones V16\\CIL01 Bloque 01 Red comercial desde la Antigüedad hasta 1500.md",
+      "sha256": "af5cc2531df17a3fc2271efb002929d4f39071c0ca62bde3be45b7c13e9aa4cf",
+      "anterior_sha256": null
+    },
+    {
+      "destino": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\00_Canon\\Integraciones V16\\CIL01 Bloque 02 Trayectoria propuesta de 1500 a 2026.md",
+      "sha256": "d76e72d2380cdc584028b7c494f2d7549dc753b972a1658e9caa69a9460e52c6",
+      "anterior_sha256": null
+    },
+    {
+      "destino": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\00_Canon\\Integraciones V16\\CIL01 Bloque 03 Estatuto contemporáneo y relación con la Federación.md",
+      "sha256": "0cb65d1819f7367fea06124c1470700025032683053438825c5ee873b4b755f1",
+      "anterior_sha256": null
+    },
+    {
+      "destino": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\00_Canon\\Integraciones V16\\CIL01 Bloque 04 Conciliación y futura integración.md",
+      "sha256": "15aafd492a2318bc63336cab2a366e5e3aca7607f59d5443f079e95d6a295d32",
+      "anterior_sha256": null
+    },
+    {
+      "destino": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\00_Canon\\Integraciones V16\\CIL01 Bloque 05 Asociación otomana y turca y articulación mediterránea.md",
+      "sha256": "dc8f20011fce3bab2aefada67b9bb03d7969bb61437e7876300d091abd12915a",
+      "anterior_sha256": null
+    },
+    {
+      "destino": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\00_Canon\\Integraciones V16\\CIL01 Bloque 06 Australia Occidental desarrollo territorial 1600–2026.md",
+      "sha256": "e7f0d2f4c1c7f5b48747ed6ef96161a019187e1f046451023a3156c69ae3bad7",
+      "anterior_sha256": null
+    },
+    {
+      "destino": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\00_Canon\\Integraciones V16\\CIL01 Bloque 07 Australia Occidental ampliación institucional, urbana y demográfica.md",
+      "sha256": "07b5af6ea393adb05b07387ba9a49f68bf8ca8a7452e6853ef85216c7c3e3d9d",
+      "anterior_sha256": null
+    },
+    {
+      "destino": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\00_Canon\\Integraciones V16\\CIL01 Bloque 08 Australia Occidental constitución territorial y desarrollo regional.md",
+      "sha256": "f17dded704291c132dc9f60f7a66dc94908978a19e74c5513a71143f36edd35e",
+      "anterior_sha256": null
+    },
+    {
+      "destino": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\00_Canon\\Integraciones V16\\CIL01 Bloque 09 Relaciones de Valinor con Túnez y Egipto.md",
+      "sha256": "551e56a5ace2ffb9a2a8e21cf17a5b831dcb456175507e1af5185b674b4c2d61",
+      "anterior_sha256": null
+    },
+    {
+      "destino": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\00_Canon\\Integraciones V16\\CIL01 Bloque 10 Otros Estados socios factibles.md",
+      "sha256": "f3c34c86e0ff83821b04c2fc78d9a910e4cfd198691d5b03dc040ed0bbea607b",
+      "anterior_sha256": null
+    },
+    {
+      "destino": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\02_Geografia\\Provincias\\CIL02\\California.md",
+      "sha256": "ed6f33c6afe6096e4b5c886b411ddeeb271631fb8224120a2ef54d4a8c14eb31",
+      "anterior_sha256": null
+    },
+    {
+      "destino": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\02_Geografia\\Provincias\\CIL02\\Nevada.md",
+      "sha256": "a775f8db049b2fd4bdde0e6821b59c1f5b84cb5f506587deabd64b795d84f182",
+      "anterior_sha256": null
+    },
+    {
+      "destino": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\02_Geografia\\Provincias\\CIL02\\Utah.md",
+      "sha256": "5bf5fee2a1b6085a182f34f187debb4fd8b33e8b24b2343804aab1f8f84cc8b2",
+      "anterior_sha256": null
+    },
+    {
+      "destino": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\02_Geografia\\Provincias\\CIL02\\Arizona.md",
+      "sha256": "72957da1de54369bb66cec836a8541be907b67593f259389289e30f26d368e7f",
+      "anterior_sha256": null
+    },
+    {
+      "destino": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\02_Geografia\\Provincias\\CIL02\\Nuevo México.md",
+      "sha256": "e361fbba6f3c7a39d034e4fb83f1cb8bd4d8874aa491103b1bd0b56e7b220f24",
+      "anterior_sha256": null
+    },
+    {
+      "destino": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\02_Geografia\\Provincias\\CIL02\\Texas.md",
+      "sha256": "8f0b1a134583ae2ea2a703f921c7ca88183dbd2d154f22deddc5b69491bd83b1",
+      "anterior_sha256": null
+    },
+    {
+      "destino": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\02_Geografia\\Provincias\\CIL02\\Luisiana.md",
+      "sha256": "5879c63aeb61ad897c694fe8597750ab9e9c4c55b72a2b18456e342731efd14b",
+      "anterior_sha256": null
+    },
+    {
+      "destino": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\02_Geografia\\Provincias\\CIL02\\Misisipi.md",
+      "sha256": "133b99ca4022ab2fee06e3dc71dafac1e658bea52d3e5d5b7867d05a3810b320",
+      "anterior_sha256": null
+    },
+    {
+      "destino": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\02_Geografia\\Provincias\\CIL02\\Alabama.md",
+      "sha256": "5b2d87c4820a6cc188d5ea10878915a751ad6f237979521b11ca25baf2f8c74e",
+      "anterior_sha256": null
+    },
+    {
+      "destino": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\02_Geografia\\Provincias\\CIL02\\Georgia.md",
+      "sha256": "5b538aac4cd04f379ec2fc64528e8c8ee12b39f38dc1db671a1c67c6ad4e9bfe",
+      "anterior_sha256": null
+    },
+    {
+      "destino": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\02_Geografia\\Provincias\\CIL02\\Florida.md",
+      "sha256": "ef4ad00b49d4002d3399eb506cf040cb7ccd9c367f5a0a7a395e1b7a38dfceac",
+      "anterior_sha256": null
+    },
+    {
+      "destino": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\02_Geografia\\Provincias\\CIL02\\Índice de provincias CIL02.md",
+      "sha256": "ee6b19e0ca7a592347c306de35268c0ce918dc3a05a65ec2f5fc90d2f794ea7d",
+      "anterior_sha256": null
+    },
+    {
+      "destino": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\02_Geografia\\Provincias\\Centroamérica\\Guatemala.md",
+      "sha256": "b17db792a86cafde5e294e1711abc235953c515c8ca2bbce21fb7f3c05bb2538",
+      "anterior_sha256": null
+    },
+    {
+      "destino": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\02_Geografia\\Provincias\\Centroamérica\\Belice.md",
+      "sha256": "b89857e3467fdefe33b9dca7b0894015347f02c8ab94bc5656ce313790de65a0",
+      "anterior_sha256": null
+    },
+    {
+      "destino": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\02_Geografia\\Provincias\\Centroamérica\\Honduras.md",
+      "sha256": "cd2052f403966cc8a4de85cbb6e8ad5e96bf622503860424e3030e101280a30e",
+      "anterior_sha256": null
+    },
+    {
+      "destino": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\02_Geografia\\Provincias\\Centroamérica\\El Salvador.md",
+      "sha256": "4ff06e87bf2b8db3295564357ec68706491c181ad8d6e372b6795dfe0c557d31",
+      "anterior_sha256": null
+    },
+    {
+      "destino": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\02_Geografia\\Provincias\\Centroamérica\\Nicaragua.md",
+      "sha256": "77444043d601c7ac6587dcec15e488ce32bb6de3c6fb9df1368d6670c19abb6d",
+      "anterior_sha256": null
+    },
+    {
+      "destino": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\02_Geografia\\Provincias\\Centroamérica\\Costa Rica.md",
+      "sha256": "1fcf636dcdb3d19815ec19380e0f185c3df0d5e39eeee2abead39cc173776faf",
+      "anterior_sha256": null
+    },
+    {
+      "destino": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\02_Geografia\\Regiones\\Centroamérica del Reino.md",
+      "sha256": "6a68be38e5bc867667d5bda9bd8919efa07332b1f5a11b62bda075adbb282a03",
+      "anterior_sha256": null
+    },
+    {
+      "destino": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\02_Geografia\\Regiones\\Caribe insular del Reino.md",
+      "sha256": "d192a2817811aa7a5b3d985a7530f2738d0f61abd5a076ece64bbf53b6d7e802",
+      "anterior_sha256": null
+    },
+    {
+      "destino": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\02_Geografia\\Territorios Federales\\Australia Occidental\\Australia Occidental.md",
+      "sha256": "139855e7a7f841126a4184c900ffd882fd7f3cc51ae9d2a8f9962aac5c081713",
+      "anterior_sha256": null
+    },
+    {
+      "destino": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\02_Geografia\\Relaciones Exteriores CIL01\\Cilicia.md",
+      "sha256": "ef326aef3cd9eb7a6297b302a0da388d8a0eb24eb11ffd383dd3531a7fd17d43",
+      "anterior_sha256": null
+    },
+    {
+      "destino": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\02_Geografia\\Relaciones Exteriores CIL01\\Turquía.md",
+      "sha256": "d1c663fe14c201f04470bbeb750cf42997d0cc20e3199f84a0767e9dd5c249a1",
+      "anterior_sha256": null
+    },
+    {
+      "destino": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\02_Geografia\\Relaciones Exteriores CIL01\\Túnez.md",
+      "sha256": "5bfed93f6f74352ff2689e9ba3092d2c0fc83a41caef2316208e7dff3ff9be6c",
+      "anterior_sha256": null
+    },
+    {
+      "destino": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\02_Geografia\\Relaciones Exteriores CIL01\\Egipto.md",
+      "sha256": "2774d9de32d2afaa6a7c69d1272a94c2b928cbdd062b1f382dadf2eaffe0957e",
+      "anterior_sha256": null
+    },
+    {
+      "destino": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\02_Geografia\\Relaciones Exteriores CIL01\\Portugal.md",
+      "sha256": "5a9bc853493e837666c7fe2d0697be9aa54fde21a2e83eb1f44dfffa2a89b154",
+      "anterior_sha256": null
+    },
+    {
+      "destino": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\02_Geografia\\Relaciones Exteriores CIL01\\Marruecos.md",
+      "sha256": "e5225178c702cf3c4d1beef3c82a468ad1f503f25ed95fab3626b884458f1bcc",
+      "anterior_sha256": null
+    },
+    {
+      "destino": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\02_Geografia\\Relaciones Exteriores CIL01\\Cabo Verde.md",
+      "sha256": "b66a38cc6ec1ba8c2854f4a53d97d8469f535a7462d28ff5914a157546e90329",
+      "anterior_sha256": null
+    },
+    {
+      "destino": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\02_Geografia\\Relaciones Exteriores CIL01\\Seychelles.md",
+      "sha256": "6d5f1bb53a74ec21eea9bbdde002266c972b9036c6cb4552b9be93cf822108c5",
+      "anterior_sha256": null
+    },
+    {
+      "destino": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\02_Geografia\\Relaciones Exteriores CIL01\\Mauricio.md",
+      "sha256": "f2c62f698ec66e5006b2b7c457c7b031bcc9afb98a7ccce72209ce1b9c055551",
+      "anterior_sha256": null
+    },
+    {
+      "destino": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\02_Geografia\\Relaciones Exteriores CIL01\\Sri Lanka.md",
+      "sha256": "26096741ce82926b76e8d2784533b65f26b8ebf7d2acb6fd21a432dc1b07e69c",
+      "anterior_sha256": null
+    },
+    {
+      "destino": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\01_Cronologia\\Cronología Territorial V16.md",
+      "sha256": "a9cb1f0aa0c328c8176c5c1b35c9665c49dd14c587aa405602f6f7d52e3e9030",
+      "anterior_sha256": "9b698760b62f3cdc6e1ab5e2260631f6cee591702d0b2ff1ab2de9394653f213"
+    },
+    {
+      "destino": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\02_Geografia\\Aranath Valinor.md",
+      "sha256": "61cc3e57b2502c366768ace209ed6ed557b375526bd4c51adeef8589c9e62f0c",
+      "anterior_sha256": "6fd30c2df3be019a9e7b3f975a060756e85b856c2260bf378e55b546639650c7"
+    },
+    {
+      "destino": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\02_Geografia\\Beleg Valinor.md",
+      "sha256": "2309d8ea229daa3310fca8a0b12d545689af72dbd23f0a959b8a9209df424eb2",
+      "anterior_sha256": "b2a18d83667cd3a658e5ec7c49ff892fcb2a359d3a98d208688a87eb3f98f51d"
+    },
+    {
+      "destino": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\02_Geografia\\Gwaith Valinor.md",
+      "sha256": "060a58d4e7024389d01bf3f3a59f4e78b564c596e7b8a606185d427da9f81e8e",
+      "anterior_sha256": "4b456fcdc58d4e4f3850da1fbf06e72fe5e9c09e0ad87033359af6848df7b46f"
+    },
+    {
+      "destino": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\08_Economia\\ECON-03 Resumen.md",
+      "sha256": "4df9b05b349e8acd74c537b231030f2a632bbe1232f4eae91fb9aa79c0364802",
+      "anterior_sha256": "0d5bc79c52d575a87bc8f5eee75adef40b08834ef52543abac11978e5fbd2afc"
+    },
+    {
+      "destino": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\08_Economia\\Sistema Valinari de Fomento y Desarrollo.md",
+      "sha256": "ce3f4456a4fe5a9e60851ba086fe4792741667fe343c8d319ea441261e05f801",
+      "anterior_sha256": "a79cc4f14976bb4ab3fd525220fe0299a352f726c84b81a5a6a4cfacd2ea3c65"
+    },
+    {
+      "destino": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\02_Geografia\\Entidades Politicas\\Federacion Directa\\Gwaith Valinor.md",
+      "sha256": "c45e0dd0f24238e8a4a87fc23fd36684f873358c48a22ad277a1d8f2bb27b743",
+      "anterior_sha256": "cf7c09494a4ef814a72bbae84dfb40143eedbc72018718ff7039b9212b8de77d"
+    },
+    {
+      "destino": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\02_Geografia\\Entidades Politicas\\Protectorados\\Alqualondë.md",
+      "sha256": "6160d435b263eb3c384253a32fb7a2a1b0854f6d5e18ac0e315fbb663eac0b09",
+      "anterior_sha256": "22d8d53414d1cbd84cde3b083236a4348b758fd867514831a8a4ac95cb98ee23"
+    },
+    {
+      "destino": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\02_Geografia\\Entidades Politicas\\Protectorados\\Beleg Valinor.md",
+      "sha256": "eb5ea96ffae9bd2f55e3c9a4d104e240fd914f8d7c63cfac2630250822da6509",
+      "anterior_sha256": "ccb755678b1ca04678f181c2884d34097e157e6c11e2cb37ce79293c07257c2b"
+    },
+    {
+      "destino": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\02_Geografia\\Entidades Politicas\\Protectorados\\Pelargir.md",
+      "sha256": "2faa8f52763eb64197b362c6a5f42eb592572d8ca9ac145e33ea64b9c65a2f7e",
+      "anterior_sha256": "3a1033b5ea0e12264def201fab1cb9cc0301021cf9038dc1ef3f6959767e6037"
+    },
+    {
+      "destino": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\02_Geografia\\Entidades Politicas\\Reinos Constituyentes\\Aranath Valinor.md",
+      "sha256": "08a5ef0707a27b3e884aa41e3f1f5441306a9321ef16b0d5aeb7e9040dac65bb",
+      "anterior_sha256": "c67eb7e34d5e999a120463e032bf2e6cf1ba6736b9c4ffd2504d64fd57148007"
+    },
+    {
+      "destino": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\04_Mapa Politico\\Reinos Constituyentes\\Aranath Valinor.md",
+      "sha256": "38845143f24e72b268540180b4bfb129931c22b3321abced045a8cc713cb1f33",
+      "anterior_sha256": "7dae95b051d2487f76be16ec8f8fa29f6cc2348757eeb51a9f3d245695e38cfe"
+    },
+    {
+      "destino": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\08_Economia\\ECON-03\\Reglas de integracion.md",
+      "sha256": "ea721fc658541f0ebb4276b6e73802d1c2e56e2f7efcf8aeab64d94333f2ea4a",
+      "anterior_sha256": "4d53374a8928775fdbc23904991d3e0f98f5aaf7dcaa8d9ff64574dc85f3c9b1"
+    },
+    {
+      "destino": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\12_Militar\\03_Armada\\Catálogo maestro naval 1875-2026.md",
+      "sha256": "620d10ee5328a49f6c79e17f1b9654c06a437ef0eb3c21a7721295f2dcf46fee",
+      "anterior_sha256": "730a243e16bf3405be003d34fe5f8ea7d2bddc85e1a1c91477f3cd6cd9e3414f"
+    },
+    {
+      "destino": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\00_Indice Territorial\\Índice Territorial V16.md",
+      "sha256": "0efb47ac794738cd211143c7b4fbbe28fc93e0a52d84a28984680b83841077c8",
+      "anterior_sha256": "882cf7e2c56cdcd438854de6bc2f23bd93b8d96bcea43e87a21534053fdf8c93"
+    },
+    {
+      "destino": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\00_Indice Territorial\\Índice Jerárquico Gwaith Valinor.md",
+      "sha256": "6521f87b2b736c15adf506cea491400f5da777280fb03839b44bc4aafc1ad616",
+      "anterior_sha256": "8c8b96673556c5a4d8d850b95ef7962b133a7995fc957e418490add8e36187fe"
+    },
+    {
+      "destino": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\02_Geografia\\Índice Geográfico.md",
+      "sha256": "50a524c119373f87f7fdd8b4344a29b1e0d13b76ab4c5c2e11fcbce08b689051",
+      "anterior_sha256": "42e81ea892746eb9a97b0aef7b7ed1d57fb1a281b171371e20525bbd7cdf6382"
+    },
+    {
+      "destino": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\02_Geografia\\Entidades Politicas\\Índice de Entidades Políticas.md",
+      "sha256": "201525e948b9b7208cec5e4f6d8d5ba369f56164a2e7971df8347937af38a0ae",
+      "anterior_sha256": "6c2bb51639a206ff1eda72c6e2b54f69b63603e1fc3b46e49a13bef69aea2300"
+    },
+    {
+      "destino": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\08_Economia\\Índice Económico.md",
+      "sha256": "c6f21f541c9802a2f530f45fddc24f5d05e4b218f9f03bf8f9d5dd71f1e23b1a",
+      "anterior_sha256": "5cc00372992c7c9c48d3b16f7fa8be4c86c894066c8916656d0b4bbccfeaf63a"
+    },
+    {
+      "destino": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\04_Mapa Politico\\Índice Político.md",
+      "sha256": "70a50741866aed2ad05d520813d10a29504a7e3503fabd528c307d945013f96c",
+      "anterior_sha256": "4b1eb9caa48248c9265bba68c5adb9d84239b2a63bab0bb4e59b2e4f41dd911b"
+    },
+    {
+      "destino": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\00_Canon\\Registro de integración acumulativa V16.md",
+      "sha256": "8913adbd54db195c15c8bc1d352e2f8980fe8ebc4816866a7de196aecf1f4bca",
+      "anterior_sha256": "d7c0778bf0449264d2162cd2fb0d10840dc49ec8fcf210936bc31a617c92520c"
+    },
+    {
+      "destino": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\00_Canon\\Registro de Decisiones Pendientes.md",
+      "sha256": "8fa38e33b2939f9647eee1060da43103cfe45661ff3a3c304fc8b9ac3fa88f24",
+      "anterior_sha256": "a9eb7d1bccc000444eba676b4025541e862b924148b68ac98880a479893ca661"
+    },
+    {
+      "destino": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\00_Canon\\Integraciones V16\\Propuestas pendientes tras revisión V16.1.md",
+      "sha256": "6190341fe39aa6ce4952fbec15392e6739f3329c858d3e6a007f29a40118ab67",
+      "anterior_sha256": "d90d2c1d2540f6e78eefa7cf7c1349884b969f3ed9084b3312645d808c888376"
+    },
+    {
+      "destino": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\00_Canon\\Integraciones V16\\Pendientes materiales territoriales A107.md",
+      "sha256": "528143047b945d7ebf3b7317c0dd2af6b904190cfd626e30a1650841a2075bf4",
+      "anterior_sha256": null
+    },
+    {
+      "destino": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\02_Geografia\\Enclaves y territorios asociados\\Eärendil (Cabo Verde).md",
+      "sha256": "29be22b301d0a88fca93dd63d11d65f19da2ad170d7fffc4405695d7e35cd338",
+      "anterior_sha256": "c9dd49e66d524f3910630f2bb620a86846d08ca982703bf8d86516b9ebacbda8"
+    },
+    {
+      "destino": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\02_Geografia\\Enclaves y territorios asociados\\Eressëa Índica (Seychelles).md",
+      "sha256": "8338718807b8d841aa22889f344f75b933eb39236b6140ed9a9edf40d8f59db9",
+      "anterior_sha256": "c8bf21e5d2d44f33f4692b959b7ee7e09f9226737c562cab84a60a6a267f1896"
+    },
+    {
+      "destino": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\02_Geografia\\Paises y Estados de Referencia\\Egipto.md",
+      "sha256": "d736e0bdecd0a7b4f777870657e24c69f9cbd86fdfa0e97d5be81c1a38fb04be",
+      "anterior_sha256": "b935e3d8449e1f2877ce553f821d6a0b9b25abfaafe0d7629d3f3135dd09f5b3"
+    },
+    {
+      "destino": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\00_Canon\\Canon V16 Maestro.md",
+      "sha256": "e00da93c3911401a46ef017f3f55dbf0afabd7970a6f47c277f8d26427040f42",
+      "anterior_sha256": "a5501faa857eb9d16a88897e3d7e09ec1117367e20bc1136fff2f31289b0d263"
+    },
+    {
+      "destino": "C:\\Users\\migue\\OneDrive\\DOS\\Canon V17.9 Maestro A107.docx",
+      "sha256": "2bb4b73cd75b362dc5027fbb024944c2259d270ffd8c43a10d244cea049bb03c",
+      "anterior_sha256": null
+    },
+    {
+      "destino": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\10_Archivo\\Documentos editoriales\\Oficial\\Canon V17.9 Maestro A107.docx",
+      "sha256": "2bb4b73cd75b362dc5027fbb024944c2259d270ffd8c43a10d244cea049bb03c",
+      "anterior_sha256": null
+    },
+    {
+      "destino": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\10_Archivo\\Documentos editoriales\\Oficial\\Canon V16 Maestro.docx",
+      "sha256": "2bb4b73cd75b362dc5027fbb024944c2259d270ffd8c43a10d244cea049bb03c",
+      "anterior_sha256": "57496bed3106bb9cbe94b3e29dbd5269762a7bb740f1518ab7f2a7b84002a9c1"
+    },
+    {
+      "destino": "C:\\Users\\migue\\OneDrive\\DOS\\Historia de un imperio ficticio\\Canon V16 Maestro.docx",
+      "sha256": "2bb4b73cd75b362dc5027fbb024944c2259d270ffd8c43a10d244cea049bb03c",
+      "anterior_sha256": "57496bed3106bb9cbe94b3e29dbd5269762a7bb740f1518ab7f2a7b84002a9c1"
+    },
+    {
+      "destino": "C:\\Users\\migue\\OneDrive\\DOS\\Historia de un imperio ficticio\\Canon V16 Maestro - Exportacion.docx",
+      "sha256": "2bb4b73cd75b362dc5027fbb024944c2259d270ffd8c43a10d244cea049bb03c",
+      "anterior_sha256": "57496bed3106bb9cbe94b3e29dbd5269762a7bb740f1518ab7f2a7b84002a9c1"
+    },
+    {
+      "destino": "C:\\Users\\migue\\OneDrive\\DOS\\Historia de un imperio ficticio\\Canon V16 Maestro.pdf",
+      "sha256": "a120b977c077d8f43d744880102cf7432dd152a6f3eb1e63e2d3286fc1dd9771",
+      "anterior_sha256": "b43bf3ddca3cdfa979f444c587244e5735cb9db4304b74c98d00c350dc5fa79b"
+    },
+    {
+      "destino": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\10_Archivo\\Documentos editoriales\\Oficial\\Canon V17.9 Maestro A107.pdf",
+      "sha256": "a120b977c077d8f43d744880102cf7432dd152a6f3eb1e63e2d3286fc1dd9771",
+      "anterior_sha256": null
+    },
+    {
+      "destino": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\10_Archivo\\Documentos editoriales\\Oficial\\Acumulativa CIL01 integrada A107.docx",
+      "sha256": "b5ac7a479220a744103cf17933118fa9c5aece027eadfe1edd79f826e7bf7168",
+      "anterior_sha256": null
+    },
+    {
+      "destino": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\10_Archivo\\Documentos editoriales\\Oficial\\Acumulativa CIL01 integrada A107.md",
+      "sha256": "6e33879c4bb0086d225f006520467578321ceb1ce7a09aac06ac6a203ae6891e",
+      "anterior_sha256": null
+    },
+    {
+      "destino": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\10_Archivo\\Documentos editoriales\\Oficial\\Acumulativa CIL02 integrada A107.docx",
+      "sha256": "f83647ed8869a824ea73a7c8a39e394a12fee22405300174422b6b6af7d6db3b",
+      "anterior_sha256": null
+    },
+    {
+      "destino": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\10_Archivo\\Documentos editoriales\\Oficial\\Acumulativa CIL02 integrada A107.md",
+      "sha256": "a27b75ee3b9cac73180e086264a640137846a2fd7700afea25c875f67a156f19",
+      "anterior_sha256": null
+    },
+    {
+      "destino": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\10_Archivo\\Documentos editoriales\\Oficial\\Resolución A107 Integración CIL01 y CIL02.md",
+      "sha256": "706d37f18635d0cc4207714e3782082b477439f1f994153d75119b0d240085ed",
+      "anterior_sha256": null
+    },
+    {
+      "destino": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\10_Archivo\\Documentos editoriales\\Oficial\\Registro territorial A107.json",
+      "sha256": "343f4b0ddb8e173bbb937b6598433f37aa01f05035067d80bfcd5cb192a2c407",
+      "anterior_sha256": null
+    },
+    {
+      "destino": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\10_Archivo\\Documentos editoriales\\Oficial\\Hitos cronológicos A107.json",
+      "sha256": "17ad9d2abd60d1029a8e58b148213097bcbb147a077e75de8a32d5fca95a00e5",
+      "anterior_sha256": null
+    },
+    {
+      "destino": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\10_Archivo\\Documentos editoriales\\Oficial\\Documentos asociados y referencias CIL.json",
+      "sha256": "fca948ff4a5a5b3132b289fa0d84b0a44f29f1ddd41c8b45af15907af7db9613",
+      "anterior_sha256": null
+    },
+    {
+      "destino": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\10_Archivo\\Documentos editoriales\\Oficial\\Rutas y estado de acumulativas.md",
+      "sha256": "baa84755ebe09b8cae91f9c14b7a24b199657ce48d15f21b54e922de621e27a6",
+      "anterior_sha256": null
+    },
+    {
+      "destino": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\10_Archivo\\Documentos editoriales\\Oficial\\Pendientes materiales y territoriales A107.md",
+      "sha256": "cc99eb01dc06894483da3ae970db1467872e142845aeaf6b671b8c1f59054de4",
+      "anterior_sha256": null
+    },
+    {
+      "destino": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\07_Imagenes\\CIL02 mapa de referencia 1.png",
+      "sha256": "75aa5b4be97f08d84ec8470dbdbe8e9cc3bcb48aa028ac90cd5e1c3e8aba1fc6",
+      "anterior_sha256": null
+    },
+    {
+      "destino": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\07_Imagenes\\CIL02 mapa de referencia 2.png",
+      "sha256": "d38fb123e447e29b7be18c9745e52923737d2d828876cc867adf608a91db31c7",
+      "anterior_sha256": null
+    },
+    {
+      "destino": "C:\\Users\\migue\\Documents\\Codex\\2026-11-10\\contin-a-el-proyecto-valinor-desde\\outputs\\Acumulativa_cilicia_CIL01\\ESTADO ACTUAL INTEGRADO A107.md",
+      "sha256": "7700fb6e9d89c1f45d28193c8162acd13ed017b33b294ade08a5e89ec712b8fc",
+      "anterior_sha256": null
+    },
+    {
+      "destino": "C:\\Users\\migue\\Documents\\Codex\\2026-11-10\\contin-a-el-proyecto-valinor-desde\\outputs\\Acumulativa_cilicia_CIL01\\Estado de integración A107.json",
+      "sha256": "bb9e23ca5a9e53ae29b76e7094615afb66ad003c6379ed826d25cf66780781a9",
+      "anterior_sha256": null
+    },
+    {
+      "destino": "C:\\Users\\migue\\Documents\\Codex\\2026-11-09\\referenced-chatgpt-conversation-this-is-an\\outputs\\CIL02\\ESTADO ACTUAL INTEGRADO A107.md",
+      "sha256": "b2a96c51a5e23dce32f3df72325cfc11e2cae38390d85de6533db92f7aa5105b",
+      "anterior_sha256": null
+    },
+    {
+      "destino": "C:\\Users\\migue\\Documents\\Codex\\2026-11-09\\referenced-chatgpt-conversation-this-is-an\\outputs\\CIL02\\Estado de integración A107.json",
+      "sha256": "724f0606e3e6d7b433c472c1a284596f556896b14898db02b52c5a9f7f107f1a",
+      "anterior_sha256": null
+    },
+    {
+      "destino": "C:\\Users\\migue\\Documents\\Codex\\2026-11-10\\contin-a-el-proyecto-valinor-desde\\outputs\\Desarrollo_cilicio\\ESTADO ACTUAL INTEGRADO A107.md",
+      "sha256": "365b418400b8cbda70d4d565ca263979494018b2b0fc75bed0bc48b49476a941",
+      "anterior_sha256": null
+    },
+    {
+      "destino": "C:\\Users\\migue\\Documents\\Codex\\2026-11-10\\contin-a-el-proyecto-valinor-desde\\outputs\\Desarrollo_cilicio\\Estado de integración A107.json",
+      "sha256": "3beb8dae517ae6ef508fc9a6fe6c663e27d636bbc34a6bf70837a2468f6025dd",
+      "anterior_sha256": null
+    },
+    {
+      "destino": "C:\\Users\\migue\\Documents\\Codex\\2026-11-10\\contin-a-el-proyecto-valinor-desde\\outputs\\Revision_discrepancias_navales_DC01_DC12\\ESTADO ACTUAL INTEGRADO A107.md",
+      "sha256": "08182b5417e693e6c36b49d0ced562dd7e6963cf94bc493f03178d9933512e49",
+      "anterior_sha256": null
+    },
+    {
+      "destino": "C:\\Users\\migue\\Documents\\Codex\\2026-11-10\\contin-a-el-proyecto-valinor-desde\\outputs\\Revision_discrepancias_navales_DC01_DC12\\Estado de integración A107.json",
+      "sha256": "67a7efc0784a91433375d5646bdb7503c56604cbb167a44e8e14e1416f6aa4e5",
+      "anterior_sha256": null
+    },
+    {
+      "destino": "C:\\Users\\migue\\Documents\\Codex\\2026-11-10\\contin-a-el-proyecto-valinor-desde\\outputs\\Revision_discrepancias_navales_DC01_DC12\\Actualizacion_catalogo\\ESTADO ACTUAL INTEGRADO A107.md",
+      "sha256": "84c37d97654db5c5b8a7ace220247ee0275459cb5742dc1d9eed403eafa745f1",
+      "anterior_sha256": null
+    },
+    {
+      "destino": "C:\\Users\\migue\\Documents\\Codex\\2026-11-10\\contin-a-el-proyecto-valinor-desde\\outputs\\Revision_discrepancias_navales_DC01_DC12\\Actualizacion_catalogo\\Estado de integración A107.json",
+      "sha256": "5369ad2ccde4b2bc70af737a219e7e4454328f0de4f038852e18e9c484203975",
+      "anterior_sha256": null
+    },
+    {
+      "destino": "C:\\Users\\migue\\OneDrive\\DOS\\Historia de un imperio ficticio\\01_Exportaciones vigentes\\Procedencia de las exportaciones.json",
+      "sha256": "c227fa1ff44318077e148c71e24525319fd477201538f9cc1582c63ca2caa7f6",
+      "anterior_sha256": "b2c8e8d17dec6328891df1e999bedaec07cbccd01f89f4846ab8bedab36e533e"
+    },
+    {
+      "destino": "C:\\Users\\migue\\OneDrive\\DOS\\Historia de un imperio ficticio\\05_Control y herramientas\\rutas_proyecto.json",
+      "sha256": "0f8782eb75c9d8713e00cca9ff73d4b59667e7768f3e3cafd932d069be27a0d2",
+      "anterior_sha256": "af98d1a2794dc86e5559c2fac32c66751c43a90c51aa5fdd7f2f9dec13a09220"
+    },
+    {
+      "destino": "C:\\Users\\migue\\OneDrive\\DOS\\Historia de un imperio ficticio\\00_Abrir proyecto\\Índice de canon, Word, cronología y acumulativas.md",
+      "sha256": "c814081e9f20102f93d258edf903f62959fe83786c686658ca3b0d7bb12c223f",
+      "anterior_sha256": "ac9aeaa374c5fce8169cd902a5dcb8be51d643629295e78cbddb76ddf07a0789"
+    },
+    {
+      "destino": "C:\\Users\\migue\\OneDrive\\DOS\\Historia de un imperio ficticio\\03_Propuestas pendientes\\LEEME.md",
+      "sha256": "2aeca92ebd68452ad9e42fe879d6893120a9d8219e8161eccce84f015beac730",
+      "anterior_sha256": "babf1d0764c0db39538c8487c201d8db5ad781e5efe499bc3013aec0bbdaa47d"
+    },
+    {
+      "destino": "C:\\Users\\migue\\Documents\\Codex\\2026-11-09\\referenced-chatgpt-conversation-this-is-an\\outputs\\CIL02\\Estado de acumulativas pendientes 2026-11-13.md",
+      "sha256": "a1168c2c61128d8672238d19f4466172fa03a7888e94f93daa60723682df0bdb",
+      "anterior_sha256": "2faf469d12581163465e22af5ba042b6422242bc1cea5a9daa4b0a38c11ee1d3"
+    },
+    {
+      "destino": "C:\\Users\\migue\\OneDrive\\DOS\\Valinari\\10_Archivo\\Documentos editoriales\\Oficial\\Informe de integración V17.9.md",
+      "sha256": "730ade5b013b6fbb9425d0014991d692308fcca7c259d06fcfb643389dfbe4a7",
+      "anterior_sha256": null
+    }
+  ],
+  "original_CIL01_preserved": true,
+  "original_CIL02_preserved": true,
+  "original_A106_preserved": true,
+  "military_notes_count": 58,
+  "naval_catalog": "CMN 6",
+  "naval_quantities": [
+    427,
+    615
+  ],
+  "new_external_unit": "Australia Occidental",
+  "external_units": 9,
+  "cape_verde_conditioned": true,
+  "expanded_population": null,
+  "expanded_gdp_ppa": null,
+  "remote_sync_verified": false
+}

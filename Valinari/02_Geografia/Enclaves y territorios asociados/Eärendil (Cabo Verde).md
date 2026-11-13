@@ -24,3 +24,10 @@ Eärendil (Cabo Verde) sostiene navegación atlántica, meteorología, cables su
 - [[02_Geografia/Red Oriental de Enclaves y Protectorados|Red Oriental de Enclaves y Protectorados]]
 - [[00_Canon/Canon V16 Maestro|Canon V16 Maestro]]
 - [[01_Cronologia/Cronología Territorial V16|Cronología Territorial V16]]
+
+
+## Actualización CIL01 mediante A107
+
+[[02_Geografia/Relaciones Exteriores CIL01/Cabo Verde|Estatuto y desarrollo vigente]] · [[00_Canon/Integraciones V16/Resolución A107 CIL01 y CIL02|Resolución de integración A107]]
+
+Los derechos se limitan a instalaciones y acuerdos definidos. La nacionalidad de un operador no incorpora el país completo. Cabo Verde conserva un proceso de adhesión condicionado, no consumado al corte; Seychelles mantiene soberanía anfitriona y perímetro científico limitado. La referencia de 664 a. C. se sitúa en el delta egipcio, no en Alejandría.

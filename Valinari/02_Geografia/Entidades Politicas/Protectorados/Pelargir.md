@@ -1,11 +1,11 @@
 ---
-tipo: entidad territorial
-estado_canonico: vigente/provisional
-canon: V16
+tipo: puerto asociado
+estado_canonico: puerto asociado con perímetro pendiente
+canon: V17.9 A107
 ---
 # Pelargir (Alejandría)
 
-Protectorado equivalente al enclave de Alejandría. Capital propuesta: Alejandría.
+Puerto asociado de Pelargir/Alejandría bajo soberanía egipcia. Sede administrativa canónica: Pelargir del Norte. Perímetro de instalaciones pendiente; no todo Egipto. A107 corrige el rótulo antiguo de protectorado; la ruta de archivo se conserva para no romper enlaces.
 
 ## Datos territoriales normalizados
 
